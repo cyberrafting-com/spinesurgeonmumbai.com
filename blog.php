@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  
+ <?php include 'includes/head.php';?>
+
+ <title>Spine Disease & Surgery Blogs by Dr. Vishal Kundnani</title>    
+<meta name="description" content="Explore insightful blogs on spine diseases and surgical care by Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert advice and updates on spine health.">  
+<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+  
+</head>
+
+
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <header class="header col-lg-12 col-md-12 col-sm-12 col-xs-12 affix1" data-spy="affix1" data-offset-top="75">
+
+    <?php include 'includes/header.php';?>      
+
+    </header>
+
+    <div class="banner-wrap1">
+		<div class="container">
+			<div class="row">
+				<h2>Blog</h2> 
+				<ul class="breadcrumb1">
+					<li><a href="index.php">Home</a></li>
+					<li><a href="blog.php">Blog</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div class="clearfix"></div>
+
+	
+	<section class="gallery_inner blog">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/1.jpg">
+						<h1>Spine tip of the day-back pain</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/2.jpg">
+						<h1>Spine tip of the week scoliosis</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/3.jpg">
+						<h1>Spine tip of week – neck pain</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/4.jpg">
+						<h1>Spine tip of the week – sciatica / slip disc</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/5.jpg">
+						<h1>Spine tip of the day – back pain</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/6.jpg">
+						<h1>Do you have a lockdown neck pain?</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/7.jpg">
+						<h1>Success story – case 4</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/8.jpg">
+						<h1>Success story – case 3</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/9.jpg">
+						<h1>Success story – case 2</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/10.jpg">
+						<h1>Success story – case 1</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/12.jpg">
+						<h1>Spinext clinic | consult spine specialist | dr. vishal kundnani</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/13.png">
+						<h1>Spine clinic is future ready! # Warwithcorona</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/14.jpg">
+						<h1>Best docs mumbai 2020</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/15.jpg">
+						<h1>Mega health camp @ tribal villages of mandla mp</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="#!"><img src="img/blog/11.jpg">
+						<h1>Spine pain amid lockdown? No worries, SPINE CLINIC brings you best cure from Spine Specialist Dr Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+				
+				
+			</div>
+		</div>
+	</section>
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-12">
+                    <div class="cat-blog">
+                        <ul>
+                            <li><a href="https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai.php">Best Spine Surgeon in Mumbai</a></li>
+                            <li><a href="https://www.spinesurgeonmumbai.com/best-spine-surgeons-mumbai.php">Best Spine Surgeons in Mumbai</a></li>
+                            <li><a href="https://www.spinesurgeonmumbai.com/top-spine-surgeons-india.php">Top Spine Surgeons in India</a></li>
+                            <li><a href="https://www.spinesurgeonmumbai.com/top-10-spine-doctors-India.php">Top 10 Spine Doctors in India</a></li>
+                            <li><a href="https://www.spinesurgeonmumbai.com/best-spine-surgeons-in-india.php">Best Spine Surgeons in India</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <?php include 'includes/footer.php';?>
+</body>
+
+
+
+</html>
