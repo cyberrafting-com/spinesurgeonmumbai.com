@@ -59,7 +59,7 @@
                                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                     <div class="panel-body">
                                         <div class="cliclskil1">
-                                            <p>The risk factors for low neck pain can be:</p>
+                                            <p>Similar to <a href="back-pain.php">back pain conditions</a>, the risk factors for neck pain can be:</p>
                                             <ul>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Aging: as a part of the normal age-related degenerative process.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Life style: Stress and emotional tension, poor posture -standing for long periods of time or sitting incorrectly—can cause neck pain , heavy physical work, lifting or forceful move-ment, bending, or awkward positions can really hurt your back.</li>

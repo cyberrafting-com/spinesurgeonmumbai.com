@@ -240,7 +240,7 @@
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <p>There are different options to treat back pain depending on the severity and duration of symptoms.</p>
-                                            <p><b>They may comprise one or many:-</b></p>
+                                            <p><b>At our <a href="index.php">state-of-the-art spine center in Mumbai</a>, we offer comprehensive treatment options including:-</b></p>
                                             <ul>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Drugs
                                                     & Medications.</li>

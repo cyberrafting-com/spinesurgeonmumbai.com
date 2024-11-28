@@ -50,7 +50,7 @@
 			<p class="mt-1">Lumbar spondylosis, as shown in the image below, describes bony overgrowths (osteophytes), predominantly those at the anterior, lateral, and, less commonly, posterior aspects of the superior and inferior margins of vertebral centra (bodies). This dynamic process increases with, and is perhaps an inevitable concomitant, of age.</p>
 			<p>Anteroposterior view of lumbar spine. Vertical ove Anteroposterior view of lumbar spine. Vertical overgrowths from margins of vertebral bodies represent osteophytes.Spondylosis deformans is responsible for the misconception that osteoarthritis was common in dinosaurs.</p>
 			<p>Osteoarthritis was rare, but spondylosis actually was common.</p>
-			<p>Lumbar spondylosis usually produces no symptoms. When back or sciatic pains are symptoms, lumbar spondylosis is usually an unrelated finding.</p>
+			<p>Lumbar spondylosis usually produces no symptoms. When <a href="back-pain.php">back pain</a> or sciatic pains are symptoms, lumbar spondylosis is usually an unrelated finding.</p>
 			<p>Past teleologically misleading names for this phenomenon are degenerative joint disease (it is not a joint), osteoarthritis (same critique), spondylitis (totally different disease), and hypertrophic arthritis (not an arthritis).</p>
 			<p>For further reading, please see the Medscape Reference article Lumbar Spondylosis and Spondylolysis.</p>
 			<p>As one of the <a href="index.php">leading spine surgeons in Mumbai</a>, Dr. Vishal Kundnani specializes in treating lumbar spondylosis using both surgical and non-surgical approaches.</p>
