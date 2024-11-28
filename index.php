@@ -2,9 +2,19 @@
 <html lang="en-us">
 
 <head>
-    <title> Best Spine Surgeon in Mumbai - Dr. Vishal Kundnani</title>    
-<meta name="description" content="Looking for the best spine surgeon in Mumbai, offering exceptional spine treatments with outstanding results. Book your consultation for your spine care today!"> 
-
+    <title>Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai | Minimal Invasive Spine Surgery</title>    
+    <meta name="description" content="Dr. Vishal Kundnani - Leading spine surgeon in Mumbai specializing in minimal invasive spine surgery, scoliosis correction & cervical spine treatments. 15+ years experience, 5000+ successful surgeries.">
+    
+    <!-- Add Open Graph tags -->
+    <meta property="og:title" content="Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai">
+    <meta property="og:description" content="Leading spine surgeon specializing in minimal invasive spine surgery, scoliosis correction & cervical spine treatments.">
+    <meta property="og:image" content="https://www.spinesurgeonmumbai.com/img/dr-vishal.jpg">
+    <meta property="og:url" content="https://www.spinesurgeonmumbai.com/">
+    
+    <!-- Add Twitter Card tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai">
+    
     <link rel="canonical" href="https://www.spinesurgeonmumbai.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 
@@ -118,18 +128,18 @@
 
     </header>
     <div class="image-gal">
-          <img src="img/mobile-view-banner.jpg"  alt="mobile-view-banner" />
+          <img src="img/mobile-view-banner.jpg"  alt="Dr. Vishal Kundnani's Spine Surgery Clinic Banner" />
     </div>
 
 <div class="banner-wrap col-lg-12 col-md-12 col-sm-12 col-xs-12">
     <div class="banner-slider">
         <div class="banner-slide">
-            <img src="img/1.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Center for Minimal Invasive Spine Surgery" />
+            <img src="img/1.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="State-of-the-art Minimal Invasive Spine Surgery Center in Mumbai" />
             <img src="img/1.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Center for Minimal Invasive Spine Surgery Mobile Banner" />
         </div>
 
         <div class="banner-slide">
-            <img src="img/2.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Awarded Best Spine Surgeon in Mumbai for 2017 to 2024 - ESA" />
+            <img src="img/2.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Dr. Kundnani - Award-winning Spine Surgeon 2017-2024" />
             <img src="img/2.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Awarded Best Spine Surgeon in Mumbai for 2017 to 2024 - ESA Mobile Banner" />
         </div>
         <div class="banner-slide">
@@ -170,7 +180,7 @@
             <div class="row">
                  <div class="d_non1 drtoafndrbs dr_img col-lg-5 col-md-5 col-sm-5 col-xs-12">
                   
-                    <img class="d_non1" src="img/dr-vishal3.jpg" alt="Best spine surgeon mumbai" loading="lazy" />
+                    <img class="d_non1" src="img/dr-vishal3.jpg" alt="Dr. Vishal Kundnani - Spine Surgery Specialist in Mumbai" loading="lazy" />
 				</div>
                 <div class="drtoafndrbs col-lg-7 col-md-7 col-sm-7 col-xs-12">
                     <h2>Dr. Vishal Kundnani</h2>
@@ -194,7 +204,7 @@
 				</div>
 
                 <div class="drtoafndrbs dr_img col-lg-5 col-md-5 col-sm-5 col-xs-12">
-                    <img class="d_non" src="img/dr-vishal.jpg" alt="spine surgeon mumbai" loading="lazy" />
+                    <img class="d_non" src="img/dr-vishal.jpg" alt="Dr. Vishal Kundnani performing minimally invasive spine surgery" loading="lazy" />
                     <!--<img class="d_non1" src="img/dr-vishal3.jpg" alt="Best spine surgeon mumbai" loading="lazy" />-->
 				</div>
 
@@ -287,7 +297,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/1.png">
+										<img src="img/services/1.png" alt="Acute Low Back Pain Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -302,7 +312,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/2.png">
+										<img src="img/services/2.png" alt="Ankylosing Spondylitis Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -317,7 +327,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/3.png">
+										<img src="img/services/3.png" alt="Back Pain Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -332,7 +342,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/4.png">
+										<img src="img/services/4.png" alt="Back Pain in Pregnancy Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -347,7 +357,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/5.png">
+										<img src="img/services/5.png" alt="Degenerative Disc Disease Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -362,7 +372,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/6.png">
+										<img src="img/services/6.png" alt="Facet Syndrome Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -381,7 +391,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/7.png">
+										<img src="img/services/7.png" alt="Failed Back Syndrome Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -396,7 +406,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/8.png">
+										<img src="img/services/8.png" alt="Kyphosis Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -411,7 +421,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/9.png">
+										<img src="img/services/9.png" alt="Lumbar Spondylosis Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -426,7 +436,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/10.png">
+										<img src="img/services/10.png" alt="Lumbarisation & Sacralisation Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -441,7 +451,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/11.png">
+										<img src="img/services/11.png" alt="Neck Pain Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -456,7 +466,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/12.png">
+										<img src="img/services/12.png" alt="Osteoporosis Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -475,7 +485,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/13.png">
+										<img src="img/services/13.png" alt="Sciatica Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -490,7 +500,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/14.png">
+										<img src="img/services/14.png" alt="Scoliosis Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -505,7 +515,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/15.png">
+										<img src="img/services/15.png" alt="Slip Disc Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -520,7 +530,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/16.png">
+										<img src="img/services/16.png" alt="Spinal Stenosis Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -535,7 +545,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/17.png">
+										<img src="img/services/17.png" alt="Spondylolysis & Spondylolisthesis Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -550,7 +560,7 @@
 							<div class="cmt-process-icon">
 								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
 									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/18.png">
+										<img src="img/services/18.png" alt="Spondylosis Treatment Icon">
 									</div>
 								</div>
 							</div>								
@@ -795,7 +805,7 @@
                                         <h5>Vijay Vera<br><span></span></h5>
                                     </li>
                                     <li>
-                                        <img src="images/google_review_icon.png" alt="pic" />
+                                        <img src="images/google_review_icon.png" alt="Verified Google Review" />
                                     </li>
                                 </ul>
 
@@ -811,7 +821,7 @@
                                         <h5>Manud C Joseph<br><span></span></h5>
                                     </li>
                                     <li>
-                                        <img src="images/google_review_icon.png" alt="pic" />
+                                        <img src="images/google_review_icon.png" alt="Verified Google Review" />
                                     </li>
                                 </ul>
 							</div>
@@ -825,7 +835,7 @@
                                         <h5>Mrs. Shila U. Somaiya<br><span></span></h5>
                                     </li>
                                     <li>
-                                        <img src="images/google_review_icon.png" alt="pic" />
+                                        <img src="images/google_review_icon.png" alt="Verified Google Review" />
                                     </li>
                                 </ul>
 							</div>
@@ -839,7 +849,7 @@
                                         <h5>Mr. Ambave<br><span></span></h5>
                                     </li>
                                     <li>
-                                        <img src="images/google_review_icon.png" alt="pic" />
+                                        <img src="images/google_review_icon.png" alt="Verified Google Review" />
                                     </li>
                                 </ul>
 							</div>
