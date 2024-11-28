@@ -864,60 +864,107 @@
         </div>
     </section>
 
-    <section class="spine-expertise-section col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <section class="spine-expertise-section py-5">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <h2 class="text-center">Leading Spine Surgeon in Mumbai</h2>
+                <div class="col-lg-12">
+                    <h2 class="text-center mb-5">Leading Spine Surgeon in Mumbai</h2>
                     <div class="expertise-content">
-                        <div class="row mt-4">
-                            <div class="col-lg-6 col-md-6 col-sm-12">
-                                <h3>Excellence in Spine Surgery</h3>
-                                <p>Dr. Vishal Kundnani stands as one of Mumbai's most distinguished spine surgeons, with a remarkable track record of over 5000 successful spine surgeries. As the Director of the Mumbai Institute of Spine Surgery and Head of Spine Surgery at Lilavati Hospital, he brings international expertise and advanced surgical techniques to treat complex spine conditions.</p>
+                        <!-- First Row -->
+                        <div class="row mb-5">
+                            <div class="col-lg-6 col-md-6 col-sm-12 mb-4 mb-lg-0">
+                                <h3 class="mb-4">Excellence in Spine Surgery</h3>
+                                <p class="mb-4">Dr. Vishal Kundnani stands as one of Mumbai's most distinguished spine surgeons, with a remarkable track record of over 5000 successful spine surgeries. As the Director of the Mumbai Institute of Spine Surgery and Head of Spine Surgery at Lilavati Hospital, he brings international expertise and advanced surgical techniques to treat complex spine conditions.</p>
                                 
-                                <div class="expertise-highlights mt-3">
-                                    <h4>Specialized Spine Treatments</h4>
-                                    <ul>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Minimally Invasive Spine Surgery</li>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Complex Spine Deformity Correction</li>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Advanced Cervical Spine Procedures</li>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Microsurgery for Disc Problems</li>
+                                <div class="expertise-highlights">
+                                    <h4 class="mb-3">Specialized Spine Treatments</h4>
+                                    <ul class="list-unstyled">
+                                        <li class="mb-3 d-flex align-items-center">
+                                            <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                            <span>Minimally Invasive Spine Surgery</span>
+                                        </li>
+                                        <li class="mb-3 d-flex align-items-center">
+                                            <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                            <span>Complex Spine Deformity Correction</span>
+                                        </li>
+                                        <li class="mb-3 d-flex align-items-center">
+                                            <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                            <span>Advanced Cervical Spine Procedures</span>
+                                        </li>
+                                        <li class="mb-3 d-flex align-items-center">
+                                            <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                            <span>Microsurgery for Disc Problems</span>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
                             
                             <div class="col-lg-6 col-md-6 col-sm-12">
-                                <div class="surgeon-credentials">
-                                    <h4>Why Choose Mumbai's Leading Spine Surgeon?</h4>
-                                    <ul>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">15+ Years of Specialized Experience</li>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">International Fellowship Training</li>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">State-of-the-art Surgical Facilities</li>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Comprehensive Spine Care Approach</li>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Proven Track Record of Success</li>
+                                <div class="surgeon-credentials p-4 bg-light rounded">
+                                    <h4 class="mb-4">Why Choose Mumbai's Leading Spine Surgeon?</h4>
+                                    <ul class="list-unstyled">
+                                        <li class="mb-3 d-flex align-items-center">
+                                            <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                            <span>15+ Years of Specialized Experience</span>
+                                        </li>
+                                        <li class="mb-3 d-flex align-items-center">
+                                            <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                            <span>International Fellowship Training</span>
+                                        </li>
+                                        <li class="mb-3 d-flex align-items-center">
+                                            <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                            <span>State-of-the-art Surgical Facilities</span>
+                                        </li>
+                                        <li class="mb-3 d-flex align-items-center">
+                                            <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                            <span>Comprehensive Spine Care Approach</span>
+                                        </li>
+                                        <li class="mb-3 d-flex align-items-center">
+                                            <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                            <span>Proven Track Record of Success</span>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         
-                        <div class="row mt-4">
+                        <!-- Second Row -->
+                        <div class="row">
                             <div class="col-lg-12">
-                                <div class="spine-center-highlights">
-                                    <h3>Advanced Spine Surgery Center in Mumbai</h3>
-                                    <p>Our spine surgery center in Mumbai is equipped with cutting-edge technology and staffed by a team of experienced healthcare professionals. We offer comprehensive spine care solutions including:</p>
+                                <div class="spine-center-highlights p-4 bg-light rounded">
+                                    <h3 class="mb-4">Advanced Spine Surgery Center in Mumbai</h3>
+                                    <p class="mb-4">Our spine surgery center in Mumbai is equipped with cutting-edge technology and staffed by a team of experienced healthcare professionals. We offer comprehensive spine care solutions including:</p>
                                     <div class="row">
-                                        <div class="col-lg-6">
-                                            <ul>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Robotic-Assisted Spine Surgery</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Minimally Invasive Procedures</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Advanced Diagnostic Services</li>
+                                        <div class="col-lg-6 mb-4 mb-lg-0">
+                                            <ul class="list-unstyled">
+                                                <li class="mb-3 d-flex align-items-center">
+                                                    <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                                    <span>Robotic-Assisted Spine Surgery</span>
+                                                </li>
+                                                <li class="mb-3 d-flex align-items-center">
+                                                    <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                                    <span>Minimally Invasive Procedures</span>
+                                                </li>
+                                                <li class="mb-3 d-flex align-items-center">
+                                                    <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                                    <span>Advanced Diagnostic Services</span>
+                                                </li>
                                             </ul>
                                         </div>
                                         <div class="col-lg-6">
-                                            <ul>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Personalized Treatment Plans</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Comprehensive Rehabilitation</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">24/7 Patient Support</li>
+                                            <ul class="list-unstyled">
+                                                <li class="mb-3 d-flex align-items-center">
+                                                    <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                                    <span>Personalized Treatment Plans</span>
+                                                </li>
+                                                <li class="mb-3 d-flex align-items-center">
+                                                    <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                                    <span>Comprehensive Rehabilitation</span>
+                                                </li>
+                                                <li class="mb-3 d-flex align-items-center">
+                                                    <img src="img/founder_li_icon.png" class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
+                                                    <span>24/7 Patient Support</span>
+                                                </li>
                                             </ul>
                                         </div>
                                     </div>
