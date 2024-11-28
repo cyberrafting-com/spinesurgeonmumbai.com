@@ -717,7 +717,7 @@
 					<div class="col-lg-3 col-md-3">
 						<div class="single-gallery-item">
 							<a data-fancybox="gallery" href="img/gallery/d/dr-vishal-with-neeraj-chopra.jpg">
-								<img src="img/gallery/d/dr-vishal-with-neeraj-chopra.jpg" alt="" class="gal-img">
+								<img src="img/gallery/d/dr-vishal-with-neeraj-chopra.jpg" alt="Dr. Vishal Kundnani with Olympic Gold Medalist Neeraj Chopra" class="gal-img">
 							</a>
 							<div class="icon">
 								<!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
