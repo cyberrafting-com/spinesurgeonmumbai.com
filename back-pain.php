@@ -522,7 +522,35 @@
                                     </div>
                                 </div>
                             </div>
-
+                            <div class="spine-expert-section mt-4">
+                                <h2>Expert Back Pain Treatment in Mumbai</h2>
+                                <p>When seeking treatment for back pain in Mumbai, choosing the right spine specialist is crucial for optimal results. Dr. Vishal Kundnani, a renowned spine surgeon in Mumbai, brings over 15 years of expertise in treating complex spinal conditions. As the Director of Mumbai Institute of Spine Surgery and leading spine specialist at Lilavati Hospital, he has successfully performed more than 5000 spine surgeries.</p>
+                                
+                                <h3>Why Choose Our Spine Surgery Center in Mumbai?</h3>
+                                <ul>
+                                    <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">State-of-the-art spine surgery facilities in Mumbai</li>
+                                    <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Minimally invasive spine surgery techniques</li>
+                                    <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Comprehensive spine care from Mumbai's top spine surgeon</li>
+                                    <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Advanced treatment for all types of back pain conditions</li>
+                                    <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Personalized spine treatment plans for each patient</li>
+                                </ul>
+                                
+                                <h3>Advanced Spine Surgery Treatments in Mumbai</h3>
+                                <p>Our spine surgery center in Mumbai offers comprehensive treatment options including minimally invasive spine surgery, microsurgery, and advanced non-surgical interventions. Dr. Kundnani, recognized as one of the best spine surgeons in Mumbai, specializes in treating various back conditions using the latest surgical techniques and technology.</p>
+                                
+                                <div class="spine-expertise mt-3">
+                                    <h4>Areas of Expertise:</h4>
+                                    <ul>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Complex spine surgery</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Minimally invasive spine procedures</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Cervical and lumbar spine treatments</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Spine deformity correction</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Advanced back pain management</li>
+                                    </ul>
+                                </div>
+                                
+                                <p class="mt-3">For those seeking the best spine surgeon in Mumbai, Dr. Vishal Kundnani's expertise and patient-focused approach make him a trusted choice. His spine surgery center in Mumbai is equipped with the latest technology and staffed by experienced healthcare professionals dedicated to providing exceptional spine care.</p>
+                            </div>
                         </div>
                     </div>
 

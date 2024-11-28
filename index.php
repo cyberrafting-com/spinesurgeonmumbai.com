@@ -864,8 +864,71 @@
         </div>
     </section>
 
-
-
+    <section class="spine-expertise-section col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <h2 class="text-center">Leading Spine Surgeon in Mumbai</h2>
+                    <div class="expertise-content">
+                        <div class="row mt-4">
+                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                <h3>Excellence in Spine Surgery</h3>
+                                <p>Dr. Vishal Kundnani stands as one of Mumbai's most distinguished spine surgeons, with a remarkable track record of over 5000 successful spine surgeries. As the Director of the Mumbai Institute of Spine Surgery and Head of Spine Surgery at Lilavati Hospital, he brings international expertise and advanced surgical techniques to treat complex spine conditions.</p>
+                                
+                                <div class="expertise-highlights mt-3">
+                                    <h4>Specialized Spine Treatments</h4>
+                                    <ul>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Minimally Invasive Spine Surgery</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Complex Spine Deformity Correction</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Advanced Cervical Spine Procedures</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Microsurgery for Disc Problems</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                <div class="surgeon-credentials">
+                                    <h4>Why Choose Mumbai's Leading Spine Surgeon?</h4>
+                                    <ul>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">15+ Years of Specialized Experience</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">International Fellowship Training</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">State-of-the-art Surgical Facilities</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Comprehensive Spine Care Approach</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Proven Track Record of Success</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row mt-4">
+                            <div class="col-lg-12">
+                                <div class="spine-center-highlights">
+                                    <h3>Advanced Spine Surgery Center in Mumbai</h3>
+                                    <p>Our spine surgery center in Mumbai is equipped with cutting-edge technology and staffed by a team of experienced healthcare professionals. We offer comprehensive spine care solutions including:</p>
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <ul>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Robotic-Assisted Spine Surgery</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Minimally Invasive Procedures</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Advanced Diagnostic Services</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <ul>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Personalized Treatment Plans</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">Comprehensive Rehabilitation</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">24/7 Patient Support</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <?php include 'includes/footer.php'; ?>
 </body>
