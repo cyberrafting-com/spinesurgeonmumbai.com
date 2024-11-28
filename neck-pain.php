@@ -46,7 +46,7 @@
             <div class="row">
                 <div class="cliclskil1 mt-3">
                     <div class="col-lg-8 col-md-8 col-sm-8">
-                        <p>Neck pain is pain in the neck region resulting in loss of function causing disability is common. Pain in the neck is very common complaint and is only second to common cold in sickness absenteeism. It is believed that about 85 % of general population will have at least one episode of neck pain in their lifespan.</p>
+                        <p>As part of our <a href="index.php">comprehensive spine care services in Mumbai</a>, we offer specialized treatment for various types of neck pain conditions.</p>
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading" role="tab" id="headingOne">

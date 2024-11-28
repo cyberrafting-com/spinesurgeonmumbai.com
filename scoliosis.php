@@ -56,6 +56,7 @@
 			<p>Approximately 2% to 3% of Americans at age 16 have scoliosis. Less than 0.1% have spinal curves measuring greater than 40 degrees, which is the point at which surgery becomes a consideration. Overall, girls are more likely to be affected than boys. Idiopathic scoliosis is most commonly a condition of adolescence affecting those ages 10 through 16. Idiopathic scoliosis may progress during the “growth spurt” years, but usually will not progress during adulthood.</p>
 			<h1>How Is Scoliosis Diagnosed?</h1>
 			<p>Most scoliosis curves are initially detected on school screening exams, by a child’s pediatrician or family doctor, or by a parent. Some clues that a child may have scoliosis include uneven shoulders, a prominent shoulder blade, uneven waist, or leaning to one side. The diagnosis of scoliosis and the determination of the type of scoliosis are then made by a careful bone exam and an X-ray to evaluate the magnitude of the curve.</p>
+			<p>At our <a href="index.php">state-of-the-art spine surgery center in Mumbai</a>, we offer comprehensive scoliosis treatment options including both conservative management and surgical correction when needed.</p>
 			
 			</div>
 			

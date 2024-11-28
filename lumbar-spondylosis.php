@@ -53,6 +53,7 @@
 			<p>Lumbar spondylosis usually produces no symptoms. When back or sciatic pains are symptoms, lumbar spondylosis is usually an unrelated finding.</p>
 			<p>Past teleologically misleading names for this phenomenon are degenerative joint disease (it is not a joint), osteoarthritis (same critique), spondylitis (totally different disease), and hypertrophic arthritis (not an arthritis).</p>
 			<p>For further reading, please see the Medscape Reference article Lumbar Spondylosis and Spondylolysis.</p>
+			<p>As one of the <a href="index.php">leading spine surgeons in Mumbai</a>, Dr. Vishal Kundnani specializes in treating lumbar spondylosis using both surgical and non-surgical approaches.</p>
 			
 			</div>
 			
