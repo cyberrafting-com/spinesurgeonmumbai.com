@@ -47,20 +47,7 @@
                     </div>
                     <h2 class="services-heading-h2">Top Qualifications and Certifications for Spine Surgeons</h2>
                     <p>Most top spine surgeons in India have an MBBS followed by an MS or DNB in Orthopedics or Neurosurgery, with additional fellowship training in spine surgery. Specialized certifications, such as those from the AO Spine Foundation, add to their credibility and skill.</p>
-                    <h2 class="services-heading-h2">Different Types of Spine Surgeries Performed by Indian Surgeons</h2>
-                    <p>Indian spine surgeons are adept at various procedures, including:</p>
-                    <div class="cat-service-inner pt-5">
-                        <img src="img/founder_li_icon.png" alt=""><p><strong>Spinal Fusion:</strong>Joining two or more vertebrae to stabilize the spine.</p>
-                    </div>
-                    <div class="cat-service-inner">
-                        <img src="img/founder_li_icon.png" alt=""><p><strong>Laminectomy:</strong>Removal of a part of the vertebra to relieve pressure on the spinal cord.</p>
-                    </div>
-                    <div class="cat-service-inner">
-                        <img src="img/founder_li_icon.png" alt=""><p><strong>Discectomy:</strong>Removal of a herniated disc causing nerve pain.</p>
-                    </div>
-                    <div class="cat-service-inner">
-                        <img src="img/founder_li_icon.png" alt=""><p><strong>Minimally Invasive Surgeries:</strong>Techniques involving smaller incisions, less pain, and faster recovery.</p>
-                    </div>
+                    
                     <h2 class="services-heading-h2">List of Best Spine Surgeons in India</h2>
                     <p>India boasts several top spine surgeons recognized for their skills and patient outcomes. Below are profiles of some of the best, along with their achievements:</p>
                     <div class="cat-service-inner cat-service-inner-2">
@@ -185,8 +172,26 @@
             </div>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12 item pt-5">
-                    <h2 class="services-heading-h2">Advancements in Spine Surgery Techniques in India</h2>
+                    
+                <h2 class="services-heading-h2">Advancements in Spine Surgery Techniques in India</h2>
                     <p>Indian spine surgeons are increasingly adopting advanced techniques, such as robotic-assisted surgery and 3D navigation, which help improve precision, reduce recovery time, and minimize risks. These technologies make complex spine surgeries safer and more effective.</p>
+                    
+                    <h2 class="services-heading-h2">Different Types of Spine Surgeries Performed by Indian Surgeons</h2>
+                    <p>Indian spine surgeons are adept at various procedures, including:</p>
+                    <div class="cat-service-inner pt-5">
+                        <img src="img/founder_li_icon.png" alt=""><p><strong>Spinal Fusion:</strong>Joining two or more vertebrae to stabilize the spine.</p>
+                    </div>
+                    <div class="cat-service-inner">
+                        <img src="img/founder_li_icon.png" alt=""><p><strong>Laminectomy:</strong>Removal of a part of the vertebra to relieve pressure on the spinal cord.</p>
+                    </div>
+                    <div class="cat-service-inner">
+                        <img src="img/founder_li_icon.png" alt=""><p><strong>Discectomy:</strong>Removal of a herniated disc causing nerve pain.</p>
+                    </div>
+                    <div class="cat-service-inner">
+                        <img src="img/founder_li_icon.png" alt=""><p><strong>Minimally Invasive Surgeries:</strong>Techniques involving smaller incisions, less pain, and faster recovery.</p>
+                    </div>
+                    
+                    
                     <h2 class="services-heading-h2">Benefits of Seeking Spine Treatment in India</h2>
                     <p>India has become a popular destination for spine treatment due to several factors:</p>
                     <div class="cat-service-inner">
@@ -198,6 +203,8 @@
                     <div class="cat-service-inner">
                         <img src="img/founder_li_icon.png" alt=""><p><strong>World-Class Facilities:</strong>Many hospitals in India are equipped with state-of-the-art technology for spine care.</p>
                     </div>
+                    
+                    
                     <h2 class="services-heading-h2">How to Prepare for Spine Surgery in India</h2>
                     <div class="cat-service-inner cat-service-inner-2 pt-5">
                         <p><strong>1. Choose the Right Surgeon:</strong>Research qualifications, reviews, and areas of expertise.</p>
@@ -208,10 +215,17 @@
                     <div class="cat-service-inner cat-service-inner-2">
                         <p><strong>3. Health Preparations:</strong>Follow any pre-surgery health guidelines to minimize complications.</p>
                     </div>
+
+                    
+
                     <h2 class="services-heading-h2">Post-Surgery Recovery: What to Expect</h2>
                     <p>After spine surgery, a successful recovery depends on proper care and rehabilitation. Patients may need physical therapy, lifestyle modifications, and regular follow-up visits to ensure optimal recovery and prevent complications.</p>
+                    
+                    
                     <h2 class="services-heading-h2">Cost of Spine Surgery in India</h2>
                     <p>The cost of spine surgery in India can vary based on the type of procedure, the surgeon’s expertise, and the location of the hospital. For example, minimally invasive procedures may cost less than traditional open surgeries, and rates in metropolitan cities tend to be higher.</p>
+                    
+                    
                     <h2 class="services-heading-h2">Frequently Asked Questions (FAQs)</h2>
                     <h4 class="pt-5">1. How do I choose a good spine surgeon in India?</h4>
                     <p>Look for experience, patient testimonials, and hospital affiliations.</p>
@@ -225,6 +239,8 @@
                     <p>Spinal fusion, laminectomy, and discectomy are among the most common.</p>
                     <h4 class="pt-5">6. Do Indian spine surgeons offer services for international patients?</h4>
                     <p>Yes, many Indian hospitals provide support for international patients, including medical visas, accommodations, and follow-up care.</p>
+                    
+                    
                     <h2 class="services-heading-h2 pt-5">Conclusion</h2>
                     <p>India is a top destination for spine surgery, offering world-class care at affordable rates. By choosing a reputable surgeon, patients can achieve excellent outcomes and enjoy a renewed quality of life.</p>
                 </div>
