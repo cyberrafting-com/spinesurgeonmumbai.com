@@ -128,7 +128,7 @@
 
     </header>
     <div class="image-gal">
-          <img src="img/mobile-view-banner.jpg"  alt="Dr. Vishal Kundnani's Spine Surgery Clinic Banner" />
+          <img src="img/mobile-view-banner.jpg"  alt="Dr. Vishal Kundnani's Spine Surgeon Mumbai, Spine Clinic Website Banner" />
     </div>
 
 <div class="banner-wrap col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -180,7 +180,7 @@
             <div class="row">
                  <div class="d_non1 drtoafndrbs dr_img col-lg-5 col-md-5 col-sm-5 col-xs-12">
                   
-                    <img class="d_non1" src="img/dr-vishal3.jpg" alt="Dr. Vishal Kundnani - Spine Surgery Specialist in Mumbai" loading="lazy" />
+                    <img class="d_non1" src="img/dr-vishal3.jpg" alt="Dr. Vishal Kundnani - Spine Surgeon Mumbai / Spine Surgery Specialist in Mumbai" loading="lazy" />
 				</div>
                 <div class="drtoafndrbs col-lg-7 col-md-7 col-sm-7 col-xs-12">
                     <h2>Dr. Vishal Kundnani</h2>
@@ -278,7 +278,7 @@
     </div>
 
 	<div class="treatment-footer-bg">
-		<a href="tel:+919619100123"><img src="img/treatment-footer-bg.png"></a>
+		<a href="tel:+919619100123"><img src="img/treatment-footer-bg.png" alt="Schedule an Appointment with Dr. Vishal Kundnani Spine Surgeon  ad Spine Surgery Specialist Mumbai"></a>
 	</div>
 
 <div class="clearfix"></div>
@@ -729,7 +729,7 @@
 					<div class="col-lg-3 col-md-3">
 						<div class="single-gallery-item">
 							<a data-fancybox="gallery" href="img/gallery/d/10.png">
-								<img src="img/gallery/d/10.png" alt="" class="gal-img">
+								<img src="img/gallery/d/10.png" alt="Dr. Vishal Kundnani and a team of Mumbai Institute of Spine Surgery" class="gal-img">
 							</a>
 							<div class="icon">
 							<!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
@@ -741,7 +741,7 @@
 					<div class="col-lg-3 col-md-3">
 						<div class="single-gallery-item">
 							<a data-fancybox="gallery" href="img/gallery/d/3.jpg">
-								<img src="img/gallery/d/3.jpg" alt="" class="gal-img">
+								<img src="img/gallery/d/3.jpg" alt="Dr. Vishal Kundnani with a team of Students at Mumbai Institute of Spine Surgery" class="gal-img">
 							</a>
 							<div class="icon">
 								<!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
@@ -753,7 +753,7 @@
 					<div class="col-lg-3 col-md-3">
 						<div class="single-gallery-item">
 							<a data-fancybox="gallery" href="img/gallery/d/4.jpg">
-								<img src="img/gallery/d/4.jpg" alt="" class="gal-img">
+								<img src="img/gallery/d/4.jpg" alt="Dr. Vishal Kundnani with a team of Mumbai Institute of Spine Surgery" class="gal-img">
 							</a>
 							<div class="icon">
 								<!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
