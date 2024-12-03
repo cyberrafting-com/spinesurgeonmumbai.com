@@ -48,6 +48,7 @@
                     <div class="col-lg-8 col-md-8 col-sm-8">
                         <p>Spinal Injections Are Pain Relieving Methods For Patients With Slip Disc, Spinal Stenosis, Spondylolisthesis And Various Other Painful Conditions Arising From Spine.</p>
                         <p>Spinal injections are advised by spinal specialists when the cause of pain is evidently not very severe and is not going to progress. Spine injections for pain management are extremely safe and simple. However, the pain relief from spinal injections is not predictable and is not guaranteed. Some patients may not be benefitted by spinal injections and some may be benefitted only partially. The pain-relieving effect of injections in the spine may last only for a few weeks or months. Exercises are recommended after spinal injections.</p>
+                        <p>Discover the best spinal injections for pain relief with Dr. Vishal Kundnani Spine Specialist Mumbai. Expert treatment options in Mumbai.</p>
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading" role="tab" id="headingOne">
