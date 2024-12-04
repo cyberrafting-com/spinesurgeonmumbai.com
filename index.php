@@ -4,6 +4,7 @@
 <head>
     <title>Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai | Minimal Invasive Spine Surgery</title>    
     <meta name="description" content="Dr. Vishal Kundnani - Leading spine surgeon in Mumbai specializing in minimal invasive spine surgery, scoliosis correction & cervical spine treatments. 15+ years experience, 5000+ successful surgeries.">
+    <meta name="keywords" content="Best Spine Surgeon in Mumbai, top Spine Surgeon in Mumbai, Spine surgery specialist mumbai, Minimal Invasive Spine Surgery, Scoliosis Correction, Cervical Spine Treatments, Mumbai Spine Specialist, Orthopedic Surgery, Neurosurgery, Pain Management">
     
     <!-- Add Open Graph tags -->
     <meta property="og:title" content="Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai">
@@ -180,7 +181,7 @@
             <div class="row">
                  <div class="d_non1 drtoafndrbs dr_img col-lg-5 col-md-5 col-sm-5 col-xs-12">
                   
-                    <img class="d_non1" src="img/dr-vishal3.jpg" alt="Dr. Vishal Kundnani - Spine Surgeon Mumbai / Spine Surgery Specialist in Mumbai" loading="lazy" />
+                    <img class="d_non1" src="img/dr-vishal3.jpg" alt="Dr. Vishal Kundnani - Spine Surgeon Mumbai & Spine Surgery Specialist in Mumbai" loading="lazy" />
 				</div>
                 <div class="drtoafndrbs col-lg-7 col-md-7 col-sm-7 col-xs-12">
                     <h2>Dr. Vishal Kundnani</h2>
@@ -204,7 +205,7 @@
 				</div>
 
                 <div class="drtoafndrbs dr_img col-lg-5 col-md-5 col-sm-5 col-xs-12">
-                    <img class="d_non" src="img/dr-vishal.jpg" alt="Dr. Vishal Kundnani performing minimally invasive spine surgery" loading="lazy" />
+                    <img class="d_non" src="img/dr-vishal.jpg" alt="Dr. Vishal Kundnani, Spine Surgery Specialist in mumbai performing minimally invasive spine surgery" loading="lazy" />
                     <!--<img class="d_non1" src="img/dr-vishal3.jpg" alt="Best spine surgeon mumbai" loading="lazy" />-->
 				</div>
 
