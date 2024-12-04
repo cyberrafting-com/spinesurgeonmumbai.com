@@ -194,7 +194,7 @@
 					</h3>
 					<!--<h3>Consultant Spinal Surgeon at Bombay Hospital, Director of Mumbai institute of spine surgery and SPINE CLINIC, Bombay Hospital.</h3>-->
 					
-                    <p>Dr. Vishal Kundnani-gold medalist throughout his scholar years  - is fellowship trained in spine surgery from international Center’s of repute including UK, Singapore, Japan, Australia, Malaysia and Korea. Dr Vishal Kundnani has treated 20000 + Spine patients in last 15 years non surgically with (latest non surgical treatment protocols for slip disc) and performed 5000+ successful Microsurgery for Slip Disc, minimal invasive spine surgery for Sciatica and laser surgery for Lumbar problem & cervical spine and scoliosis. He is Pioneer in  complex spine surgery and is best spine specialist for Scoliosis surgery. He is trained in advanced Robotic spine surgery  & Navigation spine surgery.  Dr Vishal Kundnani is known for innovation in Awake day care spine surgery and minimal invasive spine surgery. He is internationally renowned for scoliosis & Cervical surgery and has more than 100 international scientific research publications. </p>
+                    <p>Dr. Vishal Kundnani-gold medalist throughout his scholar years  - is fellowship trained in spine surgery from international Center’s of repute including UK, Singapore, Japan, Australia, Malaysia and Korea. Dr Vishal Kundnani has treated 20000 + Spine patients in last 15 years non surgically with (latest non surgical treatment protocols for <a href="https://www.slipdiscindia.com/">slip disc</a>) and performed 5000+ successful Microsurgery for Slip Disc, minimal invasive spine surgery for Sciatica and laser surgery for Lumbar problem & cervical spine and scoliosis. He is Pioneer in  complex spine surgery and is <a href="https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai.php">best spine specialist</a> for Scoliosis surgery. He is trained in advanced Robotic spine surgery  & Navigation spine surgery.  Dr Vishal Kundnani is known for innovation in Awake day care spine surgery and minimal invasive spine surgery. He is internationally renowned for scoliosis & Cervical surgery and has more than 100 international scientific research publications. </p>
                     
                     <!--<div class="signature col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <img src="images/signature.png" alt="pic" />
@@ -875,7 +875,7 @@
                         <div class="row mb-5">
                             <div class="col-lg-6 col-md-6 col-sm-12 mb-4 mb-lg-0">
                                 <h3 class="mb-4">Excellence in Spine Surgery</h3>
-                                <p class="mb-4">Dr. Vishal Kundnani stands as one of Mumbai's most distinguished spine surgeons, with a remarkable track record of over 5000 successful spine surgeries. As the Director of the Mumbai Institute of Spine Surgery and Head of Spine Surgery at Lilavati Hospital, he brings international expertise and advanced surgical techniques to treat complex spine conditions.</p>
+                                <p class="mb-4">Dr. Vishal Kundnani stands as one of Mumbai's most distinguished spine surgeons, with a remarkable track record of over 5000 successful spine surgeries. As the Director of the <a href="https://spineclinicmumbai.com/mumbai-institute-of-spine-surgery.php">Mumbai Institute of Spine Surgery</a> and Head of Spine Surgery at Lilavati Hospital, he brings international expertise and advanced surgical techniques to treat complex spine conditions.</p>
                                 
                                 <div class="expertise-highlights">
                                     <h4 class="mb-3">Specialized Spine Treatments</h4>
@@ -934,7 +934,7 @@
                             <div class="col-lg-12">
                                 <div class="spine-center-highlights p-4 bg-light rounded">
                                     <h3 class="mb-4">Advanced Spine Surgery Center in Mumbai</h3>
-                                    <p class="mb-4">Our spine surgery center in Mumbai is equipped with cutting-edge technology and staffed by a team of experienced healthcare professionals. We offer comprehensive spine care solutions including:</p>
+                                    <p class="mb-4">Our spine surgery center in Mumbai is equipped with cutting-edge technology and staffed by a team of experienced healthcare professionals. We offer comprehensive spine care solutions including: </p>
                                     <div class="row">
                                         <div class="col-lg-6 mb-4 mb-lg-0">
                                             <ul class="list-unstyled">
