@@ -159,11 +159,11 @@
                 <div class="col-lg-12 col-md-12 col-12">
                     <div class="cat-blog">
                         <ul>
-                            <li><a href="https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai.php">Best Spine Surgeon in Mumbai</a></li>
-                            <li><a href="https://www.spinesurgeonmumbai.com/best-spine-surgeons-mumbai.php">Best Spine Surgeons in Mumbai</a></li>
-                            <li><a href="https://www.spinesurgeonmumbai.com/top-spine-surgeons-india.php">Top Spine Surgeons in India</a></li>
-                            <li><a href="https://www.spinesurgeonmumbai.com/top-10-spine-doctors-India.php">Top 10 Spine Doctors in India</a></li>
-                            <li><a href="https://www.spinesurgeonmumbai.com/best-spine-surgeons-in-india.php">Best Spine Surgeons in India</a></li>
+                            <li><a href="https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai.php"><h1>Best Spine Surgeon in Mumbai</h1></a></li>
+                            <li><a href="https://www.spinesurgeonmumbai.com/best-spine-surgeons-mumbai.php"><h1>Best Spine Surgeons in Mumbai</h1></a></li>
+                            <li><a href="https://www.spinesurgeonmumbai.com/top-spine-surgeons-india.php"><h1>Top Spine Surgeons in India</h1></a></li>
+                            <li><a href="https://www.spinesurgeonmumbai.com/top-10-spine-doctors-India.php"><h1>Top 10 Spine Doctors in India</h1></a></li>
+                            <li><a href="https://www.spinesurgeonmumbai.com/best-spine-surgeons-in-india.php"><h1>Best Spine Surgeons in India</h1></a></li>
                         </ul>
                     </div>
                 </div>
