@@ -8,6 +8,7 @@
     <title>Back Pain Treatment in Mumbai by Dr. Vishal Kundnani</title>    
 <meta name="description" content="Get relief from back pain with Dr. Vishal Kundnani’s top treatments in Mumbai. Comprehensive care for effective pain management in Mumbai."> 
     <?php include 'includes/head.php'; ?>
+    <link rel="canonical" href="https://www.spinesurgeonmumbai.com/back-pain.php" />
 </head>
 
 

@@ -8,7 +8,7 @@
 <meta name="description" content="Learn about the Scoliosis India Foundation (SIF) with insights from Dr. Vishal Kundnani, Spine Specialist Mumbai. Expert information and support. ">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
  <?php include 'includes/head.php';?>
-  
+ <link rel="canonical" href="https://www.spinesurgeonmumbai.com/scoliosis-india-foundation.php" />
 </head>
 
 

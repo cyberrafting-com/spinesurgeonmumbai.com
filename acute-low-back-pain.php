@@ -8,6 +8,7 @@
     <title>Top Treatment for Acute Low back Pain in Mumbai by Dr. Vishal Kundnani</title>
     <meta name="description" content="Get expert treatment for acute low back pain in Mumbai from Dr. Vishal Kundnani, Mumbai’s top spine specialist. Relief is just a visit away.">
     <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+    <link rel="canonical" href="https://www.spinesurgeonmumbai.com/acute-low-back-pain.php" />
     <?php include 'includes/head.php'; ?>
 </head>
 

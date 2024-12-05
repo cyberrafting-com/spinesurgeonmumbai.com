@@ -8,7 +8,7 @@
 	<title>Happy Patients with Dr. Vishal Kundnani</title>    
 <meta name="description" content="See pictures and testimonials from happy patients treated by Dr. Vishal Kundnani Spine Surgeon in Mumbai.. Success stories and patient satisfaction in Mumbai. ">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-
+<link rel="canonical" href="https://www.spinesurgeonmumbai.com/happy-moments-smiling-patients.php" />
     <?php include 'includes/head.php'; ?>
 
 </head>

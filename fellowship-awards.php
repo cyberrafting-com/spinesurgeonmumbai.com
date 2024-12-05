@@ -8,7 +8,7 @@
 	<title>Fellowship Awards Pictures| Dr. Vishal Kundnani Spine Specialist Mumbai</title>    
 <meta name="description" content="View pictures of Dr. Vishal Kundnani’s fellowship awards. Recognizing achievements and expertise in spine care in Mumbai.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-
+<link rel="canonical" href="https://www.spinesurgeonmumbai.com/fellowship-awards.php" />
     <?php include 'includes/head.php'; ?>
 </head>
 

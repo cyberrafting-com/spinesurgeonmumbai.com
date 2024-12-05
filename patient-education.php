@@ -9,6 +9,7 @@
 <meta name="description" content="Watch patient education videos by Dr. Vishal Kundnani Spine Surgeon in Mumbai. Learn about spine health and treatment options in Mumbai.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
     <?php include 'includes/head.php'; ?>
+    <link rel="canonical" href="https://www.spinesurgeonmumbai.com/patient-education.php" />
 </head>
 
 

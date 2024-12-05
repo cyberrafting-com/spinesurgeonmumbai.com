@@ -8,6 +8,7 @@
 		<title>Photographs of Dr. Vishal Kundnani & thier Staff</title>
 		<meta name="description" content="See photos of Dr. Vishal Kundnani and his staff. Meet the team behind exceptional spine care in Mumbai.">
 		<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+		<link rel="canonical" href="https://www.spinesurgeonmumbai.com/photographs.php" />
 
 	</head>
 	<body>

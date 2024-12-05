@@ -9,6 +9,7 @@
     <meta name="description" content="Pictures of Dr. Vishal Kundnani & senior faculty member at Minimal Invasive Spine Surgeons of India, 2019, in Chandigarh. ">
     <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
     <?php include 'includes/head.php'; ?>
+    <link rel="canonical" href="https://www.spinesurgeonmumbai.com/minimal-invasive-spine-surgeons-of-india-2019-chandigarh.php" />
 
 </head>
 
