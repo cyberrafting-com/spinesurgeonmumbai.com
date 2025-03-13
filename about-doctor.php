@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
   
-   <?php include 'includes/head.php';?>
+   <?php include 'includes/head.php'; ?>
 
 
     <title> Dr. Vishal Kundnani - Leading Spine Specialist in Mumbai</title>
@@ -21,7 +21,7 @@
     <!-- End Google Tag Manager (noscript) -->
     <header class="header col-lg-12 col-md-12 col-sm-12 col-xs-12 affix1" data-spy="affix1" data-offset-top="75">
 
-    <?php include 'includes/header.php';?>      
+    <?php include 'includes/header.php'; ?>      
 
     </header>
 
@@ -516,7 +516,7 @@
 
 
 
-    <?php include 'includes/footer.php';?>
+    <?php include 'includes/footer.php'; ?>
 </body>
 
 
