@@ -4,7 +4,7 @@
   
 
 
- <title> Dr. Vishal Kundnani- The Best Spine Specialist In Bandra</title>    
+ <title> Dr. Vishal Kundnani- Best Spine Doctor In Bandra</title>    
 <meta name="description" content="Dr. Vishal Kundnani is Bandra's top spine doctor, providing expert care and treatment for all spine-related conditions.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
@@ -87,7 +87,7 @@
 					<p class="hnialovia">2nd floor, Corinthian, Spine clinic, Linking Rd, Opposite DBS Bank, Khar, Khar West, Mumbai, Maharashtra 400052.
 </p>
 					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15073.8454655137!2d72.861355!3d19.175041!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7a826ae2fd3%3A0x98a2725d2ec7274!2sDr.%20Vishal%20Kundnani!5e0!3m2!1sen!2sin!4v1710935176820!5m2!1sen!2sin" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-					<h3><a href="tel:+919619100123" target="_blank"><i class="fa fa-phone"></i>+91 9619100123</a></h3>
+					<h3><a href="tel:+919619100123" target="_blank"><i class="fa fa-phone"></i>+91 9619100123</a>/<a href="tel:+919619300123 " target="_blank">+91 9619300123 </a></h3>
 					<p><a href="mailto:spineclinicmumbai@gmail.com" target="_blank"><i class="fa fa-envelope"></i>spineclinicmumbai@gmail.com</a></p>
 					<h3>Follow us on social media :</h3>
 					<h6>

@@ -171,7 +171,8 @@
 	<div class="marque_main">
 		<div class="container">
 			<marquee width="100%" direction="left" height="">
-				More Than <b>5000+</b> Successful Spine Surgeries Performed
+				More Than <b>5000+</b> Successful Spine Surgeries Performed. To Book an Appointment Call -<a href="tel:+919619300123"> +919619300123</a> /<a href="tel:+919619100123"> +919619100123</a>
+
 			</marquee>
 		</div>
 	</div>

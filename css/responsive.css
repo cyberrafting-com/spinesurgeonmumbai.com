@@ -1,0 +1,862 @@
+@media only screen and (max-width :780px) {
+	.banner-wrap1{padding:30px;}
+}
+
+@media (max-width: 480px) and (orientation: landscape) {}
+
+@media only screen and (min-width: 1100px) and (max-width: 1280px) {
+	.frt_logo{padding:5px 20px;}
+	.navbar-brand>img{width:100%;}
+	.menu_bg .container{width:100%;}
+	.header{height:auto;}
+	.main_menu .navbar-nav>li>a{padding:15px 10px;}
+	.navbar{margin-bottom:0px;}
+	.sec_call li{padding:6px 0;}
+	.frt_apt{padding:0px;}
+	
+	.drtoafndrb1 .container{width:100%;}
+	.best_doctor1 h1{font-size:20px;}
+	.cont-sec-3{padding:30px 0;}
+	
+	
+	.service_sec .ongslrcont{width:93%;}
+	
+	.service_sec{padding:20px 0;}
+	.header_title{padding:0 0 30px;}
+	.cmt-processbox-wrapper{display:block;}
+	.cmt-processbox-wrapper .cmt-processbox .cmt-box-content .cmt-box-title h5{font-size:13px;line-height:20px;padding-top:0px;padding-bottom:10px;height:70px;}
+	
+	.orclntstsbs{padding:30px;}
+	.patients_slider .patients_info{padding:0 30px;}
+	
+	.ftrlogo img{width:50%;}
+	.cpyrgt{padding:10px 0 75px; }
+	.hosp_attac ul li{width:33%;}
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1100px) {
+	.frt_logo{padding:5px 20px;}
+	.navbar-brand>img{width:100%;}
+	.menu_bg .container{width:100%;}
+	.header{height:auto;}
+	.main_menu .navbar-nav>li>a{padding:15px 8px;text-transform:capitalize;}
+	.navbar{margin-bottom:0px;}
+	.sec_call li{padding:6px 0;}
+	.frt_apt{padding:0px;}
+	
+	.drtoafndrb1 .container{width:100%;}
+	.best_doctor1 h1{font-size:20px;}
+	.cont-sec-3{padding:30px 0;}
+	
+	.service_sec .ongslrcont{width:93%;}
+	
+	.service_sec{padding:20px 0;}
+	.header_title{padding:0 0 30px;}
+	.cmt-processbox-wrapper{display:block;}
+	.cmt-processbox-wrapper .cmt-processbox .cmt-box-content .cmt-box-title h5{font-size:13px;line-height:20px;padding-top:0px;padding-bottom:10px;height:70px;}
+	
+	.orclntstsbs{padding:30px;}
+	.patients_slider .patients_info{padding:0 30px;}
+	
+	.ftrlogo img{width:50%;}
+	.cpyrgt{padding:10px 0 75px; }
+	.hosp_attac ul li{width:19%;}
+	.hosp_attac ul li a{font-size:12px;}
+}
+@media only screen and (min-width: 861px) and (max-width: 991px) {
+	.frt_logo{padding:5px 20px;}
+	.navbar-brand>img{width:100%;}
+	.menu_bg .container{width:100%;}
+	.header{height:auto;}
+	.main_menu .navbar-nav>li>a{padding:15px 6px;text-transform:capitalize;font-size:14px;}
+	.navbar{margin-bottom:0px;}
+	.sec_call li{padding:6px 0;}
+	.frt_apt{padding:0px;}
+	
+	.drtoafndrb1 .container{width:100%;}
+	.best_doctor1 h1{font-size:20px;}
+	.cont-sec-3{padding:30px 0;}
+	
+	.service_sec{padding:20px 0;}
+	.header_title{padding:0 0 30px;}
+	.cmt-processbox-wrapper{display:block;}
+	.cmt-processbox-wrapper .cmt-processbox .cmt-box-content .cmt-box-title h5{font-size:13px;line-height:20px;padding-top:0px;padding-bottom:10px;height:70px;}
+	
+	.orclntstsbs{padding:30px;}
+	.patients_slider .patients_info{padding:0 30px;}
+	
+	.ftrlogo img{width:50%;}
+	.cpyrgt{padding:10px 0 75px; }
+	.hosp_attac ul li{width:19%;}
+	.hosp_attac ul li a{font-size:12px;}
+	
+	.demo-gallery>ul>li{width:29%;}
+	.gallery1 h1{height:100px;}
+	.blog .gallery a img{height:auto;}
+}
+@media only screen and (min-width: 767px) and (max-width: 861px) {
+	.frt_logo{padding:5px 20px;}
+	.navbar-brand>img{width:100%;}
+	.menu_bg .container{width:100%;}
+	.header{height:auto;}
+	.main_menu .navbar-nav>li>a{padding:15px 3px;text-transform:capitalize;font-size:13px;}
+	.navbar{margin-bottom:0px;}
+	.sec_call li{padding:6px 0;}
+	.frt_apt{padding:0px;}
+	
+	.drtoafndrb1 .container{width:100%;}
+	.best_doctor1 h1{font-size:20px;}
+	.cont-sec-3{padding:30px 0;}
+	
+	.service_sec{padding:20px 0;}
+	.header_title{padding:0 0 30px;}
+	.cmt-processbox-wrapper{display:block;}
+	.cmt-processbox-wrapper .cmt-processbox .cmt-box-content .cmt-box-title h5{font-size:13px;line-height:20px;padding-top:0px;padding-bottom:10px;height:70px;}
+	
+	.orclntstsbs{padding:30px;}
+	.patients_slider .patients_info{padding:0 30px;}
+	
+	.ftrlogo img{width:50%;}
+	.cpyrgt{padding:10px 0 75px; }
+	.hosp_attac ul li{width:33%;}
+	
+	.demo-gallery>ul>li{width:45%;}
+	.gallery1 h1{height:120px;}
+	.blog .gallery a img{height:auto;}
+}
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+	.header{height:auto;}
+	.main_menu .navbar-default{padding:0px;margin:0px;}
+	.main_menu .navbar-header{padding:0px!important;}
+	.main_menu .navbar-brand{padding:0px!important;}
+	.main_menu .navbar-brand>img{width:100%!important;}
+	.frt_logo{padding:4px;}
+	.navbar-brand{height:auto;}
+	.navbar-toggle{margin-top:87px;}
+	.affix{height:auto!important;}
+	.columns2{columns:1;}
+
+	.banner-slider .slick-arrow{width:25px;height:25px;}
+	.banner-slider .slick-arrow.slick-prev:before, .banner-slider .slick-arrow.slick-next:before{width:25px;height:25px;font-size:18px;line-height:25px;}
+	.banner-slider .slick-arrow.slick-prev{right:6%!important;}
+		
+	.marque_main{height:30px;}
+	.marque_main marquee{font-size:14px;line-height:30px;}
+	
+	.drtoafndrb{padding:30px 5px!important;}
+	/* .drtoafndrbs h2{font-size:26px!important;} */
+	.drtoafndrbs h3{font-size:18px;line-height:32px;}
+	.know_more{margin-bottom:20px;}
+	.d_non{display:none;}
+	.d_non1{display:block;}
+	
+	.best_doctor1 h1{font-size:20px;line-height:30px;}
+	
+	.cont-sec-3{padding:30px 0;}
+	.cont-sec-3 h3{margin-top:0px;margin-bottom:20px;}
+	.service_sec{padding:10px 0;}
+	
+	.services_home{padding:30px 0;background-size:cover;}
+	.header_title{padding:0px 0 30px;}
+	.header_title h1{font-size:24px;}
+	.cmt-processbox-wrapper{display:block;}
+	.cmt-processbox-wrapper .cmt-processbox .cmt-box-content .cmt-box-title h5{padding-top:0px;padding-bottom:10px;}
+	
+	
+	.orclntstsb h6{font-size:22px;}
+	.orclntstsb h3{font-size:20px!important;}
+	.patients_slider .patients_info p{font-size:14px!important;line-height:24px;}
+	
+	.aloviaftrb{padding:15px 0 5px!important;}
+	.ftrlogo img{width:90%;}
+	.hosp_attac{display:none;}
+	.cpyrgt{padding:20px 0 0;}
+	
+	.whatscir{bottom:1%;}
+	
+	.demo-gallery>ul>li{width:45%;}
+	.gallery1 h1{height:auto;}
+	.blog .gallery a img{height:auto;}
+}
+@media only screen and (min-width: 480px) and (max-width: 640px) {
+	.col-12{width:100%!important;}
+	.header{height:auto;}
+	.main_menu .navbar-default{padding:0px;margin:0px;}
+	.main_menu .navbar-header{padding:0px!important;}
+	.main_menu .navbar-brand{padding:0px!important;}
+	.main_menu .navbar-brand>img{width:100%!important;}
+	.frt_logo{padding:4px;}
+	.navbar-brand{height:auto;}
+	.navbar-toggle{margin-top:57px;}
+	.affix{height:auto!important;}
+	.columns2{columns:1;}
+
+	.banner-slider .slick-arrow{width:25px;height:25px;}
+	.banner-slider .slick-arrow.slick-prev:before, .banner-slider .slick-arrow.slick-next:before{width:25px;height:25px;font-size:18px;line-height:25px;}
+	.banner-slider .slick-arrow.slick-prev{right:6%!important;}
+		
+	.marque_main{height:30px;}
+	.marque_main marquee{font-size:14px;line-height:30px;}
+	
+	.drtoafndrb{padding:30px 5px!important;}
+	/* .drtoafndrbs h2{font-size:26px!important;} */
+	.drtoafndrbs h3{font-size:18px;line-height:32px;}
+	.know_more{margin-bottom:20px;}
+	.d_non{display:none;}
+	.d_non1{display:block;}
+	
+	.best_doctor1 h1{font-size:20px;line-height:30px;}
+	
+	.cont-sec-3{padding:30px 0;}
+	.cont-sec-3 h3{margin-top:0px;margin-bottom:20px;}
+	.service_sec{padding:10px 0;}
+	
+	.services_home{padding:30px 0;background-size:cover;}
+	.header_title{padding:0px 0 30px;}
+	.header_title h1{font-size:24px;}
+	.cmt-processbox-wrapper{display:block;}
+	.cmt-processbox-wrapper .cmt-processbox .cmt-box-content .cmt-box-title h5{padding-top:0px;padding-bottom:10px;}
+	
+	
+	.orclntstsb h6{font-size:22px;}
+	.orclntstsb h3{font-size:20px!important;}
+	.patients_slider .patients_info p{font-size:14px!important;line-height:24px;}
+	
+	.aloviaftrb{padding:15px 0 5px!important;}
+	.ftrlogo img{width:90%;}
+	.hosp_attac{display:none;}
+	.cpyrgt{padding:20px 0 0;}
+	
+	.whatscir{bottom:1%;}
+	
+	.demo-gallery>ul>li{width:45%;}
+	.gallery1 h1{height:auto;}
+	.blog .gallery a img{height:auto;}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+	.col-12{width:100%!important;}
+	.header{height:auto;}
+	.main_menu .navbar-default{padding:0px;margin:0px;}
+	.main_menu .navbar-header{padding:0px!important;}
+	.main_menu .navbar-brand{padding:0px!important;}
+	.main_menu .navbar-brand>img{width:100%!important;}
+	.frt_logo{padding:4px;}
+	.navbar-brand{height:auto;}
+	.navbar-toggle{margin-top:27px;}
+	.affix{height:auto!important;}
+	.columns2{columns:1;}
+
+	.banner-slider .slick-arrow{width:25px;height:25px;}
+	.banner-slider .slick-arrow.slick-prev:before, .banner-slider .slick-arrow.slick-next:before{width:25px;height:25px;font-size:18px;line-height:25px;}
+		
+	.marque_main{height:30px;}
+	.marque_main marquee{font-size:14px;line-height:30px;}
+	
+	.drtoafndrb{padding:30px 5px!important;}
+	.drtoafndrbs h2{font-size:26px!important;}
+	.drtoafndrbs h3{font-size:17px;line-height:24px;}
+	.know_more{margin-bottom:20px;}
+	.d_non{display:none;}
+	.d_non1{display:block;}
+	
+	.best_doctor1 h1{font-size:20px;line-height:30px;}
+	
+	.cont-sec-3{padding:30px 0;}
+	.cont-sec-3 h3{margin-top:0px;margin-bottom:20px;}
+	.service_sec{padding:10px 0;}
+	
+	.services_home{padding:30px 0;background-size:cover;}
+	.header_title{padding:0px 0 30px;}
+	.header_title h1{font-size:24px;}
+	.cmt-processbox-wrapper{display:block;}
+	.cmt-processbox-wrapper .cmt-processbox .cmt-box-content .cmt-box-title h5{font-size:14px;line-height:20px;padding-top:0px;padding-bottom:10px;height:70px;}
+	
+	
+	.orclntstsb h6{font-size:22px;}
+	.orclntstsb h3{font-size:20px!important;}
+	.patients_slider .patients_info p{font-size:14px!important;line-height:24px;}
+	
+	.aloviaftrb{padding:15px 0 5px!important;}
+	.ftrlogo img{width:90%;}
+	.hosp_attac{display:none;}
+	.cpyrgt{padding:20px 0 0;}
+	
+	.whatscir{bottom:1%;}
+	
+	.demo-gallery>ul>li{width:100%;}
+	.gallery1 h1{height:auto;}
+	.demo-gallery>ul>li a{width:100%;}
+	.blog .gallery a img{height:auto;}
+	.cliclskil1 h2{font-size:18px;}
+	.mt-3{margin:0px;}
+	.breadcrumb1 li a{font-size:11px;}
+}
+
+@media only screen and (max-width :767px) {
+    .drtoafndrbs h2{
+        margin-top: 15px;
+    }
+    .image-gal {
+  display:block;  
+}
+ .image-gal img{
+  width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+    .banner-wrap{
+  display:none;  
+}
+ 
+   .banner-slider {
+    height: auto;
+}
+.slick-slide{
+        height: auto;
+    }
+    .navbar-default .navbar-toggle:focus,
+    .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+    }
+    .navbar-default .navbar-toggle {
+        border: none;
+    }
+    .navbar-toggle span.icon-bar {
+        transition: all 0.15s;
+    }
+    .navbar-toggle span:nth-child(2) {
+        transform: rotate(45deg);
+        transform-origin: 10% 10%;
+    }
+    .navbar-toggle span:nth-child(3) {
+        opacity: 0;
+    }
+    .navbar-toggle span:nth-child(4) {
+        transform: rotate(-45deg);
+        transform-origin: 10% 90%;
+    }
+    .navbar-toggle.collapsed span:nth-child(2),
+    .navbar-toggle.collapsed span:nth-child(4) {
+        transform: rotate(0);
+    }
+    .navbar-toggle.collapsed span:nth-child(3) {
+        opacity: 1;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #b43a51;
+    }
+    .main_menu .navbar-nav>li>a {
+        padding: 12px 10px;
+        color: #fff;
+    }
+    .main_menu .navbar-brand {
+        padding: 0 15px;
+    }
+    .main_menu .navbar-brand>img {
+        width: 85%;
+    }
+    .main_menu .navbar-header {
+        padding: 0 0 15px 0;
+        height: inherit;
+    }
+    .navbar-default .navbar-collapse {
+        border: none;
+    }
+    .main_menu .navbar-nav>li::after {
+        display: none;
+    }
+    .main_menu .navbar-nav>li>.dropdown-menu {
+        box-shadow: none;
+        border: none;
+    }
+    .main_menu .navbar-default .navbar-nav>.open>a {
+        color: #fff;
+    }
+    .main_menu .navbar-nav>li>.dropdown-menu {
+        position: inherit;
+        top: 0;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #fff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a {
+        background: none;
+        color: #fff;
+    }
+    .main_menu .navbar-nav>li {
+        border-bottom: 1px solid rgba(255, 255, 255, .5);
+        float: inherit;
+        display: inherit;
+    }
+    .main_menu .navbar-nav .fa-home {
+        color: #fff;
+    }
+    .main_menu .navbar-default .navbar-nav>.active>a {
+        color: #fff;
+    }
+    .navbar-fixed-top .navbar-collapse {}
+    .main_menu .navbar-nav>li .dropdown {
+        position: inherit;
+    }
+    .main_menu .navbar-default .navbar-nav>li>a:hover {
+        color: #fff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+        color: #fff;
+    }
+    .main_menu .navbar-default .navbar-nav>.open>a:hover {
+        color: #fff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a {
+        background: none;
+        color: #fff;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover {
+        background: none;
+        color: #fff;
+    }
+    .main_menu .navbar-nav>li {
+        padding: 0;
+    }
+    .navbar-collapse.collapse {
+        float: none;
+    }
+    .navbar>.container .navbar-brand {
+        position: absolute;
+    }
+    .main_menu .navbar-nav {
+        background: #b43a51;
+        border-radius: 0;
+        top: 0;
+    }
+    .mob_appoint {
+        padding: 10px;
+    }
+    .mob_appoint h3 {
+        color: #fff;
+    }
+    .mob_appoint a {
+        font-size: 20px;
+        text-decoration: none;
+        color: #fff;
+    }
+    .mob_appoint .fa {
+        color: #fff;
+        margin: 0 5px;
+        border: 1px solid #fff;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+    }
+    .header_info {
+        text-align: center;
+    }
+    .hero-content {
+        padding: 0;
+    }
+    .banner-slider .slick-dots {
+        right: 5px;
+        bottom: 0;
+    }
+    .affix {
+        height: 75px;
+        z-index: 3;
+    }
+    .whatsapp_fix .fa {
+        font-size: 40px;
+    }
+    .whatsapp_fix {
+        bottom: 10%;
+    }
+    .feedback_fix {
+        transform: none;
+        bottom: 0;
+        right: inherit;
+        top: inherit;
+        width: 100%;
+    }
+    .feedback_fix ul li {
+        width: 49.5%;
+    }
+    .feedback_fix ul li a {
+        display: block;
+        padding: 10px 14px;
+    }
+    #topcontrol {
+        display: none;
+    }
+    .drtoafndrbs img {
+        position: static;
+        width: 100%;
+    }
+    .drtoafndrbs .signature img {
+        width: auto;
+    }
+    .drtoafndrb {
+        padding: 50px 15px;
+    }
+    .drtoafndrbs h2 {
+        font-size: 32px;
+        /* text-align: center; */
+    }
+    .drtoafndrbs .drtoafndrbs_title h3 {
+        font-size: 32px;
+    }
+    .orsrvcsb {
+        padding: 30px 15px 0 15px;
+    }
+    .orsrvcsb ul {
+        top: 25px;
+        padding: 30px 20px;
+    }
+    .orsrvcsb ul li {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    .orsrvcsb ul li:last-child {
+        margin-bottom: 0;
+    }
+    .orsrvcsb ul li .orsrvcsbs_img {
+        padding: 0;
+    }
+    .orsrvcsb ul li .orsrvcsbs_info {
+        padding: 0;
+    }
+    .orsrvcsb ul li .orsrvcsbs_img img {
+        width: 100%;
+    }
+    .orsrvcsb ul li .orsrvcsbs_info p {
+        min-height: inherit;
+    }
+    .orsrvcsb h2 {
+        font-size: 35px;
+    }
+    .bfraftslrb h2 {
+        font-size: 30px;
+    }
+    .bfraftslrb {
+        padding: 35px 0 50px 0;
+    }
+    .orclntstsbs {
+        padding: 20px;
+        top: 0;
+    }
+    .orclntstsb h3 {
+        font-size: 30px;
+    }
+    .patients_slider .patients_info {
+        padding: 0;
+    }
+    .orclntstsb {
+        padding: 60px 15px 0 15px;
+    }
+    .whyaloviab ul li .whyaloviabs {
+        max-width: 170px;
+    }
+    .whyaloviab {
+        padding: 15px 0 0 0;
+    }
+    .whyaloviab h3 {
+        font-size: 22px;
+    }
+    .enquire .pattern1 img {
+        width: 100%;
+    }
+    .enquire {
+        padding: 10px;
+    }
+    .whyaloviabadj {
+        padding: 0;
+    }
+    .enquire .submit {
+        margin: 0;
+    }
+    .ttfstyttb h4 {
+        font-size: 24px;
+    }
+    .ttfstyttb h4 span {
+        display: initial;
+    }
+    .aloviaftrb ul li .aloviaftrbs h3 {
+        font-size: 18px;
+    }
+    .aloviaftrb {
+        padding: 15px 0 40px 0;
+    }
+    .aloviaftrb ul li::after {
+        display: none;
+    }
+    .banner-slider .caption h2 {
+        font-size: 28px;
+    }
+    .banner-slider .caption {
+        position: static;
+        text-align: center;
+    }
+    .hairtrtmntb ul li .hairtrtmntbs_img {
+        padding: 0;
+    }
+    .hairtrtmntb ul li {
+        padding: 30px 0;
+    }
+    .hairtrtmntb {
+        padding: 15px 15px 0 15px;
+    }
+    .hairtrtmntb h2 {
+        font-size: 35px;
+    }
+    .hairtrtmntb ul li .hairtrtmntbs_info {
+        padding: 0;
+    }
+    .hairtrtmntb ul li .hairtrtmntbs_info p {
+        min-height: inherit;
+    }
+    .hairtrmntwcb h2 {
+        font-size: 30px;
+    }
+    .hairtrmntwcb ul li {
+        padding: 0;
+    }
+    .hairtrmntwcb ul li .hairtrmntwcbs h3 {
+        font-size: 24px;
+    }
+    .hairtrmntwcb ul li .hairtrmntwcbs h3 .fa {
+        top: 16px;
+    }
+    .drtrafndrb_info h2 {
+        font-size: 30px;
+    }
+    .drtrafndrb {
+        padding: 0;
+    }
+    .drtrafndrb_img img {
+        width: 100%;
+    }
+    .banner-wrap .container {
+        z-index: 1;
+    }
+    .cliclskil {
+        padding: 20px 10px;
+    }
+    .acdmcfelws h3 {
+        font-size: 30px;
+    }
+    .cliclskil h3 {
+        font-size: 32px;
+    }
+    .pinarcaw {
+        padding: 15px;
+    }
+    .pinarcaw h3 {
+        font-size: 28px;
+    }
+    .pinarcaw ul li {
+        padding-left: 35px;
+    }
+    .pinarcaw ul li img {
+        left: 8px;
+    }
+    .prptrtmtb_info h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+    .prptrtmtb {
+        padding: 0;
+    }
+    .prptrtmtb_img {
+        margin: 30px 0;
+    }
+    .req_consul h3 {
+        font-size: 30px;
+    }
+    .req_consul form {
+        padding: 20px;
+    }
+    .prptrtmtb_img.beforeafter {
+        margin: 20px 0;
+    }
+    .aloviacntubs {
+        padding: 0;
+        border: none;
+    }
+    .aloviacntub {
+        padding: 0 15px 0 15px;
+    }
+    .aloviacntubs h2 {
+        font-size: 24px;
+    }
+    .aloviacntubs h3 {
+        font-size: 24px;
+    }
+    .banner-wrap .pattern1 img {
+        width: 35%;
+    }
+    .drtoafndrbs p {
+        /* text-align: center; */
+    }
+    .toppersofblog {
+        margin-top: 0px;
+    }
+    .boxersff {
+        margin-top: 30px;
+    }
+    .toppersofblog {
+        margin-left: 0px;
+    }
+    .tyresf3 h5 {
+        padding: 0px 20px;
+        margin-top: -46px;
+    }
+    .tyresf h1 {
+        font-size: 19px;
+        line-height: 30px;
+    }
+    .tyresf a {
+        padding-bottom: 35px;
+    }
+    .tyresf4 {
+        margin-top: 22px;
+    }
+    .blogspageshhf {
+        padding: 15px;
+        margin-top: -42px;
+    }
+    .toppersofblog {
+        padding: 0px;
+        clear: both;
+    }
+    .blogspageshhfs {
+        padding: 0px;
+    }
+    .toppersofblogs {
+        padding-top: 3px;
+    }
+    .land_enq {
+        padding: 20px;
+    }
+    .land_enq,
+    .form-group {
+        padding: 0px;
+    }
+    .tyresf h3 {
+        font-size: 17px;
+        margin-top: 28px;
+    }
+    .tyresf2 h3 {
+        font-size: 17px;
+    }
+    .tyresf5 h6 {
+        font-size: 17px;
+    }
+    .wstnkubinfo {
+        padding: 0;
+    }
+    .banner-slider .slick-arrow.slick-next {
+        right: 0%;
+        bottom: -5px;
+    }
+    .banner-slider .slick-arrow.slick-prev {
+        bottom: -5px;
+		right: 10%;
+    }
+    .orsrvcsb ul li .orsrvcsbs_img {
+        display: inherit;
+        padding: 10px;
+    }
+    .blogeersimgesd {
+        margin-top: 29px;
+        padding: 0px;
+    }
+    .tyresf {
+        margin-top: 0px;
+    }
+    .tyresf span {}
+    .tyresf h6 span {}
+    .tyresf p {
+        margin-bottom: -5px;
+        font-size: 16px;
+    }
+    .blogersshrff {
+        margin-top: 0px;
+        padding: 0px;
+    }
+    .blogsuires {
+        margin-top: 0px;
+    }
+    .tyresf7 h3 {
+        margin-top: 22px;
+        font-size: 17px;
+    }
+    .tyresf7 p {
+        margin-top: -2px;
+        margin-top: 17px;
+    }
+    .blogforesrj {
+        padding: 0px;
+    }
+    .land_enq .form-group {
+        padding: 0px;
+        margin-top: 32px;
+    }
+    .blogforesrj {
+        margin-top: -54px;
+    }
+    .blogeersimgesd img {
+        margin-bottom: 2px;
+    }
+    .jjijijfrr h1 {
+        margin-top: 0px;
+    }
+    .patients_slider .patients_info p {
+        font-size: 16px;
+    }
+    .whyaloviab ul li .whyaloviabs p {
+        font-size: 18px;
+    }
+    .whyaloviab ul {
+        text-align: center;
+    }
+    .feedbackenq {
+        padding: 50px 0;
+    }
+    .feedbackenq h2 {
+        font-size: 32px;
+        margin: 0;
+    }
+    .feedbackenq p {
+        font-size: 20px;
+    }
+    .aloviadfsb {
+        padding-top: 10px;
+    }
+    .sumabhgjk {
+        margin-left: 0px;
+    }
+    .aloviablog h2 {
+        font-size: 19px;
+        line-height: 30px;
+    }
+}
+
+@media only screen and (max-width: 798px) {}
+
+@media screen and (min-width: 799px) {}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {}
+
+@media only screen and (min-width: 1030px) and (max-width: 1366px) {}
+
+@media (max-width: 1024px) and (orientation: landscape) {}
+
+@media screen and (max-width: 810px) {}
+
+@media only screen and (max-width :992px) {}
+
+@media only screen and (max-width :1200px) {}
+
+@media only screen and (min-width :900px) and (max-width: 1600px) {
+    .hero-content h2 {
+        font-size: 25px;
+    }
+}
