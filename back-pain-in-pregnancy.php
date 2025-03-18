@@ -5,7 +5,7 @@
 
 
 
-    <title>Top Treatment for Back Pain in Pregnancy in Mumbai by Dr. Vishal Kundnani</title>    
+    <title>Back Pain treatment in Pregnancy in Mumbai by Dr. Vishal Kundnani</title>    
 <meta name="description" content="Dr. Vishal Kundnani provides top treatments for back pain during pregnancy. Safe and effective solutions in Mumbai.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
     <?php include 'includes/head.php'; ?>
