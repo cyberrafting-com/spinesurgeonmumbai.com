@@ -1,19 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
-  
- <?php include 'includes/head.php';?>
-
- <title>Spine Disease & Surgery Blogs by Dr. Vishal Kundnani</title>    
-<meta name="description" content="Explore insightful blogs on spine diseases and surgical care by Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert advice and updates on spine health.">  
-<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-
-  
+<head>  
+	<?php include 'includes/head.php';?>
+	<title>Spine Disease & Surgery Blogs by Dr. Vishal Kundnani</title>    
+	<meta name="description" content="Explore insightful blogs on spine diseases and surgical care by Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert advice and updates on spine health.">  
+	<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 </head>
 
-
 <body>
-
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM"
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -36,12 +30,60 @@
 		</div>
 	</div>
 	
-	<div class="clearfix"></div>
-
+	<div class="clearfix"></div>	
 	
 	<section class="gallery_inner blog">
 		<div class="container">
 			<div class="row">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="top-10-best-spine-surgeons-in-india.php"><img src="img/blog/top-10-best-spine-surgeons-in-india.jpg">
+						<h1>Top 10 Best Spine Surgeons in India</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.php"><img src="img/blog/best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.jpg">
+						<h1>Best Spine Surgeon in Mumbai and India for Scoliosis Treatment</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="robotic-spine-surgery-with-dr-vishal-kundnani.php"><img src="img/blog/robotic-spine-surgery-with-dr-vishal-kundnani.jpg">
+						<h1>Robotic Spine Surgery with Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="laser-spine-surgery-with-dr-vishal-kundnani.php"><img src="img/blog/laser-spine-surgery-with-dr-vishal-kundnani.jpg">
+						<h1>Laser Spine Surgery with Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="keyhole-spine-surgery-with-dr-vishal-kundnani.php"><img src="img/blog/keyhole-spine-surgery-with-dr-vishal-kundnani.jpg">
+						<h1>Keyhole Spine Surgery with Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="endoscopic-spine-surgery-with-dr-vishal-kundnani.php"><img src="img/blog/endoscopic-spine-surgery-with-dr-vishal-kundnani.jpg">
+						<h1>Endoscopic Spine Surgery with Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="best-spine-surgeons-in-mumbai-and-india.php"><img src="img/blog/best-spine-surgeons-in-mumbai-and-india.jpg">
+						<h1>Best Spine Surgeons in Mumbai and India</h1>
+						</a>
+					</div>
+				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
 						<a href="#!"><img src="img/blog/1.jpg">
@@ -171,11 +213,7 @@
         </div>
     </section>
 
-
-
     <?php include 'includes/footer.php';?>
 </body>
-
-
 
 </html>

@@ -4106,3 +4106,13 @@ border: 1px solid #c4c7bf;
 }
 .cat-service-inner-2 p{padding-left: unset !important;}
 .sec-service-procedure-1{background: #e8f4ff;padding: 20px;}
+
+.sec-blog-design h2 {
+    font-weight: 400;
+    margin-top: unset;
+    margin-bottom: unset;
+    font-size: 24px;
+    padding-bottom: 15px;
+    color: #333333;
+    padding-top: 20px;
+}
