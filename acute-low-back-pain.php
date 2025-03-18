@@ -5,8 +5,8 @@
 
 
 
-    <title>Top Treatment for Acute Low back Pain in Mumbai by Dr. Vishal Kundnani</title>
-    <meta name="description" content="Get expert treatment for acute low back pain in Mumbai from Dr. Vishal Kundnani, Mumbai’s top spine specialist. Relief is just a visit away.">
+    <title>Low back Pain Treatment in Mumbai by Dr. Vishal Kundnani</title>
+    <meta name="description" content="Find Best Low back Pain Treatment in Mumbai by Dr. Vishal Kundnani, Effective solutions for quick relief by Top Spine Specialist. Relief is just a visit away !">
     <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
     <link rel="canonical" href="https://www.spinesurgeonmumbai.com/acute-low-back-pain.php" />
     <?php include 'includes/head.php'; ?>
@@ -29,6 +29,7 @@
         <div class="container">
             <div class="row">
                 <h2>We <span>Treat</span></h2>
+                
                 <ul class="breadcrumb1">
                     <li><a href="index.phpl">Home</a></li>
                     <li><a href="acute-low-back-pain.php">Acute Low back Pain</a></li>
@@ -44,9 +45,10 @@
             <div class="row">
                 <div class="cliclskil1 mt-3">
                     <div class="col-lg-8 col-md-8 col-sm-8">
-                        <h1>Acute Low back Pain</h1>
+                    <h1>Acute Low back Pain Treatment in Mumbai</h1>
+                        <h2>Acute Low back Pain in Mumbai by Dr. Vishal Kundnani</h2>
                         <p class="mt-1">Pain in the low back can be a result of conditions affecting the bony lumbar spine, discs between the vertebrae, ligaments around the spine and discs, spinal cord and nerves, muscles of the low back, internal organs of the pelvis and abdomen, and the skin covering the lumbar area.</p>
-                        <p><b>Symptoms :</b></p>
+                        <br><p><b>Symptoms :</b></p>
                         <p>Symptoms range from a dull ache to a stabbing or shooting sensation. The pain may make it hard to move or stand up straight. Acute back pain comes on suddenly, often after an injury from sports or heavy lifting. Pain that lasts more than three months is considered chronic. If your pain is not better within 72 hours, you should consult a doctor.</p>
 
 
