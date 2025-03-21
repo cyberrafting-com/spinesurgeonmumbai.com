@@ -33,9 +33,16 @@
                 <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
                     <div class="blog-profile-details">  
                         <h1>Robotic Spine Surgery with Dr. Vishal Kundnani: A Breakthrough in Spine Care</h1>
-                        <h2>What is Robotic Spine Surgery?</h2>
-                        <p>Robotic spine surgery is transforming spinal care by offering a precise and minimally invasive solution for complex spinal conditions. Unlike traditional spine surgery, this cutting-edge technique enhances surgical accuracy, reduces recovery time, and minimizes post-operative pain.</p>
-                        <p>Dr. Vishal Kundnani, one of Mumbai’s most renowned robotic spine surgeons at Bombay Hospital, specializes in treating scoliosis, degenerative spine diseases, and other challenging spinal conditions. By integrating advanced robotic technology, he ensures safer procedures with superior outcomes, enabling patients to regain mobility and confidence faster.</p>
+                        <div class="row">
+                            <div class="col-lg-8 col-md-8 col-12">
+                                <h2>What is Robotic Spine Surgery?</h2>
+                                <p>Robotic spine surgery is transforming spinal care by offering a precise and minimally invasive solution for complex spinal conditions. Unlike traditional spine surgery, this cutting-edge technique enhances surgical accuracy, reduces recovery time, and minimizes post-operative pain.</p>
+                                <p>Dr. Vishal Kundnani, one of Mumbai’s most renowned robotic spine surgeons at Bombay Hospital, specializes in treating scoliosis, degenerative spine diseases, and other challenging spinal conditions. By integrating advanced robotic technology, he ensures safer procedures with superior outcomes, enabling patients to regain mobility and confidence faster.</p>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
+                                <img src="img/blog/robotic-spine-surgery-with-dr-vishal-kundnani.jpg">
+                            </div>
+                        </div>                        
                         <div class="sec-blog-design pt-5">
                             <h3>Why Choose Robotic Spine Surgery?</h3>
                             <p>Robotic-assisted spine surgery is a game-changer in spinal treatment, offering numerous benefits, including:

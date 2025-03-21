@@ -86,35 +86,35 @@
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/1.jpg">
-						<h1>Spine tip of the day-back pain</h1>
+						<a href="spine-tip-of-the-day-backpain.php"><img src="img/blog/1.jpg">
+						<h1>Spine tip of the day-back pain</h1>   
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/2.jpg">
+						<a href="spine-tip-of-the-week-scoliosis.php"><img src="img/blog/2.jpg">
 						<h1>Spine tip of the week scoliosis</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/3.jpg">
+						<a href="spine-tip-of-week-neck-pain.php"><img src="img/blog/3.jpg">
 						<h1>Spine tip of week – neck pain</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/4.jpg">
+						<a href="spine-tip-of-the-week-sciatica-slip-disc.php"><img src="img/blog/4.jpg">
 						<h1>Spine tip of the week – sciatica / slip disc</h1>
-						</a>
+						</a>   
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/5.jpg">
+						<a href="spine-tip-of-the-day-back-pain.php"><img src="img/blog/5.jpg">
 						<h1>Spine tip of the day – back pain</h1>
 						</a>
 					</div>

@@ -27,18 +27,25 @@
                 <div class="col-lg-12 col-md-12 col-12 pt-5">
                     <h2 class="services-heading-h2">Understanding Scoliosis: Causes and Impact</h2>
                     <p>Scoliosis is a spinal disorder where the spine curves abnormally, affecting posture, mobility, and overall well-being. The condition can range from mild to severe, often requiring specialized medical intervention.</p>
-                    <h2 class="services-heading-h2">Types of Scoliosis</h2>
-                    <div class="cat-service-inner pt-5">
-                        <img src="img/founder_li_icon.png" alt=""><p><strong>Idiopathic Scoliosis:</strong>The most common type, often developing during adolescence.</p>
-                    </div>
-                    <div class="cat-service-inner pt-5">
-                        <img src="img/founder_li_icon.png" alt=""><p><strong>Congenital Scoliosis:</strong>A birth defect leading to spinal curvature.</p>
-                    </div>
-                    <div class="cat-service-inner pt-5">
-                        <img src="img/founder_li_icon.png" alt=""><p><strong>Degenerative Scoliosis:</strong>Occurs due to aging and spinal wear and tear.</p>
-                    </div>
-                    <div class="cat-service-inner pt-5">
-                        <img src="img/founder_li_icon.png" alt=""><p><strong>Neuromuscular Scoliosis:</strong>Associated with neurological conditions like cerebral palsy.</p>
+                    <div class="row">
+                        <div class="col-lg-8 col-md-8 col-12 pt-5">
+                            <h2 class="services-heading-h2">Types of Scoliosis</h2>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p><strong>Idiopathic Scoliosis:</strong>The most common type, often developing during adolescence.</p>
+                            </div>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p><strong>Congenital Scoliosis:</strong>A birth defect leading to spinal curvature.</p>
+                            </div>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p><strong>Degenerative Scoliosis:</strong>Occurs due to aging and spinal wear and tear.</p>
+                            </div>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p><strong>Neuromuscular Scoliosis:</strong>Associated with neurological conditions like cerebral palsy.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
+                            <img src="img/blog/best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.jpg">
+                        </div>
                     </div>
                     <h2 class="services-heading-h2">Why Expert Care is Essential for Scoliosis Treatment?</h2>
                     <p>Effective scoliosis treatment requires an experienced surgeon who understands spinal mechanics, cutting-edge surgical techniques, and comprehensive patient care. Dr. Vishal Kundnani, one of the best spine surgeons in Mumbai and India for scoliosis treatment, has earned a reputation for delivering advanced and minimally invasive solutions.</p>

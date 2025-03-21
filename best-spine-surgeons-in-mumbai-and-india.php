@@ -33,8 +33,15 @@
                 <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
                     <div class="blog-profile-details">  
                         <h1>Best Spine Surgeons in Mumbai and India: Dr. Vishal Kundnani at the Forefront of Advanced Spinal Care</h1>
-                        <h2>The Importance of Choosing the Right Spine Surgeon</h2>
-                        <p>When it comes to spinal health, selecting the right surgeon is crucial. Your spine plays a vital role in mobility, stability, and overall well-being. In Mumbai, a leading hub for medical excellence, <b>Dr. Vishal Kundnani</b> stands out as a pioneer in <b>advanced spinal surgery</b>. His expertise in <b>minimally invasive, robotic, laser, and endoscopic spine surgery</b> has established him as one of the <b>best spine surgeons in Mumbai and India.</b></p>
+                        <div class="row">
+                            <div class="col-lg-8 col-md-8 col-12 pt-5">
+                                <h2>The Importance of Choosing the Right Spine Surgeon</h2>
+                                <p>When it comes to spinal health, selecting the right surgeon is crucial. Your spine plays a vital role in mobility, stability, and overall well-being. In Mumbai, a leading hub for medical excellence, <b>Dr. Vishal Kundnani</b> stands out as a pioneer in <b>advanced spinal surgery</b>. His expertise in <b>minimally invasive, robotic, laser, and endoscopic spine surgery</b> has established him as one of the <b>best spine surgeons in Mumbai and India.</b></p>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
+                                <img src="img/blog/best-spine-surgeons-in-mumbai-and-india.jpg">
+                            </div>
+                        </div>                          
                         <div class="sec-blog-design pt-5">
                             <h3>Why Dr. Vishal Kundnani is Among the Best Spine Surgeons in Mumbai and India</h3>
                         </div>

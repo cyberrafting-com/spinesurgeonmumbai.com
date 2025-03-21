@@ -33,9 +33,16 @@
                 <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
                     <div class="blog-profile-details">  
                         <h1>Laser Spine Surgery with Dr. Vishal Kundnani: A Modern Approach to Spinal Health</h1>
-                        <h2>What is Laser Spine Surgery?</h2>
-                        <p>Laser spine surgery is a minimally invasive procedure that utilizes advanced laser technology to treat various spinal conditions with precision and minimal tissue disruption. Unlike traditional open spine surgery, which involves large incisions and prolonged recovery periods, laser spine surgery targets affected areas with extreme accuracy, reducing trauma to surrounding muscles and nerves.</p>
-                        <p>Dr. Vishal Kundnani, a leading laser spine surgeon at Bombay Hospital, is at the forefront of this revolutionary approach. He specializes in treating herniated discs, spinal stenosis, degenerative disc disease, and other spinal conditions, offering patients a safer and more effective alternative to conventional surgery.</p>
+                        <div class="row">
+                            <div class="col-lg-8 col-md-8 col-12">
+                                <h2>What is Laser Spine Surgery?</h2>
+                                <p>Laser spine surgery is a minimally invasive procedure that utilizes advanced laser technology to treat various spinal conditions with precision and minimal tissue disruption. Unlike traditional open spine surgery, which involves large incisions and prolonged recovery periods, laser spine surgery targets affected areas with extreme accuracy, reducing trauma to surrounding muscles and nerves.</p>
+                                <p>Dr. Vishal Kundnani, a leading laser spine surgeon at Bombay Hospital, is at the forefront of this revolutionary approach. He specializes in treating herniated discs, spinal stenosis, degenerative disc disease, and other spinal conditions, offering patients a safer and more effective alternative to conventional surgery.</p>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
+                                <img src="img/blog/laser-spine-surgery-with-dr-vishal-kundnani.jpg">
+                            </div>
+                        </div>   
                         <div class="sec-blog-design pt-5">
                             <h3>Why Choose Laser Spine Surgery?</h3>
                             <p>Laser spine surgery presents several key advantages over traditional spinal procedures:</p>

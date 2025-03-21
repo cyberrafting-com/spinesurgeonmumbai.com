@@ -148,14 +148,6 @@
             <img src="img/5.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Success Story - Happy Patients Mobile Banner" />
         </div>
         <div class="banner-slide">
-            <img src="img/3.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="90% of Slip Disc Patients Don’t Need Spine Surgery" />
-            <img src="img/3.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="90% of Slip Disc Patients Don’t Need Spine Surgery Mobile Banner" />
-        </div>
-        <div class="banner-slide">
-            <img src="img/4.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Minimal Invasive Microendoscopic Surgery - Safest Way to Treat Spine Problems" />
-            <img src="img/4.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Minimal Invasive Microendoscopic Surgery Mobile Banner" />
-        </div>
-        <div class="banner-slide">
             <img src="img/6.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Cervical Spine Surgery by Dr. Vishal Kundnani - Surgical Intervention to Repair or Stabilize Neck Bones" />
             <img src="img/6.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Cervical Spine Surgery by Dr. Vishal Kundnani - Surgical Intervention to Repair or Stabilize Neck Bones Mobile Banner" />
         </div>

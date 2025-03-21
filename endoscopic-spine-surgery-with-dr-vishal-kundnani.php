@@ -33,9 +33,16 @@
                 <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
                     <div class="blog-profile-details">  
                         <h1>Endoscopic Spine Surgery with Dr. Vishal Kundnani: A Modern, Minimally Invasive Solution for Spine Care</h1>
-                        <h2>What is Endoscopic Spine Surgery?</h2>
-                        <p>Endoscopic spine surgery is a <b>cutting-edge, minimally invasive</b> procedure that enables surgeons to treat spinal conditions with precision and minimal tissue disruption. Unlike traditional open surgeries that require large incisions, <b>this advanced technique</b> uses a tiny camera (endoscope) and specialized instruments to <b>target affected areas with extreme accuracy.</b></p>
-                        <p>Dr. Vishal Kundnani, a <b>renowned expert in endoscopic spine surgery at Bombay Hospital</b>, has successfully treated numerous patients suffering from <b>herniated discs, spinal stenosis, and sciatica</b>. His expertise in this <b>highly advanced procedure</b> ensures that patients experience world-class spinal care with minimal discomfort and faster recovery times.</p>
+                        <div class="row">
+                            <div class="col-lg-8 col-md-8 col-12 pt-5">
+                                <h2>What is Endoscopic Spine Surgery?</h2>
+                                <p>Endoscopic spine surgery is a <b>cutting-edge, minimally invasive</b> procedure that enables surgeons to treat spinal conditions with precision and minimal tissue disruption. Unlike traditional open surgeries that require large incisions, <b>this advanced technique</b> uses a tiny camera (endoscope) and specialized instruments to <b>target affected areas with extreme accuracy.</b></p>
+                                <p>Dr. Vishal Kundnani, a <b>renowned expert in endoscopic spine surgery at Bombay Hospital</b>, has successfully treated numerous patients suffering from <b>herniated discs, spinal stenosis, and sciatica</b>. His expertise in this <b>highly advanced procedure</b> ensures that patients experience world-class spinal care with minimal discomfort and faster recovery times.</p>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
+                                <img src="img/blog/endoscopic-spine-surgery-with-dr-vishal-kundnani.jpg">
+                            </div>
+                        </div>                        
                         <div class="sec-blog-design pt-5">
                             <h3>Why Choose Endoscopic Spine Surgery?</h3>
                             <p>Endoscopic spine surgery provides <b>numerous advantages</b> over conventional spine procedures:</p>

@@ -33,10 +33,16 @@
                 <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
                     <div class="blog-profile-details">  
                         <h1>Keyhole Spine Surgery with Dr. Vishal Kundnani: A Minimally Invasive Path to Recovery</h1>
-                        <h2>Understanding Keyhole Spine Surgery</h2>
-                        <p>Keyhole spine surgery is a groundbreaking minimally invasive procedure designed to treat various spinal conditions with precision and minimal tissue disruption. Unlike traditional open surgery, which involves large incisions and significant muscle dissection, keyhole surgery utilizes small, strategically placed incisions to access and treat affected areas with high accuracy.
-                        </p>
-                        <p>This modern technique is especially beneficial for patients suffering from herniated discs, spinal stenosis, degenerative disc disease, spinal fractures, and sciatica. Under the expertise of Dr. Vishal Kundnani, a leading keyhole spine surgeon at Bombay Hospital, individuals can regain mobility and improve their quality of life with minimal downtime.</p>
+                        <div class="row">
+                            <div class="col-lg-8 col-md-8 col-12">
+                                <h2>Understanding Keyhole Spine Surgery</h2>
+                                <p>Keyhole spine surgery is a groundbreaking minimally invasive procedure designed to treat various spinal conditions with precision and minimal tissue disruption. Unlike traditional open surgery, which involves large incisions and significant muscle dissection, keyhole surgery utilizes small, strategically placed incisions to access and treat affected areas with high accuracy.</p>
+                                <p>This modern technique is especially beneficial for patients suffering from herniated discs, spinal stenosis, degenerative disc disease, spinal fractures, and sciatica. Under the expertise of Dr. Vishal Kundnani, a leading keyhole spine surgeon at Bombay Hospital, individuals can regain mobility and improve their quality of life with minimal downtime.</p>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
+                                <img src="img/blog/keyhole-spine-surgery-with-dr-vishal-kundnani.jpg">
+                            </div>
+                        </div>                          
                         <div class="sec-blog-design pt-5">
                             <h3>Why Opt for Keyhole Spine Surgery?</h3>
                             <p>Keyhole spine surgery provides numerous advantages over traditional spine procedures:</p>
