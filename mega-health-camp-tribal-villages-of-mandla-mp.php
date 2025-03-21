@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<title></title>    
+<meta name="description" content="">  
+<meta name="keywords" content="">
+<?php include 'includes/head.php';?>    
+</head>  
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <header class="header col-lg-12 col-md-12 col-sm-12 col-xs-12 affix1" data-spy="affix1" data-offset-top="75">
+        <?php include 'includes/header.php';?>    
+    </header>
+       
+    <!-- start doctor blog with profile -->
+    <section class="sec-service-procedure pt-5">
+        <div class="container sec-service-procedure-1">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-12 pt-5">
+                    <div class="sec-blog-design pt-5">
+                        <img src="img/blog/15.jpg" alt="">
+                        <h3>Conducted a Mega Help Camp for the poor and needy of tribal villages of Madhya Pradesh by Smt. Kaushilya Kundnani Swasthya Foundation (Social Wing of Spine Clinic) This was the 20th camp in the last 10 years.</h3>
+                        <p>Multiple camps have been done previously in various tribal and socio-economically backward areas of</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-8 col-md-8 col-12 pt-5">
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p>Madhya Pradesh</p>
+                            </div>                    
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p>Rajasthan</p>
+                            </div>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p>Chattisgarh</p>
+                            </div>                    
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p>Maharashtra</p>
+                            </div>   
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p><strong>Hon’ble Rajya Sabha MP Mr. Tankha Ji</strong>applauded the efforts of the Mumbai team led by Dr. Vishal Kundnani and personally felicitated the members of Mumbai team declaring Dr. Vishal Kundnani and the team as <strong>“MP State Govt Official Guests privilege”.</strong></p>
+                            </div>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p>Dr. Vishal Kundnani and Spine team will perform advanced spine surgery of poor and tribals in Mumbai in the coming months to support the vision and mission of Raahat camp.</p>
+                            </div>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p>20 Surgeons from Mumbai with a big delegation of Spine Team offered services in the largest health camp in tribal villages of Mandla, MP where 60,000 + pre-screened patients were served by 600 + doctors from country.</p>
+                            </div>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p>More than 1000 surgeries were done over 8 days by a team of doctors in 100 OT’s ( quality control supervised by National Board) in the district center and around.</p>
+                            </div>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p>4000 plus patients were evaluated and consulted by Mumbai team including 1400 spine patients (Dr. Gautam Zaveri, Dr. Vishal Kundnani & Team of 6 spine specialists) and 32 surgeries performed (14 paediatric surgery, 10 paediatric. orthos, 8 spines)</p>
+                            </div>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p>25 Patients for advanced spine surgeries (Scoliosis and Kyphosis, Listhesis), 10 Oncology and Cardiac cases listed for free surgery in Mumbai.</p>
+                            </div>
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt=""><p>25 Patients for advanced spine surgeries (Scoliosis and Kyphosis, Listhesis), 10 Oncology and Cardiac cases listed for free surgery in Mumbai.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
+                            <img src="img/blog/mega-health-camp-tribal-villages-of-mandla-mp.jpeg" alt="">
+                        </div>
+                    </div>  
+                </div>
+            </div>
+        </div>
+    </section>    
+
+
+    <?php include 'includes/footer.php';?>
+</body>
+
+
+
+</html>

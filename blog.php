@@ -121,76 +121,74 @@
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/6.jpg">
+						<a href="do-you-have-a-lockdown-neck-pain.php"><img src="img/blog/6.jpg">
 						<h1>Do you have a lockdown neck pain?</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/7.jpg">
+						<a href="success-story-case-4.php"><img src="img/blog/7.jpg">
 						<h1>Success story – case 4</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/8.jpg">
+						<a href="success-story-case-3.php"><img src="img/blog/8.jpg">
 						<h1>Success story – case 3</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/9.jpg">
+						<a href="success-story-case-2.php"><img src="img/blog/9.jpg">
 						<h1>Success story – case 2</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/10.jpg">
+						<a href="success-story-case-1.php"><img src="img/blog/10.jpg">
 						<h1>Success story – case 1</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/12.jpg">
+						<a href="spinext-clinic-consult-spine-specialist-dr-vishal-kundnani.php"><img src="img/blog/12.jpg">
 						<h1>Spinext clinic | consult spine specialist | dr. vishal kundnani</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/13.png">
+						<a href="spine-clinic-is-future-ready-warwithcorona.php"><img src="img/blog/13.png">
 						<h1>Spine clinic is future ready! # Warwithcorona</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/14.jpg">
+						<a href="best-docs-mumbai-2020.php"><img src="img/blog/14.jpg">
 						<h1>Best docs mumbai 2020</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/15.jpg">
+						<a href="mega-health-camp-tribal-villages-of-mandla-mp.php"><img src="img/blog/15.jpg">
 						<h1>Mega health camp @ tribal villages of mandla mp</h1>
 						</a>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="#!"><img src="img/blog/11.jpg">
+						<a href="spine-pain-amid-lockdown.php"><img src="img/blog/11.jpg">
 						<h1>Spine pain amid lockdown? No worries, SPINE CLINIC brings you best cure from Spine Specialist Dr Vishal Kundnani</h1>
 						</a>
 					</div>
 				</div>
-				
-				
 			</div>
 		</div>
 	</section>
