@@ -39,6 +39,13 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
+						<a href="spine-surgery-in-india-for-international-patients.php"><img src="img/blog/SPINE-SURGERY-in-india-for-international-patients.jpg">
+							<h1>World-Class Spine Surgery in India for International Patients</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
 						<a href="affordable-spine-surgery-international-patients-mumbai.php"><img src="img/blog/affordable-spine-surgery-mumbai-international-patient.png">
 							<h1>World-Class, Affordable Spine Surgery for International Patients in Mumbai</h1>
 						</a>
