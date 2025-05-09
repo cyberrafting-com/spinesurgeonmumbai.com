@@ -2,115 +2,112 @@
 <html lang="en-us">
 
 <head>
-    <title>Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai | Minimal Invasive Spine Surgery</title>    
+    <title>Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai | Minimal Invasive Spine Surgery</title>
     <meta name="description" content="Dr. Vishal Kundnani - Leading spine surgeon in Mumbai specializing in minimal invasive spine surgery, scoliosis correction & cervical spine treatments. 15+ years experience, 5000+ successful surgeries.">
     <meta name="keywords" content="Best Spine Surgeon in Mumbai, top Spine Surgeon in Mumbai, Spine surgery specialist mumbai, Minimal Invasive Spine Surgery, Scoliosis Correction, Cervical Spine Treatments, Mumbai Spine Specialist, Orthopedic Surgery, Neurosurgery, Pain Management">
-    
+
     <!-- Add Open Graph tags -->
     <meta property="og:title" content="Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai">
     <meta property="og:description" content="Leading spine surgeon specializing in minimal invasive spine surgery, scoliosis correction & cervical spine treatments.">
     <meta property="og:image" content="https://www.spinesurgeonmumbai.com/img/dr-vishal.jpg">
     <meta property="og:url" content="https://www.spinesurgeonmumbai.com/">
-    
+
     <!-- Add Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai">
-    
+
     <link rel="canonical" href="https://www.spinesurgeonmumbai.com/" />
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 
 
-<?php include 'includes/head.php'; ?>
+    <?php include 'includes/head.php'; ?>
 
- <script type="application/ld+json">
-    {
-  "@context": "https://schema.org",
-  "@type": "Physician",
-  "name": "Dr. Vishal Kundnani",
-  "jobTitle": "Spine Surgeon Mumbai",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Spine Clinic - Mumbai Institute of Spine Surgery"
-  },
-  "address": {
-       "@type": "PostalAddress",
-    "streetAddress": "2nd floor, Corinthian, Spine clinic, Linking Rd, Opposite DBS Bank, Khar, Khar West, Mumbai, Maharashtra 400052.", 
-    "addressLocality": "Mumbai",
-    "addressRegion": "Maharashtra",
-    "postalCode": "400053",
-    "addressCountry": "IN"
-  },
-  "telephone": "+91 9619100123",
-  "email": "spineclinicmumbai@gmail.com",
-  "url": "https://www.spinesurgeonmumbai.com/",
-  "image": "https://www.spinesurgeonmumbai.com/img/dr-vishal.jpg",
-  "sameAs": [
-    "https://www.youtube.com/@spineclinicmumbai4157/",
-    "https://www.facebook.com/spineclinicmumbai",
-    "https://www.instagram.com/spinespecialistvishal/",
-    "https://www.linkedin.com/in/dr-vishal-kundnani-654676b",
-    "https://x.com/SpineClinicMum"
-  ],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "reviewCount": "357",
-    "bestRating": "5",
-    "worstRating": "1"
-  },
-  "review": [
-    {
-      "@type": "Review",
-      "author": "Meenaqkshi",
-      "datePublished": "2024-09-15",
-      "reviewBody": "One of the best Orthopedic doctor, my mother had bad knee pain and now she is able to walk without pain. Doctor give enough time to him patients and is very humble. Even the staff is very well mannered and polite staff as well. It has been a great experience. Thank you so much sir.",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      }
-    },
-    {
-      "@type": "Review",
-      "author": "Neha Patil",
-      "datePublished": "2024-08-20",
-      "reviewBody": "My heartfelt thanks Dr. Vishal Kundnani for his care and expertise which brought to recent disc replacement surgery of my nephew.From initial consultation to the post-operative care, your professionalism and compassion have been outstanding. Your entire team has been wonderful, and I appreciate the kindness and support they showed me throughout the process.Thank you again for your remarkable skill and care.",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.5",
-        "bestRating": "5"
-      }
-    }
-  ],
-  "medicalSpecialty": [
-    "Spine Surgery",
-    "Orthopedic Surgery",
-    "Neurosurgery",
-    "Physical Therapy",
-    "Pain Management"
-  ],
-  "availableService": [
-    {
-      "@type": "MedicalTherapy",
-      "name": "Minimal Invasive Spine Surgery"
-    },
-    {
-      "@type": "MedicalTherapy",
-      "name": "Robotic-Assisted Spine Surgery"
-    },
-    {
-      "@type": "MedicalTherapy",
-      "name": "Scoliosis Correction Surgery"
-    },
-    {
-      "@type": "MedicalTherapy",
-      "name": "Pain Relief Injections for Spine Conditions"
-    }
-  ],
-  "openingHours": "Mo-Sa 09:00-18:00"
-}
-
- </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Physician",
+            "name": "Dr. Vishal Kundnani",
+            "jobTitle": "Spine Surgeon Mumbai",
+            "worksFor": {
+                "@type": "Organization",
+                "name": "Spine Clinic - Mumbai Institute of Spine Surgery"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "2nd floor, Corinthian, Spine clinic, Linking Rd, Opposite DBS Bank, Khar, Khar West, Mumbai, Maharashtra 400052.",
+                "addressLocality": "Mumbai",
+                "addressRegion": "Maharashtra",
+                "postalCode": "400053",
+                "addressCountry": "IN"
+            },
+            "telephone": "+91 9619100123",
+            "email": "spineclinicmumbai@gmail.com",
+            "url": "https://www.spinesurgeonmumbai.com/",
+            "image": "https://www.spinesurgeonmumbai.com/img/dr-vishal.jpg",
+            "sameAs": [
+                "https://www.youtube.com/@spineclinicmumbai4157/",
+                "https://www.facebook.com/spineclinicmumbai",
+                "https://www.instagram.com/spinespecialistvishal/",
+                "https://www.linkedin.com/in/dr-vishal-kundnani-654676b",
+                "https://x.com/SpineClinicMum"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "357",
+                "bestRating": "5",
+                "worstRating": "1"
+            },
+            "review": [{
+                    "@type": "Review",
+                    "author": "Meenaqkshi",
+                    "datePublished": "2024-09-15",
+                    "reviewBody": "One of the best Orthopedic doctor, my mother had bad knee pain and now she is able to walk without pain. Doctor give enough time to him patients and is very humble. Even the staff is very well mannered and polite staff as well. It has been a great experience. Thank you so much sir.",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "5",
+                        "bestRating": "5"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Neha Patil",
+                    "datePublished": "2024-08-20",
+                    "reviewBody": "My heartfelt thanks Dr. Vishal Kundnani for his care and expertise which brought to recent disc replacement surgery of my nephew.From initial consultation to the post-operative care, your professionalism and compassion have been outstanding. Your entire team has been wonderful, and I appreciate the kindness and support they showed me throughout the process.Thank you again for your remarkable skill and care.",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "ratingValue": "4.5",
+                        "bestRating": "5"
+                    }
+                }
+            ],
+            "medicalSpecialty": [
+                "Spine Surgery",
+                "Orthopedic Surgery",
+                "Neurosurgery",
+                "Physical Therapy",
+                "Pain Management"
+            ],
+            "availableService": [{
+                    "@type": "MedicalTherapy",
+                    "name": "Minimal Invasive Spine Surgery"
+                },
+                {
+                    "@type": "MedicalTherapy",
+                    "name": "Robotic-Assisted Spine Surgery"
+                },
+                {
+                    "@type": "MedicalTherapy",
+                    "name": "Scoliosis Correction Surgery"
+                },
+                {
+                    "@type": "MedicalTherapy",
+                    "name": "Pain Relief Injections for Spine Conditions"
+                }
+            ],
+            "openingHours": "Mo-Sa 09:00-18:00"
+        }
+    </script>
 
 
 
@@ -129,449 +126,485 @@
 
     </header>
     <div class="image-gal">
-          <img src="img/mobile-view-banner.jpg"  alt="Dr. Vishal Kundnani's Spine Surgeon Mumbai, Spine Clinic Website Banner" />
+        <img src="img/mobile-view-banner.jpg" alt="Dr. Vishal Kundnani's Spine Surgeon Mumbai, Spine Clinic Website Banner" />
     </div>
 
-<div class="banner-wrap col-lg-12 col-md-12 col-sm-12 col-xs-12">
-    <div class="banner-slider">
-        <div class="banner-slide">
-            <img src="img/1.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="State-of-the-art Minimal Invasive Spine Surgery Center in Mumbai" />
-            <img src="img/1.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Center for Minimal Invasive Spine Surgery Mobile Banner" />
-        </div>
+    <div class="banner-wrap col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="banner-slider">
+            <div class="banner-slide">
+                <img src="img/1.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="State-of-the-art Minimal Invasive Spine Surgery Center in Mumbai" />
+                <img src="img/1.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Center for Minimal Invasive Spine Surgery Mobile Banner" />
+            </div>
 
-        <div class="banner-slide">
-            <img src="img/2.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Dr. Kundnani - Award-winning Spine Surgeon 2017-2024" />
-            <img src="img/2.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Awarded Best Spine Surgeon in Mumbai for 2017 to 2024 - ESA Mobile Banner" />
-        </div>
-        <div class="banner-slide">
-            <img src="img/5.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Success Story - Happy Patients" />
-            <img src="img/5.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Success Story - Happy Patients Mobile Banner" />
-        </div>
-        <div class="banner-slide">
-            <img src="img/6.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Cervical Spine Surgery by Dr. Vishal Kundnani - Surgical Intervention to Repair or Stabilize Neck Bones" />
-            <img src="img/6.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Cervical Spine Surgery by Dr. Vishal Kundnani - Surgical Intervention to Repair or Stabilize Neck Bones Mobile Banner" />
-        </div>
-        <div class="banner-slide">
-            <img src="img/7.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Scoliosis - Dr. Vishal Kundnani - Spine of a Person with Scoliosis" />
-            <img src="img/7.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Scoliosis - Dr. Vishal Kundnani Mobile Banner" />
+            <div class="banner-slide">
+                <img src="img/2.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Dr. Kundnani - Award-winning Spine Surgeon 2017-2024" />
+                <img src="img/2.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Awarded Best Spine Surgeon in Mumbai for 2017 to 2024 - ESA Mobile Banner" />
+            </div>
+            <div class="banner-slide">
+                <img src="img/5.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Success Story - Happy Patients" />
+                <img src="img/5.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Success Story - Happy Patients Mobile Banner" />
+            </div>
+            <div class="banner-slide">
+                <img src="img/6.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Cervical Spine Surgery by Dr. Vishal Kundnani - Surgical Intervention to Repair or Stabilize Neck Bones" />
+                <img src="img/6.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Cervical Spine Surgery by Dr. Vishal Kundnani - Surgical Intervention to Repair or Stabilize Neck Bones Mobile Banner" />
+            </div>
+            <div class="banner-slide">
+                <img src="img/7.jpg" loading="lazy" class="img-responsive hidden-xs hidden-sm" alt="Scoliosis - Dr. Vishal Kundnani - Spine of a Person with Scoliosis" />
+                <img src="img/7.jpg" loading="lazy" class="img-responsive hidden-lg hidden-md" alt="Scoliosis - Dr. Vishal Kundnani Mobile Banner" />
+            </div>
         </div>
     </div>
-</div>
 
-	
-	
-	<div class="marque_main">
-		<div class="container">
-			<marquee width="100%" direction="left" height="">
-				More Than <b>5000+</b> Successful Spine Surgeries Performed. To Book an Appointment Call -<a href="tel:+919619300123"> +919619300123</a> /<a href="tel:+919619100123"> +919619100123</a>
 
-			</marquee>
-		</div>
-	</div>
-	
+
+    <div class="marque_main">
+        <div class="container">
+            <marquee width="100%" direction="left" height="">
+                More Than <b>5000+</b> Successful Spine Surgeries Performed. To Book an Appointment Call -<a href="tel:+919619300123"> +919619300123</a> /<a href="tel:+919619100123"> +919619100123</a>
+
+            </marquee>
+        </div>
+    </div>
+
     <section class="drtoafndrb drtoafndrb1 col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="container">
             <div class="row">
-                 <div class="d_non1 drtoafndrbs dr_img col-lg-5 col-md-5 col-sm-5 col-xs-12">
-                  
+                <div class="d_non1 drtoafndrbs dr_img col-lg-5 col-md-5 col-sm-5 col-xs-12">
+
                     <img class="d_non1" src="img/dr-vishal3.jpg" alt="Dr. Vishal Kundnani - Spine Surgeon Mumbai & Spine Surgery Specialist in Mumbai" loading="lazy" />
-				</div>
+                </div>
                 <div class="drtoafndrbs col-lg-7 col-md-7 col-sm-7 col-xs-12">
                     <h2>Dr. Vishal Kundnani</h2>
-					<h3>MS (Ortho) FASSI, FNUS, FNAMS. 
-					<br>Minimal Invasive Spine surgery specialist. 
-					<br>Specialist in Cervical Spine and scoliosis surgery. 
-					<br>Specialised in Microendosocpic Spine Surgery.
-					<br>Director & Head of Spine Surgery-Center of Excellence  in Spine Surgery, Lilavati Hospital, Bandra Mumbai.
-					<br>Head - Mumbai Institute of Spine Surgery, Bombay Hospital, Mumbai.
-					</h3>
-					<!--<h3>Consultant Spinal Surgeon at Bombay Hospital, Director of Mumbai institute of spine surgery and SPINE CLINIC, Bombay Hospital.</h3>-->
-					
-                    <p>Dr. Vishal Kundnani-gold medalist throughout his scholar years  - is fellowship trained in spine surgery from international Center’s of repute including UK, Singapore, Japan, Australia, Malaysia and Korea. Dr Vishal Kundnani has treated 20000 + Spine patients in last 15 years non surgically with (latest non surgical treatment protocols for <a href="https://www.slipdiscindia.com/">slip disc</a>) and performed 5000+ successful Microsurgery for Slip Disc, minimal invasive spine surgery for Sciatica and laser surgery for Lumbar problem & cervical spine and scoliosis. He is Pioneer in  complex spine surgery and is <a href="https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai.php">best spine specialist</a> for Scoliosis surgery. He is trained in advanced Robotic spine surgery  & Navigation spine surgery.  Dr Vishal Kundnani is known for innovation in Awake day care spine surgery and minimal invasive spine surgery. He is internationally renowned for scoliosis & Cervical surgery and has more than 100 international scientific research publications. </p>
-                    
+                    <h3>MS (Ortho) FASSI, FNUS, FNAMS.
+                        <br>Minimal Invasive Spine surgery specialist.
+                        <br>Specialist in Cervical Spine and scoliosis surgery.
+                        <br>Specialised in Microendosocpic Spine Surgery.
+                        <br>Director & Head of Spine Surgery-Center of Excellence in Spine Surgery, Lilavati Hospital, Bandra Mumbai.
+                        <br>Head - Mumbai Institute of Spine Surgery, Bombay Hospital, Mumbai.
+                    </h3>
+                    <!--<h3>Consultant Spinal Surgeon at Bombay Hospital, Director of Mumbai institute of spine surgery and SPINE CLINIC, Bombay Hospital.</h3>-->
+
+                    <p>Dr. Vishal Kundnani-gold medalist throughout his scholar years - is fellowship trained in spine surgery from international Center’s of repute including UK, Singapore, Japan, Australia, Malaysia and Korea. Dr Vishal Kundnani has treated 20000 + Spine patients in last 15 years non surgically with (latest non surgical treatment protocols for <a href="https://www.slipdiscindia.com/">slip disc</a>) and performed 5000+ successful Microsurgery for Slip Disc, minimal invasive spine surgery for Sciatica and laser surgery for Lumbar problem & cervical spine and scoliosis. He is Pioneer in complex spine surgery and is <a href="https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai.php">best spine specialist</a> for Scoliosis surgery. He is trained in advanced Robotic spine surgery & Navigation spine surgery. Dr Vishal Kundnani is known for innovation in Awake day care spine surgery and minimal invasive spine surgery. He is internationally renowned for scoliosis & Cervical surgery and has more than 100 international scientific research publications. </p>
+
                     <!--<div class="signature col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <img src="images/signature.png" alt="pic" />
                     </div>-->
                     <div class="know_more founder">
                         <a href="about-doctor.php">Know More <i class="fa fa-angle-right"></i></a>
                     </div>
-				</div>
+                </div>
 
                 <div class="drtoafndrbs dr_img col-lg-5 col-md-5 col-sm-5 col-xs-12">
                     <img class="d_non" src="img/dr-vishal.jpg" alt="Dr. Vishal Kundnani, Spine Surgery Specialist in mumbai performing minimally invasive spine surgery" loading="lazy" />
                     <!--<img class="d_non1" src="img/dr-vishal3.jpg" alt="Best spine surgeon mumbai" loading="lazy" />-->
-				</div>
+                </div>
 
             </div>
         </div>
     </section>
 
-<div class="clearfix"></div>
-	
-	<div class="best_doctor1">
-		<div class="container">
-			<div class="row">
-				<h1><a href="img/OUTLOOK.pdf" target="_blank">Best Spine Surgeon, Mumbai. 2017, 2018, 2019, 2020, 2022, 2023, 2024</a></h1>
-			</div>
-		</div>
-	</div>
-		
-<div class="clearfix"></div>
+    <div class="clearfix"></div>
 
-	
-    
-    
-    <div class="cont-sec-3">
-		<div class="container-fluid">
-			<h3>Spine Conditions we Treat</h3>
+    <div class="best_doctor1">
+        <div class="container">
             <div class="row">
-				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
-					<div class="service_sec">
+                <h1><a href="img/OUTLOOK.pdf" target="_blank">Best Spine Surgeon, Mumbai. 2017, 2018, 2019, 2020, 2022, 2023, 2024</a></h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+
+
+
+    <div class="cont-sec-3">
+        <div class="container-fluid">
+            <h3>Spine Conditions we Treat</h3>
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
+                    <div class="service_sec">
                         <a href="lumbar-spondylosis.php"><img src="img/lumbar-spondylosis-treatment.jpg" width="386px;" height="501px;" class="img-fluid des" alt=""></a>
                         <div class="ongslrcont">
                             <b>Lumbar Spondylosis</b>
-							<p>Lumbar spondylosis typically presents no symptoms. However, when back or sciatic pain is experienced, it is usually an unrelated finding.</p>
+                            <p>Lumbar spondylosis typically presents no symptoms. However, when back or sciatic pain is experienced, it is usually an unrelated finding.</p>
                             <a href="lumbar-spondylosis.php" class="home">Know More</a>
                         </div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
-					<div class="service_sec">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
+                    <div class="service_sec">
                         <a href="back-pain.php"><img src="img/Back-Pain-treatment.jpg" width="386px;" height="501px;" class="img-fluid des" alt=""></a>
                         <div class="ongslrcont">
                             <b>Back Pain</b>
                             <p>We offer solutions for back pain, one of the most common health complaints and a leading cause of missed workdays, second only to the common cold.</p>
-							<a href="back-pain.php" class="home">Know More</a>
+                            <a href="back-pain.php" class="home">Know More</a>
                         </div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
-					<div class="service_sec">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
+                    <div class="service_sec">
                         <a href="scoliosis.php"><img src="img/3.png" width="386px;" height="501px;" class="img-fluid des" alt=""></a>
                         <div class="ongslrcont">
                             <b>Scoliosis</b>
-							<p>We offer treatment for scoliosis, a condition where the spine develops a sideways (lateral) curvature, deviating from its normal straight alignment.</p>
+                            <p>We offer treatment for scoliosis, a condition where the spine develops a sideways (lateral) curvature, deviating from its normal straight alignment.</p>
                             <a href="scoliosis.php" class="home">Know More</a>
                         </div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
-					<div class="service_sec">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
+                    <div class="service_sec">
                         <a href="minimal-invasive-spine-surgery.php"><img src="img/4.png" width="386px;" height="501px;" class="img-fluid des" alt=""></a>
                         <div class="ongslrcont">
                             <b>Minimal Invasive Spine Surgery</b>
-                           
-							<p>We offer Minimal Invasive Spine Surgery, the gold standard for decompression procedures, providing effective solutions for various common spine conditions.</p>
+
+                            <p>We offer Minimal Invasive Spine Surgery, the gold standard for decompression procedures, providing effective solutions for various common spine conditions.</p>
                             <a href="minimal-invasive-spine-surgery.php" class="home">Know More</a>
                         </div>
-					</div>
-				</div>
-				
+                    </div>
+                </div>
+
             </div>
-		</div>
+        </div>
     </div>
 
-	<div class="treatment-footer-bg">
-		<a href="tel:+919619100123"><img src="img/treatment-footer-bg.png" alt="Schedule an Appointment with Dr. Vishal Kundnani Spine Surgeon  ad Spine Surgery Specialist Mumbai"></a>
-	</div>
+    <div class="treatment-footer-bg">
+        <a href="tel:+919619100123"><img src="img/treatment-footer-bg.png" alt="Schedule an Appointment with Dr. Vishal Kundnani Spine Surgeon  ad Spine Surgery Specialist Mumbai"></a>
+    </div>
 
-<div class="clearfix"></div>
-	
-	<section class="services_home">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="header_title">
-					<h2>Additional Services</h2>
-				</div>
-			</div>
-			<div class="row">	
-				<div class="cymolthemes-boxes-row-wrapper cmt-processbox-wrapper processbox-style1">
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1000">
-						<div class="cmt-box-iconbox "> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/1.png" alt="Acute Low Back Pain Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="acute-low-back-pain.php">Acute Low back Pain</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1000">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/2.png" alt="Ankylosing Spondylitis Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="ankylosing-spondylitis.php">Ankylosing Spondylitis</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1000">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/3.png" alt="Back Pain Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="back-pain-we-treat.php">Back Pain</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1000">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/4.png" alt="Back Pain in Pregnancy Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="back-pain-in-pregnancy.php">Back Pain in Pregnancy</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1000">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/5.png" alt="Degenerative Disc Disease Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="degenerative-disc-disease.php">Degenerative Disc Disease</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1000">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/6.png" alt="Facet Syndrome Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="facet-syndrome.php">Facet Syndrome</a></h5></div>
-							
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">	
-				<div class="cymolthemes-boxes-row-wrapper cmt-processbox-wrapper processbox-style1">
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1300">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/7.png" alt="Failed Back Syndrome Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="failed-back-syndrome.php">Failed Back Syndrome</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1300">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/8.png" alt="Kyphosis Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="kyphosis.php">Kyphosis</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1300">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/9.png" alt="Lumbar Spondylosis Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="lumbar-spondylosis.php">Lumbar Spondylosis </a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1300">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/10.png" alt="Lumbarisation & Sacralisation Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="lumbarisation-and-sacralisation.php">Lumbarisation & Sacralisation</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1300">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/11.png" alt="Neck Pain Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="neck-pain-we-treat.php">Neck Pain</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1300">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/12.png" alt="Osteoporosis Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="osteoporosis.php">Osteoporosis</a></h5></div>
-							
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">	
-				<div class="cymolthemes-boxes-row-wrapper cmt-processbox-wrapper processbox-style1">
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1500">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/13.png" alt="Sciatica Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="sciatica.php">Sciatica</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1500">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/14.png" alt="Scoliosis Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="scoliosis.php">Scoliosis</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1500">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/15.png" alt="Slip Disc Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="slip-disc.php">Slip Disc</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1500">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/16.png" alt="Spinal Stenosis Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="spinal-stenosis-we-treat.php">Spinal Stenosis</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1500">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/17.png" alt="Spondylolysis & Spondylolisthesis Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="spondylolysis-and-spondylolisthesis.php">Spondylolysis & Spondylolisthesis</a></h5></div>
-							
-						</div>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1500">
-						<div class="cmt-box-iconbox"> 
-							<div class="cmt-process-icon">
-								<div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
-									<div class="cmt-vc_icon_element-inner">
-										<img src="img/services/18.png" alt="Spondylosis Treatment Icon">
-									</div>
-								</div>
-							</div>								
-						</div>
-						<div class="cmt-box-content">
-							<div class="cmt-box-title"><h5><a href="spondylosis.php">Spondylosis</a></h5></div>
-							
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	
-<div class="clearfix"></div>
-<!--
+    <div class="clearfix"></div>
+
+    <section class="services_home">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="header_title">
+                    <h2>Additional Services</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="cymolthemes-boxes-row-wrapper cmt-processbox-wrapper processbox-style1">
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1000">
+                        <div class="cmt-box-iconbox ">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/1.png" alt="Acute Low Back Pain Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="acute-low-back-pain.php">Acute Low back Pain</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1000">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/2.png" alt="Ankylosing Spondylitis Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="ankylosing-spondylitis.php">Ankylosing Spondylitis</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1000">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/3.png" alt="Back Pain Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="back-pain-we-treat.php">Back Pain</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1000">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/4.png" alt="Back Pain in Pregnancy Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="back-pain-in-pregnancy.php">Back Pain in Pregnancy</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1000">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/5.png" alt="Degenerative Disc Disease Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="degenerative-disc-disease.php">Degenerative Disc Disease</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1000">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/6.png" alt="Facet Syndrome Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="facet-syndrome.php">Facet Syndrome</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="cymolthemes-boxes-row-wrapper cmt-processbox-wrapper processbox-style1">
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1300">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/7.png" alt="Failed Back Syndrome Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="failed-back-syndrome.php">Failed Back Syndrome</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1300">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/8.png" alt="Kyphosis Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="kyphosis.php">Kyphosis</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1300">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/9.png" alt="Lumbar Spondylosis Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="lumbar-spondylosis.php">Lumbar Spondylosis </a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1300">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/10.png" alt="Lumbarisation & Sacralisation Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="lumbarisation-and-sacralisation.php">Lumbarisation & Sacralisation</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1300">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/11.png" alt="Neck Pain Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="neck-pain-we-treat.php">Neck Pain</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1300">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/12.png" alt="Osteoporosis Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="osteoporosis.php">Osteoporosis</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="cymolthemes-boxes-row-wrapper cmt-processbox-wrapper processbox-style1">
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1500">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/13.png" alt="Sciatica Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="sciatica.php">Sciatica</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1500">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/14.png" alt="Scoliosis Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="scoliosis.php">Scoliosis</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-right" data-aos-duration="1500">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/15.png" alt="Slip Disc Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="slip-disc.php">Slip Disc</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1500">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/16.png" alt="Spinal Stenosis Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="spinal-stenosis-we-treat.php">Spinal Stenosis</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1500">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/17.png" alt="Spondylolysis & Spondylolisthesis Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="spondylolysis-and-spondylolisthesis.php">Spondylolysis & Spondylolisthesis</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-6 cmt-processbox aos-init" data-aos="fade-down-left" data-aos-duration="1500">
+                        <div class="cmt-box-iconbox">
+                            <div class="cmt-process-icon">
+                                <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
+                                    <div class="cmt-vc_icon_element-inner">
+                                        <img src="img/services/18.png" alt="Spondylosis Treatment Icon">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cmt-box-content">
+                            <div class="cmt-box-title">
+                                <h5><a href="spondylosis.php">Spondylosis</a></h5>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <div class="clearfix"></div>
+    <!--
 	<section class="orsrvcsb col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="container">
             <div class="row">
@@ -694,87 +727,87 @@
         </div>
     </section>
 -->
-	
-	
-	<!-- gallery start -->
-	<section>
-		<div class="container">
-		<div class="row">
-				<div class="header_title">
-					<h1>Events and Conference</h1>
-				</div>
-			</div>
-			<div class="gallery-area pb-75">
-			<div class="container">
 
-				<div class="row justify-content-center">
-					<div class="col-lg-3 col-md-3">
-						<div class="single-gallery-item">
-							<a data-fancybox="gallery" href="img/gallery/d/dr-vishal-with-neeraj-chopra.jpg">
-								<img src="img/gallery/d/dr-vishal-with-neeraj-chopra.jpg" alt="Dr. Vishal Kundnani with Olympic Gold Medalist Neeraj Chopra" class="gal-img">
-							</a>
-							<div class="icon">
-								<!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
+
+    <!-- gallery start -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="header_title">
+                    <h1>Events and Conference</h1>
+                </div>
+            </div>
+            <div class="gallery-area pb-75">
+                <div class="container">
+
+                    <div class="row justify-content-center">
+                        <div class="col-lg-3 col-md-3">
+                            <div class="single-gallery-item">
+                                <a data-fancybox="gallery" href="img/gallery/d/dr-vishal-with-neeraj-chopra.jpg">
+                                    <img src="img/gallery/d/dr-vishal-with-neeraj-chopra.jpg" alt="Dr. Vishal Kundnani with Olympic Gold Medalist Neeraj Chopra" class="gal-img">
+                                </a>
+                                <div class="icon">
+                                    <!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
                                     <i class="ri-loader-fill"></i>
                                 </a> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-3">
-						<div class="single-gallery-item">
-							<a data-fancybox="gallery" href="img/gallery/d/10.png">
-								<img src="img/gallery/d/10.png" alt="Dr. Vishal Kundnani and a team of Mumbai Institute of Spine Surgery" class="gal-img">
-							</a>
-							<div class="icon">
-							<!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <div class="single-gallery-item">
+                                <a data-fancybox="gallery" href="img/gallery/d/10.png">
+                                    <img src="img/gallery/d/10.png" alt="Dr. Vishal Kundnani and a team of Mumbai Institute of Spine Surgery" class="gal-img">
+                                </a>
+                                <div class="icon">
+                                    <!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
                                     <i class="ri-loader-fill"></i>
                                 </a> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-3">
-						<div class="single-gallery-item">
-							<a data-fancybox="gallery" href="img/gallery/d/3.jpg">
-								<img src="img/gallery/d/3.jpg" alt="Dr. Vishal Kundnani with a team of Students at Mumbai Institute of Spine Surgery" class="gal-img">
-							</a>
-							<div class="icon">
-								<!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <div class="single-gallery-item">
+                                <a data-fancybox="gallery" href="img/gallery/d/3.jpg">
+                                    <img src="img/gallery/d/3.jpg" alt="Dr. Vishal Kundnani with a team of Students at Mumbai Institute of Spine Surgery" class="gal-img">
+                                </a>
+                                <div class="icon">
+                                    <!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
                                     <i class="ri-loader-fill"></i>
                                 </a> -->
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-3">
-						<div class="single-gallery-item">
-							<a data-fancybox="gallery" href="img/gallery/d/4.jpg">
-								<img src="img/gallery/d/4.jpg" alt="Dr. Vishal Kundnani with a team of Mumbai Institute of Spine Surgery" class="gal-img">
-							</a>
-							<div class="icon">
-								<!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <div class="single-gallery-item">
+                                <a data-fancybox="gallery" href="img/gallery/d/4.jpg">
+                                    <img src="img/gallery/d/4.jpg" alt="Dr. Vishal Kundnani with a team of Mumbai Institute of Spine Surgery" class="gal-img">
+                                </a>
+                                <div class="icon">
+                                    <!-- <a data-fancybox="gallery" href="img/gallery/d/1.jpg">
                                     <i class="ri-loader-fill"></i>
                                 </a> -->
-							</div>
-						</div>
-					</div>
-					
-					<!--button-->
-					<div class="know_more founder text-center">
-                        <a href="mumbai-institute-of-spine-surgery.php">View More <i class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--button-->
+                        <div class="know_more founder text-center">
+                            <a href="mumbai-institute-of-spine-surgery.php">View More <i class="fa fa-angle-right"></i></a>
+                        </div>
+
+
+
+
+
                     </div>
-					
-					
+                </div>
+            </div>
 
-					
+        </div>
+    </section>
+    <!-- gallery end -->
 
-				</div>
-			</div>
-		</div>
 
-		</div>
-	</section>
-	<!-- gallery end -->
-	
-	
     <section class="orclntstsb col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="orclntstsb_abs">
         </div>
@@ -808,8 +841,8 @@
                         </div>
 
                         <div class="item">
-							<div class="patients_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
-								<p>“I was admitted at Bombay Hospital with hangman’s fracture and underwent a surgery conducted by Dr. Vishal Kundnani which was successful. Right from the admission at the hospital to discharge & the timely followup’s everything was a smooth process. All the needs at the hospital was taken care of extremely well by the Doctor and his assistant. I express my gratitude to Dr. Vishal for having saved my life and I am doing really well now.”</p>
+                            <div class="patients_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                <p>“I was admitted at Bombay Hospital with hangman’s fracture and underwent a surgery conducted by Dr. Vishal Kundnani which was successful. Right from the admission at the hospital to discharge & the timely followup’s everything was a smooth process. All the needs at the hospital was taken care of extremely well by the Doctor and his assistant. I express my gratitude to Dr. Vishal for having saved my life and I am doing really well now.”</p>
                                 <ul>
                                     <li>
                                         <h5>Manud C Joseph<br><span></span></h5>
@@ -818,12 +851,12 @@
                                         <img src="images/google_review_icon.png" alt="Verified Google Review" />
                                     </li>
                                 </ul>
-							</div>
+                            </div>
                         </div>
 
                         <div class="item">
-							<div class="patients_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
-								<p>“I was going to terrible pain in the month of April/May/june/July-15. I couldnt sleeep properlyat any time of day or night then I decided to get expert openion and I found from my family Doctor and he suggested me to meet Dr. Vishal Kundnani and then immediately we decided to get operate. I had Spine TB. I got operated on 25-08-2015 and today is 29-9-15. I am feeling physicaly fit nad now I can do all my routin work and I dont even feel that I got operated just 1 month back. I am very happy with Dr. Vishal treatment an I would even suggest to other potients. Thanking you”.</p>
+                            <div class="patients_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                <p>“I was going to terrible pain in the month of April/May/june/July-15. I couldnt sleeep properlyat any time of day or night then I decided to get expert openion and I found from my family Doctor and he suggested me to meet Dr. Vishal Kundnani and then immediately we decided to get operate. I had Spine TB. I got operated on 25-08-2015 and today is 29-9-15. I am feeling physicaly fit nad now I can do all my routin work and I dont even feel that I got operated just 1 month back. I am very happy with Dr. Vishal treatment an I would even suggest to other potients. Thanking you”.</p>
                                 <ul>
                                     <li>
                                         <h5>Mrs. Shila U. Somaiya<br><span></span></h5>
@@ -832,12 +865,12 @@
                                         <img src="images/google_review_icon.png" alt="Verified Google Review" />
                                     </li>
                                 </ul>
-							</div>
+                            </div>
                         </div>
 
                         <div class="item">
-							<div class="patients_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
-								<p>“पहले मेरी माँ के कमर का दर्द बहोत था । वह ठीक से चल भी नहीं पति थी । हमने बहुत डॉक्टर के पास इलाज करवाया पर कुछ असर नहीं हुआ । फिर मुझे ड़ॉ. विशाल कुंदनानी का पता चला और हमने वहा पर इलाज करवाया । डॉक्टर ने इतनी अच्छी तरह से इलाज किया । और बाद मे भी अच्छी तरह से मदत की , अभी मेरी माँ का दर्द पूरी तरह से ठीक हुआ है । और वह चल भी सकती है । मैं डॉक्टर सहाब को बहोत धन्यवाद करता हु । पहले मेरी माँ के कमर के दर्द को लेकर मैं बहोत परेशान था । वह खुद का काम ठिक से कर नहीं पाती । पर डॉ. कुंदनानी ने कीए हुए ऑपरेशन के बाद मेरी माँ अब चल फिर सकती है और किसी पे भी डिपेंड नहीं है । मै पुनः एक बार डॉक्टर साब को धन्यवाद करता हु ।”</p>
+                            <div class="patients_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                <p>“पहले मेरी माँ के कमर का दर्द बहोत था । वह ठीक से चल भी नहीं पति थी । हमने बहुत डॉक्टर के पास इलाज करवाया पर कुछ असर नहीं हुआ । फिर मुझे ड़ॉ. विशाल कुंदनानी का पता चला और हमने वहा पर इलाज करवाया । डॉक्टर ने इतनी अच्छी तरह से इलाज किया । और बाद मे भी अच्छी तरह से मदत की , अभी मेरी माँ का दर्द पूरी तरह से ठीक हुआ है । और वह चल भी सकती है । मैं डॉक्टर सहाब को बहोत धन्यवाद करता हु । पहले मेरी माँ के कमर के दर्द को लेकर मैं बहोत परेशान था । वह खुद का काम ठिक से कर नहीं पाती । पर डॉ. कुंदनानी ने कीए हुए ऑपरेशन के बाद मेरी माँ अब चल फिर सकती है और किसी पे भी डिपेंड नहीं है । मै पुनः एक बार डॉक्टर साब को धन्यवाद करता हु ।”</p>
                                 <ul>
                                     <li>
                                         <h5>Mr. Ambave<br><span></span></h5>
@@ -846,10 +879,10 @@
                                         <img src="images/google_review_icon.png" alt="Verified Google Review" />
                                     </li>
                                 </ul>
-							</div>
+                            </div>
                         </div>
-						
-						
+
+
                     </div>
 
                 </div>
@@ -858,7 +891,11 @@
         </div>
     </section>
 
-    <section class="spine-expertise-section py-5">
+
+
+
+
+    <section class="spine-expertise-section pt-5 py-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -869,7 +906,7 @@
                             <div class="col-lg-6 col-md-6 col-sm-12 mb-4 mb-lg-0">
                                 <h3 class="mb-4">Excellence in Spine Surgery</h3>
                                 <p class="mb-4">Dr. Vishal Kundnani stands as one of Mumbai's most distinguished spine surgeons, with a remarkable track record of over 5000 successful spine surgeries. As the Director of the <a href="https://spineclinicmumbai.com/mumbai-institute-of-spine-surgery.php">Mumbai Institute of Spine Surgery</a> and Head of Spine Surgery at Lilavati Hospital, he brings international expertise and advanced surgical techniques to treat complex spine conditions.</p>
-                                
+
                                 <div class="expertise-highlights">
                                     <h4 class="mb-3">Specialized Spine Treatments</h4>
                                     <ul class="list-unstyled">
@@ -892,7 +929,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            
+
                             <div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="surgeon-credentials p-4 bg-light rounded">
                                     <h4 class="mb-4">Why Choose Mumbai's Leading Spine Surgeon?</h4>
@@ -921,7 +958,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <!-- Second Row -->
                         <div class="row">
                             <div class="col-lg-12">
@@ -970,6 +1007,85 @@
             </div>
         </div>
     </section>
+
+
+    <!-- <section class="cont-sec-3">
+        <div class="container">
+
+            <div class="row">
+                <div class="header_title">
+                    <h1>Our Locations</h1>
+                </div>
+            </div>
+            <div class="row justify-content-center align-items-center">
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="attachmt">
+                        <h1>Bandra</h1>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60340.56329035408!2d72.829178!3d19.051194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9faabf6f16b%3A0x5b0ba6b0e93ff7df!2sDr%20Vishal%20Kundnani!5e0!3m2!1sen!2sin!4v1746782504288!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                        <ul>
+                            <li><i class="fa-solid fa-location-dot"></i><b>Lilavati Hospital</b> <br> Room 8/9, OPD block, Ground Floor, Bandra Reclamation Rd, Bandra West, Mumbai - 400050</li>
+                            <br>
+                            <li><i class="fa-solid fa-phone-volume"></i>Phone: +91 9619100123 | +91 8657500555</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="attachmt">
+                        <h1>Churchgate</h1>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30190.21876873941!2d72.835515!3d18.941247!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d1bf22eac233%3A0xf1be984e0768c18e!2sDr.%20Vishal%20Kundnani%20-%20Best%20Spine%20Surgeon%20in%20Mumbai%20%7C%20Spine%20Specialist%20Doctor%20in%20Mumbai%20%7C%20Neck%20%26%20Back%20Pain%20Doctor!5e0!3m2!1sen!2sin!4v1746782545964!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                        <ul>
+                            <li><i class="fa-solid fa-location-dot"></i><b>Bombay Hospital</b> <br> Room no 128 - 1st floor MRC building, Marine Lines, Mumbai - 400020</li>
+                            <br>
+                            <li><i class="fa-solid fa-phone-volume"></i>Phone: +91 9619200123 | +91 8657500666</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="attachmt">
+                        <h1>Malad</h1>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15073.258530130865!2d72.8640188010371!3d19.1814553659143!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7a826ae2fd3%3A0x98a2725d2ec7274!2sDr.%20Vishal%20Kundnani%20-%20Best%20Spine%20Specialist%20in%20Mumbai%20%7C%20Spine%20Surgeon%20in%20Mumbai%20%7C%20Back%20Pain%2C%20Sciatica%2C%20Slip%20Disc%20Doctor!5e0!3m2!1sen!2sin!4v1746782574170!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                        <ul>
+                            <li><i class="fa-solid fa-location-dot"></i><b>Spine Clinic</b> <br> 1st Floor, Onkar Towers, Opp. Oberoi Mall, Pimpripada Rd, Malad East, Mumbai - 400063</li>
+                            <br>
+                            <li><i class="fa-solid fa-phone-volume"></i>Phone: +91 9619100123 | +91 8657500555</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="attachmt">
+                        <h1>Borivali</h1>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15069.476055830744!2d72.853849!3d19.222743!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9b931e2c885%3A0xd31dbc87ae1b347f!2sDr.%20Vishal%20Kundnani%20-%20Best%20Spine%20Surgeon%20in%20Mumbai%2C%20Spine%20Specialist%20in%20Mumbai%2C%20Spinal%20Clinic%2C%20Back%20Pain%2C%20Spine%20Doctor%20Mumbai!5e0!3m2!1sen!2sin!4v1746782601615!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                        <ul>
+                            <li><i class="fa-solid fa-location-dot"></i><b>Spine Clinic</b> <br> 2nd Floor, Devkrupa CHS, Shimpoli Signal, SV Road, beside Pulse Diagnostic, Borivali West, Mumbai - 400092</li>
+                            <br>
+                            <li><i class="fa-solid fa-phone-volume"></i>Phone: +91 9619200123 | +91 8657500666</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="attachmt">
+                        <h1>Khar</h1>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d482656.0854108907!2d72.834207!3d19.074697!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c93287e059a5%3A0xccacaea029ee0af0!2sDr.%20Vishal%20Kundnani%20-%20Best%20Spine%20Surgeon%20in%20Mumbai%20%7C%20Spine%20Specialist%20in%20Mumbai!5e0!3m2!1sen!2sin!4v1746784585275!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                        <ul>
+                            <li><i class="fa-solid fa-location-dot"></i><b>Spine Clinic</b> <br> 2nd Floor, Corinthian, Linking Rd, opposite DBS Bank, Khar West, Mumbai, Maharashtra 400052</li>
+                            <br>
+                            <li><i class="fa-solid fa-phone-volume"></i>Phone: +91 9619300123</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section> -->
 
     <?php include 'includes/footer.php'; ?>
 </body>
