@@ -9,6 +9,54 @@
     <meta name="description" content="Dr. Vishal Kundnani is Mumbai's leading spine specialist, offering exceptional care and treatment for spine conditions. Book your consultation Today!">
     <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "About Dr. Vishal Kundnani",
+  "description": "Learn about Dr. Vishal Kundnani's qualifications, experience, and expertise as Mumbai's leading spine surgeon",
+  "url": "https://spinesurgeonmumbai.com/about-doctor.php",
+  "about": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Chief Spine Surgeon",
+    "description": "Gold medalist and fellowship-trained spine surgeon with 15+ years of experience and 5000+ successful surgeries",
+    "knowsAbout": [
+      "Spine Surgery",
+      "Minimal Invasive Spine Surgery",
+      "Scoliosis Correction",
+      "Cervical Spine Surgery"
+    ],
+    "worksFor": {
+      "@type": "MedicalBusiness",
+      "name": "Spine Clinic Mumbai"
+    },
+    "award": [
+      "Gold Medalist",
+      "Fellowship in Spine Surgery"
+    ],
+    "alumniOf": [
+      "UK",
+      "Singapore",
+      "Japan",
+      "Australia",
+      "Malaysia",
+      "Korea"
+    ],
+    "hasCredential": [
+      "MS (Ortho)",
+      "FASSI",
+      "FNUS",
+      "FNAMS"
+    ]
+  },
+  "provider": {
+    "@type": "MedicalBusiness",
+    "name": "Spine Clinic Mumbai",
+    "medicalAudience": "Medical"
+  }
+}
+</script>
 
 </head>
 
@@ -51,7 +99,7 @@
                         <br>Director & Head of Spine Surgery-Center of Excellence in Spine Surgery, Lilavati Hospital, Bandra Mumbai.
                         <br>Head - Mumbai Institute of Spine Surgery, Bombay Hospital, Mumbai.
                     </h3>
-                    <p>Dr. Vishal Kundnani-gold medalist throughout his scholar years - is fellowship trained in spine surgery from international Center’s of repute including UK, Singapore, Japan, Australia, Malaysia and Korea. Dr Vishal Kundnani has treated 20000 + Spine patients in last 15 years non surgically with (latest non surgical treatment protocols for slip disc) and performed 5000+ successful Microsurgery for Slip Disc, minimal invasive spine surgery for Sciatica and laser surgery for Lumbar problem & cervical spine and scoliosis. He is Pioneer in complex spine surgery and is best spine specialist for Scoliosis surgery. He is trained in advanced Robotic spine surgery & Navigation spine surgery. Dr Vishal Kundnani is known for innovation in Awake day care spine surgery and minimal invasive spine surgery. He is internationally renowned for scoliosis & Cervical surgery and has more than 100 international scientific research publications. </p>
+                    <p>Dr. Vishal Kundnani-gold medalist throughout his scholar years - is fellowship trained in spine surgery from international Center's of repute including UK, Singapore, Japan, Australia, Malaysia and Korea. Dr Vishal Kundnani has treated 20000 + Spine patients in last 15 years non surgically with (latest non surgical treatment protocols for slip disc) and performed 5000+ successful Microsurgery for Slip Disc, minimal invasive spine surgery for Sciatica and laser surgery for Lumbar problem & cervical spine and scoliosis. He is Pioneer in complex spine surgery and is best spine specialist for Scoliosis surgery. He is trained in advanced Robotic spine surgery & Navigation spine surgery. Dr Vishal Kundnani is known for innovation in Awake day care spine surgery and minimal invasive spine surgery. He is internationally renowned for scoliosis & Cervical surgery and has more than 100 international scientific research publications. </p>
                     <p>He is national in-charge of fellowship training of young surgeons in india and has trained more than 50 fellows who are now working under his mentorship in various cities across country. Dr Vishal kundnani is the best minimal invasive spine surgeon in Mumbai and India and has trained many on this technique across country. </p>
                     <p>Dr Kundnani is avid sportsperson, fitness enthusiast and philanthropist. He is the founder member of social work NGO - Swasthya and Shiksha foundation - providing Subsidised spine healthcare to tribal population in India and promotes education of female child in rural india. </p>
                     <p>Under the aegis of the Swasthya foundation dr kundnani has conducted more than 20 mega super speciality camps in interior tribal areas in central India - MP, Chattisgarh, UP and Bihar - benefitting more than 50000+ underprivileged and needy patients with non surgical care and has performed more than 1500 free spine surgeries bringing smiles and making healthy spines. He has been termed best spine doctor for slip disc in India. </p>
@@ -105,7 +153,7 @@
                                                     <br>BOS – Bombay Orthopedic Society.
                                                 </li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Advisory board Member – Education committee of ASSI (Asso. Of Spine Surgeons of India).</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Faculty on panel AO Spine International foundation and Asia Pacific Spine Society and National & most International Spine Conference’s.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Faculty on panel AO Spine International foundation and Asia Pacific Spine Society and National & most International Spine Conference's.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">On editorial Board for Spine Journals and Indian Journal of Orthopedics.</li>
                                             </ul>
                                         </div>
@@ -154,7 +202,7 @@
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MIS- Spine Surgery Fellowship, KOREA Mentor– Prof. Choon Lee, Dr. H. Kim, National University Hospital, Seoul, KOREA</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Advanced Cervical Spine Surgery Traveling Fellowship, JAPAN Mentor – Prof Kuniyoshi Abumi, Prof M. Ito, Hokkaido University Hospital, Sapporo, Japan.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Clinical Fellowship in Spine Surgery, SINGAPORE Mentor – Prof H.K. Wong, Prof H.H Tak, Dr. Gabriel Liu, National University Hospital, Singapore.</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">AO Travelling Fellowship in Paediatric Spine Surgery, AUSTRALIA Mentor – Prof P Cundy, Prof Cairn, Women’s & Children University Hospital, Adelaide, AUSTRALIA.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">AO Travelling Fellowship in Paediatric Spine Surgery, AUSTRALIA Mentor – Prof P Cundy, Prof Cairn, Women's & Children University Hospital, Adelaide, AUSTRALIA.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">GLOBAL Travelling Fellowship-Spine Reconstruction, the UK-Mentor –Prof Michael Chung, Queens Medical Center, Nottingham, UK</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Travelling Fellowship Navigation and robotic Spine Surgery, Mentor – Prof –T Lund, Helsinki National Hospital, Finland.</li>
                                             </ul>
@@ -202,47 +250,47 @@
                                                     <td>Research fellowship – Spine Surgery</td>
                                                     <td>Lilavati Hospital & Medical Research Centre, Mumbai</td>
                                                     <td>Spine Foundation, INDIA</td>
-                                                    <td>May’07- July’07</td>
+                                                    <td>May'07- July'07</td>
                                                 </tr>
                                                 <tr>
                                                     <td>National ASSI Fellowship – Spine Surgery</td>
                                                     <td>P.D. Hinduja hospital & Medical Research Centre, Mumbai</td>
                                                     <td>Association of spine surgeons of India, INDIA</td>
-                                                    <td>Aug ’07- Jan’08</td>
+                                                    <td>Aug '07- Jan'08</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Hinduja Hospital Clinical Fellowship – Spine Surgery</td>
                                                     <td>P.D Hinduja hospital & medical research centre, Mumbai</td>
                                                     <td>P. D. Hinduja National hospital & M.R.C, Mumbai</td>
-                                                    <td>Feb’08-July’08</td>
+                                                    <td>Feb'08-July'08</td>
                                                 </tr>
                                                 <tr>
                                                     <td>AO-Synthes Asia Pacific Fellowship Spine Surgery</td>
                                                     <td>P.D Hinduja hospital & medical research centre, Mumbai</td>
                                                     <td>AO Asia Pacific Spine Foundation</td>
-                                                    <td>Aug ’08- Jan’09</td>
+                                                    <td>Aug '08- Jan'09</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Fellowship Minimal invasive Spine Surgery</td>
                                                     <td>Seoul National University Hospital, Korea</td>
                                                     <td>National University, Korea</td>
-                                                    <td>Feb’09-Aprill 09</td>
+                                                    <td>Feb'09-Aprill 09</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Traveling fellowship –Advanced Cervical Spine Surgery</td>
                                                     <td>Hokkaido University Hospital, Sapporo, JAPAN</td>
                                                     <td>Hokkaido University, Sapporo, Japan</td>
-                                                    <td>July’09</td>
+                                                    <td>July'09</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Clinical Fellow ship – Spine Surgery Travelling Fellow ship</td>
                                                     <td>National University Hospital & M.R.C., Singapore</td>
                                                     <td>National university of Singapore</td>
-                                                    <td>May’09- Oct’09</td>
+                                                    <td>May'09- Oct'09</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Travelling Fellowship</td>
-                                                    <td>Spine centre, Women’s & Children University Hospital</td>
+                                                    <td>Spine centre, Women's & Children University Hospital</td>
                                                     <td>Adelaide University, AUSTRALIA</td>
                                                     <td>Nov-09</td>
                                                 </tr>
@@ -295,7 +343,7 @@
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sarkar NK, Thapar U, Kundnani, Functional relevance of J-protein family.Cell Stress Chaperones. 2011 May.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Getzler YD, Kundnani V, Lobkovsky EB Catalytic carbonylation of beta-lactones to succinic anhydrides. J Am Chem Soc. 2004 Jun.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pawar U, Kundnani V, Nene A.M; MDR T.B. Spine –the demographic study of 25 patients of MDR T.B. Spine – Spine, October 2009.</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Saini, Vishal Kundnani, D.S.Meena, P.Patni; Distraction Histogenesis for treatment of Kienbock’s disease: A 2- to 8-year follow-up, Indian Journal of Orthopaedics (IJO) – April – June 2009 / Volume 43 / Issue 2.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Saini, Vishal Kundnani, D.S.Meena, P.Patni; Distraction Histogenesis for treatment of Kienbock's disease: A 2- to 8-year follow-up, Indian Journal of Orthopaedics (IJO) – April – June 2009 / Volume 43 / Issue 2.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Saini, Vishal Kundnani, P.Patni, Early Active mobilization of extensor tendon repair – Indian Journal of Orthopaedics, September 2008 / Volume 42 / Issue 3.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">C.Meena, Vishal Kundnani, Zakir H; Fracture Shaft femur: Close Vs open interlocking nailing- Indian Journal of Orthopaedics, Oct 2006/ Vol 40 / No. 4.</li>
                                             </ul>

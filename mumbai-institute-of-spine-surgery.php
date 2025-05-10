@@ -9,6 +9,39 @@
 	<title>Dr. Vishal Kundnani Pictures at Mumbai Institute of Spine Surgery </title>
 	<meta name="description" content="View pictures of Dr. Vishal Kundnani at the Mumbai Institute of Spine Surgery. See his work and contributions to spine care.">
 	<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "MedicalOrganization",
+	  "name": "Mumbai Institute of Spine Surgery",
+	  "description": "A premier institute for spine surgery and treatment in Mumbai",
+	  "url": "https://spinesurgeonmumbai.com/mumbai-institute-of-spine-surgery.php",
+	  "logo": "https://spinesurgeonmumbai.com/img/logo.png",
+	  "sameAs": [
+		"https://www.facebook.com/spineclinicmumbai",
+		"https://www.instagram.com/spinespecialistvishal/",
+		"https://www.linkedin.com/in/dr-vishal-kundnani-654676b"
+	  ],
+	  "founder": {
+		"@type": "Person",
+		"name": "Dr. Vishal Kundnani",
+		"jobTitle": "Chief Spine Surgeon"
+	  },
+	  "medicalSpecialty": {
+		"@type": "MedicalSpecialty",
+		"name": "Spine Surgery",
+		"description": "Specialized in advanced spine surgery techniques and treatments"
+	  },
+	  "address": {
+		"@type": "PostalAddress",
+		"addressLocality": "Mumbai",
+		"addressRegion": "Maharashtra",
+		"addressCountry": "IN"
+	  }
+	}
+	</script>
+
 	<link rel="canonical" href="https://www.spinesurgeonmumbai.com/mumbai-institute-of-spine-surgery.php" />
 
 </head>

@@ -8,6 +8,38 @@
 	<title>Patient Education Videos by Dr. Vishal Kundnani Spine Specialist Mumbai</title>    
 <meta name="description" content="Watch patient education videos by Dr. Vishal Kundnani Spine Surgeon in Mumbai. Learn about spine health and treatment options in Mumbai.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Patient Education Videos",
+  "description": "Educational videos by Dr. Vishal Kundnani about spine health, treatment options, and surgical procedures.",
+  "url": "https://spinesurgeonmumbai.com/patient-education.php",
+  "about": {
+    "@type": "MedicalBusiness",
+    "name": "Spine Clinic Mumbai",
+    "medicalAudience": "Medical"
+  },
+  "provider": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Chief Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalBusiness",
+      "name": "Spine Clinic Mumbai"
+    }
+  },
+  "mainEntity": {
+    "@type": "VideoObject",
+    "name": "Patient Education Videos",
+    "description": "Collection of educational videos about spine conditions and treatments",
+    "uploadDate": "2024-01-01",
+    "thumbnailUrl": "https://spinesurgeonmumbai.com/img/gallery/a1.jpg"
+  }
+}
+</script>
+
     <?php include 'includes/head.php'; ?>
     <link rel="canonical" href="https://www.spinesurgeonmumbai.com/patient-education.php" />
 </head>
@@ -43,7 +75,7 @@
 				<div class="col-lg-6 col-mg-6 col-sm-6">
 					<div class="gallery1">
 						<iframe width="100%" height="255" src="https://www.youtube.com/embed/Jrw5w5cEysI?si=rd2GcxE1tnQxubDC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-						<h1>A woman who blazed the trail for many- Patient’s success story at SPINE CLINIC Mumbai</h1>
+						<h1>A woman who blazed the trail for many- Patient's success story at SPINE CLINIC Mumbai</h1>
 					</div>
 				</div>
 				<div class="col-lg-6 col-mg-6 col-sm-6">

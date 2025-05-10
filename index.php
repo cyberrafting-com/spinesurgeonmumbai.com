@@ -4,7 +4,7 @@
 <head>
     <title>Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai | Minimal Invasive Spine Surgery</title>
     <meta name="description" content="Dr. Vishal Kundnani - Leading spine surgeon in Mumbai specializing in minimal invasive spine surgery, scoliosis correction & cervical spine treatments. 15+ years experience, 5000+ successful surgeries.">
-    <meta name="keywords" content="Best Spine Surgeon in Mumbai, top Spine Surgeon in Mumbai, Spine surgery specialist mumbai, Minimal Invasive Spine Surgery, Scoliosis Correction, Cervical Spine Treatments, Mumbai Spine Specialist, Orthopedic Surgery, Neurosurgery, Pain Management">
+    <meta name="keywords" content="Best Spine Surgeon in Mumbai, top Spine Surgeon in Mumbai, Spine surgery specialist mumbai, Minimal Invasive Spine Surgery, Scoliosis Correction, Cervical Spine Treatments, Mumbai Spine Specialist, Orthopedic Surgery, Neurosurgery, Pain Management, Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
     <!-- Add Open Graph tags -->
     <meta property="og:title" content="Dr. Vishal Kundnani - Best Spine Surgeon in Mumbai">
@@ -25,87 +25,63 @@
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": "Physician",
-            "name": "Dr. Vishal Kundnani",
-            "jobTitle": "Spine Surgeon Mumbai",
-            "worksFor": {
-                "@type": "Organization",
-                "name": "Spine Clinic - Mumbai Institute of Spine Surgery"
-            },
+            "@type": "MedicalBusiness",
+            "name": "Spine Clinic Mumbai",
+            "description": "Premier spine clinic in Mumbai offering comprehensive spine care and treatment under Dr. Vishal Kundnani",
+            "url": "https://spinesurgeonmumbai.com",
             "address": {
                 "@type": "PostalAddress",
-                "streetAddress": "2nd floor, Corinthian, Spine clinic, Linking Rd, Opposite DBS Bank, Khar, Khar West, Mumbai, Maharashtra 400052.",
+                "streetAddress": "101, 1st Floor, Shanti Niketan Building, 11th Road, Khar West",
                 "addressLocality": "Mumbai",
                 "addressRegion": "Maharashtra",
-                "postalCode": "400053",
+                "postalCode": "400052",
                 "addressCountry": "IN"
             },
-            "telephone": "+91 9619100123",
-            "email": "spineclinicmumbai@gmail.com",
-            "url": "https://www.spinesurgeonmumbai.com/",
-            "image": "https://www.spinesurgeonmumbai.com/img/dr-vishal.jpg",
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "19.0728",
+                "longitude": "72.8306"
+            },
+            "telephone": "+91-9325887033",
+            "priceRange": "₹₹₹",
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "opens": "09:00",
+                "closes": "17:00"
+            },
             "sameAs": [
-                "https://www.youtube.com/@spineclinicmumbai4157/",
                 "https://www.facebook.com/spineclinicmumbai",
                 "https://www.instagram.com/spinespecialistvishal/",
-                "https://www.linkedin.com/in/dr-vishal-kundnani-654676b",
-                "https://x.com/SpineClinicMum"
+                "https://www.linkedin.com/in/dr-vishal-kundnani-654676b"
             ],
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.8",
-                "reviewCount": "357",
-                "bestRating": "5",
-                "worstRating": "1"
+            "department": [
+                {
+                    "@type": "MedicalSpecialty",
+                    "name": "Spine Surgery"
+                },
+                {
+                    "@type": "MedicalSpecialty",
+                    "name": "Spine Anaesthesia"
+                },
+                {
+                    "@type": "MedicalSpecialty",
+                    "name": "Spine Physiotherapy"
+                }
+            ],
+            "founder": {
+                "@type": "Person",
+                "name": "Dr. Vishal Kundnani",
+                "jobTitle": "Chief Spine Surgeon"
             },
-            "review": [{
-                    "@type": "Review",
-                    "author": "Meenaqkshi",
-                    "datePublished": "2024-09-15",
-                    "reviewBody": "One of the best Orthopedic doctor, my mother had bad knee pain and now she is able to walk without pain. Doctor give enough time to him patients and is very humble. Even the staff is very well mannered and polite staff as well. It has been a great experience. Thank you so much sir.",
-                    "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5",
-                        "bestRating": "5"
-                    }
-                },
-                {
-                    "@type": "Review",
-                    "author": "Neha Patil",
-                    "datePublished": "2024-08-20",
-                    "reviewBody": "My heartfelt thanks Dr. Vishal Kundnani for his care and expertise which brought to recent disc replacement surgery of my nephew.From initial consultation to the post-operative care, your professionalism and compassion have been outstanding. Your entire team has been wonderful, and I appreciate the kindness and support they showed me throughout the process.Thank you again for your remarkable skill and care.",
-                    "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "4.5",
-                        "bestRating": "5"
-                    }
-                }
-            ],
-            "medicalSpecialty": [
-                "Spine Surgery",
-                "Orthopedic Surgery",
-                "Neurosurgery",
-                "Physical Therapy",
-                "Pain Management"
-            ],
-            "availableService": [{
-                    "@type": "MedicalTherapy",
-                    "name": "Minimal Invasive Spine Surgery"
-                },
-                {
-                    "@type": "MedicalTherapy",
-                    "name": "Robotic-Assisted Spine Surgery"
-                },
-                {
-                    "@type": "MedicalTherapy",
-                    "name": "Scoliosis Correction Surgery"
-                },
-                {
-                    "@type": "MedicalTherapy",
-                    "name": "Pain Relief Injections for Spine Conditions"
-                }
-            ],
-            "openingHours": "Mo-Sa 09:00-18:00"
+            "medicalAudience": "Medical"
         }
     </script>
 
@@ -184,7 +160,7 @@
                     </h3>
                     <!--<h3>Consultant Spinal Surgeon at Bombay Hospital, Director of Mumbai institute of spine surgery and SPINE CLINIC, Bombay Hospital.</h3>-->
 
-                    <p>Dr. Vishal Kundnani-gold medalist throughout his scholar years - is fellowship trained in spine surgery from international Center’s of repute including UK, Singapore, Japan, Australia, Malaysia and Korea. Dr Vishal Kundnani has treated 20000 + Spine patients in last 15 years non surgically with (latest non surgical treatment protocols for <a href="https://www.slipdiscindia.com/">slip disc</a>) and performed 5000+ successful Microsurgery for Slip Disc, minimal invasive spine surgery for Sciatica and laser surgery for Lumbar problem & cervical spine and scoliosis. He is Pioneer in complex spine surgery and is <a href="https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai.php">best spine specialist</a> for Scoliosis surgery. He is trained in advanced Robotic spine surgery & Navigation spine surgery. Dr Vishal Kundnani is known for innovation in Awake day care spine surgery and minimal invasive spine surgery. He is internationally renowned for scoliosis & Cervical surgery and has more than 100 international scientific research publications. </p>
+                    <p>Dr. Vishal Kundnani-gold medalist throughout his scholar years - is fellowship trained in spine surgery from international Center's of repute including UK, Singapore, Japan, Australia, Malaysia and Korea. Dr Vishal Kundnani has treated 20000 + Spine patients in last 15 years non surgically with (latest non surgical treatment protocols for <a href="https://www.slipdiscindia.com/">slip disc</a>) and performed 5000+ successful Microsurgery for Slip Disc, minimal invasive spine surgery for Sciatica and laser surgery for Lumbar problem & cervical spine and scoliosis. He is Pioneer in complex spine surgery and is <a href="https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai.php">best spine specialist</a> for Scoliosis surgery. He is trained in advanced Robotic spine surgery & Navigation spine surgery. Dr Vishal Kundnani is known for innovation in Awake day care spine surgery and minimal invasive spine surgery. He is internationally renowned for scoliosis & Cervical surgery and has more than 100 international scientific research publications. </p>
 
                     <!--<div class="signature col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <img src="images/signature.png" alt="pic" />
@@ -826,7 +802,7 @@
 
                             <div class="patients_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-                                <p>“My mother Shantaben Vera was having serve pain in back. She was having fracture in lumbar & nerves were compressed, due towhich she was not able to walk for a minute. Dr.Vishal Kundnani operated her on 23rd sept 2015. From the 3rd day of her operation she was able to walk on her own. Now she is getting very much better with surgery excercise & walk she will be as before. All thanks to Dr. Vishal Kundnani for the success of operation.”</p>
+                                <p>"My mother Shantaben Vera was having serve pain in back. She was having fracture in lumbar & nerves were compressed, due towhich she was not able to walk for a minute. Dr.Vishal Kundnani operated her on 23rd sept 2015. From the 3rd day of her operation she was able to walk on her own. Now she is getting very much better with surgery excercise & walk she will be as before. All thanks to Dr. Vishal Kundnani for the success of operation."</p>
                                 <ul>
                                     <li>
                                         <h5>Vijay Vera<br><span></span></h5>
@@ -842,7 +818,7 @@
 
                         <div class="item">
                             <div class="patients_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <p>“I was admitted at Bombay Hospital with hangman’s fracture and underwent a surgery conducted by Dr. Vishal Kundnani which was successful. Right from the admission at the hospital to discharge & the timely followup’s everything was a smooth process. All the needs at the hospital was taken care of extremely well by the Doctor and his assistant. I express my gratitude to Dr. Vishal for having saved my life and I am doing really well now.”</p>
+                                <p>"I was admitted at Bombay Hospital with hangman's fracture and underwent a surgery conducted by Dr. Vishal Kundnani which was successful. Right from the admission at the hospital to discharge & the timely followup's everything was a smooth process. All the needs at the hospital was taken care of extremely well by the Doctor and his assistant. I express my gratitude to Dr. Vishal for having saved my life and I am doing really well now."</p>
                                 <ul>
                                     <li>
                                         <h5>Manud C Joseph<br><span></span></h5>
@@ -856,7 +832,7 @@
 
                         <div class="item">
                             <div class="patients_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <p>“I was going to terrible pain in the month of April/May/june/July-15. I couldnt sleeep properlyat any time of day or night then I decided to get expert openion and I found from my family Doctor and he suggested me to meet Dr. Vishal Kundnani and then immediately we decided to get operate. I had Spine TB. I got operated on 25-08-2015 and today is 29-9-15. I am feeling physicaly fit nad now I can do all my routin work and I dont even feel that I got operated just 1 month back. I am very happy with Dr. Vishal treatment an I would even suggest to other potients. Thanking you”.</p>
+                                <p>"I was going to terrible pain in the month of April/May/june/July-15. I couldn't sleeep properlyat any time of day or night then I decided to get expert openion and I found from my family Doctor and he suggested me to meet Dr. Vishal Kundnani and then immediately we decided to get operate. I had Spine TB. I got operated on 25-08-2015 and today is 29-9-15. I am feeling physicaly fit nad now I can do all my routin work and I dont even feel that I got operated just 1 month back. I am very happy with Dr. Vishal treatment an I would even suggest to other potients. Thanking you"</p>
                                 <ul>
                                     <li>
                                         <h5>Mrs. Shila U. Somaiya<br><span></span></h5>
@@ -870,7 +846,7 @@
 
                         <div class="item">
                             <div class="patients_info col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <p>“पहले मेरी माँ के कमर का दर्द बहोत था । वह ठीक से चल भी नहीं पति थी । हमने बहुत डॉक्टर के पास इलाज करवाया पर कुछ असर नहीं हुआ । फिर मुझे ड़ॉ. विशाल कुंदनानी का पता चला और हमने वहा पर इलाज करवाया । डॉक्टर ने इतनी अच्छी तरह से इलाज किया । और बाद मे भी अच्छी तरह से मदत की , अभी मेरी माँ का दर्द पूरी तरह से ठीक हुआ है । और वह चल भी सकती है । मैं डॉक्टर सहाब को बहोत धन्यवाद करता हु । पहले मेरी माँ के कमर के दर्द को लेकर मैं बहोत परेशान था । वह खुद का काम ठिक से कर नहीं पाती । पर डॉ. कुंदनानी ने कीए हुए ऑपरेशन के बाद मेरी माँ अब चल फिर सकती है और किसी पे भी डिपेंड नहीं है । मै पुनः एक बार डॉक्टर साब को धन्यवाद करता हु ।”</p>
+                                <p>"पहले मेरी माँ के कमर का दर्द बहोत था । वह ठीक से चल भी नहीं पति थी । हमने बहुत डॉक्टर के पास इलाज करवाया पर कुछ असर नहीं हुआ । फिर मुझे ड़ॉ. विशाल कुंदनानी का पता चला और हमने वहा पर इलाज करवाया । डॉक्टर ने इतनी अच्छी तरह से इलाज किया । और बाद मे भी अच्छी तरह से मदत की , अभी मेरी माँ का दर्द पूरी तरह से ठीक हुआ है । और वह चल भी सकती है । मैं डॉक्टर सहाब को बहोत धन्यवाद करता हु । पहले मेरी माँ के कमर के दर्द को लेकर मैं बहोत परेशान था । वह खुद का काम ठिक से कर नहीं पाती । पर डॉ. कुंदनानी ने कीए हुए ऑपरेशन के बाद मेरी माँ अब चल फिर सकती है और किसी पे भी डिपेंड नहीं है । मै पुनः एक बार डॉक्टर साब को धन्यवाद करता हु ।"</p>
                                 <ul>
                                     <li>
                                         <h5>Mr. Ambave<br><span></span></h5>

@@ -5,10 +5,40 @@
 
 
  <title>Case of Slip Disc by Dr. Vishal Kundnani | Best Spine Specialist in Mumbai</title>    
-<meta name="description" content="Examine a slip disc case treated by Dr. Vishal Kundnani, Mumbai’s top spine specialist. Effective treatment solutions showcased.">  
+<meta name="description" content="Examine a slip disc case treated by Dr. Vishal Kundnani, Mumbai's top spine specialist. Effective treatment solutions showcased.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
- <?php include 'includes/head.php';?>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalCaseStudy",
+  "name": "Case of Slip Disc",
+  "description": "A detailed case study of a patient with slip disc (herniated disc) successfully treated by Dr. Vishal Kundnani at Spine Clinic Mumbai.",
+  "url": "https://spinesurgeonmumbai.com/case-of-slip-disc.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Chief Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalBusiness",
+      "name": "Spine Clinic Mumbai"
+    }
+  },
+  "medicalAudience": "Medical",
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "Slip Disc (Herniated Disc)",
+    "description": "A condition where the soft cushion between vertebrae slips out of place, causing pain and nerve compression."
+  },
+  "treatment": {
+    "@type": "MedicalProcedure",
+    "name": "Microendoscopic Spine Surgery",
+    "description": "A minimally invasive surgical procedure to remove the herniated disc material and relieve nerve compression."
+  }
+}
+</script>
+
+<?php include 'includes/head.php';?>
 </head>
 
 

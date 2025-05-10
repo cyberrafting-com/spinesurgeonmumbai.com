@@ -7,7 +7,30 @@
 
     <title>Dr. Vishal Kundnani Image Gallery | Explore More Photos</title>    
 <meta name="description" content="Explore Dr. Vishal Kundnani's image gallery. See photos of his work, achievements, and patient care in Mumbai.">  
-<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+<meta name="keywords" content="Spine Surgery Images, Spine Treatment Photos, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Image Gallery - Spine Surgery",
+  "description": "Collection of images showing spine surgery procedures and treatments at Spine Clinic Mumbai.",
+  "url": "https://spinesurgeonmumbai.com/image-gallery.php",
+  "about": {
+    "@type": "MedicalBusiness",
+    "name": "Spine Clinic Mumbai",
+    "medicalAudience": "Medical"
+  },
+  "mainEntity": {
+    "@type": "ImageGallery",
+    "name": "Spine Surgery Image Gallery",
+    "description": "Images of spine surgery procedures and treatments",
+    "datePublished": "2024-01-01",
+    "thumbnailUrl": "https://spinesurgeonmumbai.com/img/gallery/a1.jpg"
+  }
+}
+</script>
+
     <?php include 'includes/head.php'; ?>
     <link rel="canonical" href="https://www.spinesurgeonmumbai.com/image-gallery.php" />
 </head>
