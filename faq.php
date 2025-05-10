@@ -5,8 +5,57 @@
  <?php include 'includes/head.php';?>
 
  <title>FAQs related to Spine Disease and Treatment | Dr. Vishal Kundnani Spine Specialist Mumbai</title>    
-<meta name="description" content=" Get answers to frequently asked questions about spine disease and treatment in Mumbai from Dr. Vishal Kundnani, Mumbai’s expert spine specialist. ">  
-<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+<meta name="description" content=" Get answers to frequently asked questions about spine disease and treatment in Mumbai from Dr. Vishal Kundnani, Mumbai's expert spine specialist. ">  
+<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai, Spine Surgery FAQ, Spine Treatment Questions, Back Pain FAQ, Dr. Vishal Kundnani FAQ, Spine Specialist Mumbai FAQ, Spine Surgery Recovery, Spine Treatment Cost, Spine Surgery Risks, Spine Surgery Recovery Time, Spine Treatment Options">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common spine conditions treated at Spine Clinic Mumbai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We treat various spine conditions including herniated discs, spinal stenosis, scoliosis, degenerative disc disease, and spinal fractures. Our team specializes in both surgical and non-surgical treatments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the recovery time after spine surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery time varies depending on the type of surgery and individual factors. Generally, patients can return to light activities within 2-4 weeks, and full recovery may take 3-6 months. Our team provides personalized rehabilitation plans."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the non-surgical treatment options for spine conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-surgical options include physical therapy, medication management, spinal injections, and lifestyle modifications. We always explore conservative treatments before considering surgery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if I need spine surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is considered when conservative treatments fail to provide relief, or when there's significant nerve compression or structural damage. Dr. Kundnani will thoroughly evaluate your condition and discuss all treatment options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Spine Clinic Mumbai different from other spine centers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer state-of-the-art facilities, minimally invasive surgical techniques, comprehensive rehabilitation programs, and personalized care plans. Our team is led by Dr. Vishal Kundnani, a highly experienced spine surgeon with international training."
+      }
+    }
+  ]
+}
+</script>
 
   
 </head>
@@ -55,7 +104,7 @@
                         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                             <div class="panel-body">
                                 <div class="cliclskil1">
-								<p>In between your vertebrae in your spine, you have intervertebral discs. They help cushion your movements. The disc has a gel-like inner substance called the nucleus pulposus and a tire-like outer band called the annulus fibrosus. The nucleus gel-like material can push out through the rupture in the outer ring annulus: that’s called a herniated disc or a slip disc or disc herniation.</p>
+								<p>In between your vertebrae in your spine, you have intervertebral discs. They help cushion your movements. The disc has a gel-like inner substance called the nucleus pulposus and a tire-like outer band called the annulus fibrosus. The nucleus gel-like material can push out through the rupture in the outer ring annulus: that's called a herniated disc or a slip disc or disc herniation.</p>
 								
 								</div>
 							</div>
@@ -90,7 +139,7 @@
 					
 <p><b>To help deal with pain from a herniated disc, you can try:</b></p>
 <ul>
-<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ice during the first 24 to 48 hours after the initial injury (if you herniate your disc suddenly). The ice will help reduce the swelling, muscle spasms, and pain. Wrap the ice in a towel and put it on the painful area for 15 minutes at a time.</li>
+<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ice during the first 24 to 48 hours after the initial injury, The ice will help reduce the swelling, muscle spasms, and pain. Wrap the ice in a towel and put it on the painful area for 15 minutes at a time.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Heat after the first 48 hours because that will warm and relax sore tissues. You can use a heating pad for 20 minutes at a time.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Restricting your activities that increase the pain</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Light exercise (walking, swimming, etc.) as recommended by your doctor</li>
@@ -302,7 +351,7 @@
                         <div id="collapseFourteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFourteen">
                             <div class="panel-body">
                                 <div class="cliclskil1">
-								<p>Yes, it’s a very simple and safe surgery for SLIP DISC or SCIATICA and the patient can be discharged on the same day of surgery.</p>
+								<p>Yes, it's a very simple and safe surgery for SLIP DISC or SCIATICA and the patient can be discharged on the same day of surgery.</p>
 								</div>
                             </div>
                         </div>

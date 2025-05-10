@@ -9,6 +9,28 @@
 <meta name="description" content="Watch educational videos on spine surgery by Dr. Vishal Kundnani Spine Surgeon in Mumbai. Learn about procedures and treatments for spine health.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Video Gallery - Spine Surgery Education",
+  "description": "Collection of educational videos about spine surgery and treatments by Dr. Vishal Kundnani.",
+  "url": "https://spinesurgeonmumbai.com/video-gallery.php",
+  "about": {
+    "@type": "MedicalBusiness",
+    "name": "Spine Clinic Mumbai",
+    "medicalAudience": "Medical"
+  },
+  "mainEntity": {
+    "@type": "VideoObject",
+    "name": "Spine Surgery Educational Videos",
+    "description": "Educational videos about spine surgery procedures and treatments",
+    "uploadDate": "2024-01-01",
+    "thumbnailUrl": "https://spinesurgeonmumbai.com/img/gallery/a1.jpg"
+  }
+}
+</script>
+
     <?php include 'includes/head.php'; ?>
 
 </head>

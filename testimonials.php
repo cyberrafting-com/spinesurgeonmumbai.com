@@ -5,8 +5,44 @@
 
 
  <title>Patient Testimonials | Dr. Vishal Kundnani Spine Specialist in Mumbai</title>    
-<meta name="description" content="Read testimonials from patients of Dr. Vishal Kundnani, Mumbai’s top spine specialist. Success stories and feedback.">  
+<meta name="description" content="Read testimonials from patients of Dr. Vishal Kundnani, Mumbai's top spine specialist. Success stories and feedback.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Patient Testimonials",
+  "description": "Read testimonials from patients of Dr. Vishal Kundnani, Mumbai's top spine specialist. Success stories and feedback.",
+  "url": "https://spinesurgeonmumbai.com/testimonials.php",
+  "about": {
+    "@type": "MedicalBusiness",
+    "name": "Spine Clinic Mumbai",
+    "medicalAudience": "Medical"
+  },
+  "provider": {
+    "@type": "MedicalBusiness",
+    "name": "Spine Clinic Mumbai",
+    "medicalAudience": "Medical"
+  },
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5",
+      "bestRating": "5"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Patient"
+    },
+    "publisher": {
+      "@type": "MedicalBusiness",
+      "name": "Spine Clinic Mumbai"
+    }
+  }
+}
+</script>
 
    <?php include 'includes/head.php';?>
 </head>

@@ -6,8 +6,56 @@
 
 <title>Spine Surgeon Team Mumbai | Dr. Vishal Kundnani | Spine Clinic Mumbai | </title>    
 <meta name="description" content="Meet the spine surgeon team led by Dr. Vishal Kundnani in Mumbai. Expert care and treatment for spine conditions. ">  
-<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
- <?php include 'includes/head.php';?>
+<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai, Spine Surgeon Team Mumbai, Dr. Vishal Kundnani Team, Spine Specialist Team Mumbai, Spine Clinic Mumbai Team, Spine Surgery Experts Mumbai, Spine Treatment Team Mumbai, Spine Surgery Specialists, Spine Anaesthesia Team, Spine Physiotherapy Team, Best Spine Team Mumbai, Spine Clinic Staff">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "name": "Spine Clinic Mumbai",
+  "description": "Meet the expert spine surgeon team led by Dr. Vishal Kundnani at Spine Clinic Mumbai. Our team includes specialists in spine surgery, anaesthesia, and physiotherapy.",
+  "url": "https://spinesurgeonmumbai.com/spine-team.php",
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Dr. Vishal Kundnani",
+      "jobTitle": "Chief Spine Surgeon",
+      "description": "MBBS, MS (Orth), DNB (Orth), FNB (Spine), Spine Fellowship (Singapore, USA, UK, Germany)",
+      "worksFor": "Spine Clinic Mumbai"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. Ankit Patel",
+      "jobTitle": "Spine Surgeon",
+      "description": "MBBS, MS (Orth), Spine Fellowship (India)",
+      "worksFor": "Spine Clinic Mumbai"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. Sudheer Gupta",
+      "jobTitle": "Spine Surgeon",
+      "description": "MBBS, MS (Orth), Spine Fellowship (India)",
+      "worksFor": "Spine Clinic Mumbai"
+    }
+  ],
+  "department": [
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Spine Surgery"
+    },
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Spine Anaesthesia"
+    },
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Spine Physiotherapy"
+    }
+  ]
+}
+</script>
+
+<?php include 'includes/head.php';?>
 
   
 </head>

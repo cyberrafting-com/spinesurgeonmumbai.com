@@ -6,8 +6,34 @@
  
     <title>Case of MIS TLIF – Spinal Fusion by Dr. Vishal Kundnani | Best Spine Specialist in Mumbai</title>
     <meta name="description" content="Review a case of MIS TLIF spinal fusion surgery by Dr. Vishal Kundnani, showcasing advanced treatment techniques in Mumbai. ">
-    <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-   <?php include 'includes/head.php'; ?>
+    <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai, Spinal Stenosis Case Study, Spine Surgery Success Story, Dr. Vishal Kundnani Case Study, Spine Specialist Mumbai Case, Spinal Stenosis Treatment Mumbai, Spine Surgery Mumbai, Spine Clinic Mumbai, Spinal Stenosis Recovery, Spine Disease Case Study, Spine Treatment Success">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalCaseStudy",
+  "name": "Case of Spinal Stenosis Treatment",
+  "description": "A detailed case study of a patient with spinal stenosis successfully treated by Dr. Vishal Kundnani at Spine Clinic Mumbai.",
+  "url": "https://spinesurgeonmumbai.com/case-of-spinal-stenosis.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Chief Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalBusiness",
+      "name": "Spine Clinic Mumbai"
+    }
+  },
+  "medicalAudience": "Medical",
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "Spinal Stenosis",
+    "description": "Spinal stenosis is a narrowing of the spaces within your spine, which can put pressure on the nerves that travel through the spine."
+  }
+}
+</script>
+
+<?php include 'includes/head.php'; ?>
 
 </head>
 
@@ -56,7 +82,7 @@
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Book the appointment with Spine Clinic Mumbai –Premium Spine center in Mumbai</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Meet best spine specialist in Mumbai – Dr.Vishal kundnani, Senior Spine surgeon Spine Clinic Mumbai</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal stenosis, lumbar Canal Stenosis L4-5, and L5-S1 was diagnosed as the cause of leg pain AND difficulty in walking with heaviness and numbness in legs</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Advised physiotherapy and medical pain management – gave partial relief by 25-30 %, however, affected still walking due to leg pain and numbness and couldn’t walk long distance</li>
+				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Advised physiotherapy and medical pain management – gave partial relief by 25-30 %, however, affected still walking due to leg pain and numbness and couldn't walk long distance</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Injection in spine – epidural steroid injection was given which gave 30-40 % relief for 2 months</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Symptoms recurred after 3 months of treatment and affected walking</li>
 			</ul>

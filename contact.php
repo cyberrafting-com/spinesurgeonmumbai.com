@@ -9,6 +9,59 @@
 	<meta name="description" content="Dr. Vishal Kundnani is Bandra's top spine doctor, providing expert care and treatment for all spine-related conditions.">
 	<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "name": "Spine Clinic Mumbai",
+  "description": "Contact information for Spine Clinic Mumbai and Dr. Vishal Kundnani",
+  "url": "https://spinesurgeonmumbai.com/contact.php",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "101, 1st Floor, Shanti Niketan Building, 11th Road, Khar West",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "postalCode": "400052",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "19.0728",
+    "longitude": "72.8306"
+  },
+  "telephone": "+91-9325887033",
+  "priceRange": "₹₹₹",
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "09:00",
+    "closes": "17:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/spineclinicmumbai",
+    "https://www.instagram.com/spinespecialistvishal/",
+    "https://www.linkedin.com/in/dr-vishal-kundnani-654676b"
+  ],
+  "department": [
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Spine Surgery"
+    },
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Spine Rehabilitation"
+    }
+  ],
+  "medicalAudience": "Medical"
+}
+</script>
 
 	<?php include 'includes/head.php'; ?>
 

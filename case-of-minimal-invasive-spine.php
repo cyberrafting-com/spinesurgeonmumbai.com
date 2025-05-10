@@ -9,6 +9,31 @@
 <meta name="description" content="Discover a case study on minimal invasive spine surgery by Dr. Vishal Kundnani, Mumbai's leading spine specialist.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalCaseStudy",
+  "name": "Case of Minimal Invasive Spine Surgery",
+  "description": "A detailed case study showcasing minimal invasive spine surgery techniques by Dr. Vishal Kundnani at Spine Clinic Mumbai.",
+  "url": "https://spinesurgeonmumbai.com/case-of-minimal-invasive-spine.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Chief Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalBusiness",
+      "name": "Spine Clinic Mumbai"
+    }
+  },
+  "medicalAudience": "Medical",
+  "about": {
+    "@type": "MedicalProcedure",
+    "name": "Minimal Invasive Spine Surgery",
+    "description": "A modern surgical approach that minimizes tissue damage while effectively treating spine conditions."
+  }
+}
+</script>
+
     <?php include 'includes/head.php'; ?>
 
 </head>

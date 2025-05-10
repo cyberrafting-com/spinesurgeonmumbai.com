@@ -8,7 +8,38 @@
     <title>Case of MIS TLIF – Spinal Fusion by Dr. Vishal Kundnani | Best Spine Specialist in Mumbai</title>    
 <meta name="description" content="Review a case of MIS TLIF spinal fusion surgery by Dr. Vishal Kundnani, showcasing advanced treatment techniques in Mumbai. ">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-    <?php include 'includes/head.php'; ?>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalCaseStudy",
+  "name": "Case of MIS TLIF – Spinal Fusion",
+  "description": "A detailed case study of a patient with spinal stenosis and spondylolisthesis successfully treated with MIS TLIF by Dr. Vishal Kundnani at Spine Clinic Mumbai.",
+  "url": "https://spinesurgeonmumbai.com/case-of-mis-tlif-spinal-fusion.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Chief Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalBusiness",
+      "name": "Spine Clinic Mumbai"
+    }
+  },
+  "medicalAudience": "Medical",
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "Spinal Stenosis with Spondylolisthesis",
+    "description": "Spinal stenosis with spondylolisthesis is a condition where there is narrowing of the spinal canal combined with slippage of one vertebra over another."
+  },
+  "treatment": {
+    "@type": "MedicalProcedure",
+    "name": "MIS TLIF (Minimal Invasive Transforaminal Lumbar Interbody Fusion)",
+    "description": "A minimally invasive spinal fusion procedure that stabilizes the spine while minimizing tissue damage and promoting faster recovery."
+  }
+}
+</script>
+
+<?php include 'includes/head.php'; ?>
 </head>
 
 
@@ -57,7 +88,7 @@
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">In consultation with one friend who was operated for slip disc at Spine Clinic Mumbai byone of the best spine specialist in Mumbai – Dr. Vishal Kundnani ,Senior Spine surgeon Spine Clinic Mumbai met the Spinal Surgeon –Dr. Vishal Kundnani at his Spine Clinic Goregaon , Malad , Kandiwali.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">After clinical examination a X ray was done in bending position , Flexion and extension x ray which shows a slip of L4 bone over L5 bone resulting in nerve compression. MRI of spine is advised to arrive at diagnosis</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal stenosis with spondylolisthesis (slip of one bone over another resulting in nerve compression) at L4-5 diagnosed as the cause of leg pain AND difficulty in walking with heaviness and numbness in legs.</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Advised physiotherapy and medical pain management – gave partial relief however affected walking due to leg pain and numbness and couldn’t walk long distance.</li>
+				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Advised physiotherapy and medical pain management – gave partial relief however affected walking due to leg pain and numbness and couldn't walk long distance.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Symptoms recurred and progressed every month resulting in reduced walking</li>
 			</ul>
 			<h1>Plan of Surgery (Minimal invasive spinal fusion for spondylolisthesis –MIS TLIF ) –</h1>
@@ -100,7 +131,7 @@
 			<p class="mt-2">Tubular Micro endoscopic spine surgery (decompression and spinal fusion) MIS TLIF was done with small incision in spine using tubular retractor and microscope by Dr. Vishal Kundnani at spine clinic Mumbai. Spinal Stenosis with spondylolisthesis surgery done with Minimal invasive spine surgery with transforaminal interbody fusion (MIS TLIF) technique by Dr. Vishal Kundnani using small incision of 2 cm only . Patient got immediate relief and no bed rest required with early return to work.</p>
 			<h1>Is spinal implant safe? Is screw plate in spine safe ? Is screw plate FUSION surgery safe? –</h1>
 			<ul>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes. The spinal implants used for spinal fusion surgery are made of titanium which is an inert metal and extremely safe for the human body. When spinal implant, spine screw plate, screw plate in the spine is inserted in control by a trained spinal surgeon they don’t create any problem.</li>
+				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes. The spinal implants used for spinal fusion surgery are made of titanium which is an inert metal and extremely safe for the human body. When spinal implant, spine screw plate, screw plate in the spine is inserted in control by a trained spinal surgeon they don't create any problem.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To enhance safety Intraoperatively some Spinal surgeons use IITV (X-RAY ) and navigation and robotics in spine surgery to make sure surgery is safe for patients.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr. Vishal Kundnani is the pioneer in Spine Navigation surgery in Mumbai. Dr. Vishal Kundnani is the best spine Navigation surgeon in India. Dr. Vishal Kundnani is trained in Navigation spine surgery and robotic spine surgery. Robot in spine surgery makes spine surgery safe. Dr. Vishal Kundnani is the best robotic spine surgeon in Mumbai and best Spine Navigation surgeon in Mumbai for Computer-guided navigation spine surgery in Mumbai.</li>
 			</ul>

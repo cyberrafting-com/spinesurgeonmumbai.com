@@ -5,7 +5,39 @@
 	<?php include 'includes/head.php'; ?>
 	<title>Spine Disease & Surgery Blogs by Dr. Vishal Kundnani</title>
 	<meta name="description" content="Explore insightful blogs on spine diseases and surgical care by Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert advice and updates on spine health.">
-	<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+	<meta name="keywords" content="Spine Surgery Blog, Spine Health Articles, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "Blog",
+	  "name": "Spine Surgery Blog",
+	  "description": "Latest articles and updates about spine surgery and treatments by Dr. Vishal Kundnani.",
+	  "url": "https://spinesurgeonmumbai.com/blog.php",
+	  "about": {
+	    "@type": "MedicalBusiness",
+	    "name": "Spine Clinic Mumbai",
+	    "medicalAudience": "Medical"
+	  },
+	  "author": {
+	    "@type": "Person",
+	    "name": "Dr. Vishal Kundnani",
+	    "jobTitle": "Spine Surgeon",
+	    "worksFor": {
+	      "@type": "MedicalBusiness",
+	      "name": "Spine Clinic Mumbai"
+	    }
+	  },
+	  "publisher": {
+	    "@type": "Organization",
+	    "name": "Spine Clinic Mumbai",
+	    "logo": {
+	      "@type": "ImageObject",
+	      "url": "https://spinesurgeonmumbai.com/img/logo.png"
+	    }
+	  }
+	}
+	</script>
 </head>
 
 <body>

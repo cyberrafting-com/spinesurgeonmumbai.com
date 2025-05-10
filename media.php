@@ -5,10 +5,53 @@
 
 
  <title>News Articles for Dr. Vishal Kundnani Spine Specialist Mumbai</title>    
-<meta name="description" content="Stay updated with the latest news articles about Dr. Vishal Kundnani, Mumbai’s top spine specialist. Expert insights and updates.">  
-<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+<meta name="description" content="Stay updated with the latest news articles about Dr. Vishal Kundnani, Mumbai's top spine specialist. Expert insights and updates.">  
+<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai, Spine Surgery News, Dr. Vishal Kundnani Media, Spine Specialist Mumbai News, Spine Surgery Articles, Spine Treatment News, Spine Surgery Research, Spine Surgery Publications, Spine Surgery Media Coverage, Spine Surgery Press Releases, Spine Surgery Interviews">
 
- <?php include 'includes/head.php';?>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Media Coverage - Spine Clinic Mumbai",
+  "description": "Latest news, articles, and media coverage featuring Dr. Vishal Kundnani and Spine Clinic Mumbai",
+  "url": "https://spinesurgeonmumbai.com/media.php",
+  "about": {
+    "@type": "MedicalBusiness",
+    "name": "Spine Clinic Mumbai",
+    "medicalAudience": "Medical"
+  },
+  "mainEntity": [
+    {
+      "@type": "NewsArticle",
+      "headline": "Minimal Invasive Spine Surgeons of India 2019",
+      "datePublished": "2019-01-01",
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Vishal Kundnani"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Spine Clinic Mumbai"
+      }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "Micro Endoscopic Minimal Invasive Spine Surgery",
+      "datePublished": "2019-01-01",
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Vishal Kundnani"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Spine Clinic Mumbai"
+      }
+    }
+  ]
+}
+</script>
+
+<?php include 'includes/head.php';?>
 
   
 </head>

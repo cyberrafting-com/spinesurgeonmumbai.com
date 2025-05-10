@@ -3,7 +3,51 @@
 <head>
 <title>Best Spine Surgeon in Mumbai</title>    
 <meta name="description" content="Dr. Vishal Kundnani is one of the best spine surgeons in Mumbai with 27 years of surgical experience.">  
-<meta name="keywords" content="Dr. Vishal Kundnani is one of the best spine surgeons in Mumbai with 27 years of surgical experience.">
+<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Best Spine Surgeon in Mumbai",
+  "description": "Information about Dr. Vishal Kundnani, one of the best spine surgeons in Mumbai with extensive experience in complex spine surgeries",
+  "url": "https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai.php",
+  "about": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Chief Spine Surgeon",
+    "description": "Gold medalist and fellowship-trained spine surgeon with 15+ years of experience and 5000+ successful surgeries",
+    "knowsAbout": [
+      "Spine Surgery",
+      "Minimal Invasive Spine Surgery",
+      "Scoliosis Correction",
+      "Cervical Spine Surgery"
+    ],
+    "worksFor": {
+      "@type": "MedicalBusiness",
+      "name": "Spine Clinic Mumbai"
+    },
+    "award": [
+      "Gold Medalist",
+      "Fellowship in Spine Surgery"
+    ],
+    "alumniOf": [
+      "UK",
+      "Singapore",
+      "Japan",
+      "Australia",
+      "Malaysia",
+      "Korea"
+    ]
+  },
+  "provider": {
+    "@type": "MedicalBusiness",
+    "name": "Spine Clinic Mumbai",
+    "medicalAudience": "Medical"
+  }
+}
+</script>
+
 <?php include 'includes/head.php';?>
 </head>
 
@@ -37,9 +81,9 @@
                         <img src="img/spine-surgeons-in-mumbai.jpg" alt="" class="img-responsive pt-5">
                         <h2>Dr. Vishal Kundanani – Leading Spine Surgeon and Minimally Invasive Spine Specialist in Mumbai</h2>
                         <p>Dr. Vishal Kundanani, a renowned spine surgeon with qualifications including MS (Ortho), FASSI, FNUS, and FNAMS, is at the forefront of advanced spinal care in Mumbai. He holds esteemed positions as the Director and Head of Spine Surgery at the Center of Excellence in Spine Surgery at Lilavati Hospital, Bandra, and Head of the Mumbai Institute of Spine Surgery at Bombay Hospital. Known for his expertise in minimally invasive spine surgery, cervical spine disorders, scoliosis, and microendoscopic techniques, Dr. Vishal Kundanani offers comprehensive care for complex spinal conditions.</p>
-                        <p>With a foundation of academic excellence as a gold medalist, Dr. Vishal Kundanani’s career is further distinguished by international fellowship training at leading spine surgery centers in the UK, Singapore, Japan, Australia, Malaysia, and Korea. His experience spans over 15 years, during which he has successfully treated more than 20,000 patients with non-surgical protocols for conditions like <a href="https://www.slipdiscindia.com/" target="_blank">slipped discs</a> and has performed over 5,000 spine surgeries, including microsurgery, minimally invasive procedures for sciatica, and laser treatments for lumbar and cervical spine issues.</p>
-                        <p>A true innovator in his field, Dr. Vishal Kundanani is among the first in India to bring advanced robotic and navigation-assisted spine surgery to his practice, greatly enhancing precision in complex procedures. He is also a pioneer of awake day-care spine surgeries, making spinal treatment accessible and efficient without the need for extended hospital stays. Dr. Vishal Kundanani’s expertise is especially sought after for scoliosis correction and cervical spine surgeries, where his minimally invasive approaches have transformed recovery times and outcomes for patients.</p>
-                        <p>Dr. Vishal Kundanani’s work is backed by a robust portfolio of over 100 scientific research publications, which have earned him international recognition in spine care and surgery. His dedication to advancing spinal treatment makes him a leading choice for patients seeking expert, cutting-edge care with a personalized approach.</p>
+                        <p>With a foundation of academic excellence as a gold medalist, Dr. Vishal Kundanani's career is further distinguished by international fellowship training at leading spine surgery centers in the UK, Singapore, Japan, Australia, Malaysia, and Korea. His experience spans over 15 years, during which he has successfully treated more than 20,000 patients with non-surgical protocols for conditions like <a href="https://www.slipdiscindia.com/" target="_blank">slipped discs</a> and has performed over 5,000 spine surgeries, including microsurgery, minimally invasive procedures for sciatica, and laser treatments for lumbar and cervical spine issues.</p>
+                        <p>A true innovator in his field, Dr. Vishal Kundanani is among the first in India to bring advanced robotic and navigation-assisted spine surgery to his practice, greatly enhancing precision in complex procedures. He is also a pioneer of awake day-care spine surgeries, making spinal treatment accessible and efficient without the need for extended hospital stays. Dr. Vishal Kundanani's expertise is especially sought after for scoliosis correction and cervical spine surgeries, where his minimally invasive approaches have transformed recovery times and outcomes for patients.</p>
+                        <p>Dr. Vishal Kundanani's work is backed by a robust portfolio of over 100 scientific research publications, which have earned him international recognition in spine care and surgery. His dedication to advancing spinal treatment makes him a leading choice for patients seeking expert, cutting-edge care with a personalized approach.</p>
                         <h2>Treatments</h2>
                         <div class="row">
                             <div class="col-lg-4 col-md-6 col-12">
@@ -85,12 +129,12 @@
                                     </div>
                                     <div class="content">
                                         <h4>Manud C Joseph</h4>
-                                        <p>"I was admitted at Bombay Hospital with hangman’s fracture and underwent a surgery conducted by Dr. Vishal Kundnani which was successful. Right from the admission at the hospital to discharge &amp; the timely followup’s everything was a smooth process. All the needs at the hospital was taken care of extremely well by the Doctor and his assistant. I express my gratitude to Dr. Vishal for having saved my life and I am doing really well now."</p>
+                                        <p>"I was admitted at Bombay Hospital with hangman's fracture and underwent a surgery conducted by Dr. Vishal Kundnani which was successful. Right from the admission at the hospital to discharge &amp; the timely followup's everything was a smooth process. All the needs at the hospital was taken care of extremely well by the Doctor and his assistant. I express my gratitude to Dr. Vishal for having saved my life and I am doing really well now."</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <p class="pt-5">For patients in Mumbai and beyond, Dr. Vishal Kundanani represents the very best in spine surgery, combining world-class techniques with a commitment to innovative, minimally invasive treatment solutions. His <a href="https://spineclinicmumbai.com/" target="_blank">"Spine Clinic Mumbai"</a> offers expert consultations, ensuring personalized care and guidance for each patient’s spine health needs.</p>
+                        <p class="pt-5">For patients in Mumbai and beyond, Dr. Vishal Kundanani represents the very best in spine surgery, combining world-class techniques with a commitment to innovative, minimally invasive treatment solutions. His <a href="https://spineclinicmumbai.com/" target="_blank">"Spine Clinic Mumbai"</a> offers expert consultations, ensuring personalized care and guidance for each patient's spine health needs.</p>
                     </div>
                 </div>
             </div>
