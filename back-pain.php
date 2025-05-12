@@ -6,8 +6,83 @@
 
 
     <title>Back Pain Treatment in Mumbai by Dr. Vishal Kundnani</title>    
-<meta name="description" content="Get relief from back pain with Dr. Vishal Kundnani’s top treatments in Mumbai. Comprehensive care for effective pain management in Mumbai."> 
-    <?php include 'includes/head.php'; ?>
+<meta name="description" content="Get relief from back pain with Dr. Vishal Kundnani's top treatments in Mumbai. Comprehensive care for effective pain management in Mumbai."> 
+    <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Expert Back Pain Treatment in Mumbai by Dr. Vishal Kundnani",
+  "description": "Get specialized treatment for back pain with Dr. Vishal Kundnani Spine Specialist Mumbai. Advanced spine care and pain management solutions in Mumbai.",
+  "url": "https://www.spinesurgeonmumbai.com/back-pain.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Back Pain",
+    "description": "Back pain is one of the most common medical problems, affecting 8 out of 10 people at some point during their lives. It can range from a dull, constant ache to a sudden, sharp pain that makes it hard to move.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Back Pain Treatment",
+      "description": "Comprehensive treatment options for back pain including physical therapy, medications, and surgical intervention when necessary."
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common causes of back pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes include: Muscle or ligament strain, Bulging or ruptured disks, Arthritis, Osteoporosis, Poor posture, Heavy lifting, Sudden movements, and Stress or emotional tension."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the symptoms of back pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms may include: Muscle ache, Shooting or stabbing pain, Pain that radiates down your leg, Limited flexibility or range of motion, Inability to stand straight, and Pain that worsens with movement, lifting, or standing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I see a doctor for back pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should seek medical attention if: The pain is severe or persistent, You have numbness or tingling, The pain follows an injury, You have difficulty moving, You experience weakness in your legs, or The pain is accompanied by fever or other concerning symptoms."
+      }
+    }
+  ]
+}
+</script>
+
+<?php include 'includes/head.php'; ?>
     <link rel="canonical" href="https://www.spinesurgeonmumbai.com/back-pain.php" />
 </head>
 
@@ -85,7 +160,7 @@
                                                     positions can really hurt your back.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Injuries
                                                     and Accidents: Injury to muscle, ligaments, or soft tissue can lead to back pain. Fracture in spinal bone in a fall or a car accident also is a common cause. If you have osteoporosis, a condition that
-                                                    weakens your bones, you’re much more prone to fracturing a bone.
+                                                    weakens your bones, you're much more prone to fracturing a bone.
                                                 </li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Obesity:
                                                     Being overweight puts pressure and stress on the back, especially the low back. Carrying excess weight aggravates other health conditions such as osteoporosis (weak bones), osteoarthritis (joint pain),
@@ -286,7 +361,7 @@
                                                     Relaxants: If you have chronic back pain caused by muscle spasms, you may need a muscle relaxant, which will help stop the spasms.
                                                 </li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Anti-depressants:
-                                                    As surprising as it may seem, anti-depressants can be effective drugs for treating pain because they block pain messages on their way to the brain. They can also help increase your body’s production
+                                                    As surprising as it may seem, anti-depressants can be effective drugs for treating pain because they block pain messages on their way to the brain. They can also help increase your body's production
                                                     of endorphins, a natural pain killer.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Opioids:
                                                     In the most extreme cases, and only under careful supervision, you doctor may also prescribe an opioid, such as morphine or codeine.
@@ -295,7 +370,7 @@
                                             <h3>Medication Warning:-</h3>
                                             <ul>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">As
-                                                    with all medications, you must follow your doctor’s advice precisely. Never mix over-the-counter and prescribed drugs without consulting your doctor.</li>
+                                                    with all medications, you must follow your doctor's advice precisely. Never mix over-the-counter and prescribed drugs without consulting your doctor.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No
                                                     Medication shall be consumed without consultation of your spine doctor, spinal surgeon or spine specialist. Dr. Vishal Kundnani is one of the best spine specialists in Mumbai and one of the best spine
                                                     surgeon in India.</li>
@@ -356,8 +431,8 @@
                                                     gently relieves pain and relaxes muscles.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS
                                                     (transcutaneous electrical nerve stimulation): uses electrical current to stimulate your muscles and reduces muscle spasms and is generally believed to trigger the release of endorphins, which are your
-                                                    body’s natural pain killers. TENS machine stimulates your muscles through variable (but safe) intensities of electrical current. TENS may increase your body’s production of endorphins, your natural pain
-                                                    killers. The TENS equipment your physical therapist uses is larger than the “at home” use machine.</li>
+                                                    body's natural pain killers. TENS machine stimulates your muscles through variable (but safe) intensities of electrical current. TENS may increase your body's production of endorphins, your natural pain
+                                                    killers. The TENS equipment your physical therapist uses is larger than the "at home" use machine.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ultrasound:
                                                     By increasing blood circulation, an ultrasound helps reduce muscle cramping, swelling, stiffness, and pain. It does this by sending sound waves deep into your muscle tissues, creating a gentle heat that
                                                     enhances circulation and healing.</li>
@@ -370,7 +445,7 @@
                                                     to reduce recurrent pain but will also benefit your overall health.
                                                 </li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core
-                                                    stability: Many people don’t realize how important a strong core is to their spinal health. Your core (abdominal) muscles help your back muscles support your spine. When your core muscles are weak, it
+                                                    stability: Many people don't realize how important a strong core is to their spinal health. Your core (abdominal) muscles help your back muscles support your spine. When your core muscles are weak, it
                                                     puts extra pressure on your back muscles. Your physical therapist may teach you to core stabilizing exercises to strengthen your back.
                                                 </li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Flexibility:

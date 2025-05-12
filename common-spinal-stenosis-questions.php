@@ -6,8 +6,73 @@
  
 
     <title>Common Questions About Spinal Stenosis</title>    
-<meta name="description" content="Get answers to common questions about spinal stenosis. Expert advice in Mumbai from Dr. Vishal Kundnani, Mumbai’s leading spine specialist.">  
+<meta name="description" content="Get answers to common questions about spinal stenosis. Expert advice in Mumbai from Dr. Vishal Kundnani, Mumbai's leading spine specialist.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Common Spinal Stenosis Questions Answered by Dr. Vishal Kundnani",
+  "description": "Get expert answers to common questions about spinal stenosis from Dr. Vishal Kundnani Spine Specialist Mumbai. Comprehensive information about symptoms, diagnosis, and treatment options.",
+  "url": "https://www.spinesurgeonmumbai.com/common-spinal-stenosis-questions.php",
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Spinal Stenosis",
+    "description": "A condition where the spaces within the spine narrow, putting pressure on the spinal cord and nerves",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Spinal Stenosis Treatment",
+      "description": "Treatment options include physical therapy, medications, spinal injections, and surgical intervention when necessary"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "url": "https://www.spinesurgeonmumbai.com"
+  },
+  "medicalAudience": {
+    "@type": "MedicalAudience",
+    "audienceType": "Patient"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is spinal stenosis?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Spinal stenosis is a condition where the spaces within the spine narrow, putting pressure on the spinal cord and nerves. This narrowing can occur in the cervical (neck) or lumbar (lower back) regions of the spine."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the common symptoms of spinal stenosis?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Common symptoms include back pain, leg pain, numbness or tingling in the legs, weakness in the legs, difficulty walking, and in severe cases, loss of bowel or bladder control. Symptoms often worsen with activity and improve with rest."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How is spinal stenosis diagnosed?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Diagnosis typically involves a physical examination, medical history review, and imaging tests such as X-rays, MRI, or CT scans. These tests help identify the location and severity of the narrowing in the spine."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the treatment options for spinal stenosis?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Treatment options include physical therapy, pain medications, spinal injections, and in severe cases, surgery. The choice of treatment depends on the severity of symptoms and the patient's overall health. Surgery may involve decompression procedures or spinal fusion."
+    }
+  }]
+}
+</script>
 
    <?php include 'includes/head.php'; ?>
 </head>

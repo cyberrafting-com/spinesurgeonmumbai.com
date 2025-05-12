@@ -11,6 +11,71 @@
 <link rel="canonical" href="https://www.spinesurgeonmumbai.com/micro-endoscopic-minimal-invasive-spine-surgery.php" />
     <?php include 'includes/head.php'; ?>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Micro Endoscopic Spine Surgery in Mumbai by Dr. Vishal Kundnani",
+  "description": "Expert micro endoscopic spine surgery with Dr. Vishal Kundnani Spine Specialist Mumbai. Advanced endoscopic techniques for precise and effective spine treatment.",
+  "url": "https://www.spinesurgeonmumbai.com/micro-endoscopic-minimal-invasive-spine-surgery.php",
+  "mainEntity": {
+    "@type": "MedicalProcedure",
+    "name": "Micro Endoscopic Spine Surgery",
+    "description": "A highly advanced surgical technique that uses a tiny camera and specialized instruments to perform spine surgery through minimal incisions",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Micro Endoscopic Spine Surgery",
+      "description": "Advanced endoscopic surgical techniques for treating various spine conditions with minimal tissue damage and faster recovery"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "url": "https://www.spinesurgeonmumbai.com"
+  },
+  "medicalAudience": {
+    "@type": "MedicalAudience",
+    "audienceType": "Patient"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is micro endoscopic spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Micro endoscopic spine surgery is a highly advanced surgical technique that uses a tiny camera (endoscope) and specialized instruments to perform spine surgery through minimal incisions. It provides magnified visualization of the surgical area for precise treatment."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the advantages of micro endoscopic surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Advantages include smaller incisions, less blood loss, reduced muscle damage, better visualization of the surgical area, faster recovery, shorter hospital stay, and less post-operative pain compared to traditional open surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What conditions can be treated with micro endoscopic surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Conditions treatable with micro endoscopic surgery include herniated discs, spinal stenosis, foraminal stenosis, and certain cases of degenerative disc disease. The technique is particularly effective for nerve decompression procedures."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How does recovery compare to traditional spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Recovery is typically faster than traditional surgery, with patients often walking the same day, shorter hospital stays, and quicker return to daily activities. However, full recovery still requires following post-operative care instructions and rehabilitation."
+    }
+  }]
+}
+</script>
+
 </head>
 
 
@@ -102,13 +167,13 @@
 						<ul>
 						<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day 0- surgery</li>
 						<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day 1 post op Mobilization out of bed</li>
-						<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day 2 Post op – Discharge with rehabilitation and physiotherapy program + ‘do’s and Dont’s</li>  
+						<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day 2 Post op – Discharge with rehabilitation and physiotherapy program + 'do's and Dont's</li>  
 						</ul>
 					</div>
 					</div>
 					<h1>Is a Spinal implant inserted by Minimal Invasive Spine Surgery safe? Is screw plate in Spine inserted by MIS safe? Is Screw Plate Fusion Surgery safe?</h1>
 					<ul class="mt-1">
-						<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes. The Spinal implants used for Spinal Fusion Surgery are made of Titanium, which is an inert, metal and extremely safe for the human body. When Spinal implant, Spine screw plate, screw plate in the Spine is inserted in control by a trained Spinal Surgeon they don’t create any problem.</li>
+						<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes. The Spinal implants used for Spinal Fusion Surgery are made of Titanium, which is an inert, metal and extremely safe for the human body. When Spinal implant, Spine screw plate, screw plate in the Spine is inserted in control by a trained Spinal Surgeon they don't create any problem.</li>
 						<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To enhance safety Intraoperatively some Spinal Surgeons use IITV (X-RAY) and navigation and robotics in spine surgery to make sure Surgery is safe for patients.</li>
 					</ul>
 					<p class="mt-2">Dr. Vishal Kundnani is the pioneer in Spine Navigation Surgery in Mumbai. Dr. Vishal Kundnani is the best Spine Navigation Surgeon in India. Dr. Vishal Kundnani is trained in Navigation Spine Surgery and Robotic Spine Surgery. Robot in Spine Surgery makes Spine Surgery safe. Dr. Vishal Kundnani is the Best Robotic Spine Surgeon in Mumbai and <a href="best-spine-surgeon-mumbai.php">Best Spine Navigation Surgeon in Mumbai</a> for Computer-guided navigation Spine Surgery in Mumbai.</p>					

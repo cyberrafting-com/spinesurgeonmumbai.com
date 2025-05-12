@@ -9,6 +9,79 @@
     <meta name="description" content="Get best treatment for neck pain with Dr. Vishal Kundnani Spine specialist in Mumbai. Expert care and solutions in Mumbai for effective relief.">
     <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
     
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "Expert Neck Pain Treatment in Mumbai by Dr. Vishal Kundnani",
+      "description": "Get specialized treatment for neck pain with Dr. Vishal Kundnani Spine Specialist Mumbai. Advanced spine care and pain management solutions in Mumbai.",
+      "url": "https://www.spinesurgeonmumbai.com/neck-pain.php",
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Vishal Kundnani",
+        "jobTitle": "Spine Surgeon",
+        "worksFor": {
+          "@type": "MedicalOrganization",
+          "name": "Spine Surgeon Mumbai",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Mumbai",
+            "addressRegion": "Maharashtra",
+            "addressCountry": "IN"
+          }
+        }
+      },
+      "provider": {
+        "@type": "MedicalOrganization",
+        "name": "Spine Surgeon Mumbai",
+        "medicalSpecialty": "Spine Surgery"
+      },
+      "mainEntity": {
+        "@type": "MedicalCondition",
+        "name": "Neck Pain",
+        "description": "Neck pain is a common condition that can be caused by various factors including poor posture, muscle strain, injury, or underlying medical conditions. It can range from mild discomfort to severe pain that affects daily activities.",
+        "possibleTreatment": {
+          "@type": "MedicalTherapy",
+          "name": "Neck Pain Treatment",
+          "description": "Comprehensive treatment options for neck pain including physical therapy, medications, and surgical intervention when necessary."
+        }
+      }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are the common causes of neck pain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Common causes include: Poor posture, Muscle strain, Injury or trauma, Herniated discs, Arthritis, Spinal stenosis, and Stress or emotional tension."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the symptoms of neck pain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Symptoms may include: Stiffness in the neck, Sharp or stabbing pain, Dull aching pain, Difficulty moving the neck, Headaches, Numbness or tingling in the arms, and Pain that worsens with movement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When should I see a doctor for neck pain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You should seek medical attention if: The pain is severe or persistent, You have numbness or tingling in your arms, The pain follows an injury, You have difficulty moving your neck, You experience headaches, or The pain is accompanied by fever or other concerning symptoms."
+          }
+        }
+      ]
+    }
+    </script>
+    
         <?php include 'includes/head.php'; ?>
 </head>
 
@@ -63,7 +136,7 @@
                                             <ul>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Aging: as a part of the normal age-related degenerative process.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Life style: Stress and emotional tension, poor posture -standing for long periods of time or sitting incorrectly—can cause neck pain , heavy physical work, lifting or forceful move-ment, bending, or awkward positions can really hurt your back.</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Injuries and Accidents: Injury to muscle , ligaments , or soft tissue can lead to neck pain .Fracture in spinal bone in a fall or a car accident also is a common cause. If you have osteoporosis, a condition that weakens your bones, you’re much more prone to fracturing a bone.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Injuries and Accidents: Injury to muscle , ligaments , or soft tissue can lead to neck pain .Fracture in spinal bone in a fall or a car accident also is a common cause. If you have osteoporosis, a condition that weakens your bones, you're much more prone to fracturing a bone.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Obesity: Being overweight puts pressure and stress on the back, especially the low back. Carrying excess weight aggravates other health conditions such as osteoporosis (weak bones), osteoarthritis (joint pain), rheumatoid arthritis (an autoimmune disease), degenerative disc disease (described above in the aging section), spinal stenosis, and spondylolisthesis.</li>
                                             </ul>
                                             <p>Neck pain is also caused by a specific spinal conditions like :</p>
@@ -202,12 +275,12 @@
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Acetaminophen: Your doctor may call this an analgesic, but most of us refer to acetaminophen me-dications as painkillers.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">NSAIDs (non-steroidal anti-inflammatory drugs): Reduce swelling (or inflammation) while relieving your pain.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle Relaxants: If you have chronic back pain caused by muscle spasms, you may need a muscle relaxant, which will help stop the spasms.</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Anti-depressants: As surprising as it may seem, anti-depressants can be effective drugs for treating pain because they block pain messages on their way to the brain. They can also help increase your body’s production of endorphins, a natural pain killer.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Anti-depressants: As surprising as it may seem, anti-depressants can be effective drugs for treating pain because they block pain messages on their way to the brain. They can also help increase your body's production of endorphins, a natural pain killer.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Opioids: In the most extreme cases, and only under careful supervision, you doctor may also prescribe an opioid, such as morphine or codeine.</li>
                                             </ul>
                                             <p><b>Medication Warning:-</b></p>
                                             <ul>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">As with all medications, you must follow your doctor’s advice precisely. Never mix over-the-counter and prescribed drugs without consulting your doctor.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">As with all medications, you must follow your doctor's advice precisely. Never mix over-the-counter and prescribed drugs without consulting your doctor.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No Medication shall be consumed without consultation of your spine doctor, spinal surgeon or spine specialist. Dr. Vishal Kundnani is one of the best spine specialists in Mumbai and one of the best spine surgeon in India.</li>
                                             </ul>
 
@@ -256,14 +329,14 @@
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Deep Tissue Massage: Deep tissue massage relieves deep muscle tension and spasms, which develop to prevent muscle motion at the affected area.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot and Cold Therapy: Both hot and cold therapies offer their own set of benefits, and your physical therapist may alternate between them to get the best results. This reduces inflammation, muscle spasms, and pain.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hydrotherapy: gently relieves pain and relaxes muscles.</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS (transcutaneous electrical nerve stimulation): uses electrical current to stimulate your muscles and reduces muscle spasms and is generally believed to trigger the release of endorphins, which are your body’s natural pain killers. TENS machine stimulates your muscles through variable (but safe) intensities of electrical current. TENS may increase your body’s production of endorphins, your natural pain killers. The TENS equipment your physical therapist uses is larger than the “at home” use machine.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS (transcutaneous electrical nerve stimulation): uses electrical current to stimulate your muscles and reduces muscle spasms and is generally believed to trigger the release of endorphins, which are your body's natural pain killers. TENS machine stimulates your muscles through variable (but safe) intensities of electrical current. TENS may increase your body's production of endorphins, your natural pain killers. The TENS equipment your physical therapist uses is larger than the "at home" use machine.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ultrasound: By increasing blood circulation, an ultrasound helps reduce muscle cramping, swelling, stiffness, and pain. It does this by sending sound waves deep into your muscle tissues, creating a gentle heat that enhances circulation and healing.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Traction: reduce the effects of gravity on the spine. the intent is to reduce the disc herniation and is usually performed in the cervical or lumbar spine.</li>
                                             </ul>
                                             <p><b>ActiveTreatments:-</b></p>
                                             <ul>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Help to reduce recurrent pain but will also benefit your overall health.</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core stability: Many people don’t realize how important a strong core is to their spinal health. Your core (abdominal) muscles help your back muscles support your spine. When your core muscles are weak, it puts extra pressure on your back muscles. Your physical therapist may teach you to core stabilizing exercises to strengthen your back.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core stability: Many people don't realize how important a strong core is to their spinal health. Your core (abdominal) muscles help your back muscles support your spine. When your core muscles are weak, it puts extra pressure on your back muscles. Your physical therapist may teach you to core stabilizing exercises to strengthen your back.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Flexibility: Learning proper stretching and flexibility techniques will prepare you for aerobic and strength exercises. Flexibility helps your body move easier by warding off stiffness.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle-strengthening: Strong muscles are a great support system for your spine and better handle pain. and strengthening of muscles which can cause your back stretches and strengthen along with pelvic tilt, which helps you find a neutral spine position.</li>
                                             </ul>

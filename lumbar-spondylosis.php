@@ -9,6 +9,79 @@
 <meta name="description" content="Find the best treatment for lumbar spondylosis with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Effective solutions for spine health in Mumbai.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Top Treatment for Lumbar Spondylosis in Mumbai by Dr. Vishal Kundnani",
+  "description": "Find the best treatment for lumbar spondylosis with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Effective solutions for spine health in Mumbai.",
+  "url": "https://www.spinesurgeonmumbai.com/lumbar-spondylosis.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Lumbar Spondylosis",
+    "description": "Lumbar spondylosis describes bony overgrowths (osteophytes) at the anterior, lateral, and posterior aspects of vertebral bodies. This is a dynamic process that increases with age and is often an inevitable part of aging.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Spine Surgery Treatment",
+      "description": "Expert treatment for lumbar spondylosis including both surgical and non-surgical approaches."
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lumbar spondylosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lumbar spondylosis describes bony overgrowths (osteophytes) at the anterior, lateral, and posterior aspects of vertebral bodies. This is a dynamic process that increases with age and is often an inevitable part of aging."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the symptoms of lumbar spondylosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lumbar spondylosis usually produces no symptoms. When back pain or sciatic pains are present, lumbar spondylosis is usually an unrelated finding. The condition is often discovered incidentally during imaging studies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is lumbar spondylosis treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment depends on the severity of symptoms. Options include conservative management with physical therapy and medications, or surgical intervention in severe cases. Dr. Vishal Kundnani specializes in treating lumbar spondylosis using both surgical and non-surgical approaches."
+      }
+    }
+  ]
+}
+</script>
+
     <?php include 'includes/head.php'; ?>
 
 </head>

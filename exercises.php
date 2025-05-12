@@ -6,8 +6,74 @@
 
 
     <title>Exercises by Dr. Vishal Kundnani Spine Specialist Mumbai</title>    
-<meta name="description" content="Find effective spine exercises recommended by Dr. Vishal Kundnani, Mumbai’s leading spine specialist, for better spine health.">  
+<meta name="description" content="Find effective spine exercises recommended by Dr. Vishal Kundnani, Mumbai's leading spine specialist, for better spine health.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Spine Exercises and Rehabilitation in Mumbai by Dr. Vishal Kundnani",
+  "description": "Expert-guided spine exercises and rehabilitation program with Dr. Vishal Kundnani Spine Specialist Mumbai. Safe and effective exercises for spine health.",
+  "url": "https://www.spinesurgeonmumbai.com/exercises.php",
+  "mainEntity": {
+    "@type": "MedicalTherapy",
+    "name": "Spine Exercise Program",
+    "description": "A comprehensive exercise program designed to strengthen the spine, improve flexibility, and prevent spine-related problems",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Spine Rehabilitation Exercises",
+      "description": "Targeted exercises for spine strengthening, flexibility, and pain management, including core strengthening and posture correction"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "url": "https://www.spinesurgeonmumbai.com"
+  },
+  "medicalAudience": {
+    "@type": "MedicalAudience",
+    "audienceType": "Patient"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What types of exercises are recommended for spine health?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Recommended exercises include core strengthening exercises, flexibility exercises, posture correction exercises, and low-impact aerobic activities. The specific exercises depend on your condition and should be prescribed by a spine specialist."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Why is it important to do spine exercises under supervision?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Supervision ensures proper form and technique, prevents injury, and allows for exercise modification based on individual needs. A spine specialist can customize the program and monitor progress while ensuring safety."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the benefits of spine exercises?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Benefits include improved spine strength, better flexibility, reduced pain, enhanced posture, prevention of future spine problems, and faster recovery from spine conditions. Regular exercise also helps maintain overall spine health."
+    }
+  }, {
+    "@type": "Question",
+    "name": "When can I start exercises after spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The timing varies depending on the type of surgery and individual recovery. Your spine specialist will guide you on when to start exercises and which ones are safe to perform. Typically, gentle exercises begin soon after surgery, progressing gradually."
+    }
+  }]
+}
+</script>
+
     <?php include 'includes/head.php'; ?>
 
 </head>

@@ -8,7 +8,81 @@
 	<title>Top Treatment for Sciatica in Mumbai by Dr. Vishal Kundnani</title>    
 <meta name="description" content="Find top treatment for sciatica with Dr. Vishal Kundnani Spine specialist in Mumbai. Effective solutions and expert care in Mumbai for spine issues.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-   <?php include 'includes/head.php'; ?>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Expert Sciatica Treatment in Mumbai by Dr. Vishal Kundnani",
+  "description": "Get specialized treatment for sciatica with Dr. Vishal Kundnani Spine Specialist Mumbai. Advanced spine care and pain management solutions in Mumbai.",
+  "url": "https://www.spinesurgeonmumbai.com/sciatica.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Sciatica",
+    "description": "Sciatica refers to pain that radiates along the path of the sciatic nerve, which branches from your lower back through your hips and buttocks and down each leg. Typically, sciatica affects only one side of your body.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Sciatica Treatment",
+      "description": "Comprehensive treatment options for sciatica including physical therapy, medications, and surgical intervention when necessary."
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is sciatica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sciatica refers to pain that radiates along the path of the sciatic nerve, which branches from your lower back through your hips and buttocks and down each leg. Typically, sciatica affects only one side of your body."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common causes of sciatica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes include: Herniated disk, Bone spurs on the spine, Spinal stenosis (narrowing of the spine), Piriformis syndrome (when the piriformis muscle irritates the sciatic nerve), and Spondylolisthesis (when one vertebra slips forward over another)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the symptoms of sciatica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms include: Pain that radiates from your lower spine to your buttock and down the back of your leg, numbness or tingling in the leg, weakness in the affected leg, and pain that worsens with movement, coughing, or sneezing."
+      }
+    }
+  ]
+}
+</script>
+
+<?php include 'includes/head.php'; ?>
 </head>
 
 

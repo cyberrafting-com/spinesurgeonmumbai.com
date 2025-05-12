@@ -8,6 +8,81 @@
     <title>Spinal Stenosis Treatment in Mumbai by Dr. Vishal Kundnani</title>    
 <meta name="description" content="Get effective spinal stenosis treatment with Dr. Vishal Kundnani Spine Specialist Mumbai. Expert care and solutions in Mumbai for spine health.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+<link rel="canonical" href="https://www.spinesurgeonmumbai.com/spinal-stenosis.php" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Expert Spinal Stenosis Treatment in Mumbai by Dr. Vishal Kundnani",
+  "description": "Get specialized treatment for spinal stenosis with Dr. Vishal Kundnani Spine Specialist Mumbai. Advanced spine care and surgical solutions in Mumbai.",
+  "url": "https://www.spinesurgeonmumbai.com/spinal-stenosis.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Spinal Stenosis",
+    "description": "Spinal stenosis is a narrowing of the spaces within your spine, which can put pressure on the nerves that travel through the spine. It occurs most often in the lower back and the neck.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Spinal Stenosis Treatment",
+      "description": "Comprehensive treatment options for spinal stenosis including physical therapy, medications, and surgical intervention when necessary."
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is spinal stenosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spinal stenosis is a narrowing of the spaces within your spine, which can put pressure on the nerves that travel through the spine. It occurs most often in the lower back and the neck."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the symptoms of spinal stenosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms may include: Numbness, tingling, or weakness in the arms or legs, Back or neck pain, Problems with walking and balance, Loss of bowel or bladder control, and Pain that worsens when standing for long periods."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is spinal stenosis treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options include: Physical therapy, Medications for pain and inflammation, Steroid injections, and Surgery in severe cases. The specific treatment plan depends on the severity of symptoms and the location of the stenosis."
+      }
+    }
+  ]
+}
+</script>
+
   <?php include 'includes/head.php'; ?>
 </head>
 
@@ -94,7 +169,7 @@
                                 </div>
                                 <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                     <div class="panel-body">
-                                        <p>Spinal stenosis is a condition where the space for nerve roots in the spinal column gets narrow – narrowing of the spine means spinal stenosis. Spinal stenosis leads to narrowing of channels where the spinal cord and nerve roots travel resulting in the spinal cord and nerve roots getting squeezed also known as “compression of nerve roots.”</p>
+                                        <p>Spinal stenosis is a condition where the space for nerve roots in the spinal column gets narrow – narrowing of the spine means spinal stenosis. Spinal stenosis leads to narrowing of channels where the spinal cord and nerve roots travel resulting in the spinal cord and nerve roots getting squeezed also known as "compression of nerve roots."</p>
                                         <img class="serv_img1 mt-2" src="img/capture11.png">
                                         <p>Spinal stenosis can lead to pain in the lower back, leg pain, sciatica, neck, arms, or hands depending on the exact location of the stenosis. Spinal stenosis most commonly happens in the low back (lumbar spine) or in the neck (cervical spine and so is called lumbar spinal stenosis or cervical spinal stenosis.</p>
 
@@ -258,7 +333,7 @@
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Deep Tissue Massage: Deep tissue massage relieves deep muscle tension and spasms, which develop to prevent muscle motion at the affected area.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot and Cold Therapy: Both hot and cold therapies offer their own set of benefits, and your physical therapist may alternate between them to get the best results. This reduces inflammation, muscle spasms and pain.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hydrotherapy: gently relieves pain and relaxes muscles.</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS (transcutaneous electrical nerve stimulation): uses electrical current to stimulate your muscles and reduces muscle spasms and is generally believed to trigger the release of endorphins, which are your body’s natural pain killers. TENS machine stimulates your muscles through variable (but safe) intensities of electrical current. TENS may increase your body’s production of endorphins, your natural pain killers. The TENS equipment your physical therapist uses is larger than the “at home” use machine.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS (transcutaneous electrical nerve stimulation): uses electrical current to stimulate your muscles and reduces muscle spasms and is generally believed to trigger the release of endorphins, which are your body's natural pain killers. TENS machine stimulates your muscles through variable (but safe) intensities of electrical current. TENS may increase your body's production of endorphins, your natural pain killers. The TENS equipment your physical therapist uses is larger than the "at home" use machine.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ultrasound: By increasing blood circulation, an ultrasound helps reduce muscle cramping, swelling, stiffness, and pain. It does this by sending sound waves deep into your muscle tissues, creating a gentle heat that enhances circulation and healing.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Traction: reduce the effects of gravity on the spine. the intent is to reduce the disc herniation and is usually performed in the cervical or lumbar spine.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The McKenzie Method is a system of evaluating and treating spinal disorders, including spinal stenosis. McKenzie Method does not actively treat spinal stenosis. It is a non-responding condition to mechanical therapy, so the typical techniques used in the McKenzie Method will not help the pain from spinal stenosis.McKenzie Method involves patient education and active patient involvement. For spinal stenosis, a clinician will help you learn how to avoid sustained extension positions because the extension can increase pain if you have spinal stenosis. And helps you on flexed positions when pain is less with bending forward. The protocol involves you to learn abdominal flexors.</li>
@@ -267,7 +342,7 @@
                                             <p><b>What are Active physiotherapy Treatments / Exercise for slip disc / spinal stenosis?</b></p>
                                             <p>Help to reduce recurrent pain but will also benefit your overall health.</p>
                                             <ul>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core stability: Many people don’t realize how important a strong core is to their spinal health. Your core (abdominal) muscles help your back muscles support your spine. When your core muscles are weak, it puts extra pressure on your back muscles. Your physical therapist may teach you to core stabilizing exercises to strengthen your back.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core stability: Many people don't realize how important a strong core is to their spinal health. Your core (abdominal) muscles help your back muscles support your spine. When your core muscles are weak, it puts extra pressure on your back muscles. Your physical therapist may teach you to core stabilizing exercises to strengthen your back.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Flexibility: Learning proper stretching and flexibility techniques will prepare you for aerobic and strength exercises. Flexibility helps your body move easier by warding off stiffness.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle strengthening: Strong muscles are a great support system for your spine and better handle pain. and strengthening of muscles which can cause your back stretches and strengthen along with pelvic tilt, which helps you find a neutral spine position</li>
                                             </ul>
@@ -313,7 +388,7 @@
                                                     <br>Loss of power sensation in your arms or legs.
                                                     <br>Lost bowel or bladder control.
                                                 </li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Goal of stenosis surgery is to free up area for your spinal cord and/or the nerve roots. That’s called spinal decompression.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Goal of stenosis surgery is to free up area for your spinal cord and/or the nerve roots. That's called spinal decompression.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Two surgical techniques for spinal stenosis surgery:
                                                     <br>Decompression: Tissue pressing against a nerve structure is trimmed, which makes more room in the spinal canal (for the spinal cord) or in the foramen (for the nerve roots)
                                                     <br>Stabilization: to limit motion between vertebrae when instability is the cause of problem giving rise to pain and numbness / weakness
@@ -335,9 +410,9 @@
                                 <div id="collapseThirteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThirteen">
                                     <div class="panel-body">
                                         <div class="cliclskil1">
-                                            <p>Surgery for spinal stenosis is safe and simple. To remove the tissue that’s pressing on a nerve, the spine surgeon may perform one of the following:</p>
+                                            <p>Surgery for spinal stenosis is safe and simple. To remove the tissue that's pressing on a nerve, the spine surgeon may perform one of the following:</p>
                                             <ul>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Foraminotomy: If part of the disc or a bone spur (osteophyte) is pressing on a nerve root in its path (an exit called the foramen), a foraminotomy – widening of the path for nerve root- may be done. Ostomy means “to make an opening.” So a foraminotomy is making the opening of the foramen larger, so the nerve can exit without being compressed.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Foraminotomy: If part of the disc or a bone spur (osteophyte) is pressing on a nerve root in its path (an exit called the foramen), a foraminotomy – widening of the path for nerve root- may be done. Ostomy means "to make an opening." So a foraminotomy is making the opening of the foramen larger, so the nerve can exit without being compressed.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Laminotomy: laminotomy makes a larger opening, this time in bony plate protecting the spinal canal and spinal cord. The lamina bony sheath over the nerves along with the nerve roots may be pressing on your nerve, which is removed to make more room for the nerves using a laminotomy.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Laminectomy: Sometimes, in severe cases and multilevel cases small opening in the bone may not be And what is needed is to remove all or part of the lamina, and this procedure is called a laminectomy. This can often be done at many levels without any harmful effects.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Indirect decompression is a variation of decompression surgery where pressure is relieved by spreading the bones apart instead of removing the bone. This can be done with different techniques and various instrumentation some examples are distraction laminoplasty with or without implants like interspinous process devices or interbody cages. Even artificial discs can accomplish some indirect decompression by restoring the height between adjacent vertebrae.</li>
@@ -359,7 +434,7 @@
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal surgery can be done in open conventional technique or by MIS surgery – Minimal Invasive Spine Surgery. However Minimal invasive spinal surgery is extremely safe and simple and most efficient. The best technique to do spinal surgery for lumbar spinal stenosis surgery is Minimal Invasive Spinal Fusion surgery is performed through a relatively large incision in your back, that’s called open surgery. Another option is minimally invasive surgery, which is done through small incisions. The surgeon may use a microscope, endoscope, or tiny camera and very small surgical instruments.
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal surgery can be done in open conventional technique or by MIS surgery – Minimal Invasive Spine Surgery. However Minimal invasive spinal surgery is extremely safe and simple and most efficient. The best technique to do spinal surgery for lumbar spinal stenosis surgery is Minimal Invasive Spinal Fusion surgery is performed through a relatively large incision in your back, that's called open surgery. Another option is minimally invasive surgery, which is done through small incisions. The surgeon may use a microscope, endoscope, or tiny camera and very small surgical instruments.
                                                 </li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">With developing infrastructure and technology in surgical science spine surgery can be easily and safely performed with small incisions – keyhole spine surgery or minimally invasive spine surgery.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Conventionally done spine surgery has demerits and involves retraction of muscles and stripping of muscles with the removal of bone from spine although extremely safe, patients who undergo open spine surgery may require a longer hospitalization due to relatively higher post-operative pain, blood loss, infection chances and prolonged rehabilitation period.</li>
@@ -382,10 +457,10 @@
                                 <div id="collapseFifteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFifteen">
                                     <div class="panel-body">
                                         <div class="cliclskil1">
-                                            <p>After surgery patient is mobilized out of bed within 24 hours, and pain medications are continued for 2 weeks. After the surgery, general do’s and don’ts instructions are given about. With Minimal, Invasive spine surgery patient can go home within 48 hrs and can resume job within 2 weeks however Contact sports is generally avoided for 6-10 weeks.</p>
+                                            <p>After surgery patient is mobilized out of bed within 24 hours, and pain medications are continued for 2 weeks. After the surgery, general do's and don'ts instructions are given about. With Minimal, Invasive spine surgery patient can go home within 48 hrs and can resume job within 2 weeks however Contact sports is generally avoided for 6-10 weeks.</p>
                                             <ul>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">One should follow</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow your doctor’s treatment plan</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow your doctor's treatment plan</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sit and stand properly and maintain posture</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Learn to lift correctly</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Exercise regularly (low impact aerobic exercise is especially good, but check with your doctor first)</li>
@@ -412,7 +487,7 @@
                                             <p>Spinal stenosis is mostly due to the degenerative process which is inevitable. However, the ill effects of spinal stenosis and symptomatic state can be reduced and prevented. This includes-</p>
                                             <ul>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Exercise- Exercise strengthen your spine and protect it from the everyday effects of wear and tear and keeps your body weight under control and puts less pressure on spine preventing the development of symptoms Some general rules to exercise start slowly. Gradually build up your sessions and target exercising for 40 mins every day. stretching is an effective way to lengthen and warm up your spinal muscles. Best exercise regime is to Combine aerobic activities (such as walking or swimming) with resistance training (such as yoga or weight lifting).</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Posture- Having good posture and practicing proper mechanics are some of the best ways to prevent stenosis from progressing and ensure the health of your back. Good posture and body mechanics should be practiced all the time—whether you’re sitting, standing, lifting a heavy object, or even sleeping.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Posture- Having good posture and practicing proper mechanics are some of the best ways to prevent stenosis from progressing and ensure the health of your back. Good posture and body mechanics should be practiced all the time—whether you're sitting, standing, lifting a heavy object, or even sleeping.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Weight Control – Ideal weight for your body should be Height in cms – 100 = Weight in kgs .What is more important than your weight is your Body Mass Index which should be managed to less than 25 at all times.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lifestyle – Avoid Stress, frequent relaxation, proper posture, better ergonomics are key to spine care.</li>
                                             </ul>
@@ -450,7 +525,7 @@
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Surgery for lumbar spinal stenosis is safe and simple. Spinal fusion for spinal stenosis is rarely required. Spinal fusion is not required in all cases of spinal stenosis. Spinal fusion is required in patients when there is instability –painful mobility between the vertebrae bones and the surgery is aimed at reducing the mobility at that segment. It’s especially helpful in cases where one or more vertebrae have slipped forward – SPONDYLOLISTHESIS – slipping of one vertebra forward in relation to other, which makes spine unstable and painful due to pinch of nerves causing pain.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Surgery for lumbar spinal stenosis is safe and simple. Spinal fusion for spinal stenosis is rarely required. Spinal fusion is not required in all cases of spinal stenosis. Spinal fusion is required in patients when there is instability –painful mobility between the vertebrae bones and the surgery is aimed at reducing the mobility at that segment. It's especially helpful in cases where one or more vertebrae have slipped forward – SPONDYLOLISTHESIS – slipping of one vertebra forward in relation to other, which makes spine unstable and painful due to pinch of nerves causing pain.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal fusion may also be required if instability although not present today is imminent after the surgery for spinal stenosis. Henceforth the fusion is added to decompression in anticipation of instability. Spinal fusion surgery requires putting/inserting Spinal implant (Pedicle screw and plates and cages ) in the spine after decompression surgery. The spinal implants are an extremely safe procedure.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal fusion can be done in open conventional technique. However Minimal invasive spinal fusion surgery is extremely safe and simple and most efficient. The best technique to do spinal fusion is Minimal Invasive Spinal Fusion. Minimal invasive spinal fusion also called as minimal invasive transforaminal interbody fusion or MIS-TLIF or MIS TLIF is a extremely safe procedure with plenty of benefits of less pain , less blood loss , less infection , smaller incisions , early return to work , early discharge from hospital , no need of bed rest after surgery.</li>
                                             </ul>

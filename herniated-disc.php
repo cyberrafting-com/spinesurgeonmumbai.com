@@ -6,9 +6,75 @@
  
 
 	<title>Top Treatment for Herniated Disc in Mumbai by Dr. Vishal Kundnani</title>    
-<meta name="description" content="Find top treatment options for herniated disc with Dr. Vishal Kundnani, Mumbai’s leading spine specialist. Effective care for relief.">  
+<meta name="description" content="Find top treatment options for herniated disc with Dr. Vishal Kundnani, Mumbai's leading spine specialist. Effective care for relief.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 <link rel="canonical" href="https://www.spinesurgeonmumbai.com/herniated-disc.php" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Herniated Disc Treatment in Mumbai by Dr. Vishal Kundnani",
+  "description": "Expert treatment for herniated disc with Dr. Vishal Kundnani, Mumbai's leading spine specialist. Comprehensive care for disc herniation and sciatica.",
+  "url": "https://www.spinesurgeonmumbai.com/herniated-disc.php",
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Herniated Disc",
+    "description": "A condition where the soft inner material of a spinal disc leaks out through a tear in the outer layer, potentially causing nerve compression and pain",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Herniated Disc Treatment",
+      "description": "Comprehensive treatment options including conservative care, physical therapy, and minimally invasive surgery when needed"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "url": "https://www.spinesurgeonmumbai.com"
+  },
+  "medicalAudience": {
+    "@type": "MedicalAudience",
+    "audienceType": "Patient"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is a herniated disc?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A herniated disc occurs when the soft inner material of a spinal disc leaks out through a tear in the outer layer. This can compress nearby nerves, causing pain, numbness, or weakness in the back, legs, or arms."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the symptoms of a herniated disc?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Symptoms include back pain, leg pain (sciatica), numbness or tingling in the legs or feet, muscle weakness, and in severe cases, loss of bowel or bladder control. The specific symptoms depend on the location of the herniated disc."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How is a herniated disc treated?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Treatment options include conservative care (rest, physical therapy, medications), spinal injections, and in some cases, minimally invasive surgery. The treatment plan is customized based on the severity of symptoms and individual patient needs."
+    }
+  }, {
+    "@type": "Question",
+    "name": "When is surgery needed for a herniated disc?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Surgery may be recommended if conservative treatments fail, if there's severe pain, progressive weakness, or loss of bowel/bladder control. Minimally invasive techniques are often used to remove the herniated portion of the disc and relieve nerve compression."
+    }
+  }]
+}
+</script>
+
    <?php include 'includes/head.php'; ?>
 
 </head>
@@ -261,13 +327,13 @@
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Deep Tissue Massage: Deep tissue massage relieves deep muscle tension and spasms, which develop to prevent muscle motion at the affected area</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot and Cold Therapy: Both hot and cold therapies offer their own set of benefits, and your physical therapist may alternate between them to get the best results. This reduces inflammation, muscle spasms, and pain.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hydrotherapy: gently relieves pain and relaxes muscles.</li>
-<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS (transcutaneous electrical nerve stimulation): uses electrical current to stimulate your muscles and reduces muscle spasms and is generally believed to trigger the release of endorphins, which are your body’s natural pain killers. TENS machine stimulates your muscles through variable (but safe) intensities of electrical current. TENS may increase your body’s production of endorphins, your natural pain killers. The TENS equipment your physical therapist uses is larger than the “at home” use machine.</li>
+<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS (transcutaneous electrical nerve stimulation): uses electrical current to stimulate your muscles and reduces muscle spasms and is generally believed to trigger the release of endorphins, which are your body's natural pain killers. TENS machine stimulates your muscles through variable (but safe) intensities of electrical current. TENS may increase your body's production of endorphins, your natural pain killers. The TENS equipment your physical therapist uses is larger than the "at home" use machine.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ultrasound: By increasing blood circulation, an ultrasound helps reduce muscle cramping, swelling, stiffness, and pain. It does this by sending sound waves deep into your muscle tissues, creating a gentle heat that enhances circulation and healing.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Traction: reduce the effects of gravity on the spine. the intent is to reduce the disc herniation and is usually performed in the cervical or lumbar spine.</li>
 									</ul>
 <p><b>ActiveTreatments:Help to reduce recurrent pain but will also benefit your overall health</b></p>
 <ul>
-<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core stability: Many people don’t realize how important a strong core is to their spinal health. Your core (abdominal) muscles help your back muscles support your spine. When your core muscles are weak, it puts extra pressure on your back muscles. Your physical therapist may teach you to core stabilizing exercises to strengthen your back.
+<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core stability: Many people don't realize how important a strong core is to their spinal health. Your core (abdominal) muscles help your back muscles support your spine. When your core muscles are weak, it puts extra pressure on your back muscles. Your physical therapist may teach you to core stabilizing exercises to strengthen your back.
 </li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Flexibility: Learning proper stretching and flexibility techniques will prepare you for aerobic and strength exercises. Flexibility helps your body move easier by warding off stiffness.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle strengthening: Strong muscles are a great support system for your spine and better handle pain and strengthening of muscles which can cause your back stretches and strengthening along with pelvic tilt, which helps you find a neutral spine position</li>
@@ -334,7 +400,7 @@
                         <div id="collapseThirteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThirteen">
                             <div class="panel-body">
                                 <div class="cliclskil1">
-								<p>Meet your doctor and know more about your problem, possible solutions and pro’s and con’s of all the solutions including surgery offered to you.</p>
+								<p>Meet your doctor and know more about your problem, possible solutions and pro's and con's of all the solutions including surgery offered to you.</p>
 									<ul>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">After the surgery is planned, plan your hospital stay and discuss discharge plan with the doctor.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Maintain Good nutrition for healthy immune system.</li>
@@ -361,9 +427,9 @@
                                 <div class="cliclskil1">
 								<ul>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal invasive spine surgery leads to a fast recovery and makes the patient walking after surgery within 24 hours. in fact in slip disc and spinal stenosis, minimally invasive surgery and microendoscopic surgery results in early return to work without any need of bed rest after surgery.</li>
-<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">After surgery patient is mobilized out of bed within 24 hours, and pain medications are continued for 5 days. After the surgery, general do’s and don’ts instructions are given about. With Minimal, Invasive spine surgery  patient can go home within 48 hrs and can resume job within 2 weeks  however Contact sports is generally avoided for 6-10 weeks.</li>
+<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">After surgery patient is mobilized out of bed within 24 hours, and pain medications are continued for 5 days. After the surgery, general do's and don'ts instructions are given about. With Minimal, Invasive spine surgery  patient can go home within 48 hrs and can resume job within 2 weeks  however Contact sports is generally avoided for 6-10 weeks.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">One should follow :-</li>
-<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow your doctor’s treatment plan.</li>
+<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow your doctor's treatment plan.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sit and stand properly and maintain posture.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Learn to lift correctly</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Exercise regularly (low impact aerobic exercise is especially good, but check with your doctor first)</li>

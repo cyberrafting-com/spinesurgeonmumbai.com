@@ -6,10 +6,84 @@
    
     
 <title>Top Treatment for Degenerative Disc Disease in Mumbai by Dr. Vishal Kundnani</title>    
-<meta name="description" content="Discover the best treatment for degenerative disc disease with Dr. Vishal Kundnani, Mumbai’s expert in spine care.">  
+<meta name="description" content="Discover the best treatment for degenerative disc disease with Dr. Vishal Kundnani, Mumbai's expert in spine care.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+<link rel="canonical" href="https://www.spinesurgeonmumbai.com/degenerative-disc-disease.php" />
 
- <?php include 'includes/head.php'; ?>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Top Treatment for Degenerative Disc Disease in Mumbai by Dr. Vishal Kundnani",
+  "description": "Get expert treatment for degenerative disc disease from Dr. Vishal Kundnani Spine Specialist in Mumbai. Comprehensive care and solutions for disc degeneration.",
+  "url": "https://www.spinesurgeonmumbai.com/degenerative-disc-disease.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Degenerative Disc Disease",
+    "description": "Degenerative Disc Disease (DDD) is a condition where the intervertebral discs in the spine break down over time. While it's not actually a disease, it's a natural part of aging that can cause pain and other symptoms.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Degenerative Disc Disease Treatment",
+      "description": "Comprehensive treatment options for degenerative disc disease including physical therapy, pain management, and surgical intervention when necessary."
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Degenerative Disc Disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Degenerative Disc Disease (DDD) is a condition where the intervertebral discs in the spine break down over time. While it's not actually a disease, it's a natural part of aging that can cause pain and other symptoms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the symptoms of Degenerative Disc Disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms include: Back or neck pain that may radiate to the arms or legs, pain that worsens with sitting, bending, or lifting, pain that improves with walking or changing positions, and periods of severe pain followed by periods of less pain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options for Degenerative Disc Disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options include: Physical therapy and exercise, pain medications, spinal injections, lifestyle modifications, and in severe cases, surgical intervention such as disc replacement or spinal fusion. The treatment plan is customized based on the severity of symptoms and patient's condition."
+      }
+    }
+  ]
+}
+</script>
+
+<?php include 'includes/head.php'; ?>
 
 </head>
 

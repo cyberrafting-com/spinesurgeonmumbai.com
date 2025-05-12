@@ -8,6 +8,72 @@
     <title>Spinal Fusion Surgery in Mumbai by Dr. Vishal Kundnani</title>
     <meta name="description" content="Explore spinal fusion surgery options with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Advanced care for spine issues in Mumbai.">
     <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+    <link rel="canonical" href="https://www.spinesurgeonmumbai.com/spinal-fusion.php" />
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "Spinal Fusion Surgery in Mumbai by Dr. Vishal Kundnani",
+      "description": "Expert spinal fusion surgery with Dr. Vishal Kundnani, Mumbai's leading spine specialist. Advanced techniques for spinal stability and pain relief.",
+      "url": "https://www.spinesurgeonmumbai.com/spinal-fusion.php",
+      "mainEntity": {
+        "@type": "MedicalProcedure",
+        "name": "Spinal Fusion Surgery",
+        "description": "A surgical procedure that joins two or more vertebrae together to create a solid bone structure, providing stability and reducing pain",
+        "possibleTreatment": {
+          "@type": "MedicalTherapy",
+          "name": "Spinal Fusion",
+          "description": "Surgical procedure to permanently connect two or more vertebrae in the spine, eliminating motion between them and providing stability"
+        }
+      },
+      "provider": {
+        "@type": "MedicalOrganization",
+        "name": "Mumbai Institute of Spine Surgery",
+        "url": "https://www.spinesurgeonmumbai.com"
+      },
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Patient"
+      }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "What is spinal fusion surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Spinal fusion is a surgical procedure that permanently connects two or more vertebrae in the spine. This eliminates motion between the vertebrae and provides stability to the spine, helping to reduce pain and improve function."
+        }
+      }, {
+        "@type": "Question",
+        "name": "When is spinal fusion recommended?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Spinal fusion may be recommended for conditions such as degenerative disc disease, spondylolisthesis, spinal stenosis, scoliosis, or after a discectomy. It's typically considered when other treatments have failed to provide relief."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What are the benefits of spinal fusion?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Benefits include reduced pain, improved stability, better spinal alignment, and prevention of further degeneration. The procedure can help patients return to daily activities with less pain and better function."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What is the recovery process like?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Recovery typically involves a hospital stay of 2-4 days, followed by a rehabilitation program. Full recovery can take 3-6 months, with gradual return to activities. Physical therapy is usually recommended to strengthen the back and improve mobility."
+        }
+      }]
+    }
+    </script>
     <?php include 'includes/head.php'; ?>
 </head>
 
@@ -81,7 +147,7 @@
                                     <div class="cliclskil1">
                                         <ul>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Surgery for Lumbar Spinal Stenosis is safe and simple. Spinal fusion for spinal stenosis is rarely required. Spinal fusion is not required in all cases of spinal stenosis. Spinal fusion is required in patients when there is instability with spinal stenosis – when painful mobility is present apart from nerve compression between the vertebrae.</li>
-                                            <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The surgery is aimed at decompression of nerves and reducing the mobility at that segment. It’s especially helpful in cases where one or more vertebrae have slipped forward – SPONDYLOLISTHESIS – slipping of one vertebra forward in relation to other, which makes spine unstable and painful due to a pinch of nerves causing pain.</li>
+                                            <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The surgery is aimed at decompression of nerves and reducing the mobility at that segment. It's especially helpful in cases where one or more vertebrae have slipped forward – SPONDYLOLISTHESIS – slipping of one vertebra forward in relation to other, which makes spine unstable and painful due to a pinch of nerves causing pain.</li>
                                         </ul>
                                         <p class="mt-2">Dr. Vishal Kundnani – one of the Best Spine Surgeon in Mumbai, frequently performs spinal fusion for spondylolisthesis. Dr. Vishal Kundnani is one of the best spine specialists in Mumbai and one of the best minimal-invasive spine surgeon in Goregaon, Kandivali and Malad.</p>
                                     </div>
@@ -99,7 +165,7 @@
                             <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                 <div class="panel-body">
                                     <ul>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes. The spinal implants used for spinal fusion surgery are made of titanium which is an inert metal and extremely safe for the human body. When spinal implant, spine screw plate, screw plate in the spine is inserted in control by a trained spinal surgeon they don’t create any problem.</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes. The spinal implants used for spinal fusion surgery are made of titanium which is an inert metal and extremely safe for the human body. When spinal implant, spine screw plate, screw plate in the spine is inserted in control by a trained spinal surgeon they don't create any problem.</li>
                                         <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To enhance safety Intraoperatively some Spinal surgeons use IITV (X-RAY ) and navigation and robotics in spine surgery to make sure surgery is safe for patients.</li>
                                     </ul>
                                     <p class="mt-2">Dr. Vishal Kundnani is the pioneer in Spine Navigation surgery in Mumbai. Dr. Vishal Kundnani is the best spine Navigation surgeon in India. Dr. Vishal Kundnani is trained in Navigation spine surgery and robotic spine surgery. Robot in spine surgery makes spine surgery safe. Dr Vishal Kundnani is the best robotic spine surgeon in Mumbai and best Spine Navigation surgeon in Mumbai for Computer-guided navigation spine surgery in Mumbai.</p>
@@ -187,7 +253,7 @@
                                     <div class="cliclskil1">
 
                                         <ul>
-                                            <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal fusion surgery done to bring the slipped bones together and making them stable and painless is called spinal fusion for spondylolisthesis. It’s especially helpful in cases where one or more vertebrae have slipped forward –</li>
+                                            <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal fusion surgery done to bring the slipped bones together and making them stable and painless is called spinal fusion for spondylolisthesis. It's especially helpful in cases where one or more vertebrae have slipped forward –</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spondylolisthesis: slipping of one vertebrae forward in relation to other.</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal fusion surgery for spondylolisthesis can be done in open conventional technique or with Minimal invasive spinal fusion surgery.</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal invasive spinal fusion surgery is extremely safe and simple and most efficient. The best technique to do spinal fusion is Minimal Invasive Spinal Fusion. Minimal invasive spinal fusion also called as minimal invasive transforaminal interbody fusion or MIS-TLIF or MIS TLIF is a extremely safe procedure with plenty of benefits of small incisions which heal very quickly , less muscle pain , less pain after surgery, less blood loss , less infection , smaller incisions , early return to work , early discharge from hospital , no need of bed rest after surgery .</li>
@@ -243,11 +309,11 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <p>Minimal invasive spine surgery leads to fast recovery and makes patient walking after surgery within 24 hours. In fact in minimally invasive surgery and microendoscopic surgery and minimal invasive spinal fusion results in early return to work without any need of bed rest after surgery.</p>
-                                        <p>After surgery patient is mobilized out of bed within 24 hours, and pain medications is continued for 5 days. After the surgery, general do’s and don’ts instructions are given about. With Minimal Invasive spine surgery patient can go home within 48 hrs and can resume job within 2 weeks however Contact sports is generally avoided for 6-10 weeks.</p>
+                                        <p>After surgery patient is mobilized out of bed within 24 hours, and pain medications is continued for 5 days. After the surgery, general do's and don'ts instructions are given about. With Minimal Invasive spine surgery patient can go home within 48 hrs and can resume job within 2 weeks however Contact sports is generally avoided for 6-10 weeks.</p>
                                         <img class="serv_img mt-2" src="img/capture9.png">
                                         <p class="mt-2"><b>One should follow:-</b></p>
                                         <ul>
-                                            <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow your doctor’s treatment plan</li>
+                                            <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow your doctor's treatment plan</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">sit and stand properly and maintain posture</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">learn to lift correctly</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">exercise regularly (low impact aerobic exercise is especially good, but check with your doctor first)</li>

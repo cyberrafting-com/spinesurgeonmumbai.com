@@ -9,7 +9,81 @@
 <meta name="description" content="Get effective treatment for kyphosis from Dr. Vishal Kundnani Spine Specialist in Mumbai. Expert care and solutions in Mumbai for spine health.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 <link rel="canonical" href="https://www.spinesurgeonmumbai.com/kyphosis.php" />
-    <?php include 'includes/head.php'; ?>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Top Treatment for Kyphosis in Mumbai by Dr. Vishal Kundnani",
+  "description": "Get effective treatment for kyphosis from Dr. Vishal Kundnani Spine Specialist in Mumbai. Expert care and solutions in Mumbai for spine health.",
+  "url": "https://www.spinesurgeonmumbai.com/kyphosis.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Kyphosis",
+    "description": "Kyphosis is a spinal deformity characterized by an excessive forward rounding of the upper back. While some kyphosis is normal in the thoracic spine, excessive curvature (more than 40-45 degrees) is considered abnormal.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Kyphosis Treatment",
+      "description": "Comprehensive treatment options for kyphosis including physical therapy, bracing, and surgical intervention when necessary."
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is kyphosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kyphosis is a spinal deformity where there is an excessive forward rounding of the upper back. While some kyphosis is normal in the thoracic spine (20-40 degrees), excessive curvature (more than 40-45 degrees) is considered abnormal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the types of kyphosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common types include: Postural kyphosis (round back), Scheuermann's Kyphosis, Congenital Kyphosis, and Kyphosis caused by conditions like osteoporosis, spinal trauma, or degenerative diseases."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options for kyphosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options include: Physical therapy and exercise, spinal braces for pain relief, medications for underlying conditions, and surgery for severe cases. Surgery may be recommended for progressive pain, curve progression, cosmetic concerns, or neurological symptoms."
+      }
+    }
+  ]
+}
+</script>
+
+<?php include 'includes/head.php'; ?>
 
 </head>
 
@@ -47,9 +121,9 @@
                 <div class="cliclskil1 mt-3">
                 <div class="col-lg-8 col-md-8 col-sm-8">
 			<h1>What is Kyphosis ?</h1>
-			<p class="mt-1">The word “kyphosis” describes a type of curve in the spine. A kyphotic curve is ‘normally’ present in the thoracic spine (the part of the spine in the chest area). A kyphotic curve looks like the letter “C” with the opening of the C pointing towards the front. Though the thoracic spine is supposed to be curved, if the curve in a person’s thoracic spine is more than 40 to 45 degrees, it is considered abnormal – or a spinal deformity.</p>
+			<p class="mt-1">The word "kyphosis" describes a type of curve in the spine. A kyphotic curve is 'normally' present in the thoracic spine (the part of the spine in the chest area). A kyphotic curve looks like the letter "C" with the opening of the C pointing towards the front. Though the thoracic spine is supposed to be curved, if the curve in a person's thoracic spine is more than 40 to 45 degrees, it is considered abnormal – or a spinal deformity.</p>
 			<p><b>Normal Anatomy</b></p>
-			<p>The thoracic spine naturally has some kyphosis. A kyphotic spinal deformity really means there is too much kyphotic curve in the spine.The thoracic spine is made up of the middle 12 vertebrae of your spine. The normal amount of curve in the thoracic spine is considered to be from 20 to 40 degrees within the entire thoracic spine. There is a range because the amount of “normal” curve varies from person to person</p>
+			<p>The thoracic spine naturally has some kyphosis. A kyphotic spinal deformity really means there is too much kyphotic curve in the spine.The thoracic spine is made up of the middle 12 vertebrae of your spine. The normal amount of curve in the thoracic spine is considered to be from 20 to 40 degrees within the entire thoracic spine. There is a range because the amount of "normal" curve varies from person to person</p>
 			<p>Kyphosis can have varying symptoms and degrees of severity, from minor changes in the shape of back, to severe deformity, nerve problems, and chronic pain.</p>
 			<h1>Symptoms And Causes of Kyphosis :</h1>
 			<p class="mt-1"><b>Signs and symptoms may include</b></p>
@@ -62,8 +136,8 @@
 			</ul>
 			<h1>Causes</h1>
 			<ul>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Postural kyphosis, or “round back”</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Scheuermann’s Kyphosis.</li>
+				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Postural kyphosis, or "round back"</li>
+				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Scheuermann's Kyphosis.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Congenital Kyphosis</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Paralytic Disorders</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal Trauma</li>
@@ -84,8 +158,8 @@
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Poor Cosmetic Appearance</li>
 			</ul>
 			<h1>Tests and Diagnosis</h1>
-			<p class="mt-1">Medical history: This involves talking to the patient and the patient’s parent(s) and reviewing the patient’s records to look for medical problems that might be causing the spine to curve, for example, birth defects, trauma, or other disorders that can be associated with kyphosis.</p>
-			<p>Physical examination: This includes alook at the patient’s back, chest, pelvis, legs, feet, and skin. This mean first trying to get a “mental picture” of how the spine is curved from examining your back and watching you move about. Your doctor will look at the flexibility you have bending in certain directions.A neurological examination is done to check for Muscle weakness, Numbness, Abnormal reflexes X-ray evaluation. An x ray of the spine can confirm the diagnosis of kyphosis. The magnitude and type of kyphosis is measured on xray.</p>
+			<p class="mt-1">Medical history: This involves talking to the patient and the patient's parent(s) and reviewing the patient's records to look for medical problems that might be causing the spine to curve, for example, birth defects, trauma, or other disorders that can be associated with kyphosis.</p>
+			<p>Physical examination: This includes alook at the patient's back, chest, pelvis, legs, feet, and skin. This mean first trying to get a "mental picture" of how the spine is curved from examining your back and watching you move about. Your doctor will look at the flexibility you have bending in certain directions.A neurological examination is done to check for Muscle weakness, Numbness, Abnormal reflexes X-ray evaluation. An x ray of the spine can confirm the diagnosis of kyphosis. The magnitude and type of kyphosis is measured on xray.</p>
 			<p>Additional imaging tests may be recommended, depending on the case to case basis.</p>
 			<h1>These include:</h1>
 			<ul>
@@ -121,7 +195,7 @@
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">How long will the hospital stay be?</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">How long will it take to recover from surgery?</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Is there chronic back pain after surgery?</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Will the patient’s growth be limited?</li>
+				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Will the patient's growth be limited?</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">How flexible will the spine remain?</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Can the curve worsen or progress after surgery?</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Will additional surgery be likely?</li>

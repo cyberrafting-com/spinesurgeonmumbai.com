@@ -5,9 +5,84 @@
 
 
     <title>Top Treatment for Back Pain in Mumbai by Dr. Vishal Kundnani</title>    
-<meta name="description" content="Seek relief from back pain with Dr. Vishal Kundnani’s top treatments in Mumbai. Comprehensive care for effective pain management in Mumbai. ">  
+<meta name="description" content="Seek relief from back pain with Dr. Vishal Kundnani's top treatments in Mumbai. Comprehensive care for effective pain management in Mumbai. ">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-    <?php include 'includes/head.php'; ?>
+<link rel="canonical" href="https://www.spinesurgeonmumbai.com/back-pain-we-treat.php" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Back Pain Treatment in Mumbai by Dr. Vishal Kundnani",
+  "description": "Get expert treatment for various types of back pain from Dr. Vishal Kundnani Spine Specialist in Mumbai. Comprehensive care and solutions for all back pain conditions.",
+  "url": "https://www.spinesurgeonmumbai.com/back-pain-we-treat.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Back Pain",
+    "description": "Back pain is a common condition that can affect people of all ages. It can range from a dull, constant ache to a sudden, sharp pain that makes it difficult to move.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Back Pain Treatment",
+      "description": "Comprehensive treatment options for back pain including physical therapy, pain management, and surgical intervention when necessary."
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common types of back pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common types include: Acute back pain (short-term), Chronic back pain (long-term), Lower back pain, Upper back pain, and pain caused by specific conditions like herniated discs, spinal stenosis, or sciatica."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I see a doctor for back pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should see a doctor if: The pain persists for more than a few weeks, the pain is severe and doesn't improve with rest, you experience numbness or tingling, you have difficulty walking or standing, or if the pain is accompanied by other symptoms like fever or weight loss."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options for back pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options include: Physical therapy and exercise, pain medications, spinal injections, lifestyle modifications, and in severe cases, surgical intervention. The treatment plan is customized based on the cause and severity of the pain."
+      }
+    }
+  ]
+}
+</script>
+
+<?php include 'includes/head.php'; ?>
 </head>
 
 
@@ -48,7 +123,7 @@
 			<p class="mt-1"><b>The risk factors for low back pain can be:</b></p>
 			<p>Aging : as a part of the normal age related degenerative process.</p>
 			<p>Life style : Stress and emotional tension, poor posture -standing for long periods of time or sitting incorrectly—can cause back pain, heavy physical work, lifting or forceful movement, bending, or awkward positions can really hurt your back.</p>
-			<p>Injuries and Accidents : Injury to muscle, ligaments, or soft tissue can lead to back pain. Fracture in spinal bone in a fall or a car accident also is a common cause. If you have osteoporosis, a condition that weakens your bones, you’re much more prone to fracturing a bone.</p>
+			<p>Injuries and Accidents : Injury to muscle, ligaments, or soft tissue can lead to back pain. Fracture in spinal bone in a fall or a car accident also is a common cause. If you have osteoporosis, a condition that weakens your bones, you're much more prone to fracturing a bone.</p>
 			<p>Obesity : Being overweight puts pressure and stress on the back, especially the low back. Carrying excess weight aggravates other health conditions such as osteoporosis (weak bones), osteoarthritis (joint pain), rheumatoid arthritis (an autoimmune disease), degenerative disc disease (described above in the aging section), spinal stenosis, and spondylolisthesis.</p>
 			<h1>Back pain is also caused by a specific spinal condition like :</h1>
 			<ul>
@@ -101,12 +176,12 @@
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physiotherapy</li>
 			</ul>
 			<p class="mt-1">Drugs, Medications, to Relieve Back Pain : Medication alone is not the ultimate solution to your back pain, however during emergency or during severe pain these medicines may help you curb the suffering.</p>
-			<p>Acetaminophen : Your doctor may call this an analgesic, but most of us refer to acetaminophen me-dications as painkillers. They don’t help reduce inflammation, though.</p>
-			<p>NSAIDs (non-steroidal anti-inflammatory drugs) : These will help reduce swelling (or inflammation) while relieving your pain; that’s how NSAIDs differ from acetaminophen. If an over-the-counter NSAID is an option for you, you have plenty to choose from. You can use ibuprofen, aspirin; however seek medical advice before you take any medicine.</p>
+			<p>Acetaminophen : Your doctor may call this an analgesic, but most of us refer to acetaminophen me-dications as painkillers. They don't help reduce inflammation, though.</p>
+			<p>NSAIDs (non-steroidal anti-inflammatory drugs) : These will help reduce swelling (or inflammation) while relieving your pain; that's how NSAIDs differ from acetaminophen. If an over-the-counter NSAID is an option for you, you have plenty to choose from. You can use ibuprofen, aspirin; however seek medical advice before you take any medicine.</p>
 			<p>Muscle Relaxants : If you have chronic back pain caused by muscle spasms, you may need a muscle relaxant, which will help stop the spasms</p>
-			<p>Anti-depressants : As surprising as it may seem, anti-depressants can be effective drugs for treating pain because they block pain messages on their way to the brain. They can also help increase your body’s production of endorphins, a natural pain killer.</p>
+			<p>Anti-depressants : As surprising as it may seem, anti-depressants can be effective drugs for treating pain because they block pain messages on their way to the brain. They can also help increase your body's production of endorphins, a natural pain killer.</p>
 			<p>Opioids : In the most extreme cases, and only under careful supervision, you doctor may also prescribe an opioid, such as morphine or codeine.</p>
-			<p>Medication Warning : As with all medications, you must follow your doctor’s advice precisely. Never mix over-the-counter and prescribed drugs without consulting your doctor.</p>
+			<p>Medication Warning : As with all medications, you must follow your doctor's advice precisely. Never mix over-the-counter and prescribed drugs without consulting your doctor.</p>
 				
 								
 				</div>

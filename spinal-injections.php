@@ -11,6 +11,71 @@
 <meta name="description" content=" Discover the best spinal injections for pain relief with Dr. Vishal Kundnani Spine Specialist Mumbai. Expert treatment options in Mumbai.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Spinal Injections Treatment in Mumbai by Dr. Vishal Kundnani",
+  "description": "Get effective spinal injection treatments with Dr. Vishal Kundnani Spine Specialist Mumbai. Expert care and solutions for spine pain management.",
+  "url": "https://www.spinesurgeonmumbai.com/spinal-injections.php",
+  "mainEntity": {
+    "@type": "MedicalTherapy",
+    "name": "Spinal Injections",
+    "description": "A minimally invasive treatment option for spine pain management using targeted injections to reduce inflammation and pain",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Spinal Injection Therapy",
+      "description": "Various types of spinal injections including epidural, facet joint, and nerve root blocks for pain management"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "url": "https://www.spinesurgeonmumbai.com"
+  },
+  "medicalAudience": {
+    "@type": "MedicalAudience",
+    "audienceType": "Patient"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What are spinal injections?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Spinal injections are minimally invasive procedures where medication is delivered directly to the source of pain in the spine. They can help reduce inflammation and provide pain relief for various spine conditions."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What types of spinal injections are available?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Common types include epidural steroid injections, facet joint injections, nerve root blocks, and sacroiliac joint injections. Each type targets specific areas of the spine for pain relief."
+    }
+  }, {
+    "@type": "Question",
+    "name": "When are spinal injections recommended?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Spinal injections are recommended for various conditions including herniated discs, spinal stenosis, sciatica, and chronic back pain that hasn't responded to conservative treatments."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the benefits of spinal injections?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Benefits include targeted pain relief, reduced inflammation, improved mobility, and potentially avoiding surgery. They can also help diagnose the source of pain and provide temporary relief while other treatments take effect."
+    }
+  }]
+}
+</script>
+
     <?php include 'includes/head.php'; ?>
 </head>
 
@@ -119,7 +184,7 @@
                                         <div class="cliclskil1">
                                             <ul>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Epidural Steroid Injection: This is one of the most common injections. It targets the epidural space, which is the space surrounding the membrane that covers the spine and nerve roots. Nerves travel through the epidural space and then branch out to other parts of your body, such as your legs. If a nerve root is compressed (pinched) in the epidural space, you can have pain that travels down your back and into your legs (commonly called sciatica, although the technical medical term is radiculopathy).</li>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">An epidural steroid injection sends steroids—which are very strong anti-inflammatories—the right to the nerve root that’s inflamed. This is a pain management therapy, so it’s best to have a well-trained pain management specialist do the injection. You’ll probably need 2-3 injections; generally, you shouldn’t have more than that because of the potential side effects of the steroids.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">An epidural steroid injection sends steroids—which are very strong anti-inflammatories—the right to the nerve root that's inflamed. This is a pain management therapy, so it's best to have a well-trained pain management specialist do the injection. You'll probably need 2-3 injections; generally, you shouldn't have more than that because of the potential side effects of the steroids.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Other Injections: Depending on your diagnosis, doctor may suggest other types of spinal injections. facet joint injection.</li>
                                             </ul>
 
@@ -140,7 +205,7 @@
                                         <div class="cliclskil1">
 
                                             <ul>
-                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Facet joint injection- These are recommended if the cause of back pain is facet arthritis and inflammation in the facet joint . more often than not the facet joint injections are used for diagnostic purpose ,since it is difficult to attribute pain causation factor ,despite the presence of radiology supporting it . Facet joints in your spine help you move and provide stability. If they become inflamed, though, you’ll have pain. will numb the joint and can reduce your pain.</li>
+                                                <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Facet joint injection- These are recommended if the cause of back pain is facet arthritis and inflammation in the facet joint . more often than not the facet joint injections are used for diagnostic purpose ,since it is difficult to attribute pain causation factor ,despite the presence of radiology supporting it . Facet joints in your spine help you move and provide stability. If they become inflamed, though, you'll have pain. will numb the joint and can reduce your pain.</li>
                                                 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The spinal injection for slip disc and spinal stenosis is given by Dr. Vishal Kundnani, one of the best spinal specialist in Mumbai and one of the best spine surgeon in Goregaon, Malad, Kandiwali. Available on appointment.</li>
                                             </ul>
                                         </div>

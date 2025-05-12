@@ -7,7 +7,81 @@
 	<title>Top Treatment for Spinal Stenosis in Mumbai by Dr. Vishal Kundnani</title>    
 <meta name="description" content="Find effective spinal stenosis treatment with Dr. Vishal Kundnani Spine Specialist Mumbai. Expert care and solutions in Mumbai for spine health.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-   <?php include 'includes/head.php'; ?>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Top Treatment for Spinal Stenosis in Mumbai by Dr. Vishal Kundnani",
+  "description": "Find effective spinal stenosis treatment with Dr. Vishal Kundnani Spine Specialist Mumbai. Expert care and solutions in Mumbai for spine health.",
+  "url": "https://www.spinesurgeonmumbai.com/spinal-stenosis-we-treat.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Spinal Stenosis",
+    "description": "Spinal stenosis is a condition where the space for neural elements in spinal column is narrowed, leading to compression of the neural elements.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Spine Surgery Treatment",
+      "description": "Expert treatment for spinal stenosis including both surgical and non-surgical approaches."
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is spinal stenosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spinal stenosis is a condition where the space for neural elements in spinal column is narrowed. This leads to narrowing of channels where spinal cord and nerve roots travel resulting in compression of the neural elements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the causes of spinal stenosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Causes include: Primary/Developmental spinal stenosis (congenital), degenerative changes due to wear and tear, aging, lifestyle factors, injuries and accidents, obesity, and specific conditions like large slip disc, facetal arthritis, spondylosis, tumors, infections, tuberculosis, and spinal fractures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the symptoms of spinal stenosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms vary by location. In lumbar spine: neurogenic claudication (pain/cramping in legs during standing/walking), urinary issues. In cervical spine: neck pain, shoulder pain, vertigo, arm pain, difficulty walking, imbalance, numbness in hands, headaches, and muscle weakness."
+      }
+    }
+  ]
+}
+</script>
+
+<?php include 'includes/head.php'; ?>
 
 </head>
 
@@ -47,7 +121,7 @@
 			<p class="mt-1">Spinal stenosis is a condition where the space for neural elements in spinal column is narrowed. This leads to narrowing of channels where spinal cord and nerve roots travel resulting in compression of the neural elements.</p>
 			<h1>What is the causes of spinal stenosis ?</h1>
 			<ul>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Primary / Developmental spinal stenosis- which means you’ve had it since birth although the symptoms appear in later part of the life. This is a form of inherited stenosis called short pedicle syndrome. These patients are more prone to develop symptoms in midlife. Primary spinal stenosis isn’t common.</li>
+				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Primary / Developmental spinal stenosis- which means you've had it since birth although the symptoms appear in later part of the life. This is a form of inherited stenosis called short pedicle syndrome. These patients are more prone to develop symptoms in midlife. Primary spinal stenosis isn't common.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The second category is the commonest and happens due to wear and tear or degeneration process . This results from degenerative changes in the ligaments of the canal or due to some disease or injury to the spine. The most common direct cause of spinal stenosis is osteoarthritis of spine coupled with degenerative changes in the disc and facet joints.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Aging : as a part of the normal age related degenerative process.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Life style : Stress and emotional tension, poor posture -standing for long periods of time or sitting incorrectly—can cause spinal stenosis , heavy physical work, lifting or forceful movement, bending, or awkward positions can really hurt your back.</li>

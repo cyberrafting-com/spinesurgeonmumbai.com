@@ -9,6 +9,71 @@
 <meta name="description" content="Explore spine surgery options for spondylolisthesis with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert treatment in Mumbai for spine health.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Spondylolisthesis Treatment in Mumbai by Dr. Vishal Kundnani",
+  "description": "Expert treatment for spondylolisthesis with Dr. Vishal Kundnani Spine Specialist Mumbai. Comprehensive care for slipped vertebrae and spine conditions.",
+  "url": "https://www.spinesurgeonmumbai.com/spondylolisthesis.php",
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Spondylolisthesis",
+    "description": "A condition where one vertebra slips forward over the vertebra below it, often causing back pain and nerve compression",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Spondylolisthesis Treatment",
+      "description": "Treatment options include physical therapy, bracing, pain management, and surgical intervention when necessary"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "url": "https://www.spinesurgeonmumbai.com"
+  },
+  "medicalAudience": {
+    "@type": "MedicalAudience",
+    "audienceType": "Patient"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is spondylolisthesis?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Spondylolisthesis is a condition where one vertebra slips forward over the vertebra below it. This can occur due to various reasons including congenital defects, trauma, or degenerative changes in the spine."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the symptoms of spondylolisthesis?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Symptoms may include lower back pain, leg pain, muscle weakness, numbness or tingling in the legs, and in severe cases, difficulty walking. Some people may not experience any symptoms."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How is spondylolisthesis treated?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Treatment options include physical therapy, pain management, bracing, and in severe cases, surgery. The choice of treatment depends on the severity of the slip, symptoms, and the patient's overall health."
+    }
+  }, {
+    "@type": "Question",
+    "name": "When is surgery needed for spondylolisthesis?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Surgery may be recommended when conservative treatments fail, there's significant nerve compression, the slip is severe, or the condition is causing progressive symptoms. Surgical options include decompression and spinal fusion."
+    }
+  }]
+}
+</script>
+
    <?php include 'includes/head.php'; ?>
 
 </head>
@@ -60,7 +125,7 @@
                                 <div class="cliclskil1">
 								<ul>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spondylolisthesis – slipping of one vertebrae forward in relation to other, which makes spine unstable and painful due to pinch of nerves causing pain – back pain , buttock pain , leg pain , numbness in legs while movement and walking.</li>
-<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spondylolisthesis is a condition where the space for nerve roots in spinal column gets narrow due to forward slip of one bone of spine over other . This slip of Spondylolisthesis leads to narrowing of channels where spinal cord and nerve roots travel resulting in spinal cord and nerve roots getting squeezed also known as “compression of nerve roots.</li>
+<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spondylolisthesis is a condition where the space for nerve roots in spinal column gets narrow due to forward slip of one bone of spine over other . This slip of Spondylolisthesis leads to narrowing of channels where spinal cord and nerve roots travel resulting in spinal cord and nerve roots getting squeezed also known as "compression of nerve roots.</li>
 </ul>		
 <img class="serv_img mt-2" src="img/capture14.png">
 								</div>
@@ -218,9 +283,9 @@
                         <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
                             <div class="panel-body">
                                 <div class="cliclskil1">
-								<p>Surgery for spinal stenosis is safe and simple. To remove the tissue that’s pressing on a nerve, the spine surgeon may perform one of the following:</p>
+								<p>Surgery for spinal stenosis is safe and simple. To remove the tissue that's pressing on a nerve, the spine surgeon may perform one of the following:</p>
 								<ul>
-<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Foraminotomy: If part of the disc or a bone spur (osteophyte) is pressing on a nerve root in its path (an exit called the foramen), a foraminotomy – widening of the path for nerve root- may be done. Otomy means “to make an opening.” So a foraminotomy is making the opening of the foramen larger, so the nerve can exit without being compressed.</li>
+<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Foraminotomy: If part of the disc or a bone spur (osteophyte) is pressing on a nerve root in its path (an exit called the foramen), a foraminotomy – widening of the path for nerve root- may be done. Otomy means "to make an opening." So a foraminotomy is making the opening of the foramen larger, so the nerve can exit without being compressed.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Laminotomy: laminotomy makes a larger opening, this time in bony plate protecting the spinal canal and spinal cord. The lamina bony sheath over the nerves along with the nerve roots  may be pressing on your nerve,  which is removed  to  make more room for the nerves using a laminotomy.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Laminectomy: Sometimes, in severe cases and multilevel cases small opening in the bone may not be And what is needed is to remove all or part of the lamina, and this procedure is called a laminectomy.  This can often be done at many levels without any harmful effects.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Indirect decompression: is a variation of decompression surgery where pressure is relieved by spreading the bones apart instead of removing the bone. This can be done with different techniques and various instrumentation some examples are distraction laminoplasty with or without implants like interspinous process devices or interbody cages. Even artificial discs can accomplish some indirect decompression by restoring the height between adjacent vertebrae.</li>
@@ -311,7 +376,7 @@
                             <div class="panel-body">
                                 <div class="cliclskil1">
 								<ul>
-<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal fusion surgery done to bring the slipped bones together and making them stable and painless is called spinal fusion for spondylolisthesis. It’s especially helpful in cases where one or more vertebrae have slipped forward –</li>
+<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal fusion surgery done to bring the slipped bones together and making them stable and painless is called spinal fusion for spondylolisthesis. It's especially helpful in cases where one or more vertebrae have slipped forward –</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SPONDYLOLISTHESIS – slipping of one vertebrae forward in relation to other</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal fusion surgery for spondylolisthesis can be done in open conventioanl technqiue or with Minimal invasive spinal fusion suregry</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal invasive spinal fusion surgery is extremely safe and simple and most efficient. The best technique to do spinal fusion is Minimal Invasive Spinal Fusion. Minimal invasive spinal fusion also called as minimal invasive transforaminal interbody fusion or MIS-TLIF or MIS TLIF is a extremely safe procedure with plenty of benefits of small incisions which heal very quickly, less muscle pain, less pain after surgery, less blood loss, less infection, smaller incisions, early return to work, early discharge from hospital, no need of bed rest after surgery.</li>
@@ -339,9 +404,9 @@
                         <div id="collapseThirteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThirteen">
                             <div class="panel-body">
                                 <div class="cliclskil1">
-								<p>Surgery for spinal stenosis is safe and simple. To remove the tissue that’s pressing on a nerve, the spine surgeon may perform one of the following:</p>
+								<p>Surgery for spinal stenosis is safe and simple. To remove the tissue that's pressing on a nerve, the spine surgeon may perform one of the following:</p>
 									<ul>
-<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes. The spinal implants used for spinal fusion surgery are made of titanium, which is an inert, metal and extremely safe for the human body. When spinal implant, spine screw plate, screw plate in the spine is inserted in control by a trained spinal surgeon they don’t create any problem.</li>
+<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes. The spinal implants used for spinal fusion surgery are made of titanium, which is an inert, metal and extremely safe for the human body. When spinal implant, spine screw plate, screw plate in the spine is inserted in control by a trained spinal surgeon they don't create any problem.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To enhance safety Intraoperatively some Spinal surgeons use IITV (X-RAY) and navigation and robotics in spine surgery to make sure surgery is safe for patients.</li>
 									</ul>
 <p>Dr. Vishal Kundnani is the pioneer in Spine Navigation surgery in Mumbai. Dr. Vishal Kundnani is the best spine Navigation surgeon in India. Dr. Vishal Kundnani is trained in Navigation spine surgery and robotic spine surgery. Robot in spine surgery makes spine surgery safe. Dr. Vishal Kundnani is the best robotic spine surgeon in Mumbai and best Spine Navigation surgeon in Mumbai for Computer-guided navigation spine surgery in Mumbai.</p>
@@ -360,7 +425,7 @@
                         <div id="collapseFourteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFourteen">
                             <div class="panel-body">
                                 <div class="cliclskil1">
-								<p>Meet your doctor and know momre about your problem , possible solutions and pro’s and con’s of all the solutions including surgery offered to you.</p>
+								<p>Meet your doctor and know momre about your problem , possible solutions and pro's and con's of all the solutions including surgery offered to you.</p>
 								<ul>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">After surgery is planned, plan your hospital stay and discuss discharge plan with the doctor.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Maintain Good nutrition for healthy immune system.</li>
@@ -386,10 +451,10 @@
                             <div class="panel-body">
                                 <div class="cliclskil1">
 								<p>Minimal invasive spine surgery leads to fast recovery and makes patient walking after surgery within 24 hours. In fact in minimally invasive surgery and microendoscopic surgery and minimally invasive spinal fusion results in early return to work without any need of bed rest after surgery.</p>
-								<p>After surgery, the patient is mobilized out of bed within 24 hours, and pain medications are continued for 5 days. After the surgery, general do’s and don’ts instructions are given about. With Minimal, Invasive spine surgery patient can go home within 48 hrs and can resume job within 2 weeks however Contact sports is generally avoided for 6-10 weeks.</p>
+								<p>After surgery, the patient is mobilized out of bed within 24 hours, and pain medications are continued for 5 days. After the surgery, general do's and don'ts instructions are given about. With Minimal, Invasive spine surgery patient can go home within 48 hrs and can resume job within 2 weeks however Contact sports is generally avoided for 6-10 weeks.</p>
 								<ul>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">One should follow.</li>
-<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow your doctor’s treatment plan.</li>
+<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow your doctor's treatment plan.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sit and stand properly and maintain posture.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Learn to lift correctly.</li>
 <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Exercise regularly (low impact aerobic exercise is especially good, but check with your doctor first).</li>

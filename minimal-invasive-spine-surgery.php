@@ -8,6 +8,72 @@
     <title>Minimal Invasive spine surgery: Spine Surgery Treatment in Mumbai</title>
     <meta name="description" content="Explore minimal invasive spine surgery options with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Advanced treatments for spine issues in Mumbai.">
     <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "Minimal Invasive Spine Surgery in Mumbai by Dr. Vishal Kundnani",
+      "description": "Expert minimal invasive spine surgery with Dr. Vishal Kundnani Spine Specialist Mumbai. Advanced surgical techniques for faster recovery and better outcomes.",
+      "url": "https://www.spinesurgeonmumbai.com/minimal-invasive-spine-surgery.php",
+      "mainEntity": {
+        "@type": "MedicalProcedure",
+        "name": "Minimal Invasive Spine Surgery",
+        "description": "A modern surgical approach that uses smaller incisions and specialized instruments to treat spine conditions with minimal tissue damage",
+        "possibleTreatment": {
+          "@type": "MedicalTherapy",
+          "name": "Minimal Invasive Spine Surgery",
+          "description": "Advanced surgical techniques including microdiscectomy, laminectomy, and spinal fusion using minimal invasive approaches"
+        }
+      },
+      "provider": {
+        "@type": "MedicalOrganization",
+        "name": "Mumbai Institute of Spine Surgery",
+        "url": "https://www.spinesurgeonmumbai.com"
+      },
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Patient"
+      }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "What is minimal invasive spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Minimal invasive spine surgery is a modern surgical approach that uses smaller incisions and specialized instruments to treat spine conditions. It causes less damage to surrounding tissues, resulting in faster recovery and less post-operative pain."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What are the benefits of minimal invasive spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Benefits include smaller incisions, less blood loss, reduced muscle damage, faster recovery, shorter hospital stay, less post-operative pain, and lower risk of complications compared to traditional open surgery."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What conditions can be treated with minimal invasive spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Conditions treatable with minimal invasive surgery include herniated discs, spinal stenosis, degenerative disc disease, spondylolisthesis, and certain types of spinal tumors. The specific approach depends on the condition and patient's needs."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What is the recovery time after minimal invasive spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Recovery time is typically shorter than traditional surgery, with many patients returning to light activities within a few weeks. However, full recovery may take several months, depending on the specific procedure and individual factors."
+        }
+      }]
+    }
+    </script>
+
     <?php include 'includes/head.php'; ?>
 </head>
 
@@ -103,7 +169,7 @@
                                     <ul>
                                         <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day 0- surgery</li>
                                         <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day 1 post op Mobilization out of bed</li>
-                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day 2 Post op – Discharge with rehabilitation and physiotherapy program + ‘do’s and Dont’s</li>
+                                        <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day 2 Post op – Discharge with rehabilitation and physiotherapy program + 'do's and Dont's</li>
                                     </ul>
                                 </div>
                             </div>

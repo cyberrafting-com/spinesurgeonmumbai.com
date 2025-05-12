@@ -7,6 +7,72 @@
     <title>Best Physiotherapy for Spine Problems in Mumbai by Dr. Vishal Kundnani</title>
     <meta name="description" content="Discover the best physiotherapy options for spine problems with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert care for effective recovery in Mumbai.">
     <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Physiotherapy for Spine Conditions in Mumbai by Dr. Vishal Kundnani",
+  "description": "Expert physiotherapy treatment for spine conditions with Dr. Vishal Kundnani Spine Specialist Mumbai. Comprehensive rehabilitation and pain management.",
+  "url": "https://www.spinesurgeonmumbai.com/physiotherapy-in-spine.php",
+  "mainEntity": {
+    "@type": "MedicalTherapy",
+    "name": "Physiotherapy for Spine",
+    "description": "A specialized form of physical therapy focused on treating spine conditions through targeted exercises, manual therapy, and rehabilitation techniques",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Spine Physiotherapy",
+      "description": "Comprehensive physiotherapy program including manual therapy, therapeutic exercises, and pain management techniques for spine conditions"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "url": "https://www.spinesurgeonmumbai.com"
+  },
+  "medicalAudience": {
+    "@type": "MedicalAudience",
+    "audienceType": "Patient"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What spine conditions can physiotherapy help with?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Physiotherapy can help with various spine conditions including herniated discs, spinal stenosis, sciatica, back pain, neck pain, and post-surgical rehabilitation. It's also effective for posture-related issues and muscle imbalances."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What types of physiotherapy treatments are available?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Treatments include manual therapy, therapeutic exercises, traction, electrical stimulation, ultrasound therapy, and posture correction. The treatment plan is customized based on the specific condition and patient needs."
+    }
+  }, {
+    "@type": "Question",
+    "name": "When should I see a spine specialist for physiotherapy?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You should consult a spine specialist if you experience persistent back or neck pain, radiating pain, numbness or tingling, weakness, or if your symptoms affect daily activities. Early intervention can prevent further complications."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the benefits of physiotherapy for spine conditions?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Benefits include pain relief, improved mobility, better posture, strengthened core muscles, reduced risk of future injuries, and potentially avoiding surgery. It also helps in faster recovery after spine surgery."
+    }
+  }]
+}
+</script>
+
   <?php include 'includes/head.php'; ?>
 
 </head>
@@ -112,14 +178,14 @@
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Deep Tissue Massage: Deep tissue massage relieves deep muscle tension and spasms, which develop to prevent muscle motion at the affected area.</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot and Cold Therapy: Both hot and cold therapies offer their own set of benefits, and your physical therapist may alternate between them to get the best results. This reduces inflammation, muscle spasms, and pain.</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hydrotherapy/Aquatherapy: gently relieves pain and relaxes muscles.</li>
-                                            <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS (transcutaneous electrical nerve stimulation): uses electrical current to stimulate your muscles and reduces muscle spasms and is generally believed to trigger the release of endorphins, which are your body’s natural pain killers. TENS machine stimulates your muscles through variable (but safe) intensities of electrical current. TENS may increase your body’s production of endorphins, your natural pain killers. The TENS equipment your physical therapist uses is larger than the “at home” use machine.</li>
+                                            <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS (transcutaneous electrical nerve stimulation): uses electrical current to stimulate your muscles and reduces muscle spasms and is generally believed to trigger the release of endorphins, which are your body's natural pain killers. TENS machine stimulates your muscles through variable (but safe) intensities of electrical current. TENS may increase your body's production of endorphins, your natural pain killers. The TENS equipment your physical therapist uses is larger than the "at home" use machine.</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ultrasound for spine: By increasing blood circulation, an ultrasound helps reduce muscle cramping, swelling, stiffness, and pain. It does this by sending sound waves deep into your muscle tissues, creating a gentle heat that enhances circulation and healing.</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lumbar Traction: reduce the effects of gravity on the spine. The intent is to reduce the disc herniation and is usually performed in the cervical or lumbar spine.</li>
                                         </ul>
                                         <p><b>ActiveTreatments:Help to reduce recurrent pain but will also benefit your overall health.</b></p>
                                         <p>Exercises should not be done without proper supervision of physiotherapists and in consultation with spinal specialist and spine doctor.</p>
                                         <ul>
-                                            <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core stability: Many people don’t realize how important a strong core is to their spinal health. Your core (abdominal) muscles help your back muscles support your spine.</li>
+                                            <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core stability: Many people don't realize how important a strong core is to their spinal health. Your core (abdominal) muscles help your back muscles support your spine.</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pilates: When your core muscles are weak, it puts extra pressure on your back muscles. Your physical therapist may teach you to core stabilizing exercises to strengthen your back.</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Flexibility: Learning proper stretching and flexibility techniques will prepare you for aerobic and strength exercises. Flexibility helps your body move easier by warding off stiffness.</li>
                                             <li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle strengthening: Strong muscles are a great support system for your spine and better handle pain and strengthening of muscles which can cause your back stretches and strengthening along with pelvic tilt, which helps you find a neutral spine position.</li>

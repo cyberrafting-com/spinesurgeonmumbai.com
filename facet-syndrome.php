@@ -8,7 +8,82 @@
     <title>Top Treatment for Facet Syndrome in Mumbai by Dr. Vishal Kundnani</title>    
 <meta name="description" content="Get top treatment for facet syndrome with Dr. Vishal Kundnani in Mumbai. Expert care for effective relief from spine issues.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-    <?php include 'includes/head.php'; ?>
+<link rel="canonical" href="https://www.spinesurgeonmumbai.com/facet-syndrome.php" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Top Treatment for Facet Syndrome in Mumbai by Dr. Vishal Kundnani",
+  "description": "Get expert treatment for facet syndrome from Dr. Vishal Kundnani Spine Specialist in Mumbai. Comprehensive care and solutions for facet joint pain.",
+  "url": "https://www.spinesurgeonmumbai.com/facet-syndrome.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Facet Syndrome",
+    "description": "Facet Syndrome is a condition where the facet joints in the spine become inflamed and painful. These joints are located between the vertebrae and help provide stability and flexibility to the spine.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Facet Syndrome Treatment",
+      "description": "Comprehensive treatment options for facet syndrome including physical therapy, facet joint injections, radiofrequency ablation, and in some cases, surgical intervention."
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Facet Syndrome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Facet Syndrome is a condition that occurs when the facet joints in the spine become inflamed and painful. These joints are located between the vertebrae and help provide stability and flexibility to the spine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the symptoms of Facet Syndrome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms include: Localized back pain that may radiate to the buttocks or thighs, pain that worsens with twisting or bending, stiffness in the morning, and pain that improves with rest."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options for Facet Syndrome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options include: Physical therapy and exercise, pain medications, facet joint injections, radiofrequency ablation, and in severe cases, surgical intervention. The treatment plan is customized based on the severity of symptoms and patient's condition."
+      }
+    }
+  ]
+}
+</script>
+
+<?php include 'includes/head.php'; ?>
 
 </head>
 

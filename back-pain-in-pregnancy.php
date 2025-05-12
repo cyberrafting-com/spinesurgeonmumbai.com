@@ -8,7 +8,82 @@
     <title>Back Pain treatment in Pregnancy in Mumbai by Dr. Vishal Kundnani</title>    
 <meta name="description" content="Dr. Vishal Kundnani provides top treatments for back pain during pregnancy. Safe and effective solutions in Mumbai.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-    <?php include 'includes/head.php'; ?>
+<link rel="canonical" href="https://www.spinesurgeonmumbai.com/back-pain-in-pregnancy.php" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Back Pain Treatment During Pregnancy in Mumbai by Dr. Vishal Kundnani",
+  "description": "Get expert treatment for pregnancy-related back pain from Dr. Vishal Kundnani Spine Specialist in Mumbai. Safe and effective care for expectant mothers.",
+  "url": "https://www.spinesurgeonmumbai.com/back-pain-in-pregnancy.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Pregnancy Back Pain",
+    "description": "Back pain during pregnancy is a common condition that affects many expectant mothers. It can occur due to various factors including weight gain, postural changes, and hormonal changes.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Pregnancy Back Pain Treatment",
+      "description": "Safe and effective treatment options for pregnancy-related back pain including physical therapy, exercise, and lifestyle modifications."
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes back pain during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes include: Weight gain and increased pressure on the spine, hormonal changes that loosen ligaments, postural changes, and the growing uterus shifting the center of gravity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I be concerned about back pain during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should seek medical attention if: The pain is severe or persistent, you experience numbness or tingling, you have difficulty walking, or if the pain is accompanied by other symptoms like fever, vaginal bleeding, or contractions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are safe treatment options for back pain during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Safe treatment options include: Prenatal exercise and physical therapy, proper posture and body mechanics, pregnancy-safe stretches, heat/cold therapy, and pregnancy support belts. Always consult your healthcare provider before starting any treatment."
+      }
+    }
+  ]
+}
+</script>
+
+<?php include 'includes/head.php'; ?>
    
 </head>
 
@@ -45,7 +120,7 @@
                 <div class="cliclskil1 mt-3">
                 <div class="col-lg-8 col-md-8 col-sm-8">
 			<h1>Back Pain in Pregnancy</h1>
-			<p class="mt-1">The good news is, your baby is growing. That’s exactly what should be happening, but it can still be tough on your back.You’ve got lots of company, most pregnant women experience back pain, usually starting in the second half of pregnancy.</p>
+			<p class="mt-1">The good news is, your baby is growing. That's exactly what should be happening, but it can still be tough on your back.You've got lots of company, most pregnant women experience back pain, usually starting in the second half of pregnancy.</p>
 			<p>You should know that there are things you can do to minimize your back pain.</p>
 			<h1>Causes of Back Pain in Pregnant Women:</h1>
 			<p class="mt-1">Pregnancy back pain typically happens where the pelvis meets your spine, at the sacroiliac joint.</p>
