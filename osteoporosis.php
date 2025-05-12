@@ -9,7 +9,78 @@
 <meta name="description" content="Find effective osteoporosis treatment with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert care and solutions for bone health in Mumbai.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 <link rel="canonical" href="https://www.spinesurgeonmumbai.com/osteoporosis.php" />
-    <?php include 'includes/head.php'; ?>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Top Treatment for Osteoporosis in Mumbai by Dr. Vishal Kundnani",
+  "description": "Find effective osteoporosis treatment with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert care and solutions for bone health in Mumbai.",
+  "url": "https://www.spinesurgeonmumbai.com/osteoporosis.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Osteoporosis",
+    "description": "Osteoporosis is a condition that weakens bones, making them fragile and more likely to break. It is common in older adults, especially women, and often goes undetected until a fracture occurs.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Osteoporosis Treatment",
+      "description": "Comprehensive treatment options for osteoporosis including medications, dietary changes, exercise, and lifestyle modifications to strengthen bones and prevent fractures."
+    }
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is osteoporosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Osteoporosis is a condition that causes bones to become weak and brittle, increasing the risk of fractures. It is often called a 'silent disease' because bone loss occurs without symptoms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risk factors for osteoporosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risk factors include: Aging, being small and thin, family history, certain medications, being a white or Asian woman, and having osteopenia (low bone density)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is osteoporosis treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment includes: Medications to strengthen bones, a diet rich in calcium and vitamin D, regular exercise, and avoiding smoking. Bone density tests are used to monitor bone health."
+      }
+    }
+  ]
+}
+</script>
+<?php include 'includes/head.php'; ?>
 
 </head>
 

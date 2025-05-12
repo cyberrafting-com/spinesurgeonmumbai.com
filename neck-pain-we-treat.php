@@ -8,6 +8,77 @@
 	<title>Top Treatment for Neck Pain in Mumbai by Dr. Vishal Kundnani</title>    
 <meta name="description" content="Get top-notch treatment for neck pain with Dr. Vishal Kundnani Spine specialist in Mumbai. Expert care and solutions in Mumbai for effective relief.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Top Treatment for Neck Pain in Mumbai by Dr. Vishal Kundnani",
+  "description": "Get top-notch treatment for neck pain with Dr. Vishal Kundnani Spine specialist in Mumbai. Expert care and solutions in Mumbai for effective relief.",
+  "url": "https://www.spinesurgeonmumbai.com/neck-pain-we-treat.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Neck Pain",
+    "description": "Neck pain is a common condition that can be caused by muscle strain, poor posture, trauma, degenerative diseases, or other underlying conditions. It may be accompanied by shoulder pain or radiate to the arms.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Neck Pain Treatment",
+      "description": "Comprehensive treatment options for neck pain including physical therapy, pain management, medications, and in some cases, surgical intervention."
+    }
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common causes of neck pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes include: Muscle strain, poor posture, trauma, degenerative diseases, abnormalities in the bone or joints, and tumors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is neck pain diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diagnosis may involve physical examination, X-rays, MRI, CT scans, and electrodiagnostic studies such as EMG and NCV to determine the underlying cause."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options for neck pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options include: Physical therapy, pain medications, muscle relaxants, local heat or ice application, corticosteroid injections, and in severe cases, surgical intervention."
+      }
+    }
+  ]
+}
+</script>
 <?php include 'includes/head.php'; ?>
 <link rel="canonical" href="https://www.spinesurgeonmumbai.com/neck-pain-we-treat.php" />
 </head>
