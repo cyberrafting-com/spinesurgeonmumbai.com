@@ -14,7 +14,7 @@
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
   "name": "Top Treatment for Osteoporosis in Mumbai by Dr. Vishal Kundnani",
-  "description": "Find effective osteoporosis treatment with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert care and solutions for bone health in Mumbai.",
+  "description": "Find effective osteoporosis treatment with Dr.Vishal Kundnani Spine Surgeon in Mumbai. Expert care and solutions for bone health in Mumbai.",
   "url": "https://www.spinesurgeonmumbai.com/osteoporosis.php",
   "author": {
     "@type": "Person",
