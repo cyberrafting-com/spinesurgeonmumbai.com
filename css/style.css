@@ -4116,3 +4116,128 @@ border: 1px solid #c4c7bf;
     color: #333333;
     padding-top: 20px;
 }
+.footer-locations
+{
+    color: #1b6aaa !important;
+}
+
+/* .footer-locations {
+    background: #1b6aaa !important;
+} */
+
+.footer-locations .header_title {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.footer-locations .header_title h3 {
+    font-size: 36px;
+    color: #35353a;
+    font-weight: 600;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+.footer-locations .header_title h3:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 3px;
+    background: #e74c3c;
+}
+
+/* Tab Styles */
+.tab {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+
+.tablinks {
+    background: #ffffff;
+    color: #2c3e50;
+    border: none;
+    border: 2px solid #d9555170;
+    border-radius: 30px;
+    padding: 12px 25px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.tablinks:hover {
+    background: #e74c3c;
+    color: #fff;
+}
+
+.tablinks.active {
+    background: #d95551;
+    color: #fff;
+}
+/* Tab Content Styles */
+.tabcontent {
+    display: none;
+    animation: fadeEffect 0.5s;
+}
+
+@keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+.location-content {
+    background: #1b6aaa !important;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.location-info h4 {
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.location-info p {
+    color: #ecf0f1;
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+.location-info p strong {
+    color: #fff;
+    font-weight: 600;
+}
+
+.location-info i {
+    color: #e74c3c;
+    margin-right: 10px;
+}
+
+.location-content iframe {
+    border-radius: 8px;
+    height: 100%;
+    min-height: 250px;
+    border: 2px solid #e74c3c;
+}
+
+@media (max-width: 768px) {
+    .tablinks {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    
+    .location-content {
+        padding: 20px;
+    }
+    
+    .location-info {
+        margin-bottom: 20px;
+    }
+}
