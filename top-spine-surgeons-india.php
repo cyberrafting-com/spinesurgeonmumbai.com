@@ -4,6 +4,73 @@
     <title>Top Spine Surgeons in India</title>    
     <meta name="description" content="This list includes some of the most skilled and trusted spine surgeons in India, known for delivering high-quality care and innovative treatments for spine-related issues.">  
     <meta name="keywords" content="This list includes some of the most skilled and trusted spine surgeons in India, known for delivering high-quality care and innovative treatments for spine-related issues.">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "Top Spine Surgeons in India",
+      "description": "This list includes some of the most skilled and trusted spine surgeons in India, known for delivering high-quality care and innovative treatments for spine-related issues.",
+      "url": "https://www.spinesurgeonmumbai.com/top-spine-surgeons-india.php",
+      "mainEntity": {
+        "@type": "MedicalSpecialty",
+        "name": "Spine Surgery",
+        "description": "Expert spine surgical care including minimally invasive techniques, complex spinal reconstructions, and advanced treatment methods",
+        "medicineSystem": "https://schema.org/Orthopedic",
+        "code": {
+          "@type": "MedicalCode",
+          "code": "SpineSurgery",
+          "codingSystem": "ICD-10"
+        }
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Vishal Kundnani",
+        "jobTitle": "Director & Head of Spine Surgery",
+        "worksFor": {
+          "@type": "MedicalOrganization",
+          "name": "Mumbai Institute of Spine Surgery"
+        }
+      }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "Who are the top spine surgeons in India?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The list includes renowned spine surgeons like Dr. Vishal Kundnani (Mumbai), Dr. Arvind G. Kulkarni (Mumbai), Dr. Sajan K. Hegde (Chennai), Dr. S. K. Rajan (Gurgaon), and others, each known for their expertise in different aspects of spine surgery."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What makes these spine surgeons stand out?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "These surgeons are distinguished by their extensive experience, advanced surgical techniques, international training, successful patient outcomes, and access to state-of-the-art technology and facilities."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What conditions do these spine surgeons treat?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "They treat a wide range of conditions including slip disc, sciatica, scoliosis, spinal stenosis, degenerative disc disease, spinal deformities, and complex spinal reconstructions."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What advanced techniques do these surgeons use?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "These surgeons utilize advanced techniques including minimally invasive spine surgery, robotic-assisted procedures, spinal fusion, disc replacement, and computer-assisted navigation for precise and effective treatment."
+        }
+      }]
+    }
+    </script>
+
     <?php include 'includes/head.php';?>
 </head>
 

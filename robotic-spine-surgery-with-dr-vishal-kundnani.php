@@ -2,8 +2,91 @@
 <html lang="en-us">
 <head>
 <title>Robotic Spine Surgery with Dr. Vishal Kundnani: A Breakthrough in Spine Care</title>    
-<meta name="description" content="Dr. Vishal Kundnani, one of Mumbai’s most renowned robotic spine surgeons at Bombay Hospital, specializes in treating scoliosis, degenerative spine diseases, and other challenging spinal conditions. By integrating advanced robotic technology, he ensures safer procedures with superior outcomes, enabling patients to regain mobility and confidence faster.">  
+<meta name="description" content="Dr. Vishal Kundnani, one of Mumbai's most renowned robotic spine surgeons at Bombay Hospital, specializes in treating scoliosis, degenerative spine diseases, and other challenging spinal conditions using advanced robotic technology.">  
 <meta name="keywords" content="">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Robotic Spine Surgery with Dr. Vishal Kundnani: A Breakthrough in Spine Care",
+  "description": "Dr. Vishal Kundnani, one of Mumbai's most renowned robotic spine surgeons at Bombay Hospital, specializes in treating scoliosis, degenerative spine diseases, and other challenging spinal conditions using advanced robotic technology.",
+  "url": "https://www.spinesurgeonmumbai.com/robotic-spine-surgery-with-dr-vishal-kundnani.php",
+  "mainEntity": {
+    "@type": "MedicalProcedure",
+    "name": "Robotic Spine Surgery",
+    "description": "Robotic spine surgery is a minimally invasive procedure that utilizes advanced robotic technology to treat various spinal conditions with precision and minimal tissue disruption.",
+    "medicineSystem": "https://schema.org/Orthopedic",
+    "bodyLocation": "Spine",
+    "howPerformed": "Using advanced robotic technology for precise surgical interventions",
+    "preparation": "Pre-surgical evaluation and imaging",
+    "procedureType": "Minimally Invasive Surgery",
+    "status": "https://schema.org/ActiveActionStatus",
+    "code": {
+      "@type": "MedicalCode",
+      "code": "RoboticSpineSurgery",
+      "codingSystem": "ICD-10"
+    }
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Director & Head of Spine Surgery",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Mumbai Institute of Spine Surgery"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "medicalSpecialty": "Spine Surgery"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How does robotic spine surgery differ from traditional spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Robotic spine surgery offers greater precision, smaller incisions, reduced tissue damage, and faster recovery times compared to traditional spine surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Is robotic spine surgery safe?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, robotic spine surgery is considered very safe. The advanced technology enhances precision, reduces complications, and minimizes surgical risks."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How long is the recovery time after robotic spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Recovery varies depending on the complexity of the procedure, but most patients experience quicker healing and return to daily activities within a few weeks."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Who is an ideal candidate for robotic spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Patients with scoliosis, degenerative spine diseases, spinal deformities, trauma-related injuries, or tumors can benefit from robotic spine surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How can I book a consultation with Dr. Vishal Kundnani?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You can schedule an appointment with Dr. Vishal Kundnani at Bombay Hospital for expert robotic spine surgery consultations and treatments."
+    }
+  }]
+}
+</script>
 <?php include 'includes/head.php';?>
 </head>
 
@@ -37,7 +120,7 @@
                             <div class="col-lg-8 col-md-8 col-12">
                                 <h2>What is Robotic Spine Surgery?</h2>
                                 <p>Robotic spine surgery is transforming spinal care by offering a precise and minimally invasive solution for complex spinal conditions. Unlike traditional spine surgery, this cutting-edge technique enhances surgical accuracy, reduces recovery time, and minimizes post-operative pain.</p>
-                                <p>Dr. Vishal Kundnani, one of Mumbai’s most renowned robotic spine surgeons at Bombay Hospital, specializes in treating scoliosis, degenerative spine diseases, and other challenging spinal conditions. By integrating advanced robotic technology, he ensures safer procedures with superior outcomes, enabling patients to regain mobility and confidence faster.</p>
+                                <p>Dr. Vishal Kundnani, one of Mumbai's most renowned robotic spine surgeons at Bombay Hospital, specializes in treating scoliosis, degenerative spine diseases, and other challenging spinal conditions using advanced robotic technology.</p>
                             </div>
                             <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
                                 <img src="img/blog/robotic-spine-surgery-with-dr-vishal-kundnani.jpg">
@@ -122,7 +205,7 @@
                         </div>
                         <div class="sec-blog-design pt-5">
                             <h3>Final Thoughts</h3>
-                            <p>Robotic spine surgery is shaping the future of spinal treatment, providing a <b>safer, more efficient, and highly precise alternative</b> to traditional surgery. With <b>Dr. Vishal Kundnani’s expertise and access to state-of-the-art robotic technology</b>, patients can expect superior results, reduced recovery times, and a faster return to a pain-free life.</p>
+                            <p>Robotic spine surgery is shaping the future of spinal treatment, providing a <b>safer, more efficient, and highly precise alternative</b> to traditional surgery. With <b>Dr. Vishal Kundnani's expertise and access to state-of-the-art robotic technology</b>, patients can expect superior results, reduced recovery times, and a faster return to a pain-free life.</p>
                             <p>If you're searching for the best spine care, robotic-assisted surgery with <b>Dr. Vishal Kundnani</b> could be your gateway to lasting relief and improved mobility.
                             </p>
                         </div>  
@@ -136,7 +219,7 @@
                         <h4 class="pt-5">4. Who is an ideal candidate for robotic spine surgery?</h4>
                         <p>Patients with scoliosis, degenerative spine diseases, spinal deformities, trauma-related injuries, or tumors can benefit from robotic spine surgery.</p>
                         <h4 class="pt-5">5. How can I book a consultation with Dr. Vishal Kundnani?</h4>
-                        <p>You can schedule an appointment with <b>Dr. Vishal Kundnani</b> at </b>Bombay Hospital</b> for expert robotic spine surgery consultations and treatments.</p>
+                        <p>You can schedule an appointment with Dr. Vishal Kundnani at Bombay Hospital for expert robotic spine surgery consultations and treatments.</p>
                     </div>
                 </div>
             </div>

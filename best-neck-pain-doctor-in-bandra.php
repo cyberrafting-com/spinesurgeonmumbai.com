@@ -9,6 +9,47 @@
 <meta name="description" content="Are You Looking For Neck Pain Doctor?, Dr. Vishal Kundnani Is Best Neck Pain Doctor In Bandra, Best Neck Pain Doctor Near Me">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Best Neck Pain Doctor in Bandra - Dr. Vishal Kundnani",
+  "description": "Expert neck pain treatment in Bandra by Dr. Vishal Kundnani, providing specialized care and advanced solutions for neck pain and related conditions.",
+  "url": "https://www.spinesurgeonmumbai.com/best-neck-pain-doctor-in-bandra.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Specialist",
+    "description": "MS (Ortho) FASSI, FNUS, FNAMS - Specializing in neck pain treatment and cervical spine care",
+    "knowsAbout": [
+      "Neck Pain Treatment",
+      "Cervical Spine Care",
+      "Pain Management",
+      "Minimally Invasive Procedures",
+      "Physical Therapy"
+    ],
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Clinic Mumbai",
+      "medicalSpecialty": "Spine Care",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bandra",
+        "addressRegion": "Mumbai",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Clinic Mumbai",
+    "medicalSpecialty": "Spine Care"
+  },
+  "specialty": "Neck Pain Treatment",
+  "medicalAudience": "Medical"
+}
+</script>
+
     <?php include 'includes/head.php'; ?>
 </head>
 

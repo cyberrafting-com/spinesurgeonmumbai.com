@@ -10,6 +10,67 @@
     <meta name="description" content="Mumbai Institute of Spine Surgery (M.I.S.S) - Group of most Reputed top spine surgeons in Mumbai, India - involved in delivering premium spine surgery care for spinal disorders - is India’s mot reputed premier spine care centre, Led by Dr Vishal Kundnani.">
     <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalOrganization",
+      "name": "Mumbai Institute of Spine Surgery (M.I.S.S)",
+      "description": "Mumbai Institute of Spine Surgery (M.I.S.S) is India's most reputed premier spine care centre, led by Dr. Vishal Kundnani, delivering premium spine surgery care for spinal disorders.",
+      "url": "https://www.spinesurgeonmumbai.com/about-mumbai-institute-of-spine-surgery.php",
+      "logo": "https://www.spinesurgeonmumbai.com/img/logo.png",
+      "sameAs": [
+        "https://www.facebook.com/spinesurgeonmumbai",
+        "https://twitter.com/spinesurgeonmum",
+        "https://www.linkedin.com/company/spine-surgeon-mumbai"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bombay Hospital",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "postalCode": "400020",
+        "addressCountry": "IN"
+      },
+      "medicalSpecialty": ["Spine Surgery", "Orthopedic Surgery"],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Spine Surgery Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "MedicalProcedure",
+              "name": "Minimally Invasive Spine Surgery"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "MedicalProcedure",
+              "name": "Robotic Spine Surgery"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "MedicalProcedure",
+              "name": "Laser Spine Surgery"
+            }
+          }
+        ]
+      },
+      "employee": {
+        "@type": "Person",
+        "name": "Dr. Vishal Kundnani",
+        "jobTitle": "Director & Head of Spine Surgery",
+        "medicalSpecialty": "Spine Surgery",
+        "worksFor": {
+          "@type": "MedicalOrganization",
+          "name": "Mumbai Institute of Spine Surgery"
+        }
+      }
+    }
+    </script>
 
 </head>
 

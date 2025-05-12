@@ -4,6 +4,78 @@
 <title>Spine Tip of the Week SCOLIOSIS - Spine Surgeon Mumbai</title>    
 <meta name="description" content="Discover expert advice on managing scoliosis pain in this week's spine tip from Dr. Vishal Kundnani at Spine Surgeons in Mumbai. Practical tips for relief and maintaining spine health.">  
 <meta name="keywords" content="">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Spine Tip of the Week SCOLIOSIS - Spine Surgeon Mumbai",
+  "description": "Discover expert advice on managing scoliosis pain in this week's spine tip from Dr. Vishal Kundnani at Spine Surgeons in Mumbai. Practical tips for relief and maintaining spine health.",
+  "url": "https://www.spinesurgeonmumbai.com/spine-tip-of-the-week-scoliosis.php",
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Scoliosis",
+    "description": "Expert medical advice and treatment options for scoliosis, a spinal deformity causing abnormal curvature and rotation of the spine",
+    "medicineSystem": "https://schema.org/Orthopedic",
+    "code": {
+      "@type": "MedicalCode",
+      "code": "Scoliosis",
+      "codingSystem": "ICD-10"
+    },
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Scoliosis Treatment",
+      "description": "Comprehensive treatment approach including surgical correction, bracing, and specialized medical care"
+    }
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Director & Head of Spine Surgery",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Mumbai Institute of Spine Surgery"
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is scoliosis?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Scoliosis is a spinal deformity characterized by abnormal curvature and rotational twist of the spine, causing a visible hump or deformity in the back with posture tilt."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the types of scoliosis?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Types include idiopathic scoliosis (common in young adolescent females), congenital scoliosis (due to bony malformation), syndromic scoliosis, neuromuscular scoliosis in children, and degenerative scoliosis in adults."
+    }
+  }, {
+    "@type": "Question",
+    "name": "When is scoliosis surgery recommended?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Scoliosis surgery is recommended when the deformity is progressive (greater than 50 degrees), causes pain, or results in neurological deficits. Early diagnosis and management are crucial for better outcomes."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the treatment options for scoliosis?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Treatment options include surgical correction for severe cases, with modern techniques using navigation, neuromonitoring, and advanced imaging. Bracing and physiotherapy have limited roles, primarily for mild cases in young children."
+    }
+  }]
+}
+</script>
+
 <?php include 'includes/head.php';?>    
 </head>  
 

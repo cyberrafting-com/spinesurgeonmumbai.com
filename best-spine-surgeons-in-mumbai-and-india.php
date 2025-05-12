@@ -3,7 +3,59 @@
 <head>
 <title>Best Spine Surgeons in Mumbai and India: Dr. Vishal Kundnani at the Forefront of Advanced Spinal Care</title>    
 <meta name="description" content="Dr. Vishal Kundnani is at the forefront of minimally invasive spine surgery (MISS), using the latest technology to enhance surgical precision and patient outcomes. His robotic and laser-assisted procedures reduce risks, post-operative pain, and recovery time, allowing patients to resume their daily lives faster than with conventional spine surgeries.">  
-<meta name="keywords" content="">
+<meta name="keywords" content="Best Spine Surgeons Mumbai India, Dr. Vishal Kundnani, Top Spine Surgeons India, Spine Surgery Mumbai, Spine Treatment India, International Spine Surgery">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Best Spine Surgeons in Mumbai and India - Dr. Vishal Kundnani",
+  "description": "Dr. Vishal Kundnani is recognized among the best spine surgeons in Mumbai and India, offering world-class spine surgery and treatment for both national and international patients.",
+  "url": "https://www.spinesurgeonmumbai.com/best-spine-surgeons-in-mumbai-and-india.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "description": "MS (Ortho) FASSI, FNUS, FNAMS - Leading spine surgeon in Mumbai and India",
+    "knowsAbout": [
+      "Spine Surgery",
+      "Minimally Invasive Procedures",
+      "International Patient Care",
+      "Complex Spine Conditions",
+      "Spine Rehabilitation"
+    ],
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Clinic Mumbai",
+      "medicalSpecialty": "Spine Surgery",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Clinic Mumbai",
+    "medicalSpecialty": "Spine Surgery",
+    "availableService": {
+      "@type": "MedicalProcedure",
+      "name": "Spine Surgery",
+      "description": "Comprehensive spine surgery services including minimally invasive procedures, complex spine surgeries, and international patient care"
+    }
+  },
+  "specialty": "Spine Surgery",
+  "medicalAudience": "Medical",
+  "about": {
+    "@type": "MedicalSpecialty",
+    "name": "Spine Surgery",
+    "description": "Expert spine surgery services available for patients from Mumbai, India, and internationally"
+  }
+}
+</script>
+
 <?php include 'includes/head.php';?>
 </head>
 
@@ -70,7 +122,7 @@
                         </div>
                         <div class="sec-blog-design pt-5">
                             <h3>3. Cutting-Edge Medical Technology for Precision Surgery</h3>
-                            <p>Innovation is at the heart of <b>Dr. Kundnani’s practice</b>. He employs the latest advancements, such as:</p>
+                            <p>Innovation is at the heart of <b>Dr. Kundnani's practice</b>. He employs the latest advancements, such as:</p>
                         </div>
                         <div class="cat-service-inner pt-5">
                             <img src="img/founder_li_icon.png" alt=""><p><strong>Robotic Navigation Systems</strong>Enhancing surgical accuracy and reducing risks.</p>
@@ -83,7 +135,7 @@
                         </div>
                         <div class="sec-blog-design pt-5">
                             <h3>4. Personalized Patient-Centric Approach</h3>
-                            <p>What truly distinguishes <b>Dr. Vishal Kundnani</b> is his commitment to <b>personalized treatment plans</b>. Every patient undergoes a thorough assessment to determine the best course of action. His approach ensures that each procedure is tailored to the patient’s unique needs, resulting in <b>superior recovery and long-term spinal health.</b></p>
+                            <p>What truly distinguishes <b>Dr. Vishal Kundnani</b> is his commitment to <b>personalized treatment plans</b>. Every patient undergoes a thorough assessment to determine the best course of action. His approach ensures that each procedure is tailored to the patient's unique needs, resulting in <b>superior recovery and long-term spinal health.</b></p>
                         </div>
                         <div class="sec-blog-design pt-5">
                             <h3>The Advantages of Choosing Dr. Vishal Kundnani</h3>
@@ -105,7 +157,7 @@
                         </div>
                         <div class="sec-blog-design pt-5">
                             <h3>Recognized Excellence in Spine Surgery</h3>
-                            <p>With years of specialized training, <b>Dr. Kundnani</b> has honed his skills at <b>prestigious medical institutions</b>, making him a leader in spine surgery. His dedication to <b>constant innovation</b> and commitment to refining <b>surgical techniques</b> have set him apart as one of <b>India’s top spine specialists.</b></p>
+                            <p>With years of specialized training, <b>Dr. Kundnani</b> has honed his skills at <b>prestigious medical institutions</b>, making him a leader in spine surgery. His dedication to <b>constant innovation</b> and commitment to refining <b>surgical techniques</b> have set him apart as one of <b>India's top spine specialists.</b></p>
                         </div>                            
                         <div class="sec-blog-design pt-5">
                             <h3>Why Patients Trust Dr. Vishal Kundnani?</h3>

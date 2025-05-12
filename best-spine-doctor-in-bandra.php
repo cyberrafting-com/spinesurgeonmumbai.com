@@ -5,8 +5,54 @@
 
 
     <title>Best Spine Doctor In Bandra | Dr. Vishal Kundnani</title>    
-<meta name="description" content="Dr. Vishal Kundnani is Bandra’s top spine doctor, providing exceptional care and treatment for spine-related conditions.">  
-<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+<meta name="description" content="Dr. Vishal Kundnani is Bandra's top spine doctor, providing exceptional care and treatment for spine-related conditions.">  
+<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai, Best Spine Doctor Bandra, Dr. Vishal Kundnani, Spine Specialist Bandra, Spine Surgeon Bandra, Spine Treatment Bandra, Back Pain Doctor Bandra">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Best Spine Doctor in Bandra - Dr. Vishal Kundnani",
+  "description": "Dr. Vishal Kundnani is recognized as the best spine doctor in Bandra, offering expert spine care, minimally invasive surgery, and comprehensive treatment for all spine conditions.",
+  "url": "https://www.spinesurgeonmumbai.com/best-spine-doctor-in-bandra.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Specialist",
+    "description": "MS (Ortho) FASSI, FNUS, FNAMS - Leading spine specialist in Bandra, Mumbai",
+    "knowsAbout": [
+      "Spine Treatment",
+      "Back Pain Management",
+      "Neck Pain Treatment",
+      "Minimally Invasive Surgery",
+      "Spine Rehabilitation"
+    ],
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Clinic Mumbai",
+      "medicalSpecialty": "Spine Care",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bandra, Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Clinic Mumbai",
+    "medicalSpecialty": "Spine Care",
+    "availableService": {
+      "@type": "MedicalProcedure",
+      "name": "Spine Treatment",
+      "description": "Comprehensive spine care including diagnosis, treatment, and rehabilitation for all spine conditions"
+    }
+  },
+  "specialty": "Spine Care",
+  "medicalAudience": "Medical"
+}
+</script>
 
     <?php include 'includes/head.php'; ?>
 

@@ -4,7 +4,54 @@
 <head>
     <title>Affordable Spine Surgery in Mumbai for International Patients</title>
     <meta name="description" content="Get advanced, world-class spine surgery in Mumbai at affordable costs. C.E.S.S. offers expert care for international patients with top spine surgeons in India.">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "Affordable Spine Surgery for International Patients in Mumbai",
+      "description": "World-class, affordable spine surgery services in Mumbai for international patients, led by Dr. Vishal Kundnani, offering advanced treatments with cost-effective solutions.",
+      "url": "https://www.spinesurgeonmumbai.com/affordable-spine-surgery-international-patients-mumbai.php",
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Vishal Kundnani",
+        "jobTitle": "Spine Surgeon",
+        "description": "MS (Ortho) FASSI, FNUS, FNAMS - Director and Head of Spine Surgery, specializing in international patient care",
+        "knowsAbout": [
+          "International Patient Care",
+          "Spine Surgery",
+          "Minimally Invasive Procedures",
+          "Medical Tourism",
+          "Cost-effective Treatments"
+        ],
+        "worksFor": {
+          "@type": "MedicalOrganization",
+          "name": "Spine Clinic Mumbai",
+          "medicalSpecialty": "Spine Surgery",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Mumbai",
+            "addressRegion": "Maharashtra",
+            "addressCountry": "IN"
+          }
+        }
+      },
+      "provider": {
+        "@type": "MedicalOrganization",
+        "name": "Spine Clinic Mumbai",
+        "medicalSpecialty": "Spine Surgery",
+        "availableService": {
+          "@type": "MedicalProcedure",
+          "name": "International Patient Spine Surgery",
+          "description": "Comprehensive spine surgery services for international patients with affordable pricing and world-class care"
+        }
+      },
+      "specialty": "International Patient Care",
+      "medicalAudience": "Medical"
+    }
+    </script>
+
     <?php include 'includes/head.php'; ?>
 </head>
 

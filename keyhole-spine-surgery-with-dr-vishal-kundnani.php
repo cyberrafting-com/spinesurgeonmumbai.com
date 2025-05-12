@@ -4,6 +4,90 @@
 <title>Keyhole Spine Surgery with Dr. Vishal Kundnani: A Minimally Invasive Path to Recovery</title>    
 <meta name="description" content="This modern technique is especially beneficial for patients suffering from herniated discs, spinal stenosis, degenerative disc disease, spinal fractures, and sciatica. Under the expertise of Dr. Vishal Kundnani, a leading keyhole spine surgeon at Bombay Hospital, individuals can regain mobility and improve their quality of life with minimal downtime.">  
 <meta name="keywords" content="">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Keyhole Spine Surgery with Dr. Vishal Kundnani: A Minimally Invasive Path to Recovery",
+  "description": "This modern technique is especially beneficial for patients suffering from herniated discs, spinal stenosis, degenerative disc disease, spinal fractures, and sciatica. Under the expertise of Dr. Vishal Kundnani, a leading keyhole spine surgeon at Bombay Hospital.",
+  "url": "https://www.spinesurgeonmumbai.com/keyhole-spine-surgery-with-dr-vishal-kundnani.php",
+  "mainEntity": {
+    "@type": "MedicalProcedure",
+    "name": "Keyhole Spine Surgery",
+    "description": "A minimally invasive surgical technique that uses small incisions to treat various spinal conditions with precision and minimal tissue disruption.",
+    "medicineSystem": "https://schema.org/Orthopedic",
+    "bodyLocation": "Spine",
+    "howPerformed": "Using small incisions and specialized instruments for precise surgical interventions",
+    "preparation": "Pre-surgical evaluation and imaging",
+    "procedureType": "Minimally Invasive Surgery",
+    "status": "https://schema.org/ActiveActionStatus",
+    "code": {
+      "@type": "MedicalCode",
+      "code": "KeyholeSpineSurgery",
+      "codingSystem": "ICD-10"
+    }
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Director & Head of Spine Surgery",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Mumbai Institute of Spine Surgery"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "medicalSpecialty": "Spine Surgery"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How does keyhole spine surgery differ from traditional spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Keyhole spine surgery is minimally invasive, requiring smaller incisions, resulting in faster recovery and reduced pain compared to traditional open surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Is keyhole spine surgery safe?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, keyhole spine surgery is highly safe when performed by an experienced specialist like Dr. Vishal Kundnani. It reduces surgical risks and preserves healthy tissues."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What is the recovery time after keyhole spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Most patients recover within a few weeks, significantly faster than traditional spine surgery, which can take months."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Who is a good candidate for keyhole spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Patients suffering from herniated discs, spinal stenosis, degenerative disc disease, spinal fractures, or nerve compression can benefit from keyhole spine surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How can I book a consultation with Dr. Vishal Kundnani?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "To schedule an appointment, you can visit Bombay Hospital, where Dr. Vishal Kundnani provides expert spine treatments in Mumbai and across India."
+    }
+  }]
+}
+</script>
+
 <?php include 'includes/head.php';?>
 </head>
 

@@ -8,6 +8,48 @@
     <title>Best Slip Disc Doctor In Bandra | Dr. Vishal Kundnani</title>    
 <meta name="description" content="Dr. Vishal Kundnani offers expert treatment for slip disc issues in Bandra. Reliable care for effective relief and recovery.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Best Slip Disc Doctor in Bandra - Dr. Vishal Kundnani",
+  "description": "Expert slip disc treatment in Bandra by Dr. Vishal Kundnani, offering advanced care and minimally invasive solutions for herniated disc conditions.",
+  "url": "https://www.spinesurgeonmumbai.com/best-slip-disc-doctor-in-bandra.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Specialist",
+    "description": "MS (Ortho) FASSI, FNUS, FNAMS - Specializing in slip disc treatment and herniated disc care",
+    "knowsAbout": [
+      "Slip Disc Treatment",
+      "Herniated Disc Care",
+      "Minimally Invasive Spine Surgery",
+      "Microendoscopic Procedures",
+      "Non-surgical Treatments"
+    ],
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Clinic Mumbai",
+      "medicalSpecialty": "Spine Care",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bandra",
+        "addressRegion": "Mumbai",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Clinic Mumbai",
+    "medicalSpecialty": "Spine Care"
+  },
+  "specialty": "Slip Disc Treatment",
+  "medicalAudience": "Medical"
+}
+</script>
+
     <?php include 'includes/head.php'; ?>
 </head>
 

@@ -10,6 +10,47 @@
 <meta name="description" content="Find the best back pain doctor in Bandra, Dr. Vishal Kundnani Spine Specialist in Mumbai. Expert care and personalized treatment for your back pain.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Best Back Pain Doctor in Bandra - Dr. Vishal Kundnani",
+  "description": "Expert back pain treatment in Bandra by Dr. Vishal Kundnani, offering comprehensive care and personalized treatment plans for effective pain management.",
+  "url": "https://www.spinesurgeonmumbai.com/best-back-pain-doctor-in-bandra.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Specialist",
+    "description": "MS (Ortho) FASSI, FNUS, FNAMS - Specializing in back pain treatment and spine care",
+    "knowsAbout": [
+      "Back Pain Treatment",
+      "Spine Care",
+      "Pain Management",
+      "Minimally Invasive Procedures",
+      "Physical Therapy"
+    ],
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Clinic Mumbai",
+      "medicalSpecialty": "Spine Care",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bandra",
+        "addressRegion": "Mumbai",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Clinic Mumbai",
+    "medicalSpecialty": "Spine Care"
+  },
+  "specialty": "Back Pain Treatment",
+  "medicalAudience": "Medical"
+}
+</script>
+
     <?php include 'includes/head.php'; ?>
 
 </head>

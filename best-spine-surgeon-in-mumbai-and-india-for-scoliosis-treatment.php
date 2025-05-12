@@ -4,6 +4,89 @@
 <title>Best Spine Surgeon in Mumbai and India for Scoliosis Treatment: Dr. Vishal Kundnani Leading the Way</title>    
 <meta name="description" content="Scoliosis is a spinal disorder where the spine curves abnormally, affecting posture, mobility, and overall well-being. The condition can range from mild to severe, often requiring specialized medical intervention.">  
 <meta name="keywords" content="">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Best Spine Surgeon in Mumbai and India for Scoliosis Treatment: Dr. Vishal Kundnani Leading the Way",
+  "description": "Scoliosis is a spinal disorder where the spine curves abnormally, affecting posture, mobility, and overall well-being. The condition can range from mild to severe, often requiring specialized medical intervention.",
+  "url": "https://www.spinesurgeonmumbai.com/best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.php",
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Scoliosis",
+    "description": "A spinal disorder characterized by abnormal lateral curvature of the spine, affecting posture and mobility.",
+    "code": {
+      "@type": "MedicalCode",
+      "code": "M41",
+      "codingSystem": "ICD-10"
+    },
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Scoliosis Surgery",
+      "description": "Surgical correction of spinal curvature using advanced techniques including robotic and navigation-guided procedures"
+    }
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Director & Head of Spine Surgery",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Mumbai Institute of Spine Surgery"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "medicalSpecialty": "Spine Surgery"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is scoliosis and how is it diagnosed?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Scoliosis is a spinal disorder characterized by an abnormal lateral curvature of the spine. It is diagnosed through physical examination, X-rays, and sometimes MRI scans to determine the degree and type of curvature."
+    }
+  }, {
+    "@type": "Question",
+    "name": "When does scoliosis require surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Scoliosis surgery is typically recommended when the curvature exceeds 40-50 degrees, is progressive, or causes significant pain and functional limitations. Dr. Vishal Kundnani uses advanced techniques including robotic and navigation-guided surgery for precise correction."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What makes Dr. Vishal Kundnani the best scoliosis surgeon in Mumbai?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Dr. Vishal Kundnani is recognized for his expertise in complex spinal deformities, pioneering work in robotic spine surgery, and successful treatment of thousands of scoliosis cases. His approach combines advanced technology with personalized care."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What is the recovery time after scoliosis surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Recovery time varies depending on the procedure and individual case. With Dr. Kundnani's minimally invasive techniques, most patients can return to normal activities within 3-6 months, with proper rehabilitation and follow-up care."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How can I schedule a consultation with Dr. Vishal Kundnani?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You can schedule a consultation with Dr. Vishal Kundnani at Bombay Hospital or Lilavati Hospital in Mumbai by calling +91-9619100123 or booking an appointment through the website."
+    }
+  }]
+}
+</script>
+
 <?php include 'includes/head.php';?>    
 </head>  
 
@@ -112,7 +195,7 @@
                     <div class="sec-blog-design pt-5">
                         <h3>Beyond Surgery: Comprehensive Post-Operative Care</h3>
                     </div>
-                    <p>Recovery doesn’t stop at surgery. Dr. Kundnani focuses on:</p>                    
+                    <p>Recovery doesn't stop at surgery. Dr. Kundnani focuses on:</p>                    
                     <div class="cat-service-inner pt-5">
                         <img src="img/founder_li_icon.png" alt=""><p><strong>Post-operative Rehabilitation</strong>Physiotherapy and guided exercises.</p>
                     </div>
@@ -140,7 +223,7 @@
                     <div class="sec-blog-design pt-5">
                         <h3>Conclusion</h3>
                     </div>
-                    <p>For those looking for the best spine surgeon in Mumbai and India for scoliosis treatment, Dr. Vishal Kundnani remains a top choice. His innovative techniques, personalized approach, and commitment to patient care make him a trusted name in advanced spinal treatments. No matter how complex the scoliosis condition is, Dr. Kundnani’s expertise ensures safe, effective, and long-term solutions.</p>
+                    <p>For those looking for the best spine surgeon in Mumbai and India for scoliosis treatment, Dr. Vishal Kundnani remains a top choice. His innovative techniques, personalized approach, and commitment to patient care make him a trusted name in advanced spinal treatments. No matter how complex the scoliosis condition is, Dr. Kundnani's expertise ensures safe, effective, and long-term solutions.</p>
                 </div>
             </div>
             <div class="row">

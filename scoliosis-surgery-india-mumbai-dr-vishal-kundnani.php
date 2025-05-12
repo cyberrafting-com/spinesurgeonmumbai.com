@@ -6,6 +6,79 @@
     <meta name="description"
         content="Top scoliosis surgeon in Mumbai, Dr. Vishal Kundnani offers robotic & navigation-guided spine surgery for adolescent, congenital & adult spinal deformities.">
     <meta name="keywords" content="">
+    <link rel="canonical" href="https://www.spinesurgeonmumbai.com/scoliosis-surgery-india-mumbai-dr-vishal-kundnani.php" />
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "Best Scoliosis Surgery in India | Dr. Vishal Kundnani, Mumbai",
+      "description": "Top scoliosis surgeon in Mumbai, Dr. Vishal Kundnani offers robotic & navigation-guided spine surgery for adolescent, congenital & adult spinal deformities.",
+      "url": "https://www.spinesurgeonmumbai.com/scoliosis-surgery-india-mumbai-dr-vishal-kundnani.php",
+      "mainEntity": {
+        "@type": "MedicalProcedure",
+        "name": "Scoliosis Surgery",
+        "description": "Advanced surgical treatment for spinal deformities using robotic and navigation-guided techniques for precise correction and optimal outcomes.",
+        "medicineSystem": "https://schema.org/Orthopedic",
+        "bodyLocation": "Spine",
+        "howPerformed": "Using robotic and navigation-guided techniques for precise spinal correction",
+        "preparation": "Pre-surgical evaluation, imaging, and planning",
+        "procedureType": "Surgical Procedure",
+        "status": "https://schema.org/ActiveActionStatus"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Vishal Kundnani",
+        "jobTitle": "Director & Head of Spine Surgery",
+        "worksFor": {
+          "@type": "MedicalOrganization",
+          "name": "Mumbai Institute of Spine Surgery"
+        }
+      },
+      "provider": {
+        "@type": "MedicalOrganization",
+        "name": "Mumbai Institute of Spine Surgery",
+        "medicalSpecialty": "Spine Surgery"
+      }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "What is scoliosis?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Scoliosis is a spinal deformity that causes abnormal curvature of the spine and a visible hump in the back, especially in young children. It requires expert diagnosis and precision surgical care to restore posture, function, and quality of life."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What types of scoliosis does Dr. Kundnani treat?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dr. Kundnani specializes in treating Adolescent Idiopathic Scoliosis (AIS), Congenital Scoliosis, Adult Degenerative Scoliosis, Neuromuscular Scoliosis, and Revision Scoliosis Surgeries."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What advanced techniques are used for scoliosis surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dr. Kundnani utilizes state-of-the-art techniques including Navigation-Guided Scoliosis Surgery, Robotic Spine Surgery, and Minimally Invasive Techniques for optimal outcomes."
+        }
+      }, {
+        "@type": "Question",
+        "name": "Why choose Dr. Vishal Kundnani for scoliosis surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dr. Kundnani is recognized as the top scoliosis surgeon in Mumbai & India, with consistently high success rates, personalized treatment plans, and access to advanced infrastructure at Lilavati and Bombay Hospital."
+        }
+      }]
+    }
+    </script>
+
     <?php include 'includes/head.php';?>
 </head>
 
@@ -80,7 +153,7 @@
                         <div class="sec-blog-design pt-5">
                             <h3>Advanced Scoliosis Surgery Techniques</h3>
                             <p>Dr. Kundnani utilizes state-of-the-art methods for precision correction of spine
-                                deformities, tailored to each patient’s condition.</p>
+                                deformities, tailored to each patient's condition.</p>
                         </div>
 
                         <div class="cat-service-inner pt-5">
@@ -118,7 +191,7 @@
                         </div>
                         <div class="cat-service-inner pt-5">
                             <img src="img/founder_li_icon.png" alt="">
-                            <p>Access to <strong>Lilavati and Bombay Hospital</strong>’s advanced infrastructure
+                            <p>Access to <strong>Lilavati and Bombay Hospital</strong>'s advanced infrastructure
                             </p>
                         </div>
                         <div class="cat-service-inner pt-5">

@@ -6,6 +6,79 @@
     <meta name="description"
         content="Discover advanced robotic spine surgery in Mumbai with Dr. Vishal Kundnani. Precise, minimally invasive treatment with faster recovery & global expertise.">
     <meta name="keywords" content="">
+    <link rel="canonical" href="https://www.spinesurgeonmumbai.com/robotic-spine-surgery-mumbai-dr-vishal-kundnani.php" />
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "Robotic Spine Surgery in Mumbai | Dr. Vishal Kundnani",
+      "description": "Discover advanced robotic spine surgery in Mumbai with Dr. Vishal Kundnani. Precise, minimally invasive treatment with faster recovery & global expertise.",
+      "url": "https://www.spinesurgeonmumbai.com/robotic-spine-surgery-mumbai-dr-vishal-kundnani.php",
+      "mainEntity": {
+        "@type": "MedicalProcedure",
+        "name": "Robotic Spine Surgery",
+        "description": "Advanced minimally invasive spine surgery using robotic technology for precise surgical interventions with enhanced accuracy and faster recovery.",
+        "medicineSystem": "https://schema.org/Orthopedic",
+        "bodyLocation": "Spine",
+        "howPerformed": "Using advanced robotic systems for precise surgical interventions",
+        "preparation": "Pre-surgical evaluation and imaging",
+        "procedureType": "Minimally Invasive Surgery",
+        "status": "https://schema.org/ActiveActionStatus"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Vishal Kundnani",
+        "jobTitle": "Director & Head of Spine Surgery",
+        "worksFor": {
+          "@type": "MedicalOrganization",
+          "name": "Mumbai Institute of Spine Surgery"
+        }
+      },
+      "provider": {
+        "@type": "MedicalOrganization",
+        "name": "Mumbai Institute of Spine Surgery",
+        "medicalSpecialty": "Spine Surgery"
+      }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "What is robotic spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Robotic spine surgery is a breakthrough in spinal care that uses advanced robotic systems to enhance surgical precision, minimize invasiveness, and promote faster recovery with superior outcomes."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What conditions can be treated with robotic spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Robotic spine surgery can effectively treat conditions like herniated discs, spinal stenosis, scoliosis, degenerative disc disease, and spondylolisthesis with enhanced precision and safety."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What are the benefits of robotic spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Benefits include enhanced surgical precision, minimal tissue damage, reduced post-operative pain, shorter hospital stays, faster recovery, and lower risk of complications compared to traditional spine surgery."
+        }
+      }, {
+        "@type": "Question",
+        "name": "Why choose Dr. Vishal Kundnani for robotic spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dr. Vishal Kundnani is a pioneer in robotic spine surgery with over 15 years of experience and 7,000+ successful surgeries. He is internationally trained and uses state-of-the-art technology for optimal patient outcomes."
+        }
+      }]
+    }
+    </script>
+
     <?php include 'includes/head.php';?>
 </head>
 
@@ -114,7 +187,7 @@
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p>If you’re seeking advanced spinal care with cutting-edge robotic technology in Mumbai,
+                            <p>If you're seeking advanced spinal care with cutting-edge robotic technology in Mumbai,
                                 <strong>Dr. Vishal Kundnani</strong> offers world-class treatment with minimal recovery
                                 time and maximum results.</p>
                         </div>

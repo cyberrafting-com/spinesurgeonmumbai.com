@@ -6,8 +6,49 @@
 
 
     <title>Best Spine Surgeon In Bandra | Dr. Vishal Kundnani</title>    
-<meta name="description" content="Dr. Vishal Kundnani is Bandra’s best spine surgeon, offering top surgical solutions for spine problems. Expert care in every procedure.">  
+<meta name="description" content="Dr. Vishal Kundnani is Bandra's best spine surgeon, offering top surgical solutions for spine problems. Expert care in every procedure.">  
 <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Best Spine Surgeon in Bandra - Dr. Vishal Kundnani",
+  "description": "Expert spine surgical care in Bandra by Dr. Vishal Kundnani, offering advanced treatments for complex spine conditions with minimally invasive techniques.",
+  "url": "https://www.spinesurgeonmumbai.com/best-spine-surgeon-in-bandra.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "description": "MS (Ortho) FASSI, FNUS, FNAMS - Director and Head of Spine Surgery at Center of Excellence in Spine Surgery, Lilavati Hospital, Bandra",
+    "knowsAbout": [
+      "Spine Surgery",
+      "Minimally Invasive Spine Surgery",
+      "Cervical Spine Disorders",
+      "Scoliosis",
+      "Microendoscopic Techniques"
+    ],
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Clinic Mumbai",
+      "medicalSpecialty": "Spine Surgery",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bandra",
+        "addressRegion": "Mumbai",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Clinic Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "specialty": "Spine Surgery",
+  "medicalAudience": "Medical"
+}
+</script>
 
     <?php include 'includes/head.php'; ?>
 </head>

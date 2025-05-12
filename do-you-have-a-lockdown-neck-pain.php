@@ -3,7 +3,54 @@
 <head>
 <title></title>    
 <meta name="description" content="">  
-<meta name="keywords" content="">
+<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Lockdown Neck Pain Treatment - Dr. Vishal Kundnani",
+  "description": "Expert guidance and treatment for neck pain during lockdown, offering telemedicine consultations and professional care by Dr. Vishal Kundnani.",
+  "url": "https://www.spinesurgeonmumbai.com/do-you-have-a-lockdown-neck-pain.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Specialist",
+    "description": "MS (Ortho) FASSI, FNUS, FNAMS - Specializing in neck pain treatment and telemedicine consultations",
+    "knowsAbout": [
+      "Neck Pain Treatment",
+      "Telemedicine",
+      "Remote Consultations",
+      "Pain Management",
+      "Physical Therapy"
+    ],
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Clinic Mumbai",
+      "medicalSpecialty": "Spine Care",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Clinic Mumbai",
+    "medicalSpecialty": "Spine Care",
+    "availableService": {
+      "@type": "MedicalProcedure",
+      "name": "Telemedicine Consultation",
+      "description": "Remote medical consultations for neck pain and spine conditions during lockdown"
+    }
+  },
+  "specialty": "Neck Pain Treatment",
+  "medicalAudience": "Medical"
+}
+</script>
+
 <?php include 'includes/head.php';?>    
 </head>  
 

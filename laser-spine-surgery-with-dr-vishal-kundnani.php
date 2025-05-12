@@ -4,6 +4,90 @@
 <title>Laser Spine Surgery with Dr. Vishal Kundnani: A Modern Approach to Spinal Health</title>    
 <meta name="description" content="Dr. Vishal Kundnani, a leading laser spine surgeon at Bombay Hospital, is at the forefront of this revolutionary approach. He specializes in treating herniated discs, spinal stenosis, degenerative disc disease, and other spinal conditions, offering patients a safer and more effective alternative to conventional surgery.">  
 <meta name="keywords" content="">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Laser Spine Surgery with Dr. Vishal Kundnani: A Modern Approach to Spinal Health",
+  "description": "Dr. Vishal Kundnani, a leading laser spine surgeon at Bombay Hospital, specializes in treating herniated discs, spinal stenosis, degenerative disc disease, and other spinal conditions using advanced laser technology.",
+  "url": "https://www.spinesurgeonmumbai.com/laser-spine-surgery-with-dr-vishal-kundnani.php",
+  "mainEntity": {
+    "@type": "MedicalProcedure",
+    "name": "Laser Spine Surgery",
+    "description": "Laser spine surgery is a minimally invasive procedure that utilizes advanced laser technology to treat various spinal conditions with precision and minimal tissue disruption.",
+    "medicineSystem": "https://schema.org/Orthopedic",
+    "bodyLocation": "Spine",
+    "howPerformed": "Using advanced laser technology for precise surgical interventions",
+    "preparation": "Pre-surgical evaluation and imaging",
+    "procedureType": "Minimally Invasive Surgery",
+    "status": "https://schema.org/ActiveActionStatus",
+    "code": {
+      "@type": "MedicalCode",
+      "code": "LaserSpineSurgery",
+      "codingSystem": "ICD-10"
+    }
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Director & Head of Spine Surgery",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Mumbai Institute of Spine Surgery"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "medicalSpecialty": "Spine Surgery"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How does laser spine surgery differ from traditional spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Laser spine surgery is minimally invasive, requiring smaller incisions, leading to faster recovery and less pain compared to traditional open surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Is laser spine surgery safe?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, laser spine surgery is very safe when performed by an experienced surgeon like Dr. Vishal Kundnani. It reduces surgical risks and minimizes damage to surrounding tissues."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What is the recovery time after laser spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Most patients experience a faster recovery, resuming normal activities within a few weeks, compared to months with traditional spine surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Who is a good candidate for laser spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Individuals suffering from herniated discs, spinal stenosis, degenerative disc disease, or nerve-related pain can benefit from laser spine surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How can I book a consultation with Dr. Vishal Kundnani?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You can schedule an appointment with Dr. Vishal Kundnani at Bombay Hospital for expert consultation and personalized spine treatment."
+    }
+  }]
+}
+</script>
+
 <?php include 'includes/head.php';?>
 </head>
 
@@ -91,7 +175,7 @@
                             <p>Laser spine surgery is an ideal option for individuals experiencing:</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="img/founder_li_icon.png" alt=""><p><strong>Chronic back or neck pain</strong>that hasn’t responded to conventional treatments.</p>
+                            <img src="img/founder_li_icon.png" alt=""><p><strong>Chronic back or neck pain</strong>that hasn't responded to conventional treatments.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
                             <img src="img/founder_li_icon.png" alt=""><p><strong>Herniated discs</strong>causing nerve compression and radiating pain.</p>

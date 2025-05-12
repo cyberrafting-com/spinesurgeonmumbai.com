@@ -2,8 +2,76 @@
 <html lang="en-us">
 <head>
 <title>Spine Tip of the Week - SCIATICA / Slip Disc - Spine Surgeons in Mumbai</title>    
-<meta name="description" content="Discover expert advice on managing sciatics pain in this week's spine tip from Dr. Vishal Kundnani at Spine Surgeons in Mumbai. Practical tips for relief and maintaining spine health.">  
+<meta name="description" content="Expert spine tips from Dr. Vishal Kundnani on managing sciatica and slip disc. Learn about symptoms, prevention, and treatment options for better spine health.">  
 <meta name="keywords" content="">
+<link rel="canonical" href="https://www.spinesurgeonmumbai.com/spine-tip-of-the-week-sciatica-slip-disc.php" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Spine Tip of the Week: Sciatica & Slip Disc | Dr. Vishal Kundnani",
+  "description": "Expert spine tips from Dr. Vishal Kundnani on managing sciatica and slip disc. Learn about symptoms, prevention, and treatment options for better spine health.",
+  "url": "https://www.spinesurgeonmumbai.com/spine-tip-of-the-week-sciatica-slip-disc.php",
+  "mainEntity": {
+    "@type": "MedicalSpecialty",
+    "name": "Spine Health Education",
+    "description": "Weekly expert advice on spine conditions, focusing on sciatica and slip disc management",
+    "medicineSystem": "https://schema.org/Orthopedic"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Director & Head of Spine Surgery",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Mumbai Institute of Spine Surgery"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "medicalSpecialty": "Spine Surgery"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is sciatica?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sciatica is a condition characterized by pain that radiates along the path of the sciatic nerve, which branches from your lower back through your hips and buttocks and down each leg. It typically affects only one side of your body."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What is a slip disc?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A slip disc, also known as a herniated disc, occurs when the soft cushion of tissue between the bones in your spine pushes out. This can irritate nearby nerves and result in pain, numbness or weakness in an arm or leg."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How can I prevent sciatica and slip disc?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Regular exercise, maintaining good posture, using proper lifting techniques, and maintaining a healthy weight can help prevent these conditions. It's also important to take breaks from prolonged sitting and practice proper ergonomics."
+    }
+  }, {
+    "@type": "Question",
+    "name": "When should I see a spine specialist?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You should consult a spine specialist if you experience severe pain that doesn't improve with rest, numbness or weakness in your legs, or if you have difficulty controlling your bladder or bowels. Early intervention can prevent complications."
+    }
+  }]
+}
+</script>
+
 <?php include 'includes/head.php';?>    
 </head>  
 

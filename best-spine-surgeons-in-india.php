@@ -6,6 +6,69 @@
 <meta name="keywords" content="Top spine specialists in India, best spine surgeons India, spine surgery India, minimally invasive spine surgery, spine care India, 
     leading spine doctors, advanced spine surgery, robotic spine surgery India, cost of spine surgery India, scoliosis treatment India, spine fusion surgery, laminectomy surgery India, 
     discectomy treatment India, top spine hospitals India, top spine Doctors India, top spine Doctors Mumbai,  spine treatment cost India, spine surgery recovery, spine surgeon Mumbai, Dr. Vishal Kundnani spine specialist Mumbai India, best spinal deformity surgery mumbai, international spine care India.">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Best Spine Surgeons in India - Top Spine Specialists",
+  "description": "Discover India's top spine specialists offering advanced care for spine conditions like scoliosis, slip disc, and more, including cost of surgery.",
+  "url": "https://www.spinesurgeonmumbai.com/best-spine-surgeons-in-india.php",
+  "mainEntity": {
+    "@type": "MedicalSpecialty",
+    "name": "Spine Surgery",
+    "description": "Specialized medical care for spine conditions including scoliosis, slip disc, spinal stenosis, and other spinal disorders",
+    "medicineSystem": "https://schema.org/Orthopedic",
+    "code": {
+      "@type": "MedicalCode",
+      "code": "SpineSurgery",
+      "codingSystem": "ICD-10"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "medicalSpecialty": "Spine Surgery"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Who are the best spine surgeons in India?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "India has several renowned spine surgeons, with Dr. Vishal Kundnani being recognized as one of the top specialists in Mumbai, known for his expertise in minimally invasive and robotic spine surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What conditions do spine surgeons treat?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Spine surgeons treat various conditions including scoliosis, slip disc, spinal stenosis, degenerative disc disease, spinal deformities, and other complex spine disorders."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What is the cost of spine surgery in India?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The cost of spine surgery in India varies depending on the type of procedure, hospital, and complexity of the case. However, it is generally more affordable compared to Western countries while maintaining high standards of care."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the latest spine surgery techniques available in India?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "India offers advanced spine surgery techniques including robotic spine surgery, minimally invasive spine surgery, endoscopic spine surgery, and laser spine surgery, with many top surgeons trained in these modern approaches."
+    }
+  }]
+}
+</script>
+
 <?php include 'includes/head.php';?>    
 </head>  
 
@@ -28,7 +91,7 @@
                 </div>
                 <div class="col-lg-12 col-md-12 col-12 pt-5">
                     <h2 class="services-heading-h2">Introduction</h2>
-                    <p>India is home to many leading spine surgeons who offer world-class care for various spine conditions, from degenerative disc disease to complex spinal deformities. Known for their expertise and state-of-the-art facilities, these specialists help thousands of patients regain their mobility and quality of life. Spine health is crucial for overall well-being, and the right surgeon can make a tremendous difference in a patient’s recovery journey. Discover India's top spine specialists offering advanced care for spine conditions like scoliosis, slip disc, and more, including cost of surgery.</p>
+                    <p>India is home to many leading spine surgeons who offer world-class care for various spine conditions, from degenerative disc disease to complex spinal deformities. Known for their expertise and state-of-the-art facilities, these specialists help thousands of patients regain their mobility and quality of life. Spine health is crucial for overall well-being, and the right surgeon can make a tremendous difference in a patient's recovery journey. Discover India's top spine specialists offering advanced care for spine conditions like scoliosis, slip disc, and more, including cost of surgery.</p>
                     <h2 class="services-heading-h2">Importance of Choosing the Right Spine Surgeon</h2>
                     <p>The complexity of the spine demands a highly trained specialist. Spine surgeries involve delicate structures like the spinal cord, nerves, and vertebrae. An experienced spine surgeon can significantly impact recovery, reducing risks and improving overall outcomes.</p>
                     <h2 class="services-heading-h2">Criteria to Evaluate the Best Spine Surgeons in India</h2>
@@ -37,10 +100,10 @@
                         <img src="img/founder_li_icon.png" alt=""><p><strong>1. Qualifications and Certifications:</strong>Look for specialists with advanced degrees and training, ideally in neurosurgery or orthopedic surgery, with further specialization in spine surgery.</p>
                     </div>
                     <div class="cat-service-inner">  
-                        <img src="img/founder_li_icon.png" alt=""><p><strong>2. Experience and Specialization:</strong>Consider the surgeon’s experience with specific spine conditions or procedures.</p>
+                        <img src="img/founder_li_icon.png" alt=""><p><strong>2. Experience and Specialization:</strong>Consider the surgeon's experience with specific spine conditions or procedures.</p>
                     </div>
                     <div class="cat-service-inner">
-                        <img src="img/founder_li_icon.png" alt=""><p><strong>3. Patient Testimonials and Reviews:</strong>Patient feedback can provide insights into a surgeon’s success rates and bedside manner.</p>
+                        <img src="img/founder_li_icon.png" alt=""><p><strong>3. Patient Testimonials and Reviews:</strong>Patient feedback can provide insights into a surgeon's success rates and bedside manner.</p>
                     </div>
                     <div class="cat-service-inner">
                         <img src="img/founder_li_icon.png" alt=""><p><strong>4. Hospital Affiliations:</strong>Top surgeons are often affiliated with renowned hospitals or medical centers.</p>
@@ -77,7 +140,7 @@
                                         <img src="img/founder_li_icon.png" alt=""><p><strong>Contact:</strong><a href="tel:919619100123">+91-9619100123 || +91-9619200123 || +91-9619300123</a></p>
                                     </div>
                                     <p class="pt-5">Dr. Vishal Kundnani is known for his expertise in minimally invasive spine surgeries and spinal deformity corrections, making him one of the most sought-after specialists for spinal treatments at <a href="https://spineclinicmumbai.com/" target="_blank">Spine Clinic Mumbai</a>. He is highly skilled in addressing conditions such as <a href="https://www.spinesurgeonmumbai.com/back-pain.php" target="_blank">Back Pain</a>, <a href="https://www.spinesurgeonmumbai.com/neck-pain.php" target="_blank">Neck Pain, <a href="https://www.spinesurgeonmumbai.com/scoliosis.php" target="_blank">scoliosis, spinal fractures, <a href="https://www.spinesurgeonmumbai.com/spinal-stenosis.php" target="_blank">Spinal Stenosis, <a href="https://www.spinesurgeonmumbai.com/degenerative-disc-disease.php" target="_blank">Degenerative Disc Disease, <a href="https://www.spinesurgeonmumbai.com/lumbar-spondylosis.php" target="_blank">Lumbar Spondylosis, <a href="https://www.spinesurgeonmumbai.com/osteoporosis.php" target="_blank">Osteoporosis, <a href="https://www.spinesurgeonmumbai.com/sciatica.php" target="_blank">Sciatica, and <a href="https://www.slipdiscindia.com/" target="_blank">slip disc</a> problems.</p>
-                                    <p>Dr. Vishal Kundnani-gold medalist throughout his scholar years - is fellowship trained in spine surgery from international Center’s of repute including UK, Singapore, Japan, Australia, Malaysia and Korea. Dr Vishal Kundnani has treated 20000 + Spine patients in last 15 years non surgically with (latest non surgical treatment protocols for slip disc) and performed 5000+ successful Microsurgery for Slip Disc, minimal invasive spine surgery for Sciatica and laser surgery for Lumbar problem & cervical spine and scoliosis.</p>
+                                    <p>Dr. Vishal Kundnani-gold medalist throughout his scholar years - is fellowship trained in spine surgery from international Center's of repute including UK, Singapore, Japan, Australia, Malaysia and Korea. Dr Vishal Kundnani has treated 20000 + Spine patients in last 15 years non surgically with (latest non surgical treatment protocols for slip disc) and performed 5000+ successful Microsurgery for Slip Disc, minimal invasive spine surgery for Sciatica and laser surgery for Lumbar problem & cervical spine and scoliosis.</p>
                                     <p>Dr. Vishal Kundnani is Pioneer in complex spine surgery and is best spine specialist for Scoliosis surgery. He is trained in advanced Robotic spine surgery & Navigation spine surgery. Dr Vishal Kundnani is known for innovation in Awake day care spine surgery and minimal invasive spine surgery. He is internationally renowned for scoliosis & Cervical surgery and has more than 100 international scientific research publications.</p>
                                     <p>He also heads the venture SPINE CLINIC functioning out of four centers in Mumbai and 3 centers out of Mumbai- Bandra, Churchgate, Goregaon, Borivali, Bhopal, Jaipur and Raipur with stringent spine care protocols along with his team providing premium spine care in these cities. Meticulous Safe spine surgery with most recent advanced scientific protocols is the forte of Dr Vishal kundnani who is no doubt the best spine surgeon in mumbai and has been awarded so multiple times.</p>
                                 </div>
@@ -93,7 +156,7 @@
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
-                                    <h2>Dr. Sajan Hegde – Chennai’s Top Spine Surgeon</h2>
+                                    <h2>Dr. Sajan Hegde – Chennai's Top Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
                                         <img src="img/founder_li_icon.png" alt=""><p><strong>Qualifications:</strong>MBBS, MS (Orthopedics), MCh (Orthopedics)</p>
                                         <img src="img/founder_li_icon.png" alt=""><p><strong>Hospital Affiliation:</strong>Apollo Hospitals, Chennai</p>
@@ -223,7 +286,7 @@
                     
                     
                     <h2 class="services-heading-h2">Cost of Spine Surgery in India</h2>
-                    <p>The cost of spine surgery in India can vary based on the type of procedure, the surgeon’s expertise, and the location of the hospital. For example, minimally invasive procedures may cost less than traditional open surgeries, and rates in metropolitan cities tend to be higher.</p>
+                    <p>The cost of spine surgery in India can vary based on the type of procedure, the surgeon's expertise, and the location of the hospital. For example, minimally invasive procedures may cost less than traditional open surgeries, and rates in metropolitan cities tend to be higher.</p>
                     
                     
                     <h2 class="services-heading-h2">Frequently Asked Questions (FAQs)</h2>

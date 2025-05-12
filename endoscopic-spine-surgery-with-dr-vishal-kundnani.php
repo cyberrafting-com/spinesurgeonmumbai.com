@@ -4,6 +4,90 @@
 <title>Endoscopic Spine Surgery with Dr. Vishal Kundnani: A Modern, Minimally Invasive Solution for Spine Care</title>    
 <meta name="description" content="Dr. Vishal Kundnani, a renowned expert in endoscopic spine surgery at Bombay Hospital, has successfully treated numerous patients suffering from herniated discs, spinal stenosis, and sciatica. His expertise in this highly advanced procedure ensures that patients experience world-class spinal care with minimal discomfort and faster recovery times.">  
 <meta name="keywords" content="">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Endoscopic Spine Surgery with Dr. Vishal Kundnani: A Modern, Minimally Invasive Solution for Spine Care",
+  "description": "Dr. Vishal Kundnani, a renowned expert in endoscopic spine surgery at Bombay Hospital, has successfully treated numerous patients suffering from herniated discs, spinal stenosis, and sciatica.",
+  "url": "https://www.spinesurgeonmumbai.com/endoscopic-spine-surgery-with-dr-vishal-kundnani.php",
+  "mainEntity": {
+    "@type": "MedicalProcedure",
+    "name": "Endoscopic Spine Surgery",
+    "description": "A cutting-edge, minimally invasive procedure that uses a tiny camera (endoscope) and specialized instruments to treat spinal conditions with precision and minimal tissue disruption.",
+    "medicineSystem": "https://schema.org/Orthopedic",
+    "bodyLocation": "Spine",
+    "howPerformed": "Using endoscopic camera and specialized instruments for precise surgical interventions",
+    "preparation": "Pre-surgical evaluation and imaging",
+    "procedureType": "Minimally Invasive Surgery",
+    "status": "https://schema.org/ActiveActionStatus",
+    "code": {
+      "@type": "MedicalCode",
+      "code": "EndoscopicSpineSurgery",
+      "codingSystem": "ICD-10"
+    }
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Director & Head of Spine Surgery",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Mumbai Institute of Spine Surgery"
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Mumbai Institute of Spine Surgery",
+    "medicalSpecialty": "Spine Surgery"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How does endoscopic spine surgery differ from traditional spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Endoscopic spine surgery is minimally invasive, using small incisions and an endoscope for enhanced precision, leading to faster recovery and reduced pain compared to traditional open surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Is endoscopic spine surgery safe?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, endoscopic spine surgery is highly safe when performed by an experienced specialist like Dr. Vishal Kundnani. It reduces surgical risks, preserves healthy tissues, and lowers complication rates."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What is the recovery time after endoscopic spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Most patients recover within a few weeks, much faster than the months-long recovery of traditional spine surgery."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Who is a good candidate for endoscopic spine surgery?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Patients with herniated discs, spinal stenosis, degenerative disc disease, sciatica, or spinal fractures can benefit from this minimally invasive procedure."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How can I book a consultation with Dr. Vishal Kundnani?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "To schedule an appointment, visit Bombay Hospital, where Dr. Vishal Kundnani provides expert endoscopic spine surgery in Mumbai and across India."
+    }
+  }]
+}
+</script>
+
 <?php include 'includes/head.php';?>
 </head>
 

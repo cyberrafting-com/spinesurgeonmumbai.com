@@ -4,6 +4,78 @@
 <title>Spine Tip of Week - Neck Pain - Spine Surgeons in Mumbai</title>    
 <meta name="description" content="Discover expert advice on managing neck pain in this week's spine tip from Dr. Vishal Kundnani at Spine Surgeons in Mumbai. Practical tips for relief and maintaining spine health.">  
 <meta name="keywords" content="">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Spine Tip of Week - Neck Pain - Spine Surgeons in Mumbai",
+  "description": "Discover expert advice on managing neck pain in this week's spine tip from Dr. Vishal Kundnani at Spine Surgeons in Mumbai. Practical tips for relief and maintaining spine health.",
+  "url": "https://www.spinesurgeonmumbai.com/spine-tip-of-week-neck-pain.php",
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Neck Pain",
+    "description": "Expert medical advice and treatment options for neck pain, including causes, symptoms, and management strategies",
+    "medicineSystem": "https://schema.org/Orthopedic",
+    "code": {
+      "@type": "MedicalCode",
+      "code": "NeckPain",
+      "codingSystem": "ICD-10"
+    },
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Neck Pain Management",
+      "description": "Comprehensive treatment approach including posture correction, supervised physiotherapy, and specialized medical care"
+    }
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Director & Head of Spine Surgery",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Mumbai Institute of Spine Surgery"
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What are the common causes of neck pain?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Common causes include posture issues, muscle fatigue, degenerative changes, and neck spasms. However, neck pain can also be caused by more serious conditions requiring specialist attention."
+    }
+  }, {
+    "@type": "Question",
+    "name": "When should I seek specialist care for neck pain?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Seek specialist care if you experience red flag signs such as night pain, rest pain, progressive symptoms, neurological symptoms (numbness, weakness), gait imbalance, or fever with pain."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What serious conditions can cause neck pain?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Serious conditions include slip disc with nerve compression, cervical myelopathy, facet arthritis, cervical spine tuberculosis, tumors, metastasis, infections, fractures, and spinal deformities."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What are the treatment options for neck pain?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Treatment options range from posture correction and supervised physiotherapy for simple cases to specialized surgical interventions for complex conditions, with microendoscopic and minimally invasive techniques available."
+    }
+  }]
+}
+</script>
+
 <?php include 'includes/head.php';?>    
 </head>  
 
@@ -25,10 +97,10 @@
                     <p>1. Pain around Neck / base of Head-Occiput/ trapezius to shoulders</p>
                     <p>2. common causes</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="img/founder_li_icon.png" alt=""><p>“Posture / Muscle fatigue -constant dull aching pain/constant gaze in flexed position – advise – posture correction and supervised Physiotherapy”</p>
+                        <img src="img/founder_li_icon.png" alt=""><p>"Posture / Muscle fatigue -constant dull aching pain/constant gaze in flexed position – advise – posture correction and supervised Physiotherapy"</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="img/founder_li_icon.png" alt=""><p>“Degenerative ( wear n tear ) changes -neck spasm -common – omanaged by simple pain management and supervised physiotherapy”</p>
+                        <img src="img/founder_li_icon.png" alt=""><p>"Degenerative ( wear n tear ) changes -neck spasm -common – omanaged by simple pain management and supervised physiotherapy"</p>
                     </div>
                     <p>3. NOT ALL NECK PAINS ARE ARE DUE TO SIMPLE CAUSES and need specialist opinion.
                     Neck pain ( seemingly subtle / simple neck pain ) can also be caused by problems requiring specific care</p>

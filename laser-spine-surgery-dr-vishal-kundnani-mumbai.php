@@ -5,6 +5,85 @@
     <title>Laser Spine Surgery in Mumbai | Dr. Vishal Kundnani</title>
     <meta name="description" content="Discover advanced laser spine surgery by Dr. Vishal Kundnani, top spine surgeon in Mumbai. Minimally invasive solutions for slip disc, stenosis & back pain.">
     <meta name="keywords" content="">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "Laser Spine Surgery in Mumbai | Dr. Vishal Kundnani",
+      "description": "Discover advanced laser spine surgery by Dr. Vishal Kundnani, top spine surgeon in Mumbai. Minimally invasive solutions for slip disc, stenosis & back pain.",
+      "url": "https://www.spinesurgeonmumbai.com/laser-spine-surgery-dr-vishal-kundnani-mumbai.php",
+      "mainEntity": {
+        "@type": "MedicalProcedure",
+        "name": "Laser Spine Surgery",
+        "description": "Advanced minimally invasive spine surgery using laser technology for treating various spinal conditions with precision and minimal tissue disruption.",
+        "medicineSystem": "https://schema.org/Orthopedic",
+        "bodyLocation": "Spine",
+        "howPerformed": "Using advanced laser technology for precise surgical interventions",
+        "preparation": "Pre-surgical evaluation and imaging",
+        "procedureType": "Minimally Invasive Surgery",
+        "status": "https://schema.org/ActiveActionStatus"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Dr. Vishal Kundnani",
+        "jobTitle": "Director & Head of Spine Surgery",
+        "worksFor": {
+          "@type": "MedicalOrganization",
+          "name": "Mumbai Institute of Spine Surgery"
+        }
+      },
+      "provider": {
+        "@type": "MedicalOrganization",
+        "name": "Mumbai Institute of Spine Surgery",
+        "medicalSpecialty": "Spine Surgery"
+      }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "What is laser spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Laser spine surgery is a minimally invasive procedure that uses advanced laser technology to treat spinal conditions with precision, resulting in smaller incisions, less pain, and faster recovery compared to traditional surgery."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What conditions can be treated with laser spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Laser spine surgery can effectively treat conditions like herniated discs, spinal stenosis, degenerative disc disease, sciatica, and other spinal conditions causing nerve compression and pain."
+        }
+      }, {
+        "@type": "Question",
+        "name": "What are the benefits of laser spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Benefits include smaller incisions, minimal tissue damage, reduced post-operative pain, shorter hospital stays, faster recovery, and lower risk of complications compared to traditional spine surgery."
+        }
+      }, {
+        "@type": "Question",
+        "name": "How long is the recovery after laser spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most patients can return to light activities within 2-4 weeks and resume normal activities within 6-8 weeks, significantly faster than traditional spine surgery."
+        }
+      }, {
+        "@type": "Question",
+        "name": "Why choose Dr. Vishal Kundnani for laser spine surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dr. Vishal Kundnani is a pioneer in laser spine surgery with over 15 years of experience and 7,000+ successful surgeries. He is internationally trained and uses state-of-the-art technology for optimal patient outcomes."
+        }
+      }]
+    }
+    </script>
+
     <?php include 'includes/head.php'; ?>
 </head>
 
@@ -65,7 +144,7 @@
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p>Also termed as Keyhole Spine Surgery, Less Invasive Spine Surgery, or Endoscopic Spine Surgery — laser-assisted methods have transformed spinal care. Whether it’s a slip disc (herniated disc) or lumbar spinal stenosis, treatments like Micro Endoscopic Discectomy and Laser Spine Surgery deliver long-term relief with minimal downtime.</p>
+                            <p>Also termed as Keyhole Spine Surgery, Less Invasive Spine Surgery, or Endoscopic Spine Surgery — laser-assisted methods have transformed spinal care. Whether it's a slip disc (herniated disc) or lumbar spinal stenosis, treatments like Micro Endoscopic Discectomy and Laser Spine Surgery deliver long-term relief with minimal downtime.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -113,7 +192,7 @@
 
                         <div class="sec-blog-design pt-5">
                             <h3>What is Micro Endoscopic Spine Surgery?</h3>
-                            <p>This minimally invasive procedure removes herniated disc material compressing spinal nerves. It’s commonly used for slip disc and sciatica patients.</p>
+                            <p>This minimally invasive procedure removes herniated disc material compressing spinal nerves. It's commonly used for slip disc and sciatica patients.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

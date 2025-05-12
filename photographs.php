@@ -3,12 +3,61 @@
 
 	<head>
 
-		<?php include 'includes/head.php'; ?>
-
-		<title>Photographs of Dr. Vishal Kundnani & thier Staff</title>
 		<meta name="description" content="See photos of Dr. Vishal Kundnani and his staff. Meet the team behind exceptional spine care in Mumbai.">
 		<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 		<link rel="canonical" href="https://www.spinesurgeonmumbai.com/photographs.php" />
+
+		<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "MedicalWebPage",
+		  "name": "Photographs of Dr. Vishal Kundnani & their Staff",
+		  "description": "See photos of Dr. Vishal Kundnani and his staff. Meet the team behind exceptional spine care in Mumbai.",
+		  "url": "https://www.spinesurgeonmumbai.com/photographs.php",
+		  "mainEntity": {
+			"@type": "MedicalOrganization",
+			"name": "Mumbai Institute of Spine Surgery",
+			"description": "A leading spine surgery center in Mumbai providing expert care and treatment",
+			"medicalSpecialty": "Spine Surgery",
+			"employee": {
+			  "@type": "Person",
+			  "name": "Dr. Vishal Kundnani",
+			  "jobTitle": "Director & Head of Spine Surgery",
+			  "worksFor": {
+				"@type": "MedicalOrganization",
+				"name": "Mumbai Institute of Spine Surgery"
+			  }
+			}
+		  },
+		  "author": {
+			"@type": "Person",
+			"name": "Dr. Vishal Kundnani",
+			"jobTitle": "Director & Head of Spine Surgery",
+			"worksFor": {
+			  "@type": "MedicalOrganization",
+			  "name": "Mumbai Institute of Spine Surgery"
+			}
+		  }
+		}
+		</script>
+
+		<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "ImageGallery",
+		  "name": "Dr. Vishal Kundnani's Medical Team Gallery",
+		  "description": "Photographs showcasing Dr. Vishal Kundnani and his medical team at Mumbai Institute of Spine Surgery",
+		  "provider": {
+			"@type": "MedicalOrganization",
+			"name": "Mumbai Institute of Spine Surgery",
+			"medicalSpecialty": "Spine Surgery"
+		  }
+		}
+		</script>
+
+		<?php include 'includes/head.php'; ?>
+
+		<title>Photographs of Dr. Vishal Kundnani & thier Staff</title>
 
 	</head>
 	<body>
