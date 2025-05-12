@@ -349,23 +349,14 @@ function openLocation(evt, locationName) {
 .location-info hr {
     border: 0;
     height: 1px;
-    background: linear-gradient(to right, transparent, #efd1ce, transparent);
-    margin: 20px 0;
-    opacity: 0.5;
+    background: linear-gradient(90deg, #ffffff 0%, rgb(255 192 186 / 50%) 50%, transparent 100%);
+    margin: 15px 0;
+    width: 100%;
 }
 
-@media (max-width: 768px) {
-    .tablinks {
-        padding: 8px 15px;
-        font-size: 14px;
-    }
-    
-    .location-content {
-        padding: 20px;
-    }
-    
-    .location-info {
-        margin-bottom: 20px;
-    }
-}
+
 </style>
+
+
+
+    

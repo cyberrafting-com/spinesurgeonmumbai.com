@@ -93,76 +93,7 @@
 	</div>
 
 
-	<section class="hosp_aat">
-		<div class="container">
-			<div class="row">
-				<div class="header_title">
-					<h1>Our Locations</h1>
-				</div>
-			</div>
-			<div class="row d-flex justify-content-center align-items-center">
-				<div class="col-lg-4 col-md-4 col-sm-6 mb-4">
-					<div class="attachmt">
-						<h1>Bandra</h1>
-						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60340.56329035408!2d72.829178!3d19.051194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9faabf6f16b%3A0x5b0ba6b0e93ff7df!2sDr%20Vishal%20Kundnani!5e0!3m2!1sen!2sin!4v1746782504288!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-						<ul>
-							<li><i class="fa-solid fa-location-dot"></i><b>Lilavati Hospital</b> <br> Room 8/9, OPD block, Ground Floor, Bandra Reclamation Rd, Bandra West, Mumbai - 400050</li>
-							<br>
-							<li><i class="fa-solid fa-phone-volume"></i>Phone: +91 9619100123 | +91 8657500555</li>
-						</ul>
-					</div>
-				</div>
 
-				<div class="col-lg-4 col-md-4 col-sm-6 mb-4">
-					<div class="attachmt">
-						<h1>Churchgate</h1>
-						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30190.21876873941!2d72.835515!3d18.941247!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7d1bf22eac233%3A0xf1be984e0768c18e!2sDr.%20Vishal%20Kundnani%20-%20Best%20Spine%20Surgeon%20in%20Mumbai%20%7C%20Spine%20Specialist%20Doctor%20in%20Mumbai%20%7C%20Neck%20%26%20Back%20Pain%20Doctor!5e0!3m2!1sen!2sin!4v1746782545964!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-						<ul>
-							<li><i class="fa-solid fa-location-dot"></i><b>Bombay Hospital</b> <br> Room no 128 - 1st floor MRC building, Marine Lines, Mumbai - 400020</li>
-							<br>
-							<li><i class="fa-solid fa-phone-volume"></i>Phone: +91 9619200123 | +91 8657500666</li>
-						</ul>
-					</div>
-				</div>
-
-				<div class="col-lg-4 col-md-4 col-sm-6 mb-4">
-					<div class="attachmt">
-						<h1>Malad</h1>
-						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15073.258530130865!2d72.8640188010371!3d19.1814553659143!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7a826ae2fd3%3A0x98a2725d2ec7274!2sDr.%20Vishal%20Kundnani%20-%20Best%20Spine%20Specialist%20in%20Mumbai%20%7C%20Spine%20Surgeon%20in%20Mumbai%20%7C%20Back%20Pain%2C%20Sciatica%2C%20Slip%20Disc%20Doctor!5e0!3m2!1sen!2sin!4v1746782574170!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-						<ul>
-							<li><i class="fa-solid fa-location-dot"></i><b>Spine Clinic</b> <br> 1st Floor, Onkar Towers, Opp. Oberoi Mall, Pimpripada Rd, Malad East, Mumbai - 400063</li>
-							<br>
-							<li><i class="fa-solid fa-phone-volume"></i>Phone: +91 9619100123 | +91 8657500555</li>
-						</ul>
-					</div>
-				</div>
-
-				<div class="col-lg-4 col-md-4 col-sm-6 mb-4">
-					<div class="attachmt">
-						<h1>Borivali</h1>
-						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15069.476055830744!2d72.853849!3d19.222743!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9b931e2c885%3A0xd31dbc87ae1b347f!2sDr.%20Vishal%20Kundnani%20-%20Best%20Spine%20Surgeon%20in%20Mumbai%2C%20Spine%20Specialist%20in%20Mumbai%2C%20Spinal%20Clinic%2C%20Back%20Pain%2C%20Spine%20Doctor%20Mumbai!5e0!3m2!1sen!2sin!4v1746782601615!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-						<ul>
-							<li><i class="fa-solid fa-location-dot"></i><b>Spine Clinic</b> <br> 2nd Floor, Devkrupa CHS, Shimpoli Signal, SV Road, beside Pulse Diagnostic, Borivali West, Mumbai - 400092</li>
-							<br>
-							<li><i class="fa-solid fa-phone-volume"></i>Phone: +91 9619200123 | +91 8657500666</li>
-						</ul>
-					</div>
-				</div>
-
-				<div class="col-lg-4 col-md-4 col-sm-6 mb-4">
-					<div class="attachmt">
-						<h1>Khar</h1>
-						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d482656.0854108907!2d72.834207!3d19.074697!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c93287e059a5%3A0xccacaea029ee0af0!2sDr.%20Vishal%20Kundnani%20-%20Best%20Spine%20Surgeon%20in%20Mumbai%20%7C%20Spine%20Specialist%20in%20Mumbai!5e0!3m2!1sen!2sin!4v1746784585275!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-						<ul>
-							<li><i class="fa-solid fa-location-dot"></i><b>Spine Clinic</b> <br> 2nd Floor, Corinthian, Linking Rd, opposite DBS Bank, Khar West, Mumbai, Maharashtra 400052</li>
-							<br>
-							<li><i class="fa-solid fa-phone-volume"></i>Phone: +91 9619300123</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
 
 	<section class="aloviacntub col-lg-12 col-md-12 col-sm-12 col-xs-12">
 		<div class="container">
