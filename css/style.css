@@ -3471,7 +3471,7 @@ Hospital Fixed Bottom
     list-style: none;
     position: relative;
     color: #000000;
-    font-size: 15px;
+    font-size: 14px;
     font-weight:400;
     line-height: 26px;
     padding: 10px 0 10px 0px;
@@ -4380,7 +4380,20 @@ border: 1px solid #c4c7bf;
     margin: 15px 0;
     opacity: 0.5;
 }
-
+.cliclskil1 .back_
+{
+    font-size: 37px;
+    color: #231f1f;
+    background: none; 
+    margin: 0px;
+    padding: 7px;
+   text-align: left; */
+    border-radius: 0px; 
+}
+.ba_image
+{
+    padding: 10px 0px;
+}
 @media (max-width: 768px) {
     .footer-locations {
         padding: 20px 0 !important;
@@ -4402,4 +4415,14 @@ border: 1px solid #c4c7bf;
     .location-content iframe {
         height: 180px;
     }
+    .cliclskil1 .back_
+{
+    font-size: 30px;
+    color: #231f1f;
+    background: none; 
+    margin: 0px;
+    padding: 7px;
+   text-align: left; */
+    border-radius: 0px; 
+}
 }
