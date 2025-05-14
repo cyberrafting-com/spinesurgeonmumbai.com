@@ -194,7 +194,7 @@
             <h3>Back pain is also caused by a specific spinal condition like :</h3>
             <div class="container ba_image mt-4">
 
-              <img src="images/causes-of-back-pain.jpg" alt="Back Pain Treatment in Mumbai by Dr. Vishal Kundnani"
+              <img src="images/causes-of-back-pain.jpg" alt="Causes of back pain treaded by Dr. Vishal Kundnani in Mumbai"
                 class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
 
             </div>
@@ -262,7 +262,7 @@
             <h2>What are the Common Symptoms of associated with Back Pain ?</h2>
             <div class="container ba_image mt-4">
 
-              <img src="images/common-symptoms-of-back-pain.jpg" alt="Back Pain Treatment in Mumbai by Dr. Vishal Kundnani"
+              <img src="images/common-symptoms-of-back-pain.jpg" alt="Common symptoms of Back Pain treated by Dr. Vishal Kundnani in Mumbai"
                 class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
 
             </div>
@@ -345,7 +345,7 @@
             <h3>What are the treatment options for back pain?</h3>
             <div class="container ba_image mt-4">
 
-              <img src="images/treatment-options-for-back-pain.jpg" alt="Back Pain Treatment in Mumbai by Dr. Vishal Kundnani"
+              <img src="images/treatment-options-for-back-pain.jpg" alt="Back Pain Treatment options by Dr. Vishal Kundnani in Mumbai"
                 class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
 
             </div>
