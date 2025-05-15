@@ -192,7 +192,57 @@
     <div class="clearfix"></div>
 
 
+    <section>
+    <div class="container">
+        <div class="row">
+            <div class="header_title">
+                <h1>Our Centres of Excellence</h1>
+            </div>
+        </div>
+        <div class="row justify-content-center pb-75">
 
+            <!-- M.I.S.S -->
+            <div class="col-lg-6 col-md-6">
+                <div class="single-gallery-item text-center">
+                    <img src="images/MISS_Logo.jpg" alt="Mumbai Institute of Spine Surgery Logo" class="gal-img" style="max-height: 200px; margin-bottom: 20px;">
+                    <h4>Mumbai Institute of Spine Surgery (M.I.S.S)</h4>
+                    <p>Group of most reputed top spine surgeons in Mumbai, India, delivering premium spine surgery care for spinal disorders. India’s most reputed premier spine care centre.</p>
+                    <p>Led by <strong>Dr. Vishal Kundnani</strong> – gold medallist & fellowship-trained expert. Team includes internationally acclaimed spine specialists, pain physicians, spine physiotherapists & nurses offering:</p>
+                    <ul style="text-align: left; display: inline-block;">
+                        <li>Non-surgical spine treatment</li>
+                        <li>Advanced & minimal invasive spine surgery</li>
+                        <li>Microscopic & endoscopic spine surgery</li>
+                        <li>Cervical & scoliosis surgery</li>
+                    </ul>
+                    <div class="know_more text-center mt-3">
+                        <a href="about-mumbai-institute-of-spine-surgery.php">View Details <i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- C.E.S.S - MSSG -->
+            <div class="col-lg-6 col-md-6">
+                <div class="single-gallery-item text-center">
+                    <img src="images/cess-logo.jpg" alt="Centre of Excellence in Spine Surgery Logo" class="gal-img" style="max-height: 200px; margin-bottom: 20px;">
+                    <h4>Centre of Excellence in Spine Surgery (C.E.S.S) – MSSG</h4>
+                    <p>A top-tier group of leading spine surgeons in Mumbai, offering world-class treatment for spinal disorders. Recognised as India’s premier spine care centre.</p>
+                    <p>Helmed by <strong>Dr. Vishal Kundnani</strong>, this centre comprises a team of globally trained spine experts providing:</p>
+                    <ul style="text-align: left; display: inline-block;">
+                        <li>Tailored non-surgical spine care</li>
+                        <li>Advanced, minimally invasive surgeries</li>
+                        <li>Microscopic & endoscopic spine solutions</li>
+                        <li>Cervical & scoliosis correction procedures</li>
+                    </ul>
+                    <div class="know_more text-center mt-3">
+                        <a href="about-centre-of-excellence-in-spine-surgery.php">View Details <i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<div class="clearfix"></div>
 
     <div class="cont-sec-3">
         <div class="container-fluid">

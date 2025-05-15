@@ -116,10 +116,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h2>World-Class, Affordable Spine Surgery for International Patients in Mumbai</h2>
-                            <div class="cess-logo-container">
-                                <img src="images/cess-logo.jpg" alt="Center of Excellence in Spine Surgery (CESS) Logo"
-                                    class="cess-logo">
-                            </div>
+                            
                             <p>International patients often choose India as a destination for medical treatments and
                                 complex surgeries due to the credibility of doctors, affordable costs, and flexible
                                 timelines. With top spine surgeons available in multiple cities, India offers reliable
@@ -135,7 +132,10 @@
                                 and affordable spine surgeries in India. This center, led by top spine surgeons in
                                 Mumbai and India, is a premier institute for spinal disorder treatment.</p>
                         </div>
-
+                        <div class="cess-logo-container">
+                                <img src="images/cess-logo.jpg" alt="Center of Excellence in Spine Surgery (CESS) Logo"
+                                    class="cess-logo">
+                            </div>
                         <div class="sec-blog-design pt-5">
                             <p><strong>Led by <a href="about-doctor.php"> Vishal Kundnani</strong></a> – a gold
                                 medallist and fellowship-trained expert – the C.E.S.S team includes internationally

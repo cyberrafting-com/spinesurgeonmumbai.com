@@ -72,10 +72,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h2>World-Class, Affordable Spine Surgery for International Patients In Mumbai</h2>
-                            <div class="miss-logo-container">
-                                <img src="images/MISS_Logo.jpg" alt="Mumbai Institute of Spine Surgery (MISS) Logo"
-                                    class="miss-logo">
-                            </div>
+                            
                             <p>International patients often choose India as a destination for medical treatments and
                                 advanced surgeries due to the reputation of doctors, economic treatment costs, and
                                 patient-friendly timelines. India’s top spine surgeons offer affordable and quality care
@@ -90,7 +87,10 @@
                                 complex spine procedures. The M.I.S.S team is among the most reputed group of spine
                                 surgeons in India delivering advanced care at affordable prices.</p>
                         </div>
-
+                        <div class="miss-logo-container">
+                                <img src="images/MISS_Logo.jpg" alt="Mumbai Institute of Spine Surgery (MISS) Logo"
+                                    class="miss-logo">
+                            </div>
                         <div class="sec-blog-design pt-5">
                             <p><strong>Led by <a href="about-doctor.php">Dr. Vishal Kundnani</a></strong>, a gold
                                 medallist and fellowship-trained expert, the M.I.S.S team includes globally acclaimed
