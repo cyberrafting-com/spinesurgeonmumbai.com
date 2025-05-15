@@ -3,8 +3,10 @@
 
 <head>
     <title>Affordable Spine Surgery in Mumbai for International Patients</title>
-    <meta name="description" content="Get advanced, world-class spine surgery in Mumbai at affordable costs. C.E.S.S. offers expert care for international patients with top spine surgeons in India.">
-    <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+    <meta name="description"
+        content="Get advanced, world-class spine surgery in Mumbai at affordable costs. C.E.S.S. offers expert care for international patients with top spine surgeons in India.">
+    <meta name="keywords"
+        content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
     <script type="application/ld+json">
     {
@@ -53,12 +55,44 @@
     </script>
 
     <?php include 'includes/head.php'; ?>
+
+    <style>
+        /* CESS Logo Styling */
+        .cess-logo-container {
+            text-align: center;
+            margin: 20px 0 30px 0;
+        }
+
+        .cess-logo {
+            max-width: 400px;
+            height: auto;
+            display: inline-block;
+            transition: transform 0.3s ease;
+        }
+
+        .cess-logo:hover {
+            transform: scale(1.05);
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .cess-logo {
+                max-width: 300px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .cess-logo {
+                max-width: 250px;
+            }
+        }
+    </style>
 </head>
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <header class="header col-lg-12 col-md-12 col-sm-12 col-xs-12 affix1" data-spy="affix1" data-offset-top="75">
         <?php include 'includes/header.php'; ?>
@@ -82,24 +116,50 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h2>World-Class, Affordable Spine Surgery for International Patients in Mumbai</h2>
-                            <p>International patients often choose India as a destination for medical treatments and complex surgeries due to the credibility of doctors, affordable costs, and flexible timelines. With top spine surgeons available in multiple cities, India offers reliable and economical care for spine surgery.</p>
+                            <div class="cess-logo-container">
+                                <img src="images/cess-logo.jpg" alt="Center of Excellence in Spine Surgery (CESS) Logo"
+                                    class="cess-logo">
+                            </div>
+                            <p>International patients often choose India as a destination for medical treatments and
+                                complex surgeries due to the credibility of doctors, affordable costs, and flexible
+                                timelines. With top spine surgeons available in multiple cities, India offers reliable
+                                and economical care for spine surgery.</p>
                             <img src="img/blog/affordable-spine-surgery-mumbai-international-patient.png">
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p>Many international patients prefer the <a href="about-centre-of-excellence-in-spine-surgery.php"><strong>Center of Excellence in Spine Surgery (C.E.S.S)</strong> </a>at Lilavati Hospital in Mumbai for complex procedures. The MISS team at C.E.S.S is known for delivering the most advanced and affordable spine surgeries in India. This center, led by top spine surgeons in Mumbai and India, is a premier institute for spinal disorder treatment.</p>
+                            <p>Many international patients prefer the <a
+                                    href="about-centre-of-excellence-in-spine-surgery.php"><strong>Center of Excellence
+                                        in Spine Surgery (C.E.S.S)</strong> </a>at Lilavati Hospital in Mumbai for
+                                complex procedures. The MISS team at C.E.S.S is known for delivering the most advanced
+                                and affordable spine surgeries in India. This center, led by top spine surgeons in
+                                Mumbai and India, is a premier institute for spinal disorder treatment.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p><strong>Led by <a href="about-doctor.php"> Vishal Kundnani</strong></a> – a gold medallist and fellowship-trained expert – the C.E.S.S team includes internationally acclaimed spine surgeons, pain specialists, physiotherapists, and spine care nurses. They provide personalized care, including non-surgical treatments, minimally invasive surgeries, microscopic and endoscopic procedures, cervical spine surgery, and scoliosis correction.</p>
+                            <p><strong>Led by <a href="about-doctor.php"> Vishal Kundnani</strong></a> – a gold
+                                medallist and fellowship-trained expert – the C.E.S.S team includes internationally
+                                acclaimed spine surgeons, pain specialists, physiotherapists, and spine care nurses.
+                                They provide personalized care, including non-surgical treatments, minimally invasive
+                                surgeries, microscopic and endoscopic procedures, cervical spine surgery, and scoliosis
+                                correction.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p>The C.E.S.S at Lilavati Hospital offers world-class spine treatment at a fraction of Western costs. The MISS Clinics and associated specialists operate in top hospitals such as Bombay Hospital, Lilavati Hospital, and Breach Candy Hospital. Equipped with cutting-edge imaging and surgical suites, these facilities offer robotic-assisted fusion, endoscopic surgeries, and scoliosis correction under the leadership of Dr. Kundnani, who has performed over 5,000 successful spine surgeries.</p>
+                            <p>The C.E.S.S at Lilavati Hospital offers world-class spine treatment at a fraction of
+                                Western costs. The MISS Clinics and associated specialists operate in top hospitals such
+                                as Bombay Hospital, Lilavati Hospital, and Breach Candy Hospital. Equipped with
+                                cutting-edge imaging and surgical suites, these facilities offer robotic-assisted
+                                fusion, endoscopic surgeries, and scoliosis correction under the leadership of Dr.
+                                Kundnani, who has performed over 5,000 successful spine surgeries.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p>The C.E.S.S also provides a seamless experience for international patients. From arranging medical visas to coordinating airport transfers and accommodations, every aspect is handled to ensure comfort. A dedicated coordinator assists with consultations, translation, aftercare, and 24/7 support. Thousands of patients have reported high satisfaction and a sense of security throughout their treatment journey.</p>
+                            <p>The C.E.S.S also provides a seamless experience for international patients. From
+                                arranging medical visas to coordinating airport transfers and accommodations, every
+                                aspect is handled to ensure comfort. A dedicated coordinator assists with consultations,
+                                translation, aftercare, and 24/7 support. Thousands of patients have reported high
+                                satisfaction and a sense of security throughout their treatment journey.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -107,23 +167,30 @@
                         </div>
                         <div class="cat-service-inner pt-5">
                             <img src="img/founder_li_icon.png" alt="">
-                            <p><strong>Cost Savings:</strong> Spine surgeries in India are 50–70% more affordable than in the US or Europe.</p>
+                            <p><strong>Cost Savings:</strong> Spine surgeries in India are 50–70% more affordable than
+                                in the US or Europe.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
                             <img src="img/founder_li_icon.png" alt="">
-                            <p><strong>Expertise:</strong> Surgeries are performed by internationally trained surgeons like Dr. Kundnani, a pioneer in Indian spine surgery.</p>
+                            <p><strong>Expertise:</strong> Surgeries are performed by internationally trained surgeons
+                                like Dr. Kundnani, a pioneer in Indian spine surgery.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
                             <img src="img/founder_li_icon.png" alt="">
-                            <p><strong>Advanced Technology:</strong> Robotic spine surgery, real-time navigation, neuromonitoring, and full-endoscopic tools ensure precision and safety.</p>
+                            <p><strong>Advanced Technology:</strong> Robotic spine surgery, real-time navigation,
+                                neuromonitoring, and full-endoscopic tools ensure precision and safety.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
                             <img src="img/founder_li_icon.png" alt="">
-                            <p><strong>Comprehensive Support:</strong> End-to-end assistance including medical visas, rehab, and recovery planning is part of the standard offering.</p>
+                            <p><strong>Comprehensive Support:</strong> End-to-end assistance including medical visas,
+                                rehab, and recovery planning is part of the standard offering.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p>Whether you're seeking minimally invasive discectomy, scoliosis correction, or advanced spinal procedures, the <strong>Center of Excellence in Spine Surgery at Lilavati Hospital</strong> delivers global-standard care by the best spine specialists in India.</p>
+                            <p>Whether you're seeking minimally invasive discectomy, scoliosis correction, or advanced
+                                spinal procedures, the <strong>Center of Excellence in Spine Surgery at Lilavati
+                                    Hospital</strong> delivers global-standard care by the best spine specialists in
+                                India.</p>
                         </div>
 
 

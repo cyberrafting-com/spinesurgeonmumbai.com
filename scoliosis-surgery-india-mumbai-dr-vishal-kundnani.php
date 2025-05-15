@@ -80,6 +80,7 @@
     </script>
 
     <?php include 'includes/head.php';?>
+    
 </head>
 
 <body>

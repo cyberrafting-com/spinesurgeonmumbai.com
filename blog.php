@@ -4,8 +4,10 @@
 <head>
 	<?php include 'includes/head.php'; ?>
 	<title>Spine Disease & Surgery Blogs by Dr. Vishal Kundnani</title>
-	<meta name="description" content="Explore insightful blogs on spine diseases and surgical care by Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert advice and updates on spine health.">
-	<meta name="keywords" content="Spine Surgery Blog, Spine Health Articles, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
+	<meta name="description"
+		content="Explore insightful blogs on spine diseases and surgical care by Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert advice and updates on spine health.">
+	<meta name="keywords"
+		content="Spine Surgery Blog, Spine Health Articles, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
 	<script type="application/ld+json">
 	{
@@ -15,26 +17,26 @@
 	  "description": "Latest articles and updates about spine surgery and treatments by Dr. Vishal Kundnani.",
 	  "url": "https://spinesurgeonmumbai.com/blog.php",
 	  "about": {
-	    "@type": "MedicalBusiness",
-	    "name": "Spine Clinic Mumbai",
-	    "medicalAudience": "Medical"
+		"@type": "MedicalBusiness",
+		"name": "Spine Clinic Mumbai",
+		"medicalAudience": "Medical"
 	  },
 	  "author": {
-	    "@type": "Person",
-	    "name": "Dr. Vishal Kundnani",
-	    "jobTitle": "Spine Surgeon",
-	    "worksFor": {
-	      "@type": "MedicalBusiness",
-	      "name": "Spine Clinic Mumbai"
-	    }
+		"@type": "Person",
+		"name": "Dr. Vishal Kundnani",
+		"jobTitle": "Spine Surgeon",
+		"worksFor": {
+		  "@type": "MedicalBusiness",
+		  "name": "Spine Clinic Mumbai"
+		}
 	  },
 	  "publisher": {
-	    "@type": "Organization",
-	    "name": "Spine Clinic Mumbai",
-	    "logo": {
-	      "@type": "ImageObject",
-	      "url": "https://spinesurgeonmumbai.com/img/logo.png"
-	    }
+		"@type": "Organization",
+		"name": "Spine Clinic Mumbai",
+		"logo": {
+		  "@type": "ImageObject",
+		  "url": "https://spinesurgeonmumbai.com/img/logo.png"
+		}
 	  }
 	}
 	</script>
@@ -42,8 +44,8 @@
 
 <body>
 	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM"
-			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	<header class="header col-lg-12 col-md-12 col-sm-12 col-xs-12 affix1" data-spy="affix1" data-offset-top="75">
 
@@ -68,18 +70,46 @@
 	<section class="gallery_inner blog">
 		<div class="container">
 			<div class="row">
-
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="scoliosis-surgery-india-mumbai-dr-vishal-kundnani.php"><img src="img/blog/scoliosis-surgery-with-dr-vishal-kundnani.jpg">
-							<h1>Scoliosis Surgery in Mumbai & India – Dr. Vishal Kundnani, Top Spinal Deformity Surgeon</h1>
+						<a href="affordable-spine-surgery-international-patients-mumbai-miss.php"><img
+								src="img/blog/spine-surgery.jpg">
+							<h1>Spine Surgery in Mumbai & India – Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="best-spine-surgery-hospital-india-miss.php"><img
+								src="img/blog/best-spine-surgery.jpg">
+							<h1>Best Spine Surgery Hospital in Mumbai & India – Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="spine-surgery-india-international-patients-miss.php"><img
+								src="img/blog/spine-surgery-international-patients-miss.jpg">
+							<h1>Spine Surgery in Mumbai & India for international patients by Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
 				</div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="robotic-spine-surgery-mumbai-dr-vishal-kundnani.php"><img src="img/blog/robotic-spine-surgery-with-dr-vishal-kundnani-mumbai.jpg">
+						<a href="scoliosis-surgery-india-mumbai-dr-vishal-kundnani.php"><img
+								src="img/blog/scoliosis-surgery-with-dr-vishal-kundnani.jpg">
+							<h1>Scoliosis Surgery in Mumbai & India – Dr. Vishal Kundnani, Top Spinal Deformity Surgeon
+							</h1>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="robotic-spine-surgery-mumbai-dr-vishal-kundnani.php"><img
+								src="img/blog/robotic-spine-surgery-with-dr-vishal-kundnani-mumbai.jpg">
 							<h1>Robotic Spine Surgery in Mumbai – Expertise of Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
@@ -87,7 +117,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="spine-surgery-in-india-for-international-patients.php"><img src="img/blog/SPINE-SURGERY-in-india-for-international-patients.jpg">
+						<a href="spine-surgery-in-india-for-international-patients.php"><img
+								src="img/blog/SPINE-SURGERY-in-india-for-international-patients.jpg">
 							<h1>World-Class Spine Surgery in India for International Patients</h1>
 						</a>
 					</div>
@@ -95,7 +126,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="affordable-spine-surgery-international-patients-mumbai.php"><img src="img/blog/affordable-spine-surgery-mumbai-international-patient.png">
+						<a href="affordable-spine-surgery-international-patients-mumbai.php"><img
+								src="img/blog/affordable-spine-surgery-mumbai-international-patient.png">
 							<h1>World-Class, Affordable Spine Surgery for International Patients in Mumbai</h1>
 						</a>
 					</div>
@@ -103,7 +135,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="laser-spine-surgery-dr-vishal-kundnani-mumbai.php"><img src="img/blog/LASER-SPINAL-SUGERY-dr-vishal-kundnani.jpg">
+						<a href="laser-spine-surgery-dr-vishal-kundnani-mumbai.php"><img
+								src="img/blog/LASER-SPINAL-SUGERY-dr-vishal-kundnani.jpg">
 							<h1>Laser Spine Surgery – Dr. Vishal Kundnani, Top Spine Surgeon in Mumbai</h1>
 						</a>
 					</div>
@@ -111,7 +144,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="top-10-best-spine-surgeons-in-india.php"><img src="img/blog/top-10-best-spine-surgeons-in-india.jpg">
+						<a href="top-10-best-spine-surgeons-in-india.php"><img
+								src="img/blog/top-10-best-spine-surgeons-in-india.jpg">
 							<h1>Top 10 Best Spine Surgeons in India</h1>
 						</a>
 					</div>
@@ -119,7 +153,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.php"><img src="img/blog/best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.jpg">
+						<a href="best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.php"><img
+								src="img/blog/best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.jpg">
 							<h1>Best Spine Surgeon in Mumbai and India for Scoliosis Treatment</h1>
 						</a>
 					</div>
@@ -127,7 +162,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="robotic-spine-surgery-with-dr-vishal-kundnani.php"><img src="img/blog/robotic-spine-surgery-with-dr-vishal-kundnani.jpg">
+						<a href="robotic-spine-surgery-with-dr-vishal-kundnani.php"><img
+								src="img/blog/robotic-spine-surgery-with-dr-vishal-kundnani.jpg">
 							<h1>Robotic Spine Surgery with Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
@@ -135,7 +171,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="laser-spine-surgery-with-dr-vishal-kundnani.php"><img src="img/blog/laser-spine-surgery-with-dr-vishal-kundnani.jpg">
+						<a href="laser-spine-surgery-with-dr-vishal-kundnani.php"><img
+								src="img/blog/laser-spine-surgery-with-dr-vishal-kundnani.jpg">
 							<h1>Laser Spine Surgery with Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
@@ -143,7 +180,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="keyhole-spine-surgery-with-dr-vishal-kundnani.php"><img src="img/blog/keyhole-spine-surgery-with-dr-vishal-kundnani.jpg">
+						<a href="keyhole-spine-surgery-with-dr-vishal-kundnani.php"><img
+								src="img/blog/keyhole-spine-surgery-with-dr-vishal-kundnani.jpg">
 							<h1>Keyhole Spine Surgery with Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
@@ -151,7 +189,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="endoscopic-spine-surgery-with-dr-vishal-kundnani.php"><img src="img/blog/endoscopic-spine-surgery-with-dr-vishal-kundnani.jpg">
+						<a href="endoscopic-spine-surgery-with-dr-vishal-kundnani.php"><img
+								src="img/blog/endoscopic-spine-surgery-with-dr-vishal-kundnani.jpg">
 							<h1>Endoscopic Spine Surgery with Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
@@ -159,7 +198,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="best-spine-surgeons-in-mumbai-and-india.php"><img src="img/blog/best-spine-surgeons-in-mumbai-and-india.jpg">
+						<a href="best-spine-surgeons-in-mumbai-and-india.php"><img
+								src="img/blog/best-spine-surgeons-in-mumbai-and-india.jpg">
 							<h1>Best Spine Surgeons in Mumbai and India</h1>
 						</a>
 					</div>
@@ -247,7 +287,8 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="spinext-clinic-consult-spine-specialist-dr-vishal-kundnani.php"><img src="img/blog/12.jpg">
+						<a href="spinext-clinic-consult-spine-specialist-dr-vishal-kundnani.php"><img
+								src="img/blog/12.jpg">
 							<h1>Spinext clinic | consult spine specialist | dr. vishal kundnani</h1>
 						</a>
 					</div>
@@ -280,7 +321,8 @@
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
 						<a href="spine-pain-amid-lockdown.php"><img src="img/blog/11.jpg">
-							<h1>Spine pain amid lockdown? No worries, SPINE CLINIC brings you best cure from Spine Specialist Dr Vishal Kundnani</h1>
+							<h1>Spine pain amid lockdown? No worries, SPINE CLINIC brings you best cure from Spine
+								Specialist Dr Vishal Kundnani</h1>
 						</a>
 					</div>
 				</div>

@@ -112,7 +112,7 @@
                         <h1>Robotic Spine Surgery in Mumbai – Expertise of Dr. Vishal Kundnani</h1>
                         <div class="row">
                             <div class="col-lg-8 col-md-8 col-12">
-                                <h2>What is Scoliosis?</h2>
+                                <h2>What is Robotic Spine Surgery ?</h2>
                                 <p><strong>Robotic spine surgery</strong> is a breakthrough in spinal care, offering
                                     enhanced precision, minimal invasiveness, faster recovery, and superior surgical
                                     outcomes.

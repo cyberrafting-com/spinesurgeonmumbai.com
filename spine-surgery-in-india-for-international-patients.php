@@ -3,15 +3,48 @@
 
 <head>
     <title>Top Spine Surgery in India for International Patients | CESS</title>
-    <meta name="description" content="Explore affordable, world-class spine surgery in Mumbai with CESS. Trusted by global patients for robotic, endoscopic, and scoliosis spine treatments.">
+    <meta name="description"
+        content="Explore affordable, world-class spine surgery in Mumbai with CESS. Trusted by global patients for robotic, endoscopic, and scoliosis spine treatments.">
     <meta name="keywords" content="">
     <?php include 'includes/head.php'; ?>
+
+    <style>
+        /* CESS Logo Styling */
+        .cess-logo-container {
+            text-align: center;
+            margin: 20px 0 30px 0;
+        }
+
+        .cess-logo {
+            max-width: 400px;
+            height: auto;
+            display: inline-block;
+            transition: transform 0.3s ease;
+        }
+
+        .cess-logo:hover {
+            transform: scale(1.05);
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .cess-logo {
+                max-width: 300px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .cess-logo {
+                max-width: 250px;
+            }
+        }
+    </style>
 </head>
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <header class="header col-lg-12 col-md-12 col-sm-12 col-xs-12 affix1" data-spy="affix1" data-offset-top="75">
         <?php include 'includes/header.php'; ?>
@@ -35,13 +68,24 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h2>World-Class Spine Surgery in India for International Patients</h2>
-                            <p>The <a href="about-centre-of-excellence-in-spine-surgery.php"><strong>Center of Excellence in Spine Surgery (CESS) in Mumbai</strong></a> is the top destination for international patients seeking safe, advanced, and affordable spine treatments. Known for cutting-edge techniques and exceptional outcomes, CESS is led by some of the <strong>best spine specialists in India</strong>.</p>
+                            <div class="cess-logo-container">
+                                <img src="images/cess-logo.jpg" alt="Center of Excellence in Spine Surgery (CESS) Logo"                                  class="cess-logo">
+                            </div>
+                            <p>The <a href="about-centre-of-excellence-in-spine-surgery.php"><strong>Center of
+                                        Excellence in Spine Surgery (CESS) in Mumbai</strong></a> is the top destination
+                                for international patients seeking safe, advanced, and affordable spine treatments.
+                                Known for cutting-edge techniques and exceptional outcomes, CESS is led by some of the
+                                <strong>best spine specialists in India</strong>.</p>
                             <img src="img/blog/SPINE-SURGERY-in-india-for-international-patients.jpg">
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p>Under the leadership of <a href="about-doctor.php"><strong>Dr. Vishal Kundnani</strong></a>, a globally recognized and fellowship-trained spine surgeon, the team at CESS includes highly experienced spine surgeons, physiotherapists, pain management experts, and rehabilitation specialists.</p>
-                            <p>Patients from the US, UK, Middle East, Africa, and Southeast Asia travel to Mumbai to benefit from CESS’s expertise in:</p>
+                            <p>Under the leadership of <a href="about-doctor.php"><strong>Dr. Vishal
+                                        Kundnani</strong></a>, a globally recognized and fellowship-trained spine
+                                surgeon, the team at CESS includes highly experienced spine surgeons, physiotherapists,
+                                pain management experts, and rehabilitation specialists.</p>
+                            <p>Patients from the US, UK, Middle East, Africa, and Southeast Asia travel to Mumbai to
+                                benefit from CESS’s expertise in:</p>
                         </div>
 
                         <div class="cat-service-inner pt-5">
@@ -66,12 +110,16 @@
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p>The MISS team operates out of premier hospitals in Mumbai including <strong>Bombay Hospital, Lilavati Hospital, and Breach Candy Hospital</strong>. These centers offer international-grade infrastructure and adhere to the highest standards of patient care.</p>
+                            <p>The MISS team operates out of premier hospitals in Mumbai including <strong>Bombay
+                                    Hospital, Lilavati Hospital, and Breach Candy Hospital</strong>. These centers offer
+                                international-grade infrastructure and adhere to the highest standards of patient care.
+                            </p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
                             <h3>International Patient Support at CESS</h3>
-                            <p>What sets the CESS apart is the comprehensive support offered to patients from abroad, including:</p>
+                            <p>What sets the CESS apart is the comprehensive support offered to patients from abroad,
+                                including:</p>
                         </div>
 
                         <div class="cat-service-inner pt-5">
@@ -96,8 +144,13 @@
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p>With up to <strong>70% cost savings</strong> compared to Western countries, and access to <strong>world-class medical expertise</strong>, the Center of Excellence in Spine Surgery (CESS) in Mumbai is one of the most trusted destinations for spine care abroad.</p>
-                            <p>Whether you need robotic-assisted spinal fusion, endoscopic disc surgery, or scoliosis treatment, CESS offers <strong>comprehensive, compassionate care</strong> tailored for international patients seeking lasting mobility and relief.</p>
+                            <p>With up to <strong>70% cost savings</strong> compared to Western countries, and access to
+                                <strong>world-class medical expertise</strong>, the Center of Excellence in Spine
+                                Surgery (CESS) in Mumbai is one of the most trusted destinations for spine care abroad.
+                            </p>
+                            <p>Whether you need robotic-assisted spinal fusion, endoscopic disc surgery, or scoliosis
+                                treatment, CESS offers <strong>comprehensive, compassionate care</strong> tailored for
+                                international patients seeking lasting mobility and relief.</p>
                         </div>
 
 

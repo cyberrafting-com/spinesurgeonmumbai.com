@@ -10,7 +10,7 @@
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
   "name": "Best Spine Surgeon in Mumbai",
-  "description": "Information about Dr. Vishal Kundnani, one of the best spine surgeons in Mumbai with extensive experience in complex spine surgeries",
+  "description": "Information about Dr. Viszzzzzzzhal Kundnani, one of the best spine surgeons in Mumbai with extensive experience in complex spine surgeries",
   "url": "https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai.php",
   "about": {
     "@type": "Person",
@@ -49,6 +49,38 @@
 </script>
 
 <?php include 'includes/head.php';?>
+<style>
+  /* MISS Logo Styling */
+  .miss-logo-container {
+      text-align: center;
+      margin: 20px 0 30px 0;
+  }
+
+  .miss-logo {
+      max-width: 400px;
+      height: auto;
+      display: inline-block;
+      transition: transform 0.3s ease;
+  }
+
+  .miss-logo:hover {
+      transform: scale(1.05);
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+      .miss-logo {
+          max-width: 300px;
+      }
+  }
+
+  @media (max-width: 480px) {
+      .miss-logo {
+          max-width: 250px;
+      }
+  }
+  </style>
+
 </head>
 
 <body>
@@ -77,10 +109,14 @@
                 <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
                     <div class="blog-profile-details">  
                         <h1>Best Spine Surgeon in Mumbai</h1>
+                        <div class="miss-logo-container">
+                                <img src="images/MISS_Logo.jpg" alt="Mumbai Institute of Spine Surgery (MISS) Logo"
+                                    class="miss-logo">
+                            </div>
                         <p>Dr. Vishal Kundnani is one of the best spine surgeons in Mumbai with 27 years of surgical experience.</p>
                         <img src="img/spine-surgeons-in-mumbai.jpg" alt="" class="img-responsive pt-5">
                         <h2>Dr. Vishal Kundanani – Leading Spine Surgeon and Minimally Invasive Spine Specialist in Mumbai</h2>
-                        <p>Dr. Vishal Kundanani, a renowned spine surgeon with qualifications including MS (Ortho), FASSI, FNUS, and FNAMS, is at the forefront of advanced spinal care in Mumbai. He holds esteemed positions as the Director and Head of Spine Surgery at the Center of Excellence in Spine Surgery at Lilavati Hospital, Bandra, and Head of the Mumbai Institute of Spine Surgery at Bombay Hospital. Known for his expertise in minimally invasive spine surgery, cervical spine disorders, scoliosis, and microendoscopic techniques, Dr. Vishal Kundanani offers comprehensive care for complex spinal conditions.</p>
+                        <p>Dr. Vishal Kundanani, a renowned spine surgeon with qualifications including MS (Ortho), FASSI, FNUS, and FNAMS, is at the forefront of advanced spinal care in Mumbai. He holds esteemed positions as the Director and Head of Spine Surgery at the Center of Excellence in Spine Surgery at Lilavati Hospital, Bandra, and Head of the <b>Mumbai Institute of Spine Surgery</b> at Bombay Hospital. Known for his expertise in minimally invasive spine surgery, cervical spine disorders, scoliosis, and microendoscopic techniques, Dr. Vishal Kundanani offers comprehensive care for complex spinal conditions.</p>
                         <p>With a foundation of academic excellence as a gold medalist, Dr. Vishal Kundanani's career is further distinguished by international fellowship training at leading spine surgery centers in the UK, Singapore, Japan, Australia, Malaysia, and Korea. His experience spans over 15 years, during which he has successfully treated more than 20,000 patients with non-surgical protocols for conditions like <a href="https://www.slipdiscindia.com/" target="_blank">slipped discs</a> and has performed over 5,000 spine surgeries, including microsurgery, minimally invasive procedures for sciatica, and laser treatments for lumbar and cervical spine issues.</p>
                         <p>A true innovator in his field, Dr. Vishal Kundanani is among the first in India to bring advanced robotic and navigation-assisted spine surgery to his practice, greatly enhancing precision in complex procedures. He is also a pioneer of awake day-care spine surgeries, making spinal treatment accessible and efficient without the need for extended hospital stays. Dr. Vishal Kundanani's expertise is especially sought after for scoliosis correction and cervical spine surgeries, where his minimally invasive approaches have transformed recovery times and outcomes for patients.</p>
                         <p>Dr. Vishal Kundanani's work is backed by a robust portfolio of over 100 scientific research publications, which have earned him international recognition in spine care and surgery. His dedication to advancing spinal treatment makes him a leading choice for patients seeking expert, cutting-edge care with a personalized approach.</p>
