@@ -156,7 +156,7 @@
       <div class="row">
         <div class="cliclskil1 mt-3">
           <div class="col-lg-8 col-md-8 col-sm-8">           
-            <h2>Back Pain Treatment in Mumbai</h2>
+            <h2><strong>Back Pain Treatment in Mumbai</strong></h2>
             <div class="container ba_image mt-4">
 
               <img src="images/back-pain-treatment.jpg" alt="Back Pain Treatment in Mumbai by Dr. Vishal Kundnani"

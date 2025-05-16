@@ -141,7 +141,7 @@
                 <div class="cliclskil1 mt-3">
 
                     <div class="col-lg-8 col-md-8 col-sm-8">
-                        <h1 class="back_">Back Pain Doctor in Mumbai</h1>
+                        <h1 class="back_"><strong>Back Pain Doctor in Mumbai</strong></h1>
                         <!-- Main Image Section (Responsive) -->
                         <div class="container ba_image mt-4">
 

@@ -2,166 +2,141 @@
 <html lang="en-us">
 
 <head>
+  <title>Best Sciatica Treatment in Mumbai by Dr. Vishal Kundnani</title>
+  <meta name="description" content="Find best treatment for sciatica with Dr. Vishal Kundnani Spine specialist in Mumbai. Effective solutions and expert care in Mumbai for spine issues.">
+  <meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
- 
-
-	<title>Top Treatment for Sciatica in Mumbai by Dr. Vishal Kundnani</title>    
-<meta name="description" content="Find top treatment for sciatica with Dr. Vishal Kundnani Spine specialist in Mumbai. Effective solutions and expert care in Mumbai for spine issues.">  
-<meta name="keywords" content="Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MedicalWebPage",
-  "name": "Expert Sciatica Treatment in Mumbai by Dr. Vishal Kundnani",
-  "description": "Get specialized treatment for sciatica with Dr. Vishal Kundnani Spine Specialist Mumbai. Advanced spine care and pain management solutions in Mumbai.",
-  "url": "https://www.spinesurgeonmumbai.com/sciatica.php",
-  "author": {
-    "@type": "Person",
-    "name": "Dr. Vishal Kundnani",
-    "jobTitle": "Spine Surgeon",
-    "worksFor": {
-      "@type": "MedicalOrganization",
-      "name": "Spine Surgeon Mumbai",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Mumbai",
-        "addressRegion": "Maharashtra",
-        "addressCountry": "IN"
-      }
-    }
-  },
-  "provider": {
-    "@type": "MedicalOrganization",
-    "name": "Spine Surgeon Mumbai",
-    "medicalSpecialty": "Spine Surgery"
-  },
-  "mainEntity": {
-    "@type": "MedicalCondition",
-    "name": "Sciatica",
-    "description": "Sciatica refers to pain that radiates along the path of the sciatic nerve, which branches from your lower back through your hips and buttocks and down each leg. Typically, sciatica affects only one side of your body.",
-    "possibleTreatment": {
-      "@type": "MedicalTherapy",
-      "name": "Sciatica Treatment",
-      "description": "Comprehensive treatment options for sciatica including physical therapy, medications, and surgical intervention when necessary."
-    }
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is sciatica?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sciatica refers to pain that radiates along the path of the sciatic nerve, which branches from your lower back through your hips and buttocks and down each leg. Typically, sciatica affects only one side of your body."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the common causes of sciatica?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common causes include: Herniated disk, Bone spurs on the spine, Spinal stenosis (narrowing of the spine), Piriformis syndrome (when the piriformis muscle irritates the sciatic nerve), and Spondylolisthesis (when one vertebra slips forward over another)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the symptoms of sciatica?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Symptoms include: Pain that radiates from your lower spine to your buttock and down the back of your leg, numbness or tingling in the leg, weakness in the affected leg, and pain that worsens with movement, coughing, or sneezing."
-      }
-    }
-  ]
-}
-</script>
-
-<?php include 'includes/head.php'; ?>
+  <?php include 'includes/head.php'; ?>
 </head>
 
-
 <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <header class="header col-lg-12 col-md-12 col-sm-12 col-xs-12 affix1" data-spy="affix1" data-offset-top="75">
+  <header class="header col-lg-12 col-md-12 col-sm-12 col-xs-12 affix1" data-spy="affix1" data-offset-top="75">
+    <?php include 'includes/header.php'; ?>
+  </header>
 
-        <?php include 'includes/header.php'; ?>
+  <div class="banner-wrap1">
+    <div class="container">
+      <div class="row">
+        <h2>We <span>Treat</span></h2>
+        <ul class="breadcrumb1">
+          <li><a href="index.php">Home</a></li>
+          <li><a href="sciatica.php">Sciatica</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
 
-    </header>
+  <section class="drtoafndrb col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <div class="container">
+      <div class="row">
+        <div class="cliclskil1 mt-3">
+          <div class="col-lg-8 col-md-8 col-sm-8">
+            <h2><strong>Sciatica Treatment In Mumbai by Dr. Vishal Kundnani</strong></h2>
+            <img src="images/sciatica-treatment.jpg" alt="Sciatica Treatment in Mumbai by Dr. Vishal Kundnani" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
+            <h1>Sciatica Doctor in Mumbai - Dr. Vishal Kundnani</h1>
+            <br><p><strong>Sciatica Treatment In Mumbai by <a href="https://spinesurgeonmumbai.com/about-doctor.php" target="_blank">Dr. Vishal Kundnani</a></strong> is a specialized care solution for individuals suffering from persistent <a href="https://spinesurgeonmumbai.com/back-pain-we-treat.php" target="_blank">lower back and leg pain</a>. As a leading <a href="https://spinesurgeonmumbai.com/index.php" target="_blank">spine surgeon</a> and expert in minimally invasive spinal procedures, Dr. Vishal Kundnani offers patient-centric, evidence-based care for sciatica and related spine conditions. At his center, patients receive a precise diagnosis and customized treatment plan—ranging from non-surgical options to advanced surgical solutions—to ensure lasting relief and mobility restoration.</p>          
 
+            <h3><strong>What Are the Symptoms of Sciatica?</strong></h3>
+            <ul>
+              <li>Lower back pain that radiates downward</li>
+              <li>Pain in the rear or leg that worsens when sitting</li>
+              <li>Hip pain affecting mobility</li>
+              <li>Burning or tingling sensation down the leg</li>
+              <li>Weakness, numbness, or trouble moving the leg or foot</li>
+              <li>Constant pain on one side of the buttock</li>
+              <li>Sharp shooting pain that makes it hard to stand</li>
+            </ul>
 
- 
-	<div class="banner-wrap1">
-		<div class="container">
-			<div class="row">
-				<h2>We <span>Treat</span></h2> 
-				<ul class="breadcrumb1">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="sciatica.php">Sciatica</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
+            <img src="images/symptoms-sciatica-treatment.jpg" alt="Symptoms of Sciatica treated by Dr. Vishal Kundnani in Mumbai" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
 
+            <h3><strong>What Causes Sciatica?</strong></h3>
+            <p>Sciatica can be triggered by various spinal or muscular conditions, including:</p>
+            <ul>
+              <li>Lumbar spinal stenosis – narrowing of the lower spinal canal</li>
+              <li>Degenerative disc disease – breakdown of cushioning discs</li>
+              <li>Spondylolisthesis – vertebra slippage over another</li>
+              <li>Pregnancy – pressure on the sciatic nerve</li>
+              <li>Muscle spasms in the back or buttocks</li>
+            </ul>
 
-    <section class="drtoafndrb col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <div class="container">
+            <img src="images/causes-of-sciatica.jpg" alt="Causes of Sciatica treated by Dr. Vishal Kundnani in Mumbai" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
 
-            <div class="row">
-                <div class="cliclskil1 mt-3">
-                <div class="col-lg-8 col-md-8 col-sm-8">
-			<h1>Sciatica</h1>
-			<p class="mt-1">Sciatica is a common type of pain affecting the sciatic nerve, a large nerve extending from the lower back down the back of each leg.</p>
-			<h1>What Are the Symptoms of Sciatica?</h1>
-			<p>Common symptoms of sciatica include:</p>
-			<ul>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lower back pain</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pain in the rear or leg that is worse when sitting</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hip pain</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Burning or tingling down the leg</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Weakness, numbness, or difficulty moving the leg or foot</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">A constant pain on one side of the rear</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">A shooting pain that makes it difficult to stand up</li>
-			</ul>
-			<p class="mt-1">Sciatica usually affects only one side of the lower body. Often, the pain extends from the lower back all the way through the back of the thigh and down through the leg. Depending on where the sciatic nerve is affected, the pain may also extend to the foot or toes.</p>
-			<p>For some people, the pain from sciatica can be severe and debilitating. For others, the sciatica pain might be infrequent and irritating, but has the potential to get worse.</p>
-			<p>Seek immediate medical attention if you have progressive lower extremity weakness, numbness in the upper thighs, and/or loss of bladder or bowel control.</p>
-			<h1>What Causes Sciatica?</h1>
-			<p>Sciatica is caused by irritation of the root(s) of the lower lumbar and lumbosacral spine.</p>
-			<p>Additional common causes of sciatica include:</p>
-			<ul>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lumbar spinal stenosis (narrowing of the spinal canal in the lower back)</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Degenerative disc disease (breakdown of discs, which act as cushions between the vertebrae)</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spondylolisthesis (a condition in which one vertebra slips forward over another one) Pregnancy</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle spasm in the back or buttocks</li>
-			</ul>
-			<p>Other things that may make your back pain worse include being overweight, not exercising regularly, wearing high heels, or sleeping on a mattress that is too soft.</p>
-			
-			</div>
-			
+           <br> <h3><strong>Difference Between Sciatica and Other Spine-Related Pain</strong></h3>
+            <table class="table table-bordered mt-3">
+              <thead class="thead-dark">
+                <tr>
+                  <th>Feature</th>
+                  <th>Sciatica</th>
+                  <th>Other Spine-Related Pain</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Pain Pattern</td>
+                  <td>Radiates from lower back down to leg</td>
+                  <td>Often localized to the back or neck</td>
+                </tr>
+                <tr>
+                  <td>Triggering Nerve</td>
+                  <td>Sciatic nerve</td>
+                  <td>May involve multiple spinal nerves</td>
+                </tr>
+                <tr>
+                  <td>Side of Pain</td>
+                  <td>Typically affects one side</td>
+                  <td>Can affect both or alternate sides</td>
+                </tr>
+                <tr>
+                  <td>Additional Symptoms</td>
+                  <td>Tingling, numbness, weakness in legs</td>
+                  <td>May include stiffness or muscle spasms</td>
+                </tr>
+                <tr>
+                  <td>Aggravating Activity</td>
+                  <td>Sitting, standing up</td>
+                  <td>Lifting, bending, posture changes</td>
+                </tr>
+              </tbody>
+            </table>
 
-                    <div class="col-lg-4 col-md-4 col-sm-4">
+           <br> <h3><strong>Why Choose Dr. Vishal Kundnani for Sciatica Treatment in Mumbai?</strong></h3>
+            <ul>
+              <li>✅ Internationally acclaimed spine surgeon</li>
+              <li>✅ Expert in minimally invasive & endoscopic spine surgery</li>
+              <li>✅ Offers tailored, non-surgical to surgical treatment plans</li>
+              <li>✅ Uses advanced diagnostic techniques</li>
+              <li>✅ Patient-first approach for faster recovery</li>
+            </ul>
 
-                        <?php include 'includes/we-treat.php'; ?>
-                    </div>
-                </div>
-            </div>
+            <br> <h3><strong>Quick Facts About Sciatica Treatment</strong></h3>
+            <ul>
+              <li>Lower back pain → May indicate sciatic nerve compression</li>
+              <li>Pain worse while sitting → Common sign of sciatica</li>
+              <li>Hip pain → Can be an extension of nerve irritation</li>
+              <li>Tingling or burning in the leg → A red flag for nerve involvement</li>
+              <li>Leg weakness or numbness → Indicates advanced nerve pressure</li>
+              <li>Pain on one side of the buttock → Typical of sciatica, not general backache</li>
+              <li>Shooting pain on standing → Classic symptom of sciatic nerve distress</li>
+            </ul>
+
+            <br> <p><strong>📍 Visit Us for Sciatica Relief</strong><br>
+            If you're facing ongoing pain or difficulty walking due to sciatica, visit <a href="https://spinesurgeonmumbai.com/contact.php" target="_blank">Dr. Vishal Kundnani</a> in Mumbai for expert evaluation and treatment. Regain your mobility, confidence, and pain-free life with trusted care.<br>
+            <a href="https://spinesurgeonmumbai.com/contact.php" target="_blank"><strong>📞 Book your consultation today!</strong></a></p>
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-sm-4">
+            <?php include 'includes/we-treat.php'; ?>
+          </div>
         </div>
-    </section>
+      </div>
+    </div>
+  </section>
 
-
-    <?php include 'includes/footer.php'; ?>
+  <?php include 'includes/footer.php'; ?>
 </body>
-
-
 
 </html>
