@@ -113,10 +113,12 @@
 
     <section class="drtoafndrb col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="container">
-
             <div class="row">
                 <div class="cliclskil1 mt-3">
                 <div class="col-lg-8 col-md-8 col-sm-8">
+                  <h2>Spinal Stenosis Treatment in Mumbai by Dr. Vishal Kundnani</h2>
+                <img src="images/spinal-stenosis-2.jpg" alt="Spinal Stenosis Treatment in Mumbai by Dr. Vishal Kundnani" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;"> 
+                
 			<h1>What is spinal stenosis ?</h1>
 			<p class="mt-1">Spinal stenosis is a condition where the space for neural elements in spinal column is narrowed. This leads to narrowing of channels where spinal cord and nerve roots travel resulting in compression of the neural elements.</p>
 			<h1>What is the causes of spinal stenosis ?</h1>
