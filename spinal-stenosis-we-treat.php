@@ -105,7 +105,8 @@
 				<h2>We <span>Treat</span></h2> 
 				<ul class="breadcrumb1">
 					<li><a href="index.php">Home</a></li>
-					<li><a href="spinal-stenosis-we-treat.php">Spinal Stenosis</a></li>
+					<li><a href="spinal-ste
+          nosis-we-treat.php">Spinal Stenosis</a></li>
 				</ul>
 			</div>
 		</div>
@@ -120,11 +121,16 @@
                 <img src="images/spinal-stenosis-2.jpg" alt="Spinal Stenosis Treatment in Mumbai by Dr. Vishal Kundnani" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;"> 
                 
 			<h1>What is spinal stenosis ?</h1>
-			<p class="mt-1">Spinal stenosis is a condition where the space for neural elements in spinal column is narrowed. This leads to narrowing of channels where spinal cord and nerve roots travel resulting in compression of the neural elements.</p>
+			<p class="mt-1">Spinal stenosis treatment in Mumbai by <a href="https://spinesurgeonmumbai.com/about-doctor.php" target="_blank">Dr. Vishal Kundnani</a> offers specialized care for patients experiencing the effects of this degenerative spinal condition. Spinal stenosis is a condition where the space available for neural elements within the spinal column becomes narrowed. This narrowing reduces the space within the spinal canal, leading to compression of the spinal cord and the nerve roots. Over time, this compression can cause a variety of symptoms, including chronic <a href="https://spinesurgeonmumbai.com/back-pain-we-treat.php" target="_blank">back pain</a>, numbness, tingling, weakness in the limbs, and difficulty walking or maintaining balance.
+
+<p>The condition may result from age-related changes such as osteoarthritis, disc degeneration, or thickening of spinal ligaments. In more severe cases, it can significantly impair mobility and overall quality of life. </p>
+
+<p><a href="https://spinesurgeonmumbai.com/index.php" target="_blank">Dr. Vishal Kundnani</a>, a renowned spine specialist in Mumbai, utilizes advanced diagnostic tools and personalized treatment strategies to address spinal stenosis effectively. Depending on the severity, treatment may include non-surgical options like physical therapy, pain management, and epidural injections, or surgical interventions such as decompression surgery or spinal fusion to relieve pressure on the spinal cord and nerves.</p></p>
 			<h1>What is the causes of spinal stenosis ?</h1>
+      <img src="images/causes-of-spinal-stenosis.jpg" alt="Causes of Spinal Stenosis treated by Dr. Vishal Kundnani in Mumbai" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">  
 			<ul>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Primary / Developmental spinal stenosis- which means you've had it since birth although the symptoms appear in later part of the life. This is a form of inherited stenosis called short pedicle syndrome. These patients are more prone to develop symptoms in midlife. Primary spinal stenosis isn't common.</li>
-				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The second category is the commonest and happens due to wear and tear or degeneration process . This results from degenerative changes in the ligaments of the canal or due to some disease or injury to the spine. The most common direct cause of spinal stenosis is osteoarthritis of spine coupled with degenerative changes in the disc and facet joints.</li>
+				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The second category is the commonest and happens due to wear and tear or degeneration process. This results from degenerative changes in the ligaments of the canal or due to some disease or injury to the spine. The most common direct cause of spinal stenosis is osteoarthritis of spine coupled with degenerative changes in the disc and facet joints.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Aging : as a part of the normal age related degenerative process.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Life style : Stress and emotional tension, poor posture -standing for long periods of time or sitting incorrectly—can cause spinal stenosis , heavy physical work, lifting or forceful movement, bending, or awkward positions can really hurt your back.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Injuries and Accidents : Injury to muscle , ligaments , or soft tissue can lead to spinal stenosis .Fracture in spinal bone in a fall or a car accident also is a common cause</li>
@@ -143,6 +149,7 @@
 			</ul>
 			<h1>What are the symptoms are spinal canal stenosis ?</h1>
 			<p class="mt-1">This depends on the level at which the stenosis is in the spine. Lower spine (lumbar) stenosis can present as –</p>
+      <img src="images/symptoms-of-spinal-stenosis.jpg" alt="Symptoms ofSpinal Stenosis treated by Dr. Vishal Kundnani in Mumbai" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;"> 
 			<ul>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Neurogenic claudication – Pain or cramping in legs during standing stand for long periods of time or when you walk. The discomfort usually eases if you bend forward or sit down, but comes back when you stand upright. Symptoms which appear on walking and subside when you bend forward is typical of lumbar spinal stenosis. This type of pain is called neurogenic claudication. Patients with this condition may find walking uphill or climbing stairs more comfortable than walking straight.</li>
 				<li><img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Increased frequency of urination or</li>

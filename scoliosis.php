@@ -83,6 +83,16 @@
 </script>
 
 <?php include 'includes/head.php'; ?>
+<style>
+    .content-section {
+        border-bottom: 1px solid #e0e0e0;
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+    }
+    .content-section:last-child {
+        border-bottom: none;
+    }
+</style>
 </head>
 
 
@@ -118,34 +128,252 @@
             <div class="row">
                 <div class="cliclskil1 mt-3">
                 <div class="col-lg-8 col-md-8 col-sm-8">
-			<h1>What Is Scoliosis?</h1>
-			<p class="mt-1">Scoliosis is a lateral (toward the side) curvature in the normally straight vertical line of the spine. When viewed from the side, the spine should show a mild roundness in the upper back and shows a degree of swayback (inward curvature) in the lower back. When a person with a normal spine is viewed from the front or back, the spine appears to be straight. When a person with scoliosis is viewed from the front or back, the spine appears to be curved.</p>
-			<h1>What Causes Scoliosis?</h1>
-			<p>There are many types and causes of scoliosis, including:</p>
-			<p>Congenital scoliosis. Caused by a bone abnormality present at birth.</p>
-			<p>Neuromuscular scoliosis. A result of abnormal muscles or nerves. Frequently seen in people with spina bifida or cerebral palsy or in those with various conditions that are accompanied by, or result in, paralysis.</p>
-			<p>Degenerative scoliosis. This may result from traumatic (from an injury or illness) bone collapse, previous major back surgery, or osteoporosis (thinning of the bones).</p>
-			<p>Idiopathic scoliosis. The most common type of scoliosis, idiopathic scoliosis, has no specific identifiable cause. There are many theories, but none have been found to be conclusive. There is, however, strong evidence that idiopathic scoliosis is inherited.</p>
-			<h1>Who Gets Scoliosis?</h1>
-			<p>Approximately 2% to 3% of Americans at age 16 have scoliosis. Less than 0.1% have spinal curves measuring greater than 40 degrees, which is the point at which surgery becomes a consideration. Overall, girls are more likely to be affected than boys. Idiopathic scoliosis is most commonly a condition of adolescence affecting those ages 10 through 16. Idiopathic scoliosis may progress during the "growth spurt" years, but usually will not progress during adulthood.</p>
-			<h1>How Is Scoliosis Diagnosed?</h1>
-			<p>Most scoliosis curves are initially detected on school screening exams, by a child's pediatrician or family doctor, or by a parent. Some clues that a child may have scoliosis include uneven shoulders, a prominent shoulder blade, uneven waist, or leaning to one side which may cause <a href="back-pain.php">chronic back pain</a>.</p>
-			<p>At our <a href="index.php">state-of-the-art spine surgery center in Mumbai</a>, we offer comprehensive scoliosis treatment options including both conservative management and surgical correction when needed.</p>
-			
+                  <h2><b>Scoliosis Treatment in Mumbai by Dr. Vishal Kundnani</b></h2>
+                  <img src="images/scoliosis.jpg" alt="Scoliosis Treatment in Mumbai by Dr. Vishal Kundnani" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;"> 
+			<div class="content-section">
+				<h1>What Is Scoliosis?</h1>
+				<p class="mt-1"><b>Scoliosis treatment in Mumbai</b> by <a href="https://spinesurgeonmumbai.com/about-doctor.php" target="_blank">Dr. Vishal Kundnani</a> focuses on correcting the abnormal sideways curvature of the <a href="https://spinesurgeonmumbai.com/index.php" target="_blank">spine</a>, known as scoliosis. In a healthy spine, the vertical line appears straight when viewed from the front or back, and naturally shows a slight roundness in the upper back along with a gentle inward curve (swayback) in the lower back when seen from the side. However, in individuals with scoliosis, the spine curves laterally, creating a visible “S” or “C” shape when viewed from the front or back.</p>
 			</div>
-			
+			<div class="content-section">
+				<h3><b>What Causes Scoliosis?</b></h3>
+				<p>There are many types and causes of scoliosis, including :</p>
+        <img src="images/causes-of-scoliosis.jpg" alt="Causes of Scoliosis Treatment in Mumbai by Dr. Vishal Kundnani" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;"> 
+				<p><b>Congenital scoliosis - </b> Caused by a bone abnormality present at birth.</p>
+				<p><b>Neuromuscular scoliosis - </b> A result of abnormal muscles or nerves. Frequently seen in people with spina bifida or cerebral palsy or in those with various conditions that are accompanied by, or result in, paralysis.</p>
+				<p><b>Degenerative scoliosis - </b> This may result from traumatic (from an injury or illness) bone collapse, previous major back surgery, or osteoporosis (thinning of the bones).</p>
+				<p><b>Idiopathic scoliosis - </b> The most common type of scoliosis, idiopathic scoliosis, has no specific identifiable cause. There are many theories, but none have been found to be conclusive. There is, however, strong evidence that idiopathic scoliosis is inherited.</p>
+			</div>
+			<div class="content-section">
+				<h3><b>Who Gets Scoliosis?</b></h3>
+				<p>Approximately 2% to 3% of Americans at age 16 have scoliosis. Less than 0.1% have spinal curves measuring greater than 40 degrees, which is the point at which surgery becomes a consideration. Overall, girls are more likely to be affected than boys. Idiopathic scoliosis is most commonly a condition of adolescence affecting those ages 10 through 16. Idiopathic scoliosis may progress during the "growth spurt" years, but usually will not progress during adulthood.</p>
+			</div>
+			<div class="content-section">
+				<h3><b>How Is Scoliosis Diagnosed?</b></h3>
+				<p>Most scoliosis curves are initially detected on school screening exams, by a child's pediatrician or family doctor, or by a parent. Some clues that a child may have scoliosis include uneven shoulders, a prominent shoulder blade, uneven waist, or leaning to one side which may cause <a href="back-pain.php">chronic back pain</a>.</p>
+				<p>At our <a href="index.php">state-of-the-art spine surgery center in Mumbai</a>, we offer comprehensive scoliosis treatment options including both conservative management and surgical correction when needed.</p>
+			</div>
 
-                    <div class="col-lg-4 col-md-4 col-sm-4">
+			<div class="content-section">
+				<h2><b>Types of Scoliosis</b></h2>
+				<p>Scoliosis can be classified into several types based on its cause and age of onset:</p>
 
-                        <?php include 'includes/we-treat.php'; ?>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+        <img src="images/types-of-scoliosis.jpg" alt="Types of Scoliosis Treatment in Mumbai by Dr. Vishal Kundnani" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;"> 
+
+				<h3>Idiopathic Scoliosis</h3>
+				<ul style="list-style: none; padding-left: 0;">
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">The most common type, especially among adolescents.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">The cause is unknown (idiopathic), and it often appears during the growth spurt before puberty.</div>
+					</li>
+				</ul>
+
+				<h3>Congenital Scoliosis</h3>
+				<ul style="list-style: none; padding-left: 0;">
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Present at birth due to malformations in the spine during fetal development.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">May progress as the child grows.</div>
+					</li>
+				</ul>
+
+				<h3>Neuromuscular Scoliosis</h3>
+				<ul style="list-style: none; padding-left: 0;">
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Caused by neurological or muscular conditions like cerebral palsy, muscular dystrophy, or spinal cord injury.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Often more severe and requires specialized care.</div>
+					</li>
+				</ul>
+
+				<h3>Degenerative Scoliosis (Adult-Onset)</h3>
+				<ul style="list-style: none; padding-left: 0;">
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Develops in older adults due to spine degeneration, arthritis, or osteoporosis.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Can cause significant pain and posture issues.</div>
+					</li>
+				</ul>
+
+				<h3>Functional Scoliosis</h3>
+				<ul style="list-style: none; padding-left: 0;">
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">A temporary curve caused by muscle spasms, leg length discrepancy, or inflammation.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">The spine itself is structurally normal.</div>
+					</li>
+				</ul>
+			</div>
+
+			<div class="content-section">
+				<h3><b>Symptoms of Scoliosis</b></h3>
+				<p>Symptoms vary depending on the type and severity of the curve:</p>
+
+				<ul style="list-style: none; padding-left: 0;">
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">The impact of scoliosis can range from barely noticeable to highly disabling, depending on how severe or progressive the spinal curve is.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Uneven shoulders or waist - A visible difference in shoulder or waist height can occur as the spine curves, creating an imbalance in posture.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">One shoulder blade more prominent than the other - The curved spine can rotate the torso, pushing one shoulder blade outward and making it appear more raised or pronounced.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">One hip higher than the other - The spinal curve can tilt the pelvis, causing an uneven hip alignment and sometimes affecting walking or balance.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Leaning to one side - The body may naturally tilt to one side due to the spinal imbalance, especially in moderate to severe cases.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Back pain or muscle fatigue - Uneven spinal alignment puts extra stress on back muscles, often leading to discomfort or fatigue after standing or sitting for long periods.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Limited range of motion - The curvature and stiffness in the spine can restrict movement, particularly in bending or twisting motions.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Rib hump when bending forward - When bending over, a noticeable hump may appear on one side of the back due to spine rotation and rib cage distortion.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">In severe cases: difficulty breathing due to reduced lung space - Severe spinal curvature can compress the chest cavity, reducing lung capacity and making breathing harder.</div>
+					</li>
+				</ul>
+			</div>
+
+			<div class="content-section">
+				<h3><b>Treatment Options for Scoliosis</b></h3>
+				<p>Treatment depends on the patient's age, the degree of curvature, and the type of scoliosis:</p>
+
+				<h3>Observation</h3>
+				<ul style="list-style: none; padding-left: 0;">
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">For mild curves (<20°) with no symptoms, especially in growing children.</div>
+					</li>
+				</ul>
+
+				<h3>Bracing</h3>
+				<ul style="list-style: none; padding-left: 0;">
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Used in children or adolescents with moderate curves (20° to 40°) to prevent progression.</div>
+					</li>
+				</ul>
+
+				<h3>Physical Therapy</h3>
+				<ul style="list-style: none; padding-left: 0;">
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Improves posture, muscle strength, and flexibility.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Schroth Method is commonly used in scoliosis rehabilitation.</div>
+					</li>
+				</ul>
+
+				<h3>Surgical Treatment</h3>
+				<ul style="list-style: none; padding-left: 0;">
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Recommended for severe curves (>40°–50°) or when the condition worsens.</div>
+					</li>
+					<li class="list-item-container">
+						<div class="list-item-icon">
+							<img src="img/founder_li_icon.png" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+						</div>
+						<div class="list-item-text">Spinal fusion surgery is most commonly performed to stabilize the spine.</div>
+					</li>
+				</ul>
+			</div>
+
+			<div class="content-section">
+				<h3><b>Scoliosis Care in Mumbai</b></h3>
+				<p>If you or a loved one is experiencing signs of scoliosis, consult a spine specialist for early diagnosis and personalized treatment. <a href="https://spinesurgeonmumbai.com/contact.php" target="_blank">Dr. Vishal Kundnani</a>, an expert in spinal deformity correction and scoliosis treatment in Mumbai, offers comprehensive care using advanced diagnostics and minimally invasive surgical techniques.</p>
+			</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-4">
+
+					<?php include 'includes/we-treat.php'; ?>
+				</div>
+			</div>
+		</div>
+	</section>
 
 
-    <?php include 'includes/footer.php'; ?>
+	<?php include 'includes/footer.php'; ?>
 </body>
 
 
