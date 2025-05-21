@@ -132,7 +132,8 @@
                   <img src="images/scoliosis.jpg" alt="Scoliosis Treatment in Mumbai by Dr. Vishal Kundnani" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;"> 
 			<div class="content-section">
 				<h1>What Is Scoliosis?</h1>
-				<p class="mt-1"><b>Scoliosis treatment in Mumbai</b> by <a href="https://spinesurgeonmumbai.com/about-doctor.php" target="_blank">Dr. Vishal Kundnani</a> focuses on correcting the abnormal sideways curvature of the <a href="https://spinesurgeonmumbai.com/index.php" target="_blank">spine</a>, known as scoliosis. In a healthy spine, the vertical line appears straight when viewed from the front or back, and naturally shows a slight roundness in the upper back along with a gentle inward curve (swayback) in the lower back when seen from the side. However, in individuals with scoliosis, the spine curves laterally, creating a visible “S” or “C” shape when viewed from the front or back.</p>
+				<p class="mt-1"><b>Scoliosis treatment in Mumbai</b> by <a href="https://spinesurgeonmumbai.com/about-doctor.php" target="_blank">Dr. Vishal Kundnani</a> focuses on correcting the abnormal sideways curvature of the <a href="https://spinesurgeonmumbai.com/index.php" target="_blank">spine</a>, known as scoliosis. In a healthy spine, the vertical line appears straight when viewed from the front or back, and naturally shows a slight roundness in the upper back along with a gentle inward curve (swayback) in the lower back when seen from the side. However, in individuals with scoliosis, the spine curves laterally, creating a visible “S” or “C” shape when viewed from the front or back.
+				Dr. Vishal Kundnani is recognized as a <b>Scoliosis surgery best doctor</b>, offering expert correction for these spinal deformities.</p>
 			</div>
 			<div class="content-section">
 				<h3><b>What Causes Scoliosis?</b></h3>
@@ -145,7 +146,7 @@
 			</div>
 			<div class="content-section">
 				<h3><b>Who Gets Scoliosis?</b></h3>
-				<p>Approximately 2% to 3% of Americans at age 16 have scoliosis. Less than 0.1% have spinal curves measuring greater than 40 degrees, which is the point at which surgery becomes a consideration. Overall, girls are more likely to be affected than boys. Idiopathic scoliosis is most commonly a condition of adolescence affecting those ages 10 through 16. Idiopathic scoliosis may progress during the "growth spurt" years, but usually will not progress during adulthood.</p>
+				<p>Approximately 2% to 3% of Americans at age 16 have scoliosis. Less than 0.1% have spinal curves measuring greater than 40 degrees, which is the point at which surgery becomes a consideration. Overall, girls are more likely to be affected than boys. Idiopathic scoliosis is most commonly a condition of adolescence affecting those ages 10 through 16. Idiopathic scoliosis may progress during the "growth spurt" years, but usually will not progress during adulthood. For surgical correction, patients are advised to consult with a <b>Scoliosis surgery best doctor</b> like Dr. Vishal Kundnani for expert care.</p>
 			</div>
 			<div class="content-section">
 				<h3><b>How Is Scoliosis Diagnosed?</b></h3>
