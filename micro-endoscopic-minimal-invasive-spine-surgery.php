@@ -109,8 +109,19 @@
 	<div class="row">
 		<div class="cliclskil1 mt-3">
 			<div class="col-lg-8 col-md-8 col-sm-8">
-				<p class="mt-1">Micro Endoscopic Minimal Invasive Spine Surgery OR Minimal Invasive Spine Surgery or Key Hole Spine Surgery also referred to as Microscopic Spine Surgery or Endoscopic Spine Surgery is the gold standard in decompression surgery for various common problems in the Spine. Micro Endoscopic Minimal Invasive Spine Surgery or Minimal Invasive Spine Surgery or Microscopic Spine Surgery or Endoscopic Spine Surgery involves performing Spine Surgery with the help of modern instruments and cameras inserted into the human body through very small incisions. Minimal Invasive Spine Surgery increase safety of Spine Surgery and results in less surgical pain, less post-operative pain, less blood loss, less chance of infection with early return to work with no need of post-surgery bed rest.</p>
-				<p>Micro Endoscopic Minimal Invasive Spine Surgery also referred to as Microscopic Spine Surgery or Endoscopic Spine Surgery is performed for patients who have Back Pain or Leg pain and numbness due to Slip Disc, Herniated Disc, Spinal Stenosis, Lumbar Spine Stenosis, spondylolisthesis or spinal trauma, spinal tuberculosis, fracture Spine or scoliosis and kyphosis in Spine.</p>
+				<h2>Microscopic Spine Surgery – Microendoscopic Minimal Invasive Spine Surgery</h2>
+			<div class="clearfix"></div>
+			
+			<div class="container ba_image mt-4">
+
+                            <img src="images/micro-endoscopic-minimal-invasive-spine-surgery.jpg"
+                                alt="Micro Endoscopic Minimal Invasive Spine Surgery in Mumbai by Dr. Vishal Kundnani"
+                                class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
+
+                        </div>
+						<h1 class="mt-2">Microscopic Spine Surgery – Microendoscopic Spine Surgery</h1>
+				<p class="mt-1"><b>Micro Endoscopic Minimal Invasive Spine Surgery</b> OR Minimal Invasive Spine Surgery or Key Hole Spine Surgery also referred to as <b>Microscopic Spine Surgery</b> or <b>Endoscopic Spine Surgery</b> is the gold standard in decompression surgery for various common problems in the Spine. Micro Endoscopic Minimal Invasive Spine Surgery or Minimal Invasive Spine Surgery or Microscopic Spine Surgery or Endoscopic Spine Surgery involves performing Spine Surgery with the help of modern instruments and cameras inserted into the human body through very small incisions. Minimal Invasive Spine Surgery increase safety of Spine Surgery and results in less surgical pain, less post-operative pain, less blood loss, less chance of infection with early return to work with no need of post-surgery bed rest.</p>
+				<p>Micro Endoscopic Minimal Invasive Spine Surgery also referred to as Microscopic Spine Surgery or Endoscopic Spine Surgery is performed for patients who have Back Pain or Leg pain and numbness due to <b><a href="https://spinesurgeonmumbai.com/slip-disc.php" target="_blank">Slip Disc</a></b>, Herniated Disc, Spinal Stenosis, Lumbar Spine Stenosis, spondylolisthesis or spinal trauma, spinal tuberculosis, fracture Spine or scoliosis and <a href="https://spinesurgeonmumbai.com/kyphosis.php" target="_blank">kyphosis in Spine.</a></p>
 				<div class="row mt-2">
 				<div class="col-lg-8">
 					<p>Micro Endoscopic Minimal Invasive Spine Surgery is performed at best Spine centers in Mumbai – Spine Clinic Mumbai Bombay Hospital, Spine Clinic Goregaon and also in other parts of city and country. Dr. Vishal Kundnani is one of the best minimal invasive spinal surgeons in Mumbai and specialized in minimally Invasive Spine surgery and endoscopic Spine surgery. Dr. Vishal Kundnani is a pioneer in Minimal Invasive Spine Surgery and has performed more than 5000 Minimal Invasive Spine surgeons in India. He was conferred as the Best Spine doctor award in 2018 by ESA inc USA. Dr. Vishal kundanani is the best Minimal Invasive Spine Specialist in Goregaon, Malad, Kandivali.</p>
@@ -121,8 +132,7 @@
 					<img class="serv_img1 mt-2" src="img/capture16.png">
 				</div>
 				</div>
-				<div class="clearfix"></div>
-				<h1 class="mt-2">Microscopic Spine Surgery – Microendoscopic Spine Surgery</h1>
+				
 				<div class="row mt-2">
 				<div class="col-lg-8">
 					<p>Microscopic Spine Surgery ormicroednsocopic Spine surgery is the most recent, advanced and safest way of Spine surgery and involves surgery under the guidance of microscope with the help of special tubular/cylindrical retractor instruments which enhance the safety due to better magnified 3-dimensional visualization obtained due to microscopic assistance.</p>
