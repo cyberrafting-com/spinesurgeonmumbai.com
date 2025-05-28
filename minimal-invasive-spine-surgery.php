@@ -120,7 +120,7 @@
 
                         </div>
                         <h1>Minimal Invasive spine surgery in Mumbai</h1>
-                        <p class="mt-1"><b>Minimal Invasive Spine surgery</b> or Key Hole Spine surgery also referred to
+                        <p class="mt-1"><b>Minimal Invasive Spine surgery</b> or <b>Key Hole Spine surgery</b> also referred to
                             as Microscopic Spine Surgery or Endoscopic Spine Surgery is the gold standard in
                             decompression surgery for various common problems in the Spine. Minimal Invasive Spine
                             surgery or Microscopic Spine Surgery or <a
