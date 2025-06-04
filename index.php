@@ -204,7 +204,7 @@
             <!-- M.I.S.S -->
             <div class="col-lg-6 col-md-6">
                 <div class="single-gallery-item text-center">
-                    <img src="images/MISS_Logo.jpg" alt="Mumbai Institute of Spine Surgery Logo" class="gal-img" style="max-height: 200px; margin-bottom: 20px;">
+                    <img src="images/MISS_Logo.jpg" alt="Mumbai Institute of Spine Surgery Logo" class="gal-img" style="max-height: 100%; margin-bottom: 20px;">
                     <h4>Mumbai Institute of Spine Surgery (M.I.S.S)</h4>
                     <p>Group of most reputed top spine surgeons in Mumbai, India, delivering premium spine surgery care for spinal disorders. India’s most reputed premier spine care centre.</p>
                     <p>Led by <strong>Dr. Vishal Kundnani</strong> – gold medallist & fellowship-trained expert. Team includes internationally acclaimed spine specialists, pain physicians, spine physiotherapists & nurses offering:</p>
@@ -223,7 +223,7 @@
             <!-- C.E.S.S - MSSG -->
             <div class="col-lg-6 col-md-6">
                 <div class="single-gallery-item text-center">
-                    <img src="images/cess-logo.jpg" alt="Centre of Excellence in Spine Surgery Logo" class="gal-img" style="max-height: 200px; margin-bottom: 20px;">
+                    <img src="images/cess-logo.jpg" alt="Centre of Excellence in Spine Surgery Logo" class="gal-img" style="max-height: 100%; margin-bottom: 20px;">
                     <h4>Centre of Excellence in Spine Surgery (C.E.S.S) – MSSG</h4>
                     <p>A top-tier group of leading spine surgeons in Mumbai, offering world-class treatment for spinal disorders. Recognised as India’s premier spine care centre.</p>
                     <p>Helmed by <strong>Dr. Vishal Kundnani</strong>, this centre comprises a team of globally trained spine experts providing:</p>
