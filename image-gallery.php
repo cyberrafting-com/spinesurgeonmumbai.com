@@ -74,6 +74,13 @@
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
+						<a href="apss-2025–kuala-lumpur.php"><img src="img/gallery/f/6.jpg">
+						<h1>APSS 2025 – Kuala Lumpur</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
 						<a href="fellowship-awards.php"><img src="img/gallery/b1.jpg">
 						<h1>Fellowship Awards</h1>
 						</a>
