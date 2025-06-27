@@ -70,6 +70,25 @@
 	<section class="gallery_inner blog">
 		<div class="container">
 			<div class="row">
+
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="dr-vishal-kundnani-at-apss-2025-kuala-lumpur.php"><img
+								src="img/gallery/f/1.jpg">
+							<h1>Dr. Vishal Kundnani Represents India at APSS 2025 Kuala Lumpur</h1>
+						</a>
+					</div>
+				</div>
+
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="slip-disc-symptoms-diagnosis-treatment-india.php"><img
+								src="images/slip disc.jpg">
+							<h1>Slip Disc Explained: Symptoms, Diagnosis, and Advanced Treatment Options in India</h1>
+						</a>
+					</div>
+				</div>
+
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
 						<a href="affordable-spine-surgery-international-patients-mumbai-miss.php"><img
