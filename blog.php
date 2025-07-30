@@ -73,6 +73,24 @@
 
 			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
+						<a href="best-spine-surgeon-india.php"><img
+								src="img/blog/best-spine-surgeon-india.jpg">
+							<h1>Best Spine Surgeon in Mumbai, Delhi, Hyderabad, Raipur – Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="minimally-invasive-spine-surgery-mumbai.php"><img
+								src="img/blog/minimally-invasive-spine-surgery-mumbai.jpeg">
+							<h1>Minimally Invasive Spine Surgery in Mumbai – Safe, Effective & Modern</h1>
+						</a>
+					</div>
+				</div>
+
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
 						<a href="dr-vishal-kundnani-at-apss-2025-kuala-lumpur.php"><img
 								src="img/gallery/f/1.jpg">
 							<h1>Dr. Vishal Kundnani Represents India at APSS 2025 Kuala Lumpur</h1>
