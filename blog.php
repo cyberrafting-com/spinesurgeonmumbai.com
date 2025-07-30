@@ -73,6 +73,15 @@
 
 			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
+						<a href="is-spine-surgery-safe-india.php"><img
+								src="img/blog/is-spine-surgery-safe-india.jpeg">
+							<h1>Is Spine Surgery Safe in India? Here's What You Need to Know</h1>
+						</a>
+					</div>
+				</div>
+
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
 						<a href="best-spine-surgeon-india.php"><img
 								src="img/blog/best-spine-surgeon-india.jpg">
 							<h1>Best Spine Surgeon in Mumbai, Delhi, Hyderabad, Raipur – Dr. Vishal Kundnani</h1>
