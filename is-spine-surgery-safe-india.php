@@ -7,6 +7,11 @@
     <meta name="keywords" content="spine surgery safety, best spine specialist India, Dr. Vishal Kundnani, endoscopic spine surgery">
     <link rel="canonical" href="https://www.spinesurgeonmumbai.com/is-spine-surgery-safe-india.php" />
     <?php include 'includes/head.php'; ?>
+    <meta property="og:title" content="Is Spine Surgery Safe in India? | Dr. Vishal Kundnani" />
+<meta property="og:description" content="Dr. Vishal Kundnani explains why spine surgery in India is now considered safe, effective, and highly successful." />
+<meta property="og:image" content="https://www.spinesurgeonmumbai.com/img/blog/is-spine-surgery-safe-india.jpeg" />
+<meta property="og:url" content="https://www.spinesurgeonmumbai.com/is-spine-surgery-safe-india.php" />
+<meta name="twitter:card" content="summary_large_image" />
 
     <script type="application/ld+json">
     {

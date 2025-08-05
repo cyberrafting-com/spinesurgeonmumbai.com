@@ -70,6 +70,50 @@
 	<section class="gallery_inner blog">
 		<div class="container">
 			<div class="row">
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="scoliosis-surgery-in-india.php"><img
+								src="img/blog/scoliosis-surgery-in-india.jpg">
+							<h1>Scoliosis Surgery in India – Safe & Effective with Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="best-scoliosis-surgeon-in-india.php"><img
+								src="img/blog/best-scoliosis-surgeon-in-india.jpg">
+							<h1>Best Scoliosis Surgeon in Mumbai & India – Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+			
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="safe-spine-surgery-in-india.php"><img
+								src="img/blog/safe-spine-surgery-in-india.jpg">
+							<h1>Safe Spine Surgery in India – Trust Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="best-spine-surgeon-in-india.php"><img
+								src="img/blog/Best-Spine-Surgeon- Mumbai-Delhi-Hyderabad-Raipur–Dr-Vishal-Kundnani.jpg">
+							<h1>Best Spine Surgeon in Mumbai, Delhi, Hyderabad, Raipur – Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
+
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="spine-surgery-safe-modern-solution.php"><img
+								src="img/blog/modern-spine-surgery.jpg">
+							<h1>Spine Surgery – A Safe, Modern Solution by Dr. Vishal Kundnani</h1>
+						</a>
+					</div>
+				</div>
 
 			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
