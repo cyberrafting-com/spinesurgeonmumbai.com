@@ -70,10 +70,40 @@
 	<section class="gallery_inner blog">
 		<div class="container">
 			<div class="row">
+			
+
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="slip-disc-surgery-india.php"><img
+								src="img/blog/slip-disc-surgery-india.jpg">
+							<h1>Slip Disc Surgery in India – Safe, Simple and Successful</h1>
+						</a>
+					</div>
+				</div>
+
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="microscopic-spine-surgery.php"><img
+								src="img/blog/microscopic-spine-surgery.jpg">
+							<h1>Microscopic Spine Surgery – Precision and Safety Combined</h1>
+						</a>
+					</div>
+				</div>
+			
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="endoscopic-spine-surgery-india.php"><img
+								src="img/blog/endoscopic-spine-surgery-india.jpg">
+							<h1>Endoscopic Spine Surgery – The Future of Minimally Invasive Care</h1>
+						</a>
+					</div>
+				</div>
+			
+			
 			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
 						<a href="scoliosis-surgery-in-india.php"><img
-								src="img/blog/scoliosis-surgery-in-india.jpg">
+								src="img/blog/scoliosis-surgery-in-india.jpeg">
 							<h1>Scoliosis Surgery in India – Safe & Effective with Dr. Vishal Kundnani</h1>
 						</a>
 					</div>

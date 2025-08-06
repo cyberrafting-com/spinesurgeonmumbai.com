@@ -18,6 +18,59 @@
     <meta property="og:url" content="https://www.spinesurgeonmumbai.com/scoliosis-surgery-in-india.php" />
     <meta name="twitter:card" content="summary_large_image" />
 
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Article", "MedicalWebPage"],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.spinesurgeonmumbai.com/scoliosis-surgery-in-india.php"
+  },
+  "headline": "Scoliosis Surgery in India – Safe & Effective with Dr. Vishal Kundnani",
+  "description": "Looking for safe scoliosis surgery in India? Dr. Vishal Kundnani offers minimally invasive, advanced scoliosis treatment with excellent outcomes.",
+  "image": "https://www.spinesurgeonmumbai.com/img/blog/scoliosis-surgery-in-india.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "url": "https://www.spinesurgeonmumbai.com/about-doctor.php",
+    "jobTitle": "Spine Surgeon",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Bombay Hospital & Lilavati Hospital"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Spine Surgeon Mumbai",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.spinesurgeonmumbai.com/img/MISS_Logo.jpg"
+    }
+  },
+  
+  "keywords": [
+    "scoliosis surgery India",
+    "scoliosis surgeon Mumbai",
+    "scoliosis correction",
+    "Dr. Vishal Kundnani",
+    "spine surgery India",
+    "safe spine surgery",
+    "scoliosis treatment Mumbai"
+  ],
+  "articleSection": "Scoliosis Surgery",
+  "about": [
+    {
+      "@type": "MedicalCondition",
+      "name": "Scoliosis"
+    },
+    {
+      "@type": "MedicalProcedure",
+      "name": "Scoliosis Surgery"
+    }
+  ]
+}
+</script>
     <?php include 'includes/head.php'; ?>
 </head>
 
