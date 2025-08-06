@@ -144,7 +144,7 @@
                         <p>These could be early signs of scoliosis. The earlier it's caught, the better the chances of
                             avoiding surgery or minimizing its extent.</p>
 
-                        <h2>Book Your Consultation with India’s Leading Scoliosis Surgeon</h2>
+                        <h2>Book Your Consultation with India’s Leading Scoliosis Surgeon - Dr. Vishal Kundnani</h2>
                         <p>Whether you’re a concerned parent, a young adult, or someone dealing with long-standing
                             postural imbalance, <strong>Dr. Vishal Kundnani</strong> offers the advanced care, honest
                             guidance, and proven surgical expertise you need.</p>
@@ -154,11 +154,15 @@
                             safe, effective scoliosis treatment journey that restores not just posture—but confidence
                             and comfort too.</p>
 
-                        <div class="mt-4">
-                            <p><strong>Call:</strong> <a href="tel:+919619100123">+91-9619100123</a> |
-                                <strong>Website:</strong> <a href="https://www.spinesurgeonmumbai.com"
-                                    target="_blank">www.spinesurgeonmumbai.com</a></p>
-                        </div>
+                            <h2>Book Your Consultation Today</h2>
+                        <p><strong>Dr. Vishal Kundnani</strong></p>
+                        <p><strong>Clinic & Consultation Info:</strong></p>
+                        <ul>
+                            <li><strong>Mumbai:</strong> Bombay Hospital, Marine Lines & Lilavati Hospital, Bandra</li>
+                            <li><strong>Other Cities:</strong> Raipur, Bhopal, Jaipur, Jodhpur, Indore, Delhi, Hyderabad, Bangalore</li>
+                        </ul>
+                        <p><strong>📞 Contact:</strong> 9619100123, 9619200123, 9619300123</p>
+                        <p><strong>🌐 Website:</strong> <a href="https://www.spinesurgeonmumbai.com" target="_blank">www.spinesurgeonmumbai.com</a></p>
                     </div>
                 </div>
             </div>

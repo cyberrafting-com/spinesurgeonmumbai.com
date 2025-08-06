@@ -150,18 +150,18 @@
                             examination, and help you understand whether this technique is the best option for your
                             condition.</p>
 
-                        <h2>Book a Consultation Today</h2>
-                        <p>Don’t let spine problems disrupt your life. With microscopic spine surgery, you can now get
+                          <p>Don’t let spine problems disrupt your life. With microscopic spine surgery, you can now get
                             treated with minimal risk and faster recovery.</p>
 
-                        <p><strong>Schedule your appointment</strong> with Dr. Vishal Kundnani at Bombay Hospital or
-                            Lilavati Hospital and take the first step toward a pain-free, active life.</p>
-
-                        <div class="mt-4">
-                            <p><strong>Call:</strong> <a href="tel:+919619100123">+91-9619100123</a> |
-                                <strong>Website:</strong> <a href="https://www.spinesurgeonmumbai.com"
-                                    target="_blank">www.spinesurgeonmumbai.com</a></p>
-                        </div>
+                            <h2>Book Your Consultation Today</h2>
+                        <p><strong>Dr. Vishal Kundnani</strong></p>
+                        <p><strong>Clinic & Consultation Info:</strong></p>
+                        <ul>
+                            <li><strong>Mumbai:</strong> Bombay Hospital, Marine Lines & Lilavati Hospital, Bandra</li>
+                            <li><strong>Other Cities:</strong> Raipur, Bhopal, Jaipur, Jodhpur, Indore, Delhi, Hyderabad, Bangalore</li>
+                        </ul>
+                        <p><strong>📞 Contact:</strong> 9619100123, 9619200123, 9619300123</p>
+                        <p><strong>🌐 Website:</strong> <a href="https://www.spinesurgeonmumbai.com" target="_blank">www.spinesurgeonmumbai.com</a></p>
                     </div>
                 </div>
             </div>

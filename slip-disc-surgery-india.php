@@ -107,8 +107,8 @@
                         <p><strong>Dr. Vishal Kundnani</strong></p>
                         <p><strong>Clinic & Consultation Info:</strong></p>
                         <ul>
-                            <li>-<strong>Mumbai:</strong> Bombay Hospital, Marine Lines & Lilavati Hospital, Bandra</li>
-                            <li>-<strong>Other Cities:</strong> Raipur, Bhopal, Jaipur, Jodhpur, Indore, Delhi, Hyderabad, Bangalore</li>
+                            <li><strong>Mumbai:</strong> Bombay Hospital, Marine Lines & Lilavati Hospital, Bandra</li>
+                            <li><strong>Other Cities:</strong> Raipur, Bhopal, Jaipur, Jodhpur, Indore, Delhi, Hyderabad, Bangalore</li>
                         </ul>
                         <p><strong>📞 Contact:</strong> 9619100123, 9619200123, 9619300123</p>
                         <p><strong>🌐 Website:</strong> <a href="https://www.spinesurgeonmumbai.com" target="_blank">www.spinesurgeonmumbai.com</a></p>
