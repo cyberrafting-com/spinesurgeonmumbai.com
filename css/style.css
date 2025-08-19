@@ -3837,6 +3837,7 @@ border: 1px solid #c4c7bf;
 }
 .blog-profile-details img {
     padding-top: -28px;
+    padding-bottom: 20px!important;
 }
 .blog-profile a img{
     padding-top: 13px;
@@ -4393,6 +4394,9 @@ border: 1px solid #c4c7bf;
 .ba_image
 {
     padding: 10px 0px;
+}
+.blog-profile-details .img-responsive .mb-4 {
+    margin-bottom: 15px!important;
 }
 @media (max-width: 768px) {
     .footer-locations {

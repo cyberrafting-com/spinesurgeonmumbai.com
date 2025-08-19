@@ -98,6 +98,8 @@
 .slick-arrow.slick-hidden {
     display: none
 }
-
+.blog-profile-details .img-responsive .mb-4 {
+    margin-bottom: 15px!important;
+}
 
 /*# sourceMappingURL=slick.min.css.map */

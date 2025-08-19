@@ -66,11 +66,49 @@
 	</div>
 
 	<div class="clearfix"></div>
-
 	<section class="gallery_inner blog">
 		<div class="container">
-			<div class="row">
-			
+			<div class="row mx-0" style="margin-left: 0px; margin-right: 0px;">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+                <div class="gallery">
+                    <a href="scoliosis-treatment-mumbai-dr-vishal-kundnani.php"><img
+                            src="images/blogs/scoliosis-treatment.png">
+                        <h1>Best Scoliosis Treatment in Mumbai | Dr. Vishal Kundnani - Expert Spine Surgeon</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+                <div class="gallery">
+                    <a href="understanding-scoliosis-symptoms-diagnosis-treatment.php"><img
+                            src="images/blogs/scoliosis-symptoms.png">
+                        <h1>Understanding Scoliosis: Symptoms, Diagnosis, and Treatment</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+                <div class="gallery">
+                    <a href="scoliosis-in-children-teens-when-to-seek-help.php"><img
+                            src="images/blogs/scoliosis-in-child.png">
+                        <h1>Scoliosis in Children and Teens: When to Seek Help</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+                <div class="gallery">
+                    <a href="adult-scoliosis-managing-pain-quality-of-life.php"><img
+                            src="images/blogs/scoliosis-in-adults.png">
+                        <h1>Adult Scoliosis: Managing Pain and Improving Quality of Life</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+                <div class="gallery">
+                    <a href="minimally-invasive-scoliosis-surgery-faster-recovery.php"><img
+                            src="images/blogs/minimally-invasive-scoliosis-surgery.png">
+                        <h1>Minimally Invasive Scoliosis Surgery: Faster Recovery, Safer Outcomes</h1>
+                    </a>
+                </div>
+            </div>
 
 			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
@@ -446,6 +484,8 @@
 						</a>
 					</div>
 				</div>
+
+		
 
 			</div>
 		</div>
