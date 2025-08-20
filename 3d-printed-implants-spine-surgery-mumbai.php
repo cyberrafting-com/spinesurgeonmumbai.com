@@ -28,7 +28,7 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="images/blogs/3d-printed-implants.png" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="img/dr-vishal-blog-profile.jpg" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">India’s most trusted spine surgeon, expert in minimally invasive spine surgery.</p>
@@ -41,7 +41,7 @@
                 <div class="col-lg-9 col-md-8 col-sm-12">
                     <div class="blog-profile-details">
                         <h1>3D Printed Implants: Transforming Spine Surgery with Precision and Personalization</h1>
-                        <img src="img/blog/spine-surgery.jpg" alt="3D Printed Implants Spine Surgery Mumbai" class="img-responsive mb-4">
+                        <img src="images/blogs/3d-printed-implants.png" alt="3D Printed Implants Spine Surgery Mumbai" class="img-responsive mb-4">
 
                         <p>While 3D-printed implants stand at the forefront of this emerging innovation, these few years have seen tremendous developments in <strong><a href="minimally-invasive-spine-surgery-mumbai.php">affordable endoscopic spine surgery Mumbai</a></strong>. Being able to create the patient-specific implants in an enhanced fashion, this invention indeed offers much more precision and personalization during <strong><a href="minimal-invasive-spine-surgery.php">minimal invasive spine surgery</a></strong>.</p>
 
