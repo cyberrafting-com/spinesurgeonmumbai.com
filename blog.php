@@ -71,6 +71,14 @@
 			<div class="row mx-0" style="margin-left: 0px; margin-right: 0px;">
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
                 <div class="gallery">
+                    <a href="3d-printed-implants-spine-surgery-mumbai.php"><img
+                            src="images/blogs/3d-printed-implants-img.png">
+                        <h1>3D Printed Implants in Spine Surgery: Revolutionizing Endoscopic Techniques in Mumbai</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+                <div class="gallery">
                     <a href="scoliosis-treatment-mumbai-dr-vishal-kundnani.php"><img
                             src="images/blogs/scoliosis-treatment.png">
                         <h1>Best Scoliosis Treatment in Mumbai | Dr. Vishal Kundnani - Expert Spine Surgeon</h1>
