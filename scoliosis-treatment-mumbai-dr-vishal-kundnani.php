@@ -95,14 +95,14 @@
 
                         <p><strong>5. Benefits of Minimally Invasive Surgery</strong><br>
                         Minimally invasive scoliosis surgery has revolutionized the treatment landscape, offering patients a quicker recovery with less pain. Unlike traditional methods, minimally invasive surgeries use small incisions, which reduce the risk of infection and minimize scarring. The benefits of robotic-assisted navigation further enhance the precision of these surgeries, reducing the risk of complications and improving the overall safety of the procedure.</p>
+<p><strong>6. Treatment Centers</strong><br>
+                        Patients from cities across India, including Mumbai, Delhi, Pune, Nashik, Thane, Navi Mumbai, Raipur, Indore, Bhopal, and Jaipur, can access top-quality scoliosis care at renowned hospitals like Lilavati Hospital, Bombay Hospital, Breach Candy Hospital, and Saifee Hospital.</p>
 
                         <h2>Why Choose Dr. Vishal Kundnani for Your Scoliosis Treatment?</h2>
                         <p>Dr. Vishal Kundnani, Director and Head of Spine Services at Lilavati and Bombay Hospitals, is one of India's leading scoliosis specialists. With over 15 years of experience in treating complex spinal deformities, Dr. Kundnani is renowned for his expertise in both traditional and minimally invasive scoliosis surgeries. He offers personalized treatment plans, ensuring each patient receives the best possible care tailored to their unique needs.<br>
                         Dr. Kundnani’s approach combines advanced technology, personalized care, and an in-depth understanding of scoliosis, making him one of the best scoliosis surgeons in Mumbai and India.</p>
 
-                        <p><strong>6. Treatment Centers</strong><br>
-                        Patients from cities across India, including Mumbai, Delhi, Pune, Nashik, Thane, Navi Mumbai, Raipur, Indore, Bhopal, and Jaipur, can access top-quality scoliosis care at renowned hospitals like Lilavati Hospital, Bombay Hospital, Breach Candy Hospital, and Saifee Hospital.</p>
-
+                        
                         <h2>Book Your Consultation Today</h2>
                         <p>If you or a loved one is struggling with scoliosis, don’t wait to seek professional help. Early treatment can make a significant difference in the progression of the disease and can improve overall quality of life.<br>
                         <strong>📞 Call: <a href="tel:9619100123">9619100123</a>, <a href="tel:9619200123">9619200123</a>, <a href="tel:9619300123">9619300123</a></strong> to consult Dr. Vishal Kundnani, the best scoliosis surgeon in Mumbai & India.</p>
