@@ -108,13 +108,14 @@
                             </li>
                             <li><strong>Robotic-Assisted Surgery:</strong> Robotic systems allow for even greater precision in scoliosis surgery. Using 3D imaging and tailored implants, robotic-assisted surgery ensures optimal alignment of the spine, improving both safety and long-term outcomes.</li>
                         </ul>
+                        <p><strong>5. Scoliosis Treatment Centers in India</strong><br>
+                        Patients from various cities including Mumbai, Delhi, Pune, Nashik, Thane, Navi Mumbai, Raipur, Indore, Bhopal, Jaipur, and others can access top-quality scoliosis treatment at leading hospitals such as Lilavati Hospital, Bombay Hospital, Breach Candy Hospital, and Saifee Hospital.</p>
+
 
                         <h2>Why Choose Dr. Vishal Kundnani for Scoliosis Treatment?</h2>
                         <p>Dr. Vishal Kundnani is the Director and Head of Spine Services at Lilavati and Bombay Hospitals. He is considered one of the leading scoliosis specialists in India, known for his expertise in both traditional and minimally invasive scoliosis surgeries. With over 15 years of experience, Dr. Kundnani offers personalized treatment plans that are tailored to each patient’s specific needs. His advanced surgical techniques ensure the best possible outcomes with minimal recovery time.</p>
 
-                        <p><strong>5. Scoliosis Treatment Centers in India</strong><br>
-                        Patients from various cities including Mumbai, Delhi, Pune, Nashik, Thane, Navi Mumbai, Raipur, Indore, Bhopal, Jaipur, and others can access top-quality scoliosis treatment at leading hospitals such as Lilavati Hospital, Bombay Hospital, Breach Candy Hospital, and Saifee Hospital.</p>
-
+                        
                         <h2>Schedule Your Consultation</h2>
                         <p>If you or your child is experiencing symptoms of scoliosis, don’t wait to get professional advice. Early intervention can significantly improve outcomes and prevent further complications.<br>
                         <strong>📞 Call: <a href="tel:9619100123">9619100123</a>, <a href="tel:9619200123">9619200123</a>, <a href="tel:9619300123">9619300123</a></strong> to consult Dr. Vishal Kundnani, the best scoliosis surgeon in Mumbai and India.</p>

@@ -115,10 +115,6 @@
                             <li><strong>Reduced Pain:</strong> The minimally invasive technique reduces post-surgical pain, making the recovery process more comfortable.</li>
                             <li><strong>Better Precision:</strong> Robotic-assisted navigation and advanced imaging allow for highly precise adjustments to the spine, leading to better long-term results.</li>
                         </ul>
-
-                        <h2>Why Choose Dr. Vishal Kundnani for Pediatric Scoliosis Treatment?</h2>
-                        <p>Dr. Vishal Kundnani, Director and Head of Spine Services at Lilavati and Bombay Hospitals, is a recognized expert in the treatment of scoliosis. With over 15 years of experience, Dr. Kundnani specializes in minimally invasive and robotic-assisted scoliosis surgeries, ensuring the best possible outcomes for children and teens. He is dedicated to providing personalized, patient-centered care that meets the unique needs of each young patient.</p>
-
                         <p><strong>6. Top Hospitals for Pediatric Scoliosis Treatment in India</strong><br>
                         Children and teens from across India, including Mumbai, Delhi, Pune, Nashik, Thane, Navi Mumbai, Raipur, Indore, Bhopal, and Jaipur, can receive world-class scoliosis care at leading hospitals such as:</p>
                         <ul>
@@ -129,6 +125,11 @@
                         </ul>
                         <p>These hospitals are equipped with the latest technology and offer a comprehensive, multidisciplinary approach to scoliosis treatment.</p>
 
+
+                        <h2>Why Choose Dr. Vishal Kundnani for Pediatric Scoliosis Treatment?</h2>
+                        <p>Dr. Vishal Kundnani, Director and Head of Spine Services at Lilavati and Bombay Hospitals, is a recognized expert in the treatment of scoliosis. With over 15 years of experience, Dr. Kundnani specializes in minimally invasive and robotic-assisted scoliosis surgeries, ensuring the best possible outcomes for children and teens. He is dedicated to providing personalized, patient-centered care that meets the unique needs of each young patient.</p>
+
+                        
                         <h2>Schedule Your Consultation with Dr. Vishal Kundnani</h2>
                         <p>If you notice any signs of scoliosis in your child or teen, don't wait to seek professional help. Early treatment can prevent the condition from worsening and ensure the best possible outcome.<br>
                         <strong>📞 Call: <a href="tel:9619100123">9619100123</a>, <a href="tel:9619200123">9619200123</a>, <a href="tel:9619300123">9619300123</a></strong> to consult Dr. Vishal Kundnani, the best scoliosis surgeon in Mumbai and India.</p>
