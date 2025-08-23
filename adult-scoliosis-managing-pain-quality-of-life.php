@@ -120,8 +120,6 @@
                             <li><strong>Improved Precision:</strong> Robotic-assisted surgery ensures that the spine is corrected with greater accuracy, improving the long-term outcome of the surgery.</li>
                         </ul>
 
-                        <h2>Why Choose Dr. Vishal Kundnani for Adult Scoliosis Treatment?</h2>
-                        <p>Dr. Vishal Kundnani, Director and Head of Spine Services at Lilavati and Bombay Hospitals, is one of India’s leading scoliosis surgeons. He specializes in minimally invasive and robotic-assisted scoliosis surgery, providing personalized treatment to adults with scoliosis. With years of experience and advanced expertise, Dr. Kundnani is dedicated to restoring spinal health and improving quality of life for patients with scoliosis.</p>
 
                         <p><strong>7. Scoliosis Treatment Centers in India</strong><br>
                         Adults from cities like Mumbai, Delhi, Pune, Nashik, Thane, Navi Mumbai, Raipur, Indore, Bhopal, Jaipur, and others can access world-class scoliosis treatment at renowned hospitals such as:</p>
@@ -132,6 +130,12 @@
                             <li>Saifee Hospital</li>
                         </ul>
                         <p>These hospitals offer state-of-the-art facilities and expert care for scoliosis patients.</p>
+
+                        
+                        <h2>Why Choose Dr. Vishal Kundnani for Adult Scoliosis Treatment?</h2>
+                        <p>Dr. Vishal Kundnani, Director and Head of Spine Services at Lilavati and Bombay Hospitals, is one of India’s leading scoliosis surgeons. He specializes in minimally invasive and robotic-assisted scoliosis surgery, providing personalized treatment to adults with scoliosis. With years of experience and advanced expertise, Dr. Kundnani is dedicated to restoring spinal health and improving quality of life for patients with scoliosis.</p>
+
+                        
 
                         <h2>Schedule Your Consultation with Dr. Vishal Kundnani</h2>
                         <p>Don’t let scoliosis affect your quality of life. Early consultation and intervention can significantly improve pain management, mobility, and long-term outcomes.<br>
