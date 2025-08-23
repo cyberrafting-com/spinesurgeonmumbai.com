@@ -74,7 +74,7 @@
             <img src="images/blogs/scoliosis-treatment-img.png" alt="Scoliosis Treatment Mumbai" class="img-responsive mb-4">
 
                         <p><strong>1. What is Scoliosis?</strong><br>
-                        Scoliosis is a medical condition characterized by an abnormal sideways curvature of the spine. The spine typically curves into an "S" or "C" shape instead of following a straight line. This curvature can range from mild to severe and may be seen at any age, but it is most commonly diagnosed during childhood or adolescence when the body is growing rapidly.<br>
+                        <a href="scoliosis.php">Scoliosis</a> is a medical condition characterized by an abnormal sideways curvature of the spine. The spine typically curves into an "S" or "C" shape instead of following a straight line. This curvature can range from mild to severe and may be seen at any age, but it is most commonly diagnosed during childhood or adolescence when the body is growing rapidly.<br>
                         The causes of scoliosis are varied, with some cases being congenital (present at birth), while others may develop as a result of a genetic condition or neuromuscular issues. In most cases, the exact cause of scoliosis is unknown, which is referred to as idiopathic scoliosis.</p>
 
                         <p><strong>2. Symptoms and Effects of Scoliosis</strong><br>

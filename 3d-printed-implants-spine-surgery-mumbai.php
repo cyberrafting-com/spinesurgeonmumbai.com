@@ -50,7 +50,7 @@
                         <h2>What Are 3D Printed Implants?</h2>
                         <p>Custom-made devices manufactured by 3D printing are implants. Using detailed imaging data, an implant can be made to be especially suitable for the individual's unique spinal anatomy. This kind of customization allows for an exact fit, resulting in better surgical outcomes and decreased complications from surgery.</p>
 
-                        <h2>Benefits of 3D Printed Implants in <strong><a href="endoscopic-spine-surgery-india.php">Best Endoscopic Spine Surgery in Mumbai</a></strong></h2>
+                        <h2>Benefits of 3D Printed Implants in <strong>Best Endoscopic Spine Surgery in Mumbai</strong></h2>
                         <ul>
                             <li><strong>The Very Fine Surgical Precisions:</strong> The custom implants often undergo certain modifications intraoperatively to fit their patient's anatomy. Given that 3D-printed implants are designed from start to finish to meet exact specifications, these modifications are minimized.</li>
                             <li><strong>Time-Efficient Interventions:</strong> The anticipation of intervening challenges made possible by the surgical team prior to operations during the design stage, as well as improved stratagems, further advantage the reduction of hospital time and exposure to anesthetics.</li>
@@ -58,7 +58,7 @@
                             <li><strong>Cost-Effective:</strong> There is some cost incurred while designing and printing the implant, but these are compensated for through the lessening of surgical complications and hence the short prolongation of hospital stays, which comes as a relief first for the patient and for the healthcare provider second.</li>
                         </ul>
 
-                        <h2>3D Printing in <strong><a href="endoscopic-spine-surgery-india.php">Endoscopic Spine Surgery Mumbai</a></strong></h2>
+                        <h2>3D Printing in <strong>Endoscopic Spine Surgery Mumbai</strong></h2>
                         <p>The minimally invasive nature of this surgery offers <strong><a href="endoscopic-spine-surgery-with-dr-vishal-kundnani.php">endoscopic spine Surgeon</a></strong> access to the spine through one or two very small incisions with little or no disruption of the surrounding muscles, so patients recover very quickly.</p>
 
                         <h2>The Future of Spine Surgery</h2>
