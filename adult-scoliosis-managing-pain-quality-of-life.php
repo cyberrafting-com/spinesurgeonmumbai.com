@@ -46,6 +46,18 @@
 
     </script>
 
+    <style>
+        .blog-profile-details a {
+            color: #337ab7;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        .blog-profile-details a:hover {
+            color: #23527c;
+            text-decoration: underline;
+        }
+    </style>
+
     <?php include 'includes/head.php'; ?>
 </head>
 
@@ -61,7 +73,7 @@
                         <img src="img/dr-vishal-blog-profile.jpg" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
-                        <p class="bold-text">India’s most trusted spine surgeon, expert in adult scoliosis surgery.</p>
+                        <p class="bold-text">India's most trusted spine surgeon, expert in adult scoliosis surgery.</p>
                         <a href="tel:+919619100123"><img src="img/call-us-blog-button.png" alt="Call Now"></a>
                         <a href="contact.php"><img src="img/book-btn.png" alt="Book Appointment" class="img-responsive mt-2"></a>
                     </div>
@@ -70,76 +82,170 @@
                 <!-- Main Content -->
                 <div class="col-lg-9 col-md-8 col-sm-12">
                     <div class="blog-profile-details">
-                        <h1>Adult Scoliosis: Managing Pain and Improving Quality of Life</h1>
-                        <img src="images/blogs/scoliosis-in-adults-img.png" alt="Adult Scoliosis" class="img-responsive mb-4">
+                        <div class="sec-blog-design pt-5">
+                            <h1>Adult Scoliosis: Managing Pain and Improving Quality of Life</h1>
+                            <img src="images/blogs/scoliosis-in-adults-img.png" alt="Adult Scoliosis" class="img-responsive mb-4">
 
-                        <p><strong>1. What is Adult Scoliosis?</strong><br>
-                        While scoliosis is often diagnosed in children and adolescents, adults can also develop or continue to live with spinal curvature. In some cases, the condition may worsen with age as the spine undergoes degenerative changes. Adult scoliosis can cause chronic back pain, nerve compression, reduced mobility, and noticeable postural changes. It can also affect the quality of life, limiting daily activities and overall function.<br>
-                        Scoliosis in adults is often the result of a progression of a childhood scoliosis that was not treated or adequately managed. Alternatively, it can occur due to age-related degeneration of the spine, which can lead to the gradual formation of a spinal curve. It’s essential to consult a healthcare professional early to manage the symptoms and prevent the curvature from worsening.</p>
+                        </div>
 
-                        <p><strong>2. Symptoms of Adult Scoliosis</strong><br>
-                        Adults with scoliosis may experience a variety of symptoms, including:</p>
-                        <ul>
-                            <li><strong>Chronic Back Pain:</strong> One of the most common symptoms, often occurring due to nerve compression or muscle strain.</li>
-                            <li><strong>Nerve Compression:</strong> This can lead to pain, tingling, or numbness in the legs or lower back.</li>
-                            <li><strong>Reduced Mobility:</strong> Difficulty in bending or twisting, and stiffness in the spine.</li>
-                            <li><strong>Postural Changes:</strong> Uneven shoulders, waistline, or hips, leading to noticeable changes in posture.</li>
-                            <li><strong>Fatigue:</strong> The muscles supporting the spine may become fatigued over time, leading to discomfort.</li>
-                        </ul>
-                        <p>As scoliosis progresses, the symptoms may worsen, leading to difficulties in performing day-to-day tasks. However, early intervention can help manage pain and prevent further progression.</p>
+                        <div class="sec-blog-design pt-5">
+                            <h2>What is Adult Scoliosis?</h2>
+                            <p>While <a href="scoliosis.php">scoliosis</a> is often diagnosed in children and adolescents, adults can also develop or continue to live with spinal curvature. In some cases, the condition may worsen with age as the spine undergoes degenerative changes. Adult scoliosis can cause chronic <a href="back-pain.php">back pain</a>, nerve compression, reduced mobility, and noticeable postural changes. It can also affect the quality of life, limiting daily activities and overall function.<br>
+                            Scoliosis in adults is often the result of a progression of a childhood scoliosis that was not treated or adequately managed. Alternatively, it can occur due to age-related degeneration of the spine, which can lead to the gradual formation of a spinal curve. It's essential to consult a healthcare professional early to manage the symptoms and prevent the curvature from worsening.</p>
+                        </div>
 
-                        <p><strong>3. Diagnosis of Adult Scoliosis</strong><br>
-                        Diagnosing adult scoliosis involves a combination of a thorough physical exam and imaging studies. During the physical examination, the doctor will assess the spine’s alignment and look for signs of curvature. Imaging tests, such as X-rays, MRI, or CT scans, are used to evaluate the severity of the curve, spinal stability, and whether there is any involvement of the spinal cord or nerves.<br>
-                        The degree of curvature is measured in degrees. A curve greater than 40 degrees is often considered severe and may require intervention to prevent further complications. The doctor will also assess whether the curvature is progressive, meaning it continues to worsen over time.</p>
+                        <div class="sec-blog-design pt-5">
+                            <h2>Symptoms of Adult Scoliosis</h2>
+                            <p>Adults with scoliosis may experience a variety of symptoms, including:</p>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Chronic <a href="back-pain.php">Back Pain</a>:</strong> One of the most common symptoms, often occurring due to nerve compression or muscle strain.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Nerve Compression:</strong> This can lead to pain, tingling, or numbness in the legs or lower back.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Reduced Mobility:</strong> Difficulty in bending or twisting, and stiffness in the spine.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Postural Changes:</strong> Uneven shoulders, waistline, or hips, leading to noticeable changes in posture.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Fatigue:</strong> The muscles supporting the spine may become fatigued over time, leading to discomfort.</p>
+                            </div>
+                            
+                            <p>As scoliosis progresses, the symptoms may worsen, leading to difficulties in performing day-to-day tasks. However, early intervention can help manage pain and prevent further progression.</p>
+                        </div>
 
-                        <p><strong>4. Non-Surgical Treatments for Adult Scoliosis</strong><br>
-                        For many adults, non-surgical treatments can provide relief from symptoms and help improve quality of life. These treatments may include:</p>
-                        <ul>
-                            <li><strong>Physiotherapy:</strong> Physical therapy helps strengthen the muscles supporting the spine, improving posture, flexibility, and overall spine health.</li>
-                            <li><strong>Pain Management:</strong> Over-the-counter pain medications, prescription medications, and anti-inflammatory drugs can help manage back pain and discomfort.</li>
-                            <li><strong>Lifestyle Adjustments:</strong> Weight management, improved posture, ergonomic modifications at work, and low-impact exercises can all help manage symptoms of scoliosis.</li>
-                            <li><strong>Bracing:</strong> In some cases, especially if the curvature is worsening, a back brace may be recommended to support the spine and reduce pain.</li>
-                        </ul>
-                        <p>While these non-surgical methods are effective in many cases, when symptoms persist or the curvature worsens, more advanced treatment may be necessary.</p>
+                        <div class="sec-blog-design pt-5">
+                            <h2>Diagnosis of Adult Scoliosis</h2>
+                            <p>Diagnosing adult scoliosis involves a combination of a thorough physical exam and imaging studies. During the physical examination, the doctor will assess the spine's alignment and look for signs of curvature. Imaging tests, such as X-rays, MRI, or CT scans, are used to evaluate the severity of the curve, spinal stability, and whether there is any involvement of the spinal cord or nerves.<br>
+                            The degree of curvature is measured in degrees. A curve greater than 40 degrees is often considered severe and may require intervention to prevent further complications. The doctor will also assess whether the curvature is progressive, meaning it continues to worsen over time.</p>
+                            <p>At our <a href="about-mumbai-institute-of-spine-surgery.php">Mumbai Institute of Spine Surgery (M.I.S.S)</a>, we use advanced diagnostic techniques to ensure accurate assessment of adult scoliosis cases.</p>
+                        </div>
 
-                        <p><strong>5. Surgical Treatment Options for Adult Scoliosis</strong><br>
-                        If non-surgical treatments are insufficient or if the curvature is severe, surgery may be considered. Minimally invasive surgery has revolutionized the treatment of adult scoliosis by offering several benefits over traditional open surgery, including smaller incisions, less blood loss, and faster recovery times.<br>
-                        Surgical options include:</p>
-                        <ul>
-                            <li><strong>Spinal Fusion:</strong> This procedure involves fusing the curved segments of the spine together to prevent further movement and correct the curve.</li>
-                            <li><strong>Corrective Surgery:</strong> The goal is to realign the spine and restore its natural curvature using advanced surgical techniques.</li>
-                            <li><strong>Robotic-Assisted Surgery:</strong> Robotic navigation technology enhances the precision of scoliosis surgery, allowing surgeons to achieve more accurate spinal alignment. The 3D imaging and custom 3D-printed implants allow for highly personalized treatment, improving outcomes and reducing the risk of complications.</li>
-                        </ul>
+                        <div class="sec-blog-design pt-5">
+                            <h2>Non-Surgical Treatments for Adult Scoliosis</h2>
+                            <p>For many adults, non-surgical treatments can provide relief from symptoms and help improve quality of life. These treatments may include:</p>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong><a href="physiotherapy-in-spine.php">Physiotherapy</a>:</strong> Physical therapy helps strengthen the muscles supporting the spine, improving posture, flexibility, and overall spine health.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Pain Management:</strong> Over-the-counter pain medications, prescription medications, and anti-inflammatory drugs can help manage back pain and discomfort.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Lifestyle Adjustments:</strong> Weight management, improved posture, ergonomic modifications at work, and low-impact exercises can all help manage symptoms of scoliosis.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Bracing:</strong> In some cases, especially if the curvature is worsening, a back brace may be recommended to support the spine and reduce pain.</p>
+                            </div>
+                            
+                            <p>While these non-surgical methods are effective in many cases, when symptoms persist or the curvature worsens, more advanced treatment may be necessary.</p>
+                        </div>
 
-                        <p><strong>6. Benefits of Minimally Invasive Surgery</strong><br>
-                        Minimally invasive spinal surgery offers several advantages for adults with scoliosis:</p>
-                        <ul>
-                            <li><strong>Smaller Incisions:</strong> These smaller incisions result in less trauma to the body and fewer visible scars.</li>
-                            <li><strong>Faster Recovery:</strong> The recovery process is much quicker than with traditional open surgery, allowing patients to return to their daily activities sooner.</li>
-                            <li><strong>Reduced Pain:</strong> The technique causes less pain, making the post-surgical experience more comfortable for patients.</li>
-                            <li><strong>Improved Precision:</strong> Robotic-assisted surgery ensures that the spine is corrected with greater accuracy, improving the long-term outcome of the surgery.</li>
-                        </ul>
+                        <div class="sec-blog-design pt-5">
+                            <h2>Surgical Treatment Options for Adult Scoliosis</h2>
+                            <p>If non-surgical treatments are insufficient or if the curvature is severe, surgery may be considered. <a href="minimal-invasive-spine-surgery.php">Minimally invasive surgery</a> has revolutionized the treatment of adult scoliosis by offering several benefits over traditional open surgery, including smaller incisions, less blood loss, and faster recovery times.<br>
+                            Surgical options include:</p>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong><a href="spinal-fusion.php">Spinal Fusion</a>:</strong> This procedure involves fusing the curved segments of the spine together to prevent further movement and correct the curve.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Corrective Surgery:</strong> The goal is to realign the spine and restore its natural curvature using advanced surgical techniques.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Robotic-Assisted Surgery:</strong> Robotic navigation technology enhances the precision of scoliosis surgery, allowing surgeons to achieve more accurate spinal alignment. The 3D imaging and custom 3D-printed implants allow for highly personalized treatment, improving outcomes and reducing the risk of complications.</p>
+                            </div>
+                        </div>
 
+                        <div class="sec-blog-design pt-5">
+                            <h2>Benefits of Minimally Invasive Surgery</h2>
+                            <p>Minimally invasive spinal surgery offers several advantages for adults with scoliosis:</p>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Smaller Incisions:</strong> These smaller incisions result in less trauma to the body and fewer visible scars.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Faster Recovery:</strong> The recovery process is much quicker than with traditional open surgery, allowing patients to return to their daily activities sooner.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Reduced Pain:</strong> The technique causes less pain, making the post-surgical experience more comfortable for patients.</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p><strong>Improved Precision:</strong> Robotic-assisted surgery ensures that the spine is corrected with greater accuracy, improving the long-term outcome of the surgery.</p>
+                            </div>
+                        </div>
 
-                        <p><strong>7. Scoliosis Treatment Centers in India</strong><br>
-                        Adults from cities like Mumbai, Delhi, Pune, Nashik, Thane, Navi Mumbai, Raipur, Indore, Bhopal, Jaipur, and others can access world-class scoliosis treatment at renowned hospitals such as:</p>
-                        <ul>
-                            <li>Lilavati Hospital</li>
-                            <li>Bombay Hospital</li>
-                            <li>Breach Candy Hospital</li>
-                            <li>Saifee Hospital</li>
-                        </ul>
-                        <p>These hospitals offer state-of-the-art facilities and expert care for scoliosis patients.</p>
+                        <div class="sec-blog-design pt-5">
+                            <h2>Scoliosis Treatment Centers in India</h2>
+                            <p>Adults from cities like Mumbai, Delhi, Pune, Nashik, Thane, Navi Mumbai, Raipur, Indore, Bhopal, Jaipur, and others can access world-class scoliosis treatment at renowned hospitals such as:</p>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p>Lilavati Hospital</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p>Bombay Hospital</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p>Breach Candy Hospital</p>
+                            </div>
+                            
+                            <div class="cat-service-inner pt-5">
+                                <img src="img/founder_li_icon.png" alt="">
+                                <p>Saifee Hospital</p>
+                            </div>
+                            
+                            <p>These hospitals offer state-of-the-art facilities and expert care for scoliosis patients.</p>
+                            <p>Our <a href="about-centre-of-excellence-in-spine-surgery.php">Centre of Excellence in Spine Surgery (C.E.S.S)</a> provides comprehensive care for adult spine conditions including scoliosis.</p>
+                        </div>
 
-                        
-                        <h2>Why Choose Dr. Vishal Kundnani for Adult Scoliosis Treatment?</h2>
-                        <p>Dr. Vishal Kundnani, Director and Head of Spine Services at Lilavati and Bombay Hospitals, is one of India’s leading scoliosis surgeons. He specializes in minimally invasive and robotic-assisted scoliosis surgery, providing personalized treatment to adults with scoliosis. With years of experience and advanced expertise, Dr. Kundnani is dedicated to restoring spinal health and improving quality of life for patients with scoliosis.</p>
+                        <div class="sec-blog-design pt-5">
+                            <h2>Why Choose Dr. Vishal Kundnani for Adult Scoliosis Treatment?</h2>
+                            <p>Dr. Vishal Kundnani, Director and Head of Spine Services at Lilavati and Bombay Hospitals, is one of India's leading scoliosis surgeons. He specializes in <a href="minimal-invasive-spine-surgery.php">minimally invasive</a> and robotic-assisted scoliosis surgery, providing personalized treatment to adults with scoliosis. With years of experience and advanced expertise, Dr. Kundnani is dedicated to restoring spinal health and improving quality of life for patients with scoliosis.</p>
+                            <p>Learn more about our <a href="spine-team.php">spine team</a> and their expertise in treating various spine conditions including <a href="herniated-disc.php">herniated disc</a>, <a href="spinal-stenosis.php">spinal stenosis</a>, and <a href="spondylolisthesis.php">spondylolisthesis</a>.</p>
+                        </div>
 
-                        
-
-                        <h2>Schedule Your Consultation with Dr. Vishal Kundnani</h2>
-                        <p>Don’t let scoliosis affect your quality of life. Early consultation and intervention can significantly improve pain management, mobility, and long-term outcomes.<br>
-                        <strong>📞 Call: <a href="tel:9619100123">9619100123</a>, <a href="tel:9619200123">9619200123</a>, <a href="tel:9619300123">9619300123</a></strong> to consult Dr. Vishal Kundnani, the best scoliosis surgeon in Mumbai and India.</p>
+                        <div class="sec-blog-design pt-5">
+                            <h2>Schedule Your Consultation with Dr. Vishal Kundnani</h2>
+                            <p>Don't let scoliosis affect your quality of life. Early consultation and intervention can significantly improve pain management, mobility, and long-term outcomes.<br>
+                            <strong>📞 Call: <a href="tel:9619100123">9619100123</a>, <a href="tel:9619200123">9619200123</a>, <a href="tel:9619300123">9619300123</a></strong> to consult Dr. Vishal Kundnani, the best scoliosis surgeon in Mumbai and India.</p>
+                            <p>Visit our <a href="contact.php">contact page</a> for more information or to schedule an appointment. You can also explore our <a href="testimonials.php">patient testimonials</a> and <a href="case-of-minimal-invasive-spine.php">case studies</a> to learn about successful adult scoliosis treatments.</p>
+                        </div>
                     </div>
                 </div>
             </div>

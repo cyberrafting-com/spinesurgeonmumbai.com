@@ -3922,7 +3922,10 @@ border: 1px solid #c4c7bf;
     margin-top: 18px;
     font-size: 15px;
   }
-  .pt-5{padding-top: 20px;}
+  .pt-5
+  {
+    padding-top: 5px;
+}
   .sec-service-procedure{
     margin-top: 75px;
     margin-bottom: 75px;
@@ -4087,7 +4090,7 @@ border: 1px solid #c4c7bf;
     padding-bottom: 15px;        
 }   
 .cat-service-inner p strong{
-    padding-right: 13px;
+    padding-right: 3px;
     color: #1a775d;
     font-weight: 500;
 }    
@@ -4109,13 +4112,13 @@ border: 1px solid #c4c7bf;
 .sec-service-procedure-1{background: #e8f4ff;padding: 20px;}
 
 .sec-blog-design h2 {
-    font-weight: 400;
+  font-weight: 400;
     margin-top: unset;
     margin-bottom: unset;
     font-size: 24px;
     padding-bottom: 15px;
     color: #333333;
-    padding-top: 20px;
+    padding-top: 12px;
 }
 .footer-locations
 {
