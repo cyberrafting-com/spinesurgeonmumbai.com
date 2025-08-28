@@ -10,35 +10,35 @@
 		content="Spine Surgery Blog, Spine Health Articles, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai">
 
 	<script type="application/ld+json">
-	{
-	  "@context": "https://schema.org",
-	  "@type": "Blog",
-	  "name": "Spine Surgery Blog",
-	  "description": "Latest articles and updates about spine surgery and treatments by Dr. Vishal Kundnani.",
-	  "url": "https://spinesurgeonmumbai.com/blog.php",
-	  "about": {
-		"@type": "MedicalBusiness",
-		"name": "Spine Clinic Mumbai",
-		"medicalAudience": "Medical"
-	  },
-	  "author": {
-		"@type": "Person",
-		"name": "Dr. Vishal Kundnani",
-		"jobTitle": "Spine Surgeon",
-		"worksFor": {
-		  "@type": "MedicalBusiness",
-		  "name": "Spine Clinic Mumbai"
+		{
+			"@context": "https://schema.org",
+			"@type": "Blog",
+			"name": "Spine Surgery Blog",
+			"description": "Latest articles and updates about spine surgery and treatments by Dr. Vishal Kundnani.",
+			"url": "https://spinesurgeonmumbai.com/blog.php",
+			"about": {
+				"@type": "MedicalBusiness",
+				"name": "Spine Clinic Mumbai",
+				"medicalAudience": "Medical"
+			},
+			"author": {
+				"@type": "Person",
+				"name": "Dr. Vishal Kundnani",
+				"jobTitle": "Spine Surgeon",
+				"worksFor": {
+					"@type": "MedicalBusiness",
+					"name": "Spine Clinic Mumbai"
+				}
+			},
+			"publisher": {
+				"@type": "Organization",
+				"name": "Spine Clinic Mumbai",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "https://spinesurgeonmumbai.com/img/logo.png"
+				}
+			}
 		}
-	  },
-	  "publisher": {
-		"@type": "Organization",
-		"name": "Spine Clinic Mumbai",
-		"logo": {
-		  "@type": "ImageObject",
-		  "url": "https://spinesurgeonmumbai.com/img/logo.png"
-		}
-	  }
-	}
 	</script>
 </head>
 
@@ -69,74 +69,86 @@
 	<section class="gallery_inner blog">
 		<div class="container">
 			<div class="row mx-0" style="margin-left: 0px; margin-right: 0px;">
-				<div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
-                <div class="gallery">
-                    <a href="3d-printed-implants-spine-surgery-mumbai.php"><img
-                            src="images/blogs/3d-printed-implants-img.png">
-                        <h1>3D Printed Implants in Spine Surgery: Revolutionizing Endoscopic Techniques in Mumbai</h1>
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
-                <div class="gallery">
-                    <a href="scoliosis-treatment-mumbai-dr-vishal-kundnani.php"><img
-                            src="images/blogs/scoliosis-treatment.png">
-                        <h1>Best Scoliosis Treatment in Mumbai | Dr. Vishal Kundnani - Expert Spine Surgeon</h1>
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
-                <div class="gallery">
-                    <a href="understanding-scoliosis-symptoms-diagnosis-treatment.php"><img
-                            src="images/blogs/scoliosis-symptoms.png">
-                        <h1>Understanding Scoliosis: Symptoms, Diagnosis, and Treatment</h1>
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
-                <div class="gallery">
-                    <a href="scoliosis-in-children-teens-when-to-seek-help.php"><img
-                            src="images/blogs/scoliosis-in-child.png">
-                        <h1>Scoliosis in Children and Teens: When to Seek Help</h1>
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
-                <div class="gallery">
-                    <a href="adult-scoliosis-managing-pain-quality-of-life.php"><img
-                            src="images/blogs/scoliosis-in-adults.png">
-                        <h1>Adult Scoliosis: Managing Pain and Improving Quality of Life</h1>
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
-                <div class="gallery">
-                    <a href="minimally-invasive-scoliosis-surgery-faster-recovery.php"><img
-                            src="images/blogs/minimally-invasive-scoliosis-surgery.png">
-                        <h1>Minimally Invasive Scoliosis Surgery: Faster Recovery, Safer Outcomes</h1>
-                    </a>
-                </div>
-            </div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+			<div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
 					<div class="gallery">
-						<a href="slip-disc-surgery-india.php"><img
-								src="img/blog/slip-disc-surgery-india.jpg">
+						<a href="neuromonitoring-in-spine-surgery-mumbai.php">
+							<img src="img/blog/neuromonitoring-spine-surgery.jpg" alt="Neuromonitoring in Spine Surgery">
+							<h1>Ensuring Safety in Spine Surgery: The Role of Neuromonitoring in Mumbai</h1>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+					<div class="gallery">
+						<a href="3d-printed-implants-spine-surgery-mumbai.php"><img
+								src="images/blogs/3d-printed-implants-img.png">
+							<h1>3D Printed Implants in Spine Surgery: Revolutionizing Endoscopic Techniques in Mumbai
+							</h1>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+					<div class="gallery">
+						<a href="scoliosis-treatment-mumbai-dr-vishal-kundnani.php"><img
+								src="images/blogs/scoliosis-treatment.png">
+							<h1>Best Scoliosis Treatment in Mumbai | Dr. Vishal Kundnani - Expert Spine Surgeon</h1>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+					<div class="gallery">
+						<a href="understanding-scoliosis-symptoms-diagnosis-treatment.php"><img
+								src="images/blogs/scoliosis-symptoms.png">
+							<h1>Understanding Scoliosis: Symptoms, Diagnosis, and Treatment</h1>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+					<div class="gallery">
+						<a href="scoliosis-in-children-teens-when-to-seek-help.php"><img
+								src="images/blogs/scoliosis-in-child.png">
+							<h1>Scoliosis in Children and Teens: When to Seek Help</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+					<div class="gallery">
+						<a href="adult-scoliosis-managing-pain-quality-of-life.php"><img
+								src="images/blogs/scoliosis-in-adults.png">
+							<h1>Adult Scoliosis: Managing Pain and Improving Quality of Life</h1>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-2 px-0">
+					<div class="gallery">
+						<a href="minimally-invasive-scoliosis-surgery-faster-recovery.php"><img
+								src="images/blogs/minimally-invasive-scoliosis-surgery.png">
+							<h1>Minimally Invasive Scoliosis Surgery: Faster Recovery, Safer Outcomes</h1>
+						</a>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+					<div class="gallery">
+						<a href="slip-disc-surgery-india.php"><img src="img/blog/slip-disc-surgery-india.jpg">
 							<h1>Slip Disc Surgery in India – Safe, Simple and Successful</h1>
 						</a>
 					</div>
 				</div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="microscopic-spine-surgery.php"><img
-								src="img/blog/microscopic-spine-surgery.jpg">
+						<a href="microscopic-spine-surgery.php"><img src="img/blog/microscopic-spine-surgery.jpg">
 							<h1>Microscopic Spine Surgery – Precision and Safety Combined</h1>
 						</a>
 					</div>
 				</div>
-			
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
 						<a href="endoscopic-spine-surgery-india.php"><img
 								src="img/blog/endoscopic-spine-surgery-india.jpg">
@@ -144,18 +156,16 @@
 						</a>
 					</div>
 				</div>
-			
-			
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="scoliosis-surgery-in-india.php"><img
-								src="img/blog/scoliosis-surgery-in-india.jpeg">
+						<a href="scoliosis-surgery-in-india.php"><img src="img/blog/scoliosis-surgery-in-india.jpeg">
 							<h1>Scoliosis Surgery in India – Safe & Effective with Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
 				</div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
 						<a href="best-scoliosis-surgeon-in-india.php"><img
 								src="img/blog/best-scoliosis-surgeon-in-india.jpg">
@@ -163,17 +173,16 @@
 						</a>
 					</div>
 				</div>
-			
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="safe-spine-surgery-in-india.php"><img
-								src="img/blog/safe-spine-surgery-in-india.jpg">
+						<a href="safe-spine-surgery-in-india.php"><img src="img/blog/safe-spine-surgery-in-india.jpg">
 							<h1>Safe Spine Surgery in India – Trust Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
 				</div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
 						<a href="best-spine-surgeon-in-india.php"><img
 								src="img/blog/Best-Spine-Surgeon- Mumbai-Delhi-Hyderabad-Raipur–Dr-Vishal-Kundnani.jpg">
@@ -182,34 +191,31 @@
 					</div>
 				</div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="spine-surgery-safe-modern-solution.php"><img
-								src="img/blog/modern-spine-surgery.jpg">
+						<a href="spine-surgery-safe-modern-solution.php"><img src="img/blog/modern-spine-surgery.jpg">
 							<h1>Spine Surgery – A Safe, Modern Solution by Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
 				</div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="is-spine-surgery-safe-india.php"><img
-								src="img/blog/is-spine-surgery-safe-india.jpeg">
+						<a href="is-spine-surgery-safe-india.php"><img src="img/blog/is-spine-surgery-safe-india.jpeg">
 							<h1>Is Spine Surgery Safe in India? Here's What You Need to Know</h1>
 						</a>
 					</div>
 				</div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="best-spine-surgeon-india.php"><img
-								src="img/blog/best-spine-surgeon-india.jpg">
+						<a href="best-spine-surgeon-india.php"><img src="img/blog/best-spine-surgeon-india.jpg">
 							<h1>Best Spine Surgeon in Mumbai, Delhi, Hyderabad, Raipur – Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
 				</div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
 						<a href="minimally-invasive-spine-surgery-mumbai.php"><img
 								src="img/blog/minimally-invasive-spine-surgery-mumbai.jpeg">
@@ -218,19 +224,17 @@
 					</div>
 				</div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="dr-vishal-kundnani-at-apss-2025-kuala-lumpur.php"><img
-								src="img/gallery/f/1.jpg">
+						<a href="dr-vishal-kundnani-at-apss-2025-kuala-lumpur.php"><img src="img/gallery/f/1.jpg">
 							<h1>Dr. Vishal Kundnani Represents India at APSS 2025 Kuala Lumpur</h1>
 						</a>
 					</div>
 				</div>
 
-			<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="slip-disc-symptoms-diagnosis-treatment-india.php"><img
-								src="images/slip disc.jpg">
+						<a href="slip-disc-symptoms-diagnosis-treatment-india.php"><img src="images/slip disc.jpg">
 							<h1>Slip Disc Explained: Symptoms, Diagnosis, and Advanced Treatment Options in India</h1>
 						</a>
 					</div>
@@ -246,13 +250,12 @@
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
-						<a href="best-spine-surgery-hospital-india-miss.php"><img
-								src="img/blog/best-spine-surgery.jpg">
+						<a href="best-spine-surgery-hospital-india-miss.php"><img src="img/blog/best-spine-surgery.jpg">
 							<h1>Best Spine Surgery Hospital in Mumbai & India – Dr. Vishal Kundnani</h1>
 						</a>
 					</div>
 				</div>
-				
+
 				<div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 					<div class="gallery">
 						<a href="spine-surgery-india-international-patients-miss.php"><img
@@ -492,8 +495,6 @@
 						</a>
 					</div>
 				</div>
-
-		
 
 			</div>
 		</div>
