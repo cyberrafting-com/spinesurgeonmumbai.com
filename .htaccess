@@ -27,8 +27,11 @@
 
 
 Redirect 301 /index.php https://spinesurgeonmumbai.com/
+
 Redirect 301 /contact.php https://spinesurgeonmumbai.com/contact
+
 Redirect 301 /about-doctor.php https://spinesurgeonmumbai.com/about-doctor
+
 Redirect 301 /spine-team.php https://spinesurgeonmumbai.com/spine-team
 Redirect 301 /scoliosis-india-foundation.php https://spinesurgeonmumbai.com/scoliosis-india-foundation
 Redirect 301 /about-mumbai-institute-of-spine-surgery.php https://spinesurgeonmumbai.com/about-mumbai-institute-of-spine-surgery
