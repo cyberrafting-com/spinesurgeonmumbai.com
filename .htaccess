@@ -25,123 +25,123 @@
     RewriteRule ^ index.php [L]
 </IfModule>
 
-
-
 Redirect 301 /index.php https://spinesurgeonmumbai.com/
-Redirect 301 /contact.php https://spinesurgeonmumbai.com/contact
-Redirect 301 /about-doctor.php https://spinesurgeonmumbai.com/about-doctor
-Redirect 301 /spine-team.php https://spinesurgeonmumbai.com/spine-team
-Redirect 301 /scoliosis-india-foundation.php https://spinesurgeonmumbai.com/scoliosis-india-foundation
-Redirect 301 /about-mumbai-institute-of-spine-surgery.php https://spinesurgeonmumbai.com/about-mumbai-institute-of-spine-surgery
-Redirect 301 /about-centre-of-excellence-in-spine-surgery.php https://spinesurgeonmumbai.com/about-centre-of-excellence-in-spine-surgery
-Redirect 301 /back-pain.php https://spinesurgeonmumbai.com/back-pain
-Redirect 301 /neck-pain.php https://spinesurgeonmumbai.com/neck-pain
-Redirect 301 /herniated-disc.php https://spinesurgeonmumbai.com/herniated-disc
-Redirect 301 /spinal-fusion.php https://spinesurgeonmumbai.com/spinal-fusion
-Redirect 301 /spinal-stenosis.php https://spinesurgeonmumbai.com/spinal-stenosis
-Redirect 301 /spinal-injections.php https://spinesurgeonmumbai.com/spinal-injections
-Redirect 301 /spondylolisthesis.php https://spinesurgeonmumbai.com/spondylolisthesis
-Redirect 301 /physiotherapy-in-spine.php https://spinesurgeonmumbai.com/physiotherapy-in-spine
-Redirect 301 /exercises.php https://spinesurgeonmumbai.com/exercises
-Redirect 301 /minimal-invasive-spine-surgery.php https://spinesurgeonmumbai.com/minimal-invasive-spine-surgery
-Redirect 301 /micro-endoscopic-minimal-invasive-spine-surgery.php https://spinesurgeonmumbai.com/micro-endoscopic-minimal-invasive-spine-surgery
-Redirect 301 /common-spinal-stenosis-questions.php https://spinesurgeonmumbai.com/common-spinal-stenosis-questions
-Redirect 301 /acute-low-back-pain.php https://spinesurgeonmumbai.com/acute-low-back-pain
-Redirect 301 /ankylosing-spondylitis.php https://spinesurgeonmumbai.com/ankylosing-spondylitis
-Redirect 301 /back-pain-we-treat.php https://spinesurgeonmumbai.com/back-pain-we-treat
-Redirect 301 /back-pain-in-pregnancy.php https://spinesurgeonmumbai.com/back-pain-in-pregnancy
-Redirect 301 /degenerative-disc-disease.php https://spinesurgeonmumbai.com/degenerative-disc-disease
-Redirect 301 /facet-syndrome.php https://spinesurgeonmumbai.com/facet-syndrome
-Redirect 301 /failed-back-syndrome.php https://spinesurgeonmumbai.com/failed-back-syndrome
-Redirect 301 /kyphosis.php https://spinesurgeonmumbai.com/kyphosis
-Redirect 301 /lumbar-spondylosis.php https://spinesurgeonmumbai.com/lumbar-spondylosis
-Redirect 301 /lumbarisation-and-sacralisation.php https://spinesurgeonmumbai.com/lumbarisation-and-sacralisation
-Redirect 301 /neck-pain-we-treat.php https://spinesurgeonmumbai.com/neck-pain-we-treat
-Redirect 301 /osteoporosis.php https://spinesurgeonmumbai.com/osteoporosis
-Redirect 301 /sciatica.php https://spinesurgeonmumbai.com/sciatica
-Redirect 301 /scoliosis.php https://spinesurgeonmumbai.com/scoliosis
-Redirect 301 /slip-disc.php https://spinesurgeonmumbai.com/slip-disc
-Redirect 301 /spinal-stenosis-we-treat.php https://spinesurgeonmumbai.com/spinal-stenosis-we-treat
-Redirect 301 /spondylolysis-and-spondylolisthesis.php https://spinesurgeonmumbai.com/spondylolysis-and-spondylolisthesis
-Redirect 301 /spondylosis.php https://spinesurgeonmumbai.com/spondylosis
-Redirect 301 /image-gallery.php https://spinesurgeonmumbai.com/image-gallery
-Redirect 301 /video-gallery.php https://spinesurgeonmumbai.com/video-gallery
-Redirect 301 /patient-education.php https://spinesurgeonmumbai.com/patient-education
-Redirect 301 /case-of-slip-disc.php https://spinesurgeonmumbai.com/case-of-slip-disc
-Redirect 301 /case-of-minimal-invasive-spine.php https://spinesurgeonmumbai.com/case-of-minimal-invasive-spine
-Redirect 301 /case-of-mis-tlif-spinal-fusion.php https://spinesurgeonmumbai.com/case-of-mis-tlif-spinal-fusion
-Redirect 301 /case-of-spinal-stenosis.php https://spinesurgeonmumbai.com/case-of-spinal-stenosis
-Redirect 301 /media.php https://spinesurgeonmumbai.com/media
-Redirect 301 /blog.php https://spinesurgeonmumbai.com/blog
-Redirect 301 /testimonials.php https://spinesurgeonmumbai.com/testimonials
-Redirect 301 /faq.php https://spinesurgeonmumbai.com/faq
-Redirect 301 /best-spine-surgeon-mumbai.php https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai
-Redirect 301 /img/OUTLOOK.pdf https://spinesurgeonmumbai.com/img/OUTLOOK.pdf
-Redirect 301 /mumbai-institute-of-spine-surgery.php https://spinesurgeonmumbai.com/mumbai-institute-of-spine-surgery
-Redirect 301 /important-link.php https://spinesurgeonmumbai.com/important-link
-Redirect 301 /spine-clinic.php https://spinesurgeonmumbai.com/spine-clinic
-Redirect 301 /spine-tip-of-the-day-back-pain.php https://spinesurgeonmumbai.com/spine-tip-of-the-day-back-pain
-Redirect 301 /spine-tip-of-the-day-backpain.php https://spinesurgeonmumbai.com/spine-tip-of-the-day-backpain
-Redirect 301 /happy-moments-smiling-patients.php https://spinesurgeonmumbai.com/happy-moments-smiling-patients
-Redirect 301 /apss-2025%E2%80%93kuala-lumpur.php https://spinesurgeonmumbai.com/apss-2025%E2%80%93kuala-lumpur
-Redirect 301 /fellowship-awards.php https://spinesurgeonmumbai.com/fellowship-awards
-Redirect 301 /photographs.php https://spinesurgeonmumbai.com/photographs
-Redirect 301 /minimal-invasive-spine-surgeons-of-india-2019-chandigarh.php https://spinesurgeonmumbai.com/minimal-invasive-spine-surgeons-of-india-2019-chandigarh
-Redirect 301 /neuromonitoring-in-spine-surgery-mumbai.php https://spinesurgeonmumbai.com/neuromonitoring-in-spine-surgery-mumbai
-Redirect 301 /3d-printed-implants-spine-surgery-mumbai.php https://spinesurgeonmumbai.com/3d-printed-implants-spine-surgery-mumbai
-Redirect 301 /scoliosis-treatment-mumbai-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/scoliosis-treatment-mumbai-dr-vishal-kundnani
-Redirect 301 /understanding-scoliosis-symptoms-diagnosis-treatment.php https://spinesurgeonmumbai.com/understanding-scoliosis-symptoms-diagnosis-treatment
-Redirect 301 /scoliosis-in-children-teens-when-to-seek-help.php https://spinesurgeonmumbai.com/scoliosis-in-children-teens-when-to-seek-help
-Redirect 301 /adult-scoliosis-managing-pain-quality-of-life.php https://spinesurgeonmumbai.com/adult-scoliosis-managing-pain-quality-of-life
-Redirect 301 /minimally-invasive-scoliosis-surgery-faster-recovery.php https://spinesurgeonmumbai.com/minimally-invasive-scoliosis-surgery-faster-recovery
-Redirect 301 /slip-disc-surgery-india.php https://spinesurgeonmumbai.com/slip-disc-surgery-india
-Redirect 301 /microscopic-spine-surgery.php https://spinesurgeonmumbai.com/microscopic-spine-surgery
-Redirect 301 /endoscopic-spine-surgery-india.php https://spinesurgeonmumbai.com/endoscopic-spine-surgery-india
-Redirect 301 /scoliosis-surgery-in-india.php https://spinesurgeonmumbai.com/scoliosis-surgery-in-india
-Redirect 301 /best-scoliosis-surgeon-in-india.php https://spinesurgeonmumbai.com/best-scoliosis-surgeon-in-india
-Redirect 301 /safe-spine-surgery-in-india.php https://spinesurgeonmumbai.com/safe-spine-surgery-in-india
-Redirect 301 /best-spine-surgeon-in-india.php https://spinesurgeonmumbai.com/best-spine-surgeon-in-india
-Redirect 301 /spine-surgery-safe-modern-solution.php https://spinesurgeonmumbai.com/spine-surgery-safe-modern-solution
-Redirect 301 /is-spine-surgery-safe-india.php https://spinesurgeonmumbai.com/is-spine-surgery-safe-india
-Redirect 301 /best-spine-surgeon-india.php https://spinesurgeonmumbai.com/best-spine-surgeon-india
-Redirect 301 /minimally-invasive-spine-surgery-mumbai.php https://spinesurgeonmumbai.com/minimally-invasive-spine-surgery-mumbai
-Redirect 301 /dr-vishal-kundnani-at-apss-2025-kuala-lumpur.php https://spinesurgeonmumbai.com/dr-vishal-kundnani-at-apss-2025-kuala-lumpur
-Redirect 301 /slip-disc-symptoms-diagnosis-treatment-india.php https://spinesurgeonmumbai.com/slip-disc-symptoms-diagnosis-treatment-india
-Redirect 301 /affordable-spine-surgery-international-patients-mumbai-miss.php https://spinesurgeonmumbai.com/affordable-spine-surgery-international-patients-mumbai-miss
-Redirect 301 /best-spine-surgery-hospital-india-miss.php https://spinesurgeonmumbai.com/best-spine-surgery-hospital-india-miss
-Redirect 301 /spine-surgery-india-international-patients-miss.php https://spinesurgeonmumbai.com/spine-surgery-india-international-patients-miss
-Redirect 301 /scoliosis-surgery-india-mumbai-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/scoliosis-surgery-india-mumbai-dr-vishal-kundnani
-Redirect 301 /robotic-spine-surgery-mumbai-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/robotic-spine-surgery-mumbai-dr-vishal-kundnani
-Redirect 301 /spine-surgery-in-india-for-international-patients.php https://spinesurgeonmumbai.com/spine-surgery-in-india-for-international-patients
-Redirect 301 /affordable-spine-surgery-international-patients-mumbai.php https://spinesurgeonmumbai.com/affordable-spine-surgery-international-patients-mumbai
-Redirect 301 /laser-spine-surgery-dr-vishal-kundnani-mumbai.php https://spinesurgeonmumbai.com/laser-spine-surgery-dr-vishal-kundnani-mumbai
-Redirect 301 /top-10-best-spine-surgeons-in-india.php https://spinesurgeonmumbai.com/top-10-best-spine-surgeons-in-india
-Redirect 301 /best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.php https://spinesurgeonmumbai.com/best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment
-Redirect 301 /robotic-spine-surgery-with-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/robotic-spine-surgery-with-dr-vishal-kundnani
-Redirect 301 /laser-spine-surgery-with-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/laser-spine-surgery-with-dr-vishal-kundnani
-Redirect 301 /keyhole-spine-surgery-with-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/keyhole-spine-surgery-with-dr-vishal-kundnani
-Redirect 301 /endoscopic-spine-surgery-with-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/endoscopic-spine-surgery-with-dr-vishal-kundnani
-Redirect 301 /best-spine-surgeons-in-mumbai-and-india.php https://spinesurgeonmumbai.com/best-spine-surgeons-in-mumbai-and-india
-Redirect 301 /spine-tip-of-the-week-scoliosis.php https://spinesurgeonmumbai.com/spine-tip-of-the-week-scoliosis
-Redirect 301 /spine-tip-of-week-neck-pain.php https://spinesurgeonmumbai.com/spine-tip-of-week-neck-pain
-Redirect 301 /spine-tip-of-the-week-sciatica-slip-disc.php https://spinesurgeonmumbai.com/spine-tip-of-the-week-sciatica-slip-disc
-Redirect 301 /do-you-have-a-lockdown-neck-pain.php https://spinesurgeonmumbai.com/do-you-have-a-lockdown-neck-pain
-Redirect 301 /success-story-case-4.php https://spinesurgeonmumbai.com/success-story-case-4
-Redirect 301 /success-story-case-3.php https://spinesurgeonmumbai.com/success-story-case-3
-Redirect 301 /success-story-case-2.php https://spinesurgeonmumbai.com/success-story-case-2
-Redirect 301 /success-story-case-1.php https://spinesurgeonmumbai.com/success-story-case-1
-Redirect 301 /spinext-clinic-consult-spine-specialist-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/spinext-clinic-consult-spine-specialist-dr-vishal-kundnani
-Redirect 301 /spine-clinic-is-future-ready-warwithcorona.php https://spinesurgeonmumbai.com/spine-clinic-is-future-ready-warwithcorona
-Redirect 301 /best-docs-mumbai-2020.php https://spinesurgeonmumbai.com/best-docs-mumbai-2020
-Redirect 301 /mega-health-camp-tribal-villages-of-mandla-mp.php https://spinesurgeonmumbai.com/mega-health-camp-tribal-villages-of-mandla-mp
-Redirect 301 /spine-pain-amid-lockdown.php https://spinesurgeonmumbai.com/spine-pain-amid-lockdown
-Redirect 301 /best-spine-doctor-in-bandra.php https://spinesurgeonmumbai.com/best-spine-doctor-in-bandra
-Redirect 301 /best-spine-specialist-in-bandra.php https://spinesurgeonmumbai.com/best-spine-specialist-in-bandra
-Redirect 301 /best-spine-surgeon-in-bandra.php https://spinesurgeonmumbai.com/best-spine-surgeon-in-bandra
-Redirect 301 /best-back-pain-doctor-in-bandra.php https://spinesurgeonmumbai.com/best-back-pain-doctor-in-bandra
-Redirect 301 /best-neck-pain-doctor-in-bandra.php https://spinesurgeonmumbai.com/best-neck-pain-doctor-in-bandra
-Redirect 301 /best-slip-disc-doctor-in-bandra.php https://spinesurgeonmumbai.com/best-slip-disc-doctor-in-bandra
-Redirect 301 /spine-surgery.php https://spinesurgeonmumbai.com/spine-surgery
+
+# Redirect 301 /index.php https://spinesurgeonmumbai.com/
+# Redirect 301 /contact.php https://spinesurgeonmumbai.com/contact
+# Redirect 301 /about-doctor.php https://spinesurgeonmumbai.com/about-doctor
+# Redirect 301 /spine-team.php https://spinesurgeonmumbai.com/spine-team
+# Redirect 301 /scoliosis-india-foundation.php https://spinesurgeonmumbai.com/scoliosis-india-foundation
+# Redirect 301 /about-mumbai-institute-of-spine-surgery.php https://spinesurgeonmumbai.com/about-mumbai-institute-of-spine-surgery
+# Redirect 301 /about-centre-of-excellence-in-spine-surgery.php https://spinesurgeonmumbai.com/about-centre-of-excellence-in-spine-surgery
+# Redirect 301 /back-pain.php https://spinesurgeonmumbai.com/back-pain
+# Redirect 301 /neck-pain.php https://spinesurgeonmumbai.com/neck-pain
+# Redirect 301 /herniated-disc.php https://spinesurgeonmumbai.com/herniated-disc
+# Redirect 301 /spinal-fusion.php https://spinesurgeonmumbai.com/spinal-fusion
+# Redirect 301 /spinal-stenosis.php https://spinesurgeonmumbai.com/spinal-stenosis
+# Redirect 301 /spinal-injections.php https://spinesurgeonmumbai.com/spinal-injections
+# Redirect 301 /spondylolisthesis.php https://spinesurgeonmumbai.com/spondylolisthesis
+# Redirect 301 /physiotherapy-in-spine.php https://spinesurgeonmumbai.com/physiotherapy-in-spine
+# Redirect 301 /exercises.php https://spinesurgeonmumbai.com/exercises
+# Redirect 301 /minimal-invasive-spine-surgery.php https://spinesurgeonmumbai.com/minimal-invasive-spine-surgery
+# Redirect 301 /micro-endoscopic-minimal-invasive-spine-surgery.php https://spinesurgeonmumbai.com/micro-endoscopic-minimal-invasive-spine-surgery
+# Redirect 301 /common-spinal-stenosis-questions.php https://spinesurgeonmumbai.com/common-spinal-stenosis-questions
+# Redirect 301 /acute-low-back-pain.php https://spinesurgeonmumbai.com/acute-low-back-pain
+# Redirect 301 /ankylosing-spondylitis.php https://spinesurgeonmumbai.com/ankylosing-spondylitis
+# Redirect 301 /back-pain-we-treat.php https://spinesurgeonmumbai.com/back-pain-we-treat
+# Redirect 301 /back-pain-in-pregnancy.php https://spinesurgeonmumbai.com/back-pain-in-pregnancy
+# Redirect 301 /degenerative-disc-disease.php https://spinesurgeonmumbai.com/degenerative-disc-disease
+# Redirect 301 /facet-syndrome.php https://spinesurgeonmumbai.com/facet-syndrome
+# Redirect 301 /failed-back-syndrome.php https://spinesurgeonmumbai.com/failed-back-syndrome
+# Redirect 301 /kyphosis.php https://spinesurgeonmumbai.com/kyphosis
+# Redirect 301 /lumbar-spondylosis.php https://spinesurgeonmumbai.com/lumbar-spondylosis
+# Redirect 301 /lumbarisation-and-sacralisation.php https://spinesurgeonmumbai.com/lumbarisation-and-sacralisation
+# Redirect 301 /neck-pain-we-treat.php https://spinesurgeonmumbai.com/neck-pain-we-treat
+# Redirect 301 /osteoporosis.php https://spinesurgeonmumbai.com/osteoporosis
+# Redirect 301 /sciatica.php https://spinesurgeonmumbai.com/sciatica
+# Redirect 301 /scoliosis.php https://spinesurgeonmumbai.com/scoliosis
+# Redirect 301 /slip-disc.php https://spinesurgeonmumbai.com/slip-disc
+# Redirect 301 /spinal-stenosis-we-treat.php https://spinesurgeonmumbai.com/spinal-stenosis-we-treat
+# Redirect 301 /spondylolysis-and-spondylolisthesis.php https://spinesurgeonmumbai.com/spondylolysis-and-spondylolisthesis
+# Redirect 301 /spondylosis.php https://spinesurgeonmumbai.com/spondylosis
+# Redirect 301 /image-gallery.php https://spinesurgeonmumbai.com/image-gallery
+# Redirect 301 /video-gallery.php https://spinesurgeonmumbai.com/video-gallery
+# Redirect 301 /patient-education.php https://spinesurgeonmumbai.com/patient-education
+# Redirect 301 /case-of-slip-disc.php https://spinesurgeonmumbai.com/case-of-slip-disc
+# Redirect 301 /case-of-minimal-invasive-spine.php https://spinesurgeonmumbai.com/case-of-minimal-invasive-spine
+# Redirect 301 /case-of-mis-tlif-spinal-fusion.php https://spinesurgeonmumbai.com/case-of-mis-tlif-spinal-fusion
+# Redirect 301 /case-of-spinal-stenosis.php https://spinesurgeonmumbai.com/case-of-spinal-stenosis
+# Redirect 301 /media.php https://spinesurgeonmumbai.com/media
+# Redirect 301 /blog.php https://spinesurgeonmumbai.com/blog
+# Redirect 301 /testimonials.php https://spinesurgeonmumbai.com/testimonials
+# Redirect 301 /faq.php https://spinesurgeonmumbai.com/faq
+# Redirect 301 /best-spine-surgeon-mumbai.php https://spinesurgeonmumbai.com/best-spine-surgeon-mumbai
+# Redirect 301 /img/OUTLOOK.pdf https://spinesurgeonmumbai.com/img/OUTLOOK.pdf
+# Redirect 301 /mumbai-institute-of-spine-surgery.php https://spinesurgeonmumbai.com/mumbai-institute-of-spine-surgery
+# Redirect 301 /important-link.php https://spinesurgeonmumbai.com/important-link
+# Redirect 301 /spine-clinic.php https://spinesurgeonmumbai.com/spine-clinic
+# Redirect 301 /spine-tip-of-the-day-back-pain.php https://spinesurgeonmumbai.com/spine-tip-of-the-day-back-pain
+# Redirect 301 /spine-tip-of-the-day-backpain.php https://spinesurgeonmumbai.com/spine-tip-of-the-day-backpain
+# Redirect 301 /happy-moments-smiling-patients.php https://spinesurgeonmumbai.com/happy-moments-smiling-patients
+# Redirect 301 /apss-2025%E2%80%93kuala-lumpur.php https://spinesurgeonmumbai.com/apss-2025%E2%80%93kuala-lumpur
+# Redirect 301 /fellowship-awards.php https://spinesurgeonmumbai.com/fellowship-awards
+# Redirect 301 /photographs.php https://spinesurgeonmumbai.com/photographs
+# Redirect 301 /minimal-invasive-spine-surgeons-of-india-2019-chandigarh.php https://spinesurgeonmumbai.com/minimal-invasive-spine-surgeons-of-india-2019-chandigarh
+# Redirect 301 /neuromonitoring-in-spine-surgery-mumbai.php https://spinesurgeonmumbai.com/neuromonitoring-in-spine-surgery-mumbai
+# Redirect 301 /3d-printed-implants-spine-surgery-mumbai.php https://spinesurgeonmumbai.com/3d-printed-implants-spine-surgery-mumbai
+# Redirect 301 /scoliosis-treatment-mumbai-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/scoliosis-treatment-mumbai-dr-vishal-kundnani
+# Redirect 301 /understanding-scoliosis-symptoms-diagnosis-treatment.php https://spinesurgeonmumbai.com/understanding-scoliosis-symptoms-diagnosis-treatment
+# Redirect 301 /scoliosis-in-children-teens-when-to-seek-help.php https://spinesurgeonmumbai.com/scoliosis-in-children-teens-when-to-seek-help
+# Redirect 301 /adult-scoliosis-managing-pain-quality-of-life.php https://spinesurgeonmumbai.com/adult-scoliosis-managing-pain-quality-of-life
+# Redirect 301 /minimally-invasive-scoliosis-surgery-faster-recovery.php https://spinesurgeonmumbai.com/minimally-invasive-scoliosis-surgery-faster-recovery
+# Redirect 301 /slip-disc-surgery-india.php https://spinesurgeonmumbai.com/slip-disc-surgery-india
+# Redirect 301 /microscopic-spine-surgery.php https://spinesurgeonmumbai.com/microscopic-spine-surgery
+# Redirect 301 /endoscopic-spine-surgery-india.php https://spinesurgeonmumbai.com/endoscopic-spine-surgery-india
+# Redirect 301 /scoliosis-surgery-in-india.php https://spinesurgeonmumbai.com/scoliosis-surgery-in-india
+# Redirect 301 /best-scoliosis-surgeon-in-india.php https://spinesurgeonmumbai.com/best-scoliosis-surgeon-in-india
+# Redirect 301 /safe-spine-surgery-in-india.php https://spinesurgeonmumbai.com/safe-spine-surgery-in-india
+# Redirect 301 /best-spine-surgeon-in-india.php https://spinesurgeonmumbai.com/best-spine-surgeon-in-india
+# Redirect 301 /spine-surgery-safe-modern-solution.php https://spinesurgeonmumbai.com/spine-surgery-safe-modern-solution
+# Redirect 301 /is-spine-surgery-safe-india.php https://spinesurgeonmumbai.com/is-spine-surgery-safe-india
+# Redirect 301 /best-spine-surgeon-india.php https://spinesurgeonmumbai.com/best-spine-surgeon-india
+# Redirect 301 /minimally-invasive-spine-surgery-mumbai.php https://spinesurgeonmumbai.com/minimally-invasive-spine-surgery-mumbai
+# Redirect 301 /dr-vishal-kundnani-at-apss-2025-kuala-lumpur.php https://spinesurgeonmumbai.com/dr-vishal-kundnani-at-apss-2025-kuala-lumpur
+# Redirect 301 /slip-disc-symptoms-diagnosis-treatment-india.php https://spinesurgeonmumbai.com/slip-disc-symptoms-diagnosis-treatment-india
+# Redirect 301 /affordable-spine-surgery-international-patients-mumbai-miss.php https://spinesurgeonmumbai.com/affordable-spine-surgery-international-patients-mumbai-miss
+# Redirect 301 /best-spine-surgery-hospital-india-miss.php https://spinesurgeonmumbai.com/best-spine-surgery-hospital-india-miss
+# Redirect 301 /spine-surgery-india-international-patients-miss.php https://spinesurgeonmumbai.com/spine-surgery-india-international-patients-miss
+# Redirect 301 /scoliosis-surgery-india-mumbai-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/scoliosis-surgery-india-mumbai-dr-vishal-kundnani
+# Redirect 301 /robotic-spine-surgery-mumbai-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/robotic-spine-surgery-mumbai-dr-vishal-kundnani
+# Redirect 301 /spine-surgery-in-india-for-international-patients.php https://spinesurgeonmumbai.com/spine-surgery-in-india-for-international-patients
+# Redirect 301 /affordable-spine-surgery-international-patients-mumbai.php https://spinesurgeonmumbai.com/affordable-spine-surgery-international-patients-mumbai
+# Redirect 301 /laser-spine-surgery-dr-vishal-kundnani-mumbai.php https://spinesurgeonmumbai.com/laser-spine-surgery-dr-vishal-kundnani-mumbai
+# Redirect 301 /top-10-best-spine-surgeons-in-india.php https://spinesurgeonmumbai.com/top-10-best-spine-surgeons-in-india
+# Redirect 301 /best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.php https://spinesurgeonmumbai.com/best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment
+# Redirect 301 /robotic-spine-surgery-with-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/robotic-spine-surgery-with-dr-vishal-kundnani
+# Redirect 301 /laser-spine-surgery-with-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/laser-spine-surgery-with-dr-vishal-kundnani
+# Redirect 301 /keyhole-spine-surgery-with-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/keyhole-spine-surgery-with-dr-vishal-kundnani
+# Redirect 301 /endoscopic-spine-surgery-with-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/endoscopic-spine-surgery-with-dr-vishal-kundnani
+# Redirect 301 /best-spine-surgeons-in-mumbai-and-india.php https://spinesurgeonmumbai.com/best-spine-surgeons-in-mumbai-and-india
+# Redirect 301 /spine-tip-of-the-week-scoliosis.php https://spinesurgeonmumbai.com/spine-tip-of-the-week-scoliosis
+# Redirect 301 /spine-tip-of-week-neck-pain.php https://spinesurgeonmumbai.com/spine-tip-of-week-neck-pain
+# Redirect 301 /spine-tip-of-the-week-sciatica-slip-disc.php https://spinesurgeonmumbai.com/spine-tip-of-the-week-sciatica-slip-disc
+# Redirect 301 /do-you-have-a-lockdown-neck-pain.php https://spinesurgeonmumbai.com/do-you-have-a-lockdown-neck-pain
+# Redirect 301 /success-story-case-4.php https://spinesurgeonmumbai.com/success-story-case-4
+# Redirect 301 /success-story-case-3.php https://spinesurgeonmumbai.com/success-story-case-3
+# Redirect 301 /success-story-case-2.php https://spinesurgeonmumbai.com/success-story-case-2
+# Redirect 301 /success-story-case-1.php https://spinesurgeonmumbai.com/success-story-case-1
+# Redirect 301 /spinext-clinic-consult-spine-specialist-dr-vishal-kundnani.php https://spinesurgeonmumbai.com/spinext-clinic-consult-spine-specialist-dr-vishal-kundnani
+# Redirect 301 /spine-clinic-is-future-ready-warwithcorona.php https://spinesurgeonmumbai.com/spine-clinic-is-future-ready-warwithcorona
+# Redirect 301 /best-docs-mumbai-2020.php https://spinesurgeonmumbai.com/best-docs-mumbai-2020
+# Redirect 301 /mega-health-camp-tribal-villages-of-mandla-mp.php https://spinesurgeonmumbai.com/mega-health-camp-tribal-villages-of-mandla-mp
+# Redirect 301 /spine-pain-amid-lockdown.php https://spinesurgeonmumbai.com/spine-pain-amid-lockdown
+# Redirect 301 /best-spine-doctor-in-bandra.php https://spinesurgeonmumbai.com/best-spine-doctor-in-bandra
+# Redirect 301 /best-spine-specialist-in-bandra.php https://spinesurgeonmumbai.com/best-spine-specialist-in-bandra
+# Redirect 301 /best-spine-surgeon-in-bandra.php https://spinesurgeonmumbai.com/best-spine-surgeon-in-bandra
+# Redirect 301 /best-back-pain-doctor-in-bandra.php https://spinesurgeonmumbai.com/best-back-pain-doctor-in-bandra
+# Redirect 301 /best-neck-pain-doctor-in-bandra.php https://spinesurgeonmumbai.com/best-neck-pain-doctor-in-bandra
+# Redirect 301 /best-slip-disc-doctor-in-bandra.php https://spinesurgeonmumbai.com/best-slip-disc-doctor-in-bandra
+# Redirect 301 /spine-surgery.php https://spinesurgeonmumbai.com/spine-surgery
 
 
 
