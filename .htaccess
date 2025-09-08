@@ -26,6 +26,9 @@
 </IfModule>
 
 
+
+
+
 Redirect 301 /index.php https://spinesurgeonmumbai.com/
 
 Redirect 301 /contact.php https://spinesurgeonmumbai.com/contact
