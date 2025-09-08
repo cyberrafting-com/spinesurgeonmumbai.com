@@ -1,0 +1,137 @@
+@php($title = 'Lumbarisation and Sacralisation: Spine Surgery Treatment in Mumbai')
+
+@section('meta_desc')
+    Explore treatments for lumbarisation and sacralisation with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert spine
+    surgery solutions in Mumbai.
+@endsection
+
+@section('meta_keywords',
+    'Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai,
+    Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery
+    Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment
+    Mumbai')
+
+@section('schema')
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Lumbarisation and Sacralisation Treatment in Mumbai by Dr. Vishal Kundnani",
+  "description": "Explore treatments for lumbarisation and sacralisation with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert spine surgery solutions in Mumbai.",
+  "url": "https://www.spinesurgeonmumbai.com/lumbarisation-and-sacralisation.php",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Vishal Kundnani",
+    "jobTitle": "Spine Surgeon",
+    "worksFor": {
+      "@type": "MedicalOrganization",
+      "name": "Spine Surgeon Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "addressCountry": "IN"
+      }
+    }
+  },
+  "provider": {
+    "@type": "MedicalOrganization",
+    "name": "Spine Surgeon Mumbai",
+    "medicalSpecialty": "Spine Surgery"
+  },
+  "mainEntity": {
+    "@type": "MedicalCondition",
+    "name": "Lumbarisation and Sacralisation",
+    "description": "Lumbarisation and sacralisation are congenital disorders affecting the sacrum and base of the spine. Lumbarisation occurs when the uppermost segment of the sacrum is not fused, while sacralisation involves fusion of the last lumbar vertebra with the sacrum.",
+    "possibleTreatment": {
+      "@type": "MedicalTherapy",
+      "name": "Spine Surgery Treatment",
+      "description": "Expert treatment for lumbarisation and sacralisation including both surgical and non-surgical approaches."
+    }
+  }
+}
+</script>
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lumbarisation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lumbarisation is where the uppermost segment of the sacrum is not fused. Rather it is free to move and participates, along with the neighbouring lumbar vertebrae in spinal activity. The first sacral segment is said to be lumbarised."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is sacralisation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sacralisation is a congenital anomaly where the last lumbar vertebra is fused with the sacrum, effectively making it part of the sacrum rather than the lumbar spine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do these conditions affect the spine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "These structural anomalies can subtly influence the free-flowing function of the spine. They may affect spinal movement and potentially lead to back pain or other spinal issues, though many people with these conditions may not experience any symptoms."
+      }
+    }
+  ]
+}
+</script>
+@endsection
+
+@extends('layouts.default')
+
+@section('content')
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+
+    <div class="banner-wrap1">
+        <div class="container">
+            <div class="row">
+                <h2>We <span>Treat</span></h2>
+                <ul class="breadcrumb1">
+                    <li><a href="{{ route('home') }}">Home</a></li>
+                    <li><a href="{{ route('lumbarisation-and-sacralisation') }}">Lumbarisation and Sacralisation</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <section class="drtoafndrb col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="container">
+            <div class="row">
+                <div class="cliclskil1 mt-3">
+                    <div class="col-lg-8 col-md-8 col-sm-8">
+                        <h1>Lumbarisation and Sacralisation</h1>
+                        <p class="mt-1">Malformations of the sacrum and base of the spine are very common, with variations
+                            too numerous to cite. Being the seat of spinal movement, these structural anomalies subtly
+                            influence the free-flowing function of the spine. These two congenital disorders go by the name
+                            of lumbarisation and sacralisation.</p>
+                        <p>In the 'modern' human skeleton the sacrum is a solid bony mass of 5 fused vertebrae at the back
+                            of the pelvis on which the upright spine sits. However, in earlier evolutionary forms the
+                            segments of the sacrum were not fused. They were free to move – like a tail – and participated
+                            as an extension of the spine in normal activity.</p>
+                        <p>Lumbarisation is where the uppermost segment of the sacrum is not fused. Rather it is free to
+                            move and participates, along with the neighbouring lumbar vertebrae in spinal activity. The
+                            first sacral segment is said to be lumbarised.</p>
+                        <p>With lumbarisation, anatomists and clinicians have taken to referring to this additional mobile
+                            lumbar segment as an 'extra' vertebra, which has led to some confusion in the minds of the
+                            patients. There is no extra vertebra jammed into the length of the spine. Simply an extra mobile
+                            vertebra and one less fixed one.</p>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-sm-4">
+                        @include('includes.we-treat')
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+@stop
