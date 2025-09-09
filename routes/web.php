@@ -495,6 +495,10 @@ Route::get('/neuromonitoring-in-spine-surgery-mumbai', function () {
     return view('neuromonitoring-in-spine-surgery-mumbai');
 })->name('neuromonitoring-in-spine-surgery-mumbai');
 
+Route::get('/advanced-spine-surgery-mumbai-dr-vishal-kundnani', function () {
+    return view('advanced-spine-surgery-mumbai-dr-vishal-kundnani');
+})->name('advanced-spine-surgery-mumbai-dr-vishal-kundnani');
+
 
 
 // Route::get('/about', function () {

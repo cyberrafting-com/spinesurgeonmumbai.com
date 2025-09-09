@@ -3701,7 +3701,6 @@ Gallery
     background: #1b6aaa;
     padding: 10px 5px;
     text-align: center;
-    font-family: 'Playfair Display', serif;
     margin: 0px;
 }
 
@@ -4821,3 +4820,223 @@ img.gal-img {
 
 
 /* css service page end */
+
+
+/* blog page css start */
+
+
+/* Blog Grid Layout Improvements */
+
+.gallery_inner.blog .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.gallery_inner.blog .row {
+    margin: 0 -15px;
+}
+
+.gallery_inner.blog .col-lg-3,
+.gallery_inner.blog .col-md-4,
+.gallery_inner.blog .col-sm-6 {
+    padding: 0 15px;
+    margin-bottom: 30px;
+}
+
+.gallery_inner.blog .gallery {
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.gallery_inner.blog .gallery:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.gallery_inner.blog .gallery a {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    text-decoration: none;
+}
+
+.gallery_inner.blog .gallery img {
+    width: 100%;
+    height: 300px;
+    /* object-fit: cover; */
+    border: none;
+    border-radius: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gallery_inner.blog .gallery h1 {
+    font-size: 17px;
+    font-weight: 400;
+    color: #fff;
+    background: #1b6aaa;
+    padding: 10px 10px;
+    text-align: center;
+    margin: 0;
+    line-height: 1.4;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Responsive adjustments */
+
+@media (max-width: 991px) {
+    .gallery_inner.blog .gallery img {
+        height: 300px;
+    }
+    .gallery_inner.blog .gallery h1 {
+        font-size: 14px;
+        padding: 12px 8px;
+    }
+}
+
+@media (max-width: 767px) {
+    .gallery_inner.blog .gallery img {
+        height: auto;
+    }
+    .gallery_inner.blog .gallery h1 {
+        font-size: 13px;
+        padding: 10px 6px;
+    }
+}
+
+@media (max-width: 575px) {
+    .gallery_inner.blog .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .gallery_inner.blog .gallery img {
+        height: auto;
+    }
+    .gallery_inner.blog .gallery h1 {
+        font-size: 14px;
+        padding: 12px 8px;
+    }
+}
+
+
+/* Override existing gallery styles for blog page */
+
+.gallery_inner.blog .gallery {
+    margin: 0 !important;
+}
+
+.gallery_inner.blog .gallery img {
+    border: none !important;
+}
+
+
+/* Ensure proper Bootstrap grid behavior */
+
+.gallery_inner.blog .row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/* Fix any potential float issues */
+
+.gallery_inner.blog .col-lg-3,
+.gallery_inner.blog .col-md-4,
+.gallery_inner.blog .col-sm-6 {
+    float: left;
+    position: relative;
+    min-height: 1px;
+}
+
+
+/* Ensure equal height cards */
+
+.gallery_inner.blog .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery_inner.blog .col-lg-3,
+.gallery_inner.blog .col-md-4,
+.gallery_inner.blog .col-sm-6 {
+    display: inline-block;
+}
+
+
+/* Additional improvements for better visual appeal */
+
+.gallery_inner.blog {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+.gallery_inner.blog .gallery a {
+    color: inherit;
+}
+
+.gallery_inner.blog .gallery a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+/* Ensure consistent spacing between rows */
+
+.gallery_inner.blog .row {
+    margin-bottom: 20px;
+}
+
+
+/* Add subtle animation for better UX */
+
+.gallery_inner.blog .gallery {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+/* Stagger animation for multiple items */
+
+.gallery_inner.blog .col-lg-3:nth-child(1) {
+    animation-delay: 0.1s;
+}
+
+.gallery_inner.blog .col-lg-3:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.gallery_inner.blog .col-lg-3:nth-child(3) {
+    animation-delay: 0.3s;
+}
+
+.gallery_inner.blog .col-lg-3:nth-child(4) {
+    animation-delay: 0.4s;
+}
+
+
+/* blog */
+
+ge css end */

@@ -11,6 +11,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 </script>
 @extends('layouts.default')
 @section('content')
+    
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM" height="0" width="0"
         style="display:none;visibility:hidden"></iframe></noscript>
@@ -34,12 +35,21 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
         <div class="row justify-content-center">
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('advanced-spine-surgery-mumbai-dr-vishal-kundnani') }}"><img
+                            src="{{ asset('resources/assets/img/blog/advanced-spine-surgery-mumbai-dr-vishal-kundnani.png') }}">
+                        <h1>Advanced Spine Surgery in Mumbai with Dr. Vishal Kundnani</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('neuromonitoring-in-spine-surgery-mumbai') }}"><img
                             src="{{ asset('resources/assets/img/blog/neuromonitoring-spine-surgery.jpg') }}">
                         <h1>Ensuring Safety in Spine Surgery: The Role of Neuromonitoring in Mumbai</h1>
                     </a>
                 </div>
             </div>
+           
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
                     <a href="{{ route('3d-printed-implants-spine-surgery-mumbai') }}"><img
@@ -411,8 +421,8 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
-                    <a href="{{ route('success-story-case-1') }}"><img
-                            src="{{ asset('resources/assets/img/blog/10.jpg') }}">
+                    <a href="{{ route('success-story-case-1') }}">
+                        <img src="{{ asset('resources/assets/img/blog/10.jpg') }}" >
                         <h1>Success story – case 1</h1>
                     </a>
                 </div>
