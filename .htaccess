@@ -26,11 +26,6 @@
 </IfModule>
 
 
-
-
-
-Redirect 301 /index.php https://spinesurgeonmumbai.com/
-
 Redirect 301 /contact.php https://spinesurgeonmumbai.com/contact
 
 Redirect 301 /about-doctor.php https://spinesurgeonmumbai.com/about-doctor
@@ -148,7 +143,19 @@ Redirect 301 /best-neck-pain-doctor-in-bandra.php https://spinesurgeonmumbai.com
 Redirect 301 /best-slip-disc-doctor-in-bandra.php https://spinesurgeonmumbai.com/best-slip-disc-doctor-in-bandra
 Redirect 301 /spine-surgery.php https://spinesurgeonmumbai.com/spine-surgery
 
+Redirect 301 /spine-clinic.php https://spinesurgeonmumbai.com/spine-surgery
 
+Redirect 301 /apss-2025–kuala-lumpur.php https://spinesurgeonmumbai.com/
+
+Redirect 301 /best-spine-surgeons-mumbai.php https://spinesurgeonmumbai.com/best-spine-surgeons-mumbai
+
+Redirect 301 /top-spine-surgeons-india.php https://spinesurgeonmumbai.com/top-spine-surgeons-india
+
+Redirect 301 /top-10-spine-doctors-India.php https://spinesurgeonmumbai.com/top-10-spine-doctors-India
+
+Redirect 301 /best-spine-surgeons-in-india.php https://spinesurgeonmumbai.com/best-spine-surgeons-in-india
+
+Redirect 301 /safe-spine-surgery-in-india https://spinesurgeonmumbai.com/
 
 
 

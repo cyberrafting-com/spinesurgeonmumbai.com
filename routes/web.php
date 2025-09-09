@@ -336,7 +336,7 @@ Route::get('/spinext-clinic-consult-spine-specialist-dr-vishal-kundnani', functi
 })->name('spinext-clinic-consult-spine-specialist-dr-vishal-kundnani');
 
 Route::get('/spine-clinic-is-future-ready-warwithcorona', function () {
-    return view('sspine-clinic-is-future-ready-warwithcorona');
+    return view('spine-clinic-is-future-ready-warwithcorona');
 })->name('spine-clinic-is-future-ready-warwithcorona');
 
 Route::get('/best-docs-mumbai-2020', function () {
