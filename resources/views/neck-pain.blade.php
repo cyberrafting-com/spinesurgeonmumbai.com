@@ -94,6 +94,25 @@ and solutions in Mumbai for effective relief.@endsection
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('neck-pain') }}">Neck Pain</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('neck-pain') }}" class="language-btn {{ request()->is('neck-pain') && !request()->is('neck-pain-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    {{-- <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a> --}}
+                                    <a href="{{ route('neck-pain-m') }}" class="language-btn {{ request()->is('neck-pain-m') ? 'active' : '' }}">
+                                        MARATHI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

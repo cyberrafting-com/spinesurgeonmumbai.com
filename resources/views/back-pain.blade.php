@@ -97,6 +97,25 @@ for effective pain management in Mumbai.@endsection
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('back-pain') }}">Back Pain</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('back-pain') }}" class="language-btn {{ request()->is('back-pain') && !request()->is('back-pain-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    {{-- <a href="{{ route('back-pain-h') }}" class="language-btn {{ request()->is('back-pain-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a> --}}
+                                    <a href="{{ route('back-pain-m') }}" class="language-btn {{ request()->is('back-pain-m') ? 'active' : '' }}">
+                                        MARATHI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -141,11 +160,11 @@ for effective pain management in Mumbai.@endsection
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     Currently functioning <a
-                                                        href="{{route('spine-tip-of-the-day-back-pain')}}"
-                                                        ><b>Back pain</b></a> is a pain in the neck
+                                                        href="{{ route('spine-tip-of-the-day-back-pain') }}"><b>Back
+                                                            pain</b></a> is a pain in the neck
                                                     region resulting in loss of function causing <a
-                                                        href="https://www.healthline.com/health/back-pain/disability-for-back-pain#what-you-need-to-apply"
-                                                        ><b>disability</b></a> is common. Pain in the
+                                                        href="https://www.healthline.com/health/back-pain/disability-for-back-pain#what-you-need-to-apply"><b>disability</b></a>
+                                                    is common. Pain in the
                                                     neck is a very common complaint and is only second to the common
                                                     cold in sickness absenteeism. It is believed that about 85% of the
                                                     general population will have at least one episode of back pain in
@@ -221,8 +240,8 @@ for effective pain management in Mumbai.@endsection
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Slip
                                                     disc / Disc Bulge / Bulged Disc.</li>
                                                 <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
-                                                        class="wow flipInX animated animated"
-                                                        data-wow-iteration="infinite" alt="pic"
+                                                        class="wow flipInX animated animated" data-wow-iteration="infinite"
+                                                        alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                     Stenosis /Lumbar Spinal Stenosis.</li>
                                                 <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
@@ -481,7 +500,7 @@ for effective pain management in Mumbai.@endsection
                                         <div class="cliclskil1">
                                             <p>There are different options to treat back pain depending on the severity
                                                 and duration of symptoms.</p>
-                                            <p><b>At our <a href="{{route('home')}}">state-of-the-art spine center in
+                                            <p><b>At our <a href="{{ route('home') }}">state-of-the-art spine center in
                                                         Mumbai</a>, we offer comprehensive treatment options
                                                     including:-</b></p>
                                             <ul>
@@ -991,9 +1010,8 @@ for effective pain management in Mumbai.@endsection
                             </div>
                             <div class="spine-expert-section mt-4">
                                 <h2>Expert Back Pain Treatment in Mumbai</h2>
-                                <p>When seeking treatment for <a
-                                        href="{{route('spine-tip-of-the-day-backpain')}}"
-                                        >Back Pain in Mumbai</a>, choosing the right spine specialist is
+                                <p>When seeking treatment for <a href="{{ route('spine-tip-of-the-day-backpain') }}">Back
+                                        Pain in Mumbai</a>, choosing the right spine specialist is
                                     crucial for optimal results. Dr. Vishal Kundnani, a renowned spine surgeon in
                                     Mumbai, brings over 15 years of expertise in treating complex spinal conditions. As
                                     the Director of Mumbai Institute of Spine Surgery and leading spine specialist at
@@ -1034,7 +1052,7 @@ for effective pain management in Mumbai.@endsection
                                 <h3>Advanced Spine Surgery Treatments in Mumbai</h3>
                                 <p>Our spine surgery center in Mumbai offers comprehensive treatment options including
                                     minimally invasive spine surgery, microsurgery, and advanced non-surgical
-                                    interventions. <a href="{{route('home')}}">Dr.
+                                    interventions. <a href="{{ route('home') }}">Dr.
                                         Kundnani</a>, recognized as one of the best spine surgeons
                                     in Mumbai, specializes in treating various back conditions using the latest surgical
                                     techniques and technology.</p>
@@ -1065,7 +1083,7 @@ for effective pain management in Mumbai.@endsection
                                 </div>
 
                                 <p class="mt-3">For those seeking the best spine surgeon in Mumbai, <a
-                                        href="{{route('about-doctor')}}">Dr.
+                                        href="{{ route('about-doctor') }}">Dr.
                                         Vishal Kundnani's</a> expertise and patient-focused approach make him a trusted
                                     choice. His spine surgery center in Mumbai is equipped with the latest technology
                                     and staffed by experienced healthcare professionals dedicated to providing

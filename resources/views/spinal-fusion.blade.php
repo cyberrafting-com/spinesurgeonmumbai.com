@@ -71,6 +71,7 @@
  @extends('layouts.default')
 @section('content')
 
+   
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
@@ -82,6 +83,26 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('spinal-fusion') }}">Spinal Fusion</a></li>
                 </ul>
+                <!-- Language Switcher Component -->
+<div class="language-switcher">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="language-buttons">
+                    <a href="{{ route('spinal-fusion') }}" class="language-btn {{ request()->is('spinal-fusion') && !request()->is('spinal-fusion-*') ? 'active' : '' }}">
+                        ENGLISH
+                    </a>
+                    {{-- <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
+                        HINDI
+                    </a> --}}
+                    <a href="{{ route('spinal-fusion-m') }}" class="language-btn {{ request()->is('spinal-fusion-m') ? 'active' : '' }}">
+                        MARATHI
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
             </div>
         </div>
     </div>

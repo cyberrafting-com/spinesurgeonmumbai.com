@@ -94,6 +94,26 @@ care and solutions in Mumbai for spine health.@endsection
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('spinal-stenosis') }}">Spinal Stenosis</a></li>
                 </ul>
+
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('spinal-stenosis') }}" class="language-btn {{ request()->is('spinal-stenosis') && !request()->is('spinal-stenosis-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    {{-- <a href="{{ route('spinal-stenosis-h') }}" class="language-btn {{ request()->is('spinal-stenosis-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a> --}}
+                                    <a href="{{ route('spinal-stenosis-m') }}" class="language-btn {{ request()->is('spinal-stenosis-m') ? 'active' : '' }}">
+                                        MARATHI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

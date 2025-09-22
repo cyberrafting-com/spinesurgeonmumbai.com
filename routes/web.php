@@ -64,7 +64,7 @@ Route::get('/back-pain', function () {
     return view('back-pain');
 })->name('back-pain');
 
-Route::get('/neck-pain', function () {
+Route::get('/neckcrea-pain', function () {
     return view('neck-pain');
 })->name('neck-pain');
 
@@ -355,6 +355,10 @@ Route::get('/best-spine-surgeon-mumbai', function () {
     return view('best-spine-surgeon-mumbai');
 })->name('best-spine-surgeon-mumbai');
 
+Route::get('/slip-disc-treatment-mumbai', function () {
+    return view('slip-disc-treatment-mumbai');
+})->name('slip-disc-treatment-mumbai');
+
 Route::get('/best-spine-surgeons-mumbai', function () {
     return view('best-spine-surgeons-mumbai');
 })->name('best-spine-surgeons-mumbai');
@@ -400,7 +404,7 @@ Route::get('/best-spine-surgeon-in-bandra', function () {
 })->name('best-spine-surgeon-in-bandra');
 
 Route::get('/best-back-pain-doctor-in-bandra', function () {
-    return view('best-back-pain-doctor-in-bandra');     
+    return view('best-back-pain-doctor-in-bandra');
 })->name('best-back-pain-doctor-in-bandra');
 
 Route::get('/best-slip-disc-doctor-in-bandra', function () {
@@ -501,6 +505,42 @@ Route::get('/advanced-spine-surgery-mumbai-dr-vishal-kundnani', function () {
 
 
 
-// Route::get('/about', function () {
-//     return view('about');
-// })->name('about');
+// marathi service pages start
+
+Route::get('/back-pain-m', function () {
+    return view('marathi.back-pain-m');
+})->name('back-pain-m');
+
+Route::get('/neck-pain-m', function () {
+    return view('marathi.neck-pain-m');
+})->name('neck-pain-m');
+
+Route::get('/herniated-disc-m', function () {
+    return view('marathi.herniated-disc-m');
+})->name('herniated-disc-m');
+
+
+Route::get('/spinal-fusion-m', function () {
+    return view('marathi.spinal-fusion-m');
+})->name('spinal-fusion-m');
+
+Route::get('/spinal-stenosis-m', function () {
+    return view('marathi.spinal-stenosis-m');
+})->name('spinal-stenosis-m');
+
+Route::get('/spinal-injections-m', function () {
+    return view('marathi.spinal-injections-m');
+})->name('spinal-injections-m');
+
+Route::get('/spondylolisthesis-m', function () {
+    return view('marathi.spondylolisthesis-m');
+})->name('spondylolisthesis-m');
+
+
+
+
+
+
+
+
+// marathi service pages end

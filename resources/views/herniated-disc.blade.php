@@ -87,6 +87,25 @@ specialist. Effective care for relief.@endsection
                 <li><a href="{{ route('home') }}">Home</a></li>
                 <li><a href="{{ route('herniated-disc') }}">Herniated Disc</a></li>
             </ul>
+            <div class="language-switcher">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="language-buttons">
+                                <a href="{{ route('herniated-disc') }}" class="language-btn {{ request()->is('herniated-disc') && !request()->is('herniated-disc-*') ? 'active' : '' }}">
+                                    ENGLISH
+                                </a>
+                                {{-- <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
+                                    HINDI
+                                </a> --}}
+                                <a href="{{ route('herniated-disc-m') }}" class="language-btn {{ request()->is('herniated-disc-m') ? 'active' : '' }}">
+                                    MARATHI
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

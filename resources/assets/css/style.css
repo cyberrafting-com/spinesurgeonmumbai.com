@@ -3490,8 +3490,8 @@ Hospital Fixed Bottom
     padding: 20px 30px;
     margin: 0;
     background: rgb(27 106 170);
-    font-size: 17px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 500;
     color: #fff;
     line-height: 26px;
     text-transform: capitalize;
@@ -3499,6 +3499,7 @@ Hospital Fixed Bottom
     border: none;
     border-radius: 5px;
     position: relative;
+    font-family: 'Poppins', sans-serif;
 }
 
 #accordion .panel-title a.collapsed {
@@ -3531,16 +3532,20 @@ Hospital Fixed Bottom
 #accordion .panel-body {
     padding: 20px 15px;
     background: rgb(227 227 227);
-    font-size: 15px;
+    font-size: 16px;
     color: #fff;
     line-height: 28px;
     letter-spacing: 1px;
     border-top: none;
     border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
 }
 
 #accordion .panel-body p {
     color: #282828;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 28px;
 }
 
 .cliclskil1 {
@@ -3558,7 +3563,7 @@ Hospital Fixed Bottom
 .cliclskil1 p {
     font-size: 16px;
     color: #282828;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     line-height: 28px;
     /* text-align:justify; */
 }
@@ -3577,11 +3582,12 @@ Hospital Fixed Bottom
     list-style: none;
     position: relative;
     color: #000000;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
-    line-height: 26px;
+    line-height: 28px;
     padding: 10px 0 10px 0px;
     border-bottom: 1px solid #d5cccb;
+    font-family: 'Poppins', sans-serif;
 }
 
 .cliclskil1 ul li img {
@@ -5039,4 +5045,89 @@ img.gal-img {
 
 /* blog */
 
-ge css end */
+
+/* language switcher css start */
+
+.language-switcher {
+    padding: 15px 0;
+}
+
+.language-buttons {
+    display: flex;
+    justify-content: flex-start;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.language-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #1b6aaa;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    border: 2px solid #1b6aaa;
+    min-width: 90px;
+    text-align: center;
+}
+
+.language-btn:hover {
+    background: #ad100c;
+    color: #fff;
+    text-decoration: none;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(173, 16, 12, 0.3);
+    border-color: #ad100c;
+}
+
+.language-btn.active {
+    background: #ad100c;
+    color: #fff;
+    border-color: #ad100c;
+}
+
+.language-btn.active:hover {
+    background: #8d0d0a;
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(141, 13, 10, 0.3);
+    border-color: #8d0d0a;
+}
+
+
+/* Mobile Responsive */
+
+@media (max-width: 768px) {
+    .language-switcher {
+        padding: 12px 0;
+    }
+    .language-buttons {
+        gap: 10px;
+    }
+    .language-btn {
+        padding: 8px 16px;
+        font-size: 13px;
+        min-width: 80px;
+    }
+}
+
+@media (max-width: 480px) {
+    .language-buttons {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+    .language-btn {
+        width: 150px;
+        padding: 10px 16px;
+    }
+}
+
+
+/* language switcher css end */

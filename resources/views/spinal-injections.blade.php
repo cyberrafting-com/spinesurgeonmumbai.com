@@ -82,6 +82,29 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('spinal-injections') }}">Spinal Injections</a></li>
                 </ul>
+            
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('spinal-injections') }}" class="language-btn {{ request()->is('spinal-injections') && !request()->is('spinal-injections-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    {{-- <a href="{{ route('spinal-injections-h') }}" class="language-btn {{ request()->is('spinal-injections-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a> --}}
+                                    <a href="{{ route('spinal-injections-m') }}" class="language-btn {{ request()->is('spinal-injections-m') ? 'active' : '' }}">
+                                        MARATHI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
             </div>
         </div>
     </div>
