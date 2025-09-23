@@ -90,10 +90,10 @@
     <div class="banner-wrap1">
         <div class="container">
             <div class="row">
-                <h2>WHAT <span>WE DO</span></h2>
+                <h2>आम्ही <span>काय करतो</span></h2>
                 <ul class="breadcrumb1">
-                    <li><a href="{{ route('home') }}">Home</a></li>
-                    <li><a href="{{ route('neck-pain') }}">Neck Pain</a></li>
+                    <li><a href="{{ route('home') }}">मुख्यपृष्ठ</a></li>
+                    <li><a href="{{ route('neck-pain') }}">मान दुखणे</a></li>
                 </ul>
                 <div class="language-switcher">
                     <div class="container">

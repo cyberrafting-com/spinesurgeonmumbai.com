@@ -105,9 +105,9 @@ for effective pain management in Mumbai.@endsection
                                     <a href="{{ route('back-pain') }}" class="language-btn {{ request()->is('back-pain') && !request()->is('back-pain-*') ? 'active' : '' }}">
                                         ENGLISH
                                     </a>
-                                    {{-- <a href="{{ route('back-pain-h') }}" class="language-btn {{ request()->is('back-pain-h') ? 'active' : '' }}">
+                                    <a href="{{ route('back-pain-h') }}" class="language-btn {{ request()->is('back-pain-h') ? 'active' : '' }}">
                                         HINDI
-                                    </a> --}}
+                                    </a>
                                     <a href="{{ route('back-pain-m') }}" class="language-btn {{ request()->is('back-pain-m') ? 'active' : '' }}">
                                         MARATHI
                                     </a>

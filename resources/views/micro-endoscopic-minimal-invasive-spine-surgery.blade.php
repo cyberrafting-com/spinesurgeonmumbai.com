@@ -82,6 +82,25 @@
 					<li><a href="{{ route('home') }}">Home</a></li>
 					<li><a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}">Micro Endoscopic Minimal Invasive Spine Surgery</a></li>
 				</ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery') && !request()->is('micro-endoscopic-minimal-invasive-spine-surgery-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    {{-- <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery-h') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a> --}}
+                                    <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery-m') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery-m') ? 'active' : '' }}">
+                                        MARATHI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 			</div>
 		</div>
 	</div>

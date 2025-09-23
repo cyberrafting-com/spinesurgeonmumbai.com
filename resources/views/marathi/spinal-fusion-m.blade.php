@@ -71,10 +71,10 @@
       }]
     }
     </script>
-@extends('layouts.default')
+ @extends('layouts.default')
 @section('content')
 
-   
+
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
             <div class="banner-wrap1">
@@ -597,7 +597,7 @@
 
                     <div class="col-lg-4 col-md-4 col-sm-4">
 
-                        @include('includes.what-we-do-sidebar')
+                    @include('includes.what-we-do-sidebar')
                     </div>
                 </div>
             </div>

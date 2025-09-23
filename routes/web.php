@@ -1,3 +1,4 @@
+
 <?php
 use App\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
@@ -64,17 +65,33 @@ Route::get('/back-pain', function () {
     return view('back-pain');
 })->name('back-pain');
 
+Route::get('/back-pain-h', function () {
+    return view('hindi.back-pain-h');
+})->name('back-pain-h');
+
 Route::get('/neckcrea-pain', function () {
     return view('neck-pain');
 })->name('neck-pain');
+
+Route::get('/neck-pain-h', function () {
+    return view('hindi.neck-pain-h');
+})->name('neck-pain-h');
 
 Route::get('/herniated-disc', function () {
     return view('herniated-disc');
 })->name('herniated-disc');
 
+Route::get('/herniated-disc-h', function () {
+    return view('hindi.herniated-disc-h');
+})->name('herniated-disc-h');
+
 Route::get('/spinal-fusion', function () {
     return view('spinal-fusion');
 })->name('spinal-fusion');
+
+Route::get('/spinal-fusion-h', function () {
+    return view('hindi.spinal-fusion-h');
+})->name('spinal-fusion-h');
 
 Route::get('/spinal-stenosis', function () {
     return view('spinal-stenosis');
@@ -100,13 +117,22 @@ Route::get('/minimal-invasive-spine-surgery', function () {
     return view('minimal-invasive-spine-surgery');
 })->name('minimal-invasive-spine-surgery');
 
+Route::get('/minimal-invasive-spine-surgery-m', function () {
+    return view('marathi.minimal-invasive-spine-surgery-m');
+})->name('minimal-invasive-spine-surgery-m');
+
 Route::get('/micro-endoscopic-minimal-invasive-spine-surgery', function () {
     return view('micro-endoscopic-minimal-invasive-spine-surgery');
 })->name('micro-endoscopic-minimal-invasive-spine-surgery');
 
+
 Route::get('/common-spinal-stenosis-questions', function () {
     return view('common-spinal-stenosis-questions');
 })->name('common-spinal-stenosis-questions');
+
+Route::get('/common-spinal-stenosis-questions-m', function () {
+    return view('marathi.common-spinal-stenosis-questions-m');
+})->name('common-spinal-stenosis-questions-m');
 
 Route::get('/acute-low-back-pain', function () {
     return view('acute-low-back-pain');
@@ -524,6 +550,7 @@ Route::get('/spinal-fusion-m', function () {
     return view('marathi.spinal-fusion-m');
 })->name('spinal-fusion-m');
 
+
 Route::get('/spinal-stenosis-m', function () {
     return view('marathi.spinal-stenosis-m');
 })->name('spinal-stenosis-m');
@@ -536,10 +563,21 @@ Route::get('/spondylolisthesis-m', function () {
     return view('marathi.spondylolisthesis-m');
 })->name('spondylolisthesis-m');
 
+Route::get('/physiotherapy-in-spine-m', function () {
+    return view('marathi.physiotherapy-in-spine-m');
+})->name('physiotherapy-in-spine-m');
 
+Route::get('/exercises-m', function () {
+    return view('marathi.exercises-m');
+})->name('exercises-m');
 
+Route::get('/micro-endoscopic-minimal-invasive-spine-surgery-m', function () {
+    return view('marathi.micro-endoscopic-minimal-invasive-spine-surgery-m');
+})->name('micro-endoscopic-minimal-invasive-spine-surgery-m');
 
-
+Route::get('/the-best-spine-surgeon-mumbai', function () {
+    return view('the-best-spine-surgeon-mumbai');
+})->name('the-best-spine-surgeon-mumbai');
 
 
 

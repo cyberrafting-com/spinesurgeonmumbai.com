@@ -35,6 +35,14 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
         <div class="row justify-content-center">
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('the-best-spine-surgeon-mumbai') }}"><img
+                            src="{{ asset('resources/assets/img/blog/the-best-spine-surgeon-mumbai-blog.png') }}">
+                        <h1>Best Spine Surgeon in Mumbai – How to Choose the Right Doctor</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('slip-disc-treatment-mumbai') }}"><img
                             src="{{ asset('resources/assets/img/blog/slip-disc-treatment-mumbai.png') }}">
                         <h1>Slip Disc Treatment in Mumbai – Without Surgery & With Surgery Options</h1>

@@ -102,9 +102,9 @@ and solutions in Mumbai for effective relief.@endsection
                                     <a href="{{ route('neck-pain') }}" class="language-btn {{ request()->is('neck-pain') && !request()->is('neck-pain-*') ? 'active' : '' }}">
                                         ENGLISH
                                     </a>
-                                    {{-- <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
+                                    <a href="{{ route('neck-pain-h') }}" class="language-btn {{ request()->is('neck-pain-h') ? 'active' : '' }}">
                                         HINDI
-                                    </a> --}}
+                                    </a>
                                     <a href="{{ route('neck-pain-m') }}" class="language-btn {{ request()->is('neck-pain-m') ? 'active' : '' }}">
                                         MARATHI
                                     </a>

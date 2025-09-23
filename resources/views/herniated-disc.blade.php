@@ -95,9 +95,9 @@ specialist. Effective care for relief.@endsection
                                 <a href="{{ route('herniated-disc') }}" class="language-btn {{ request()->is('herniated-disc') && !request()->is('herniated-disc-*') ? 'active' : '' }}">
                                     ENGLISH
                                 </a>
-                                {{-- <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
+                                <a href="{{ route('herniated-disc-h') }}" class="language-btn {{ request()->is('herniated-disc-h') ? 'active' : '' }}">
                                     HINDI
-                                </a> --}}
+                                </a>
                                 <a href="{{ route('herniated-disc-m') }}" class="language-btn {{ request()->is('herniated-disc-m') ? 'active' : '' }}">
                                     MARATHI
                                 </a>

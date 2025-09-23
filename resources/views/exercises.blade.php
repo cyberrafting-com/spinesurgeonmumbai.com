@@ -82,6 +82,25 @@
 					<li><a href="{{ route('home') }}">Home</a></li>
 					<li><a href="{{ route('exercises') }}">Exercises</a></li>
 				</ul>
+				<div class="language-switcher">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-12">
+								<div class="language-buttons">
+									<a href="{{ route('exercises') }}" class="language-btn {{ request()->is('exercises') && !request()->is('exercises-*') ? 'active' : '' }}">
+										ENGLISH
+									</a>
+									{{-- <a href="{{ route('exercises-h') }}" class="language-btn {{ request()->is('exercises-h') ? 'active' : '' }}">
+										HINDI
+									</a> --}}
+									<a href="{{ route('exercises-m') }}" class="language-btn {{ request()->is('exercises-m') ? 'active' : '' }}">
+										MARATHI
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>

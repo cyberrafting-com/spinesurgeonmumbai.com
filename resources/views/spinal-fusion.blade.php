@@ -92,9 +92,9 @@
                     <a href="{{ route('spinal-fusion') }}" class="language-btn {{ request()->is('spinal-fusion') && !request()->is('spinal-fusion-*') ? 'active' : '' }}">
                         ENGLISH
                     </a>
-                    {{-- <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
+                    <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
                         HINDI
-                    </a> --}}
+                    </a>
                     <a href="{{ route('spinal-fusion-m') }}" class="language-btn {{ request()->is('spinal-fusion-m') ? 'active' : '' }}">
                         MARATHI
                     </a>

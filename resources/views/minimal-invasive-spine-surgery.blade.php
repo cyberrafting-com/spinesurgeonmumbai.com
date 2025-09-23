@@ -86,6 +86,25 @@ Mumbai. Advanced treatments for spine issues in Mumbai.@endsection
                     <li><a href="{{ route('minimal-invasive-spine-surgery') }}">Minimal Invasive Spine Surgery –
                             General</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('minimal-invasive-spine-surgery') }}" class="language-btn {{ request()->is('minimal-invasive-spine-surgery') && !request()->is('minimal-invasive-spine-surgery-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    {{-- <a href="{{ route('minimal-invasive-spine-surgery-h') }}" class="language-btn {{ request()->is('minimal-invasive-spine-surgery-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a> --}}
+                                    <a href="{{ route('minimal-invasive-spine-surgery-m') }}" class="language-btn {{ request()->is('minimal-invasive-spine-surgery-m') ? 'active' : '' }}">
+                                        MARATHI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -380,3 +399,385 @@ Mumbai. Advanced treatments for spine issues in Mumbai.@endsection
     </section>
 
 @stop
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Less
+
+                                            blood loss</li>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No
+
+                                            post operation pain</li>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Better
+
+                                            cosmesis</li>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Shorter
+
+                                            hospitalisation</li>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Early
+
+                                            recovery and return to work</li>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No
+
+                                            need of bed rest after surgery</li>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Less
+
+                                            infection rates</li>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No
+
+                                            long term morbidity</li>
+
+                                    </ul>
+
+                                </div>
+
+                                <div class="col-lg-6">
+
+                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture18.png') }}">
+
+                                </div>
+
+                            </div>
+
+
+
+                            <div class="row mt-2">
+
+                                <div class="col-lg-6">
+
+                                    <p><b>Limitations</b></p>
+
+                                    <ul>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Limited
+
+                                            applicability not suited for cases like high grade spondylolisthesis, severe
+
+                                            stenosis, multilevel pathology etc.</li>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Resource
+
+                                            Intensive and costly.</li>
+
+                                    </ul>
+
+                                </div>
+
+                                <div class="col-lg-6">
+
+                                    <p><b>Post Operative Protocol</b></p>
+
+                                    <ul>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day
+
+                                            0- surgery</li>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day
+
+                                            1 post op Mobilization out of bed</li>
+
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                                class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                                alt="pic"
+
+                                                style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day
+
+                                            2 Post op – Discharge with rehabilitation and physiotherapy program + 'do's
+
+                                            and Dont's</li>
+
+                                    </ul>
+
+                                </div>
+
+                            </div>
+
+                            <br>
+
+                            <h3>Cost of Minimal Invasive Spine Surgery</h3>
+
+                            <div class="bordered-section">
+
+                                <p>Understanding the <strong>cost of minimal invasive spine surgery</strong> is
+
+                                    essential for patients planning their treatment journey. The pricing can vary
+
+                                    significantly based on factors such as the complexity of the procedure, hospital
+
+                                    facilities, surgeon expertise, location, and the type of technology or equipment
+
+                                    used.</p>
+
+                                <p>On average, the cost of minimal invasive spine surgery in India ranges from
+
+                                    <strong>₹1.5 lakhs to ₹5 lakhs</strong>. This estimate includes pre-operative
+
+                                    diagnostics, surgeon’s fees, anesthesia, hospital stay, post-operative medications,
+
+                                    and rehabilitation sessions. However, the final cost may differ depending on whether
+
+                                    the surgery involves spinal fusion, discectomy, or decompression procedures.
+
+                                </p>
+
+                                <p><strong>Key factors affecting the cost of minimal invasive spine surgery:</strong>
+
+                                </p>
+
+                                <ul>
+
+                                    <li><strong>Type of Surgery :</strong> Procedures like MIS TLIF (Transforaminal
+
+                                        Lumbar Interbody Fusion) or microdiscectomy may have different costs based on
+
+                                        the surgical approach.</li>
+
+                                    <li><strong>Hospital and Location :</strong> Premium hospitals in metro cities like
+
+                                        Mumbai may charge more due to advanced infrastructure and experienced staff.
+
+                                    </li>
+
+                                    <li><strong>Surgeon’s Experience :</strong> Highly qualified spine surgeons with a
+
+                                        proven track record in minimal invasive procedures may have higher consultation
+
+                                        and surgery fees.</li>
+
+                                    <li><strong>Pre- and Post-operative Care :</strong> Diagnostic tests (MRI, CT scan),
+
+                                        physiotherapy, and follow-ups can add to the overall expenditure.</li>
+
+                                </ul>
+
+                                <br>
+
+                                <p>At <a href="{{route('home')}}" ><strong>Spine
+
+                                            Clinic Mumbai</strong></a>, led by <a
+
+                                        href="{{route('about-doctor')}}">Dr.
+
+                                        Vishal Kundnani</a>, patients receive transparent pricing and expert care. The
+
+                                    clinic ensures affordability without compromising on quality and safety. Customized
+
+                                    treatment plans are provided based on individual spine conditions and medical
+
+                                    history.</p>
+
+                                <p>If you are seeking safe and effective solutions for spinal conditions, <a
+
+                                        href="{{route('contact')}}">Contact us</a>
+
+                                    today to get an exact estimate for your <strong>minimal invasive spine
+
+                                        surgery</strong>.</p>
+
+                            </div>
+
+                            <h3>Minimal Invasive Spine Surgery Gallery –</h3>
+
+                            <ul class="mt-1">
+
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                        class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                        alt="pic"
+
+                                        style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SLIP
+
+                                    DISC</li>
+
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                        class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                        alt="pic"
+
+                                        style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SPINAL
+
+                                    STENOSIS</li>
+
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                        class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                        alt="pic"
+
+                                        style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">LUMBAR
+
+                                    SPINAL STENOSIS</li>
+
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                        class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                        alt="pic"
+
+                                        style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SPONDYLOLISTHESIS
+
+                                </li>
+
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                        class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                        alt="pic"
+
+                                        style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
+
+                                    DISCECTOMY SURGERY</li>
+
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                        class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                        alt="pic"
+
+                                        style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
+
+                                    DECOMPRESSION SURGERY</li>
+
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                        class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                        alt="pic"
+
+                                        style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
+
+                                    SPINAL FUSION</li>
+
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+
+                                        class="wow flipInX animated animated" data-wow-iteration="infinite"
+
+                                        alt="pic"
+
+                                        style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MIS
+
+                                    TLIF – MINIMAL INVASIVE TRANSFORMAINAL INTERBODY FUSION.</li>
+
+                            </ul>
+
+                            <p class="mt-2"><b>Who is the best Minimal Invasive Spine Surgeon or Best Spine Specialist
+
+                                    in India for treatment of spine?</b></p>
+
+                            <p><a href="{{route('home')}}" >Dr. Vishal
+
+                                    Kundnani</a> is one of the best spine surgeons for slip disc surgery and is
+
+                                available in various hospitals for consultation and for surgery. Dr. Vishal Kundnani is
+
+                                the best spine specialist with a considerate approach to patients with an honest opinion
+
+                                and ethical spine practice. Dr. Vishal Kundnani is the best microscopic and minimally
+
+                                invasive surgeon for <a href="{{route('slip-disc')}}">slip disc surgery</a> in Goregaon, Malad, Kandivali.</p>
+
+
+
+                        </div>
+
+                    </div>
+
+
+
+                    <div class="col-lg-4 col-md-4 col-sm-4">
+
+                        @include('includes.what-we-do-sidebar')
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+@stop
+
+

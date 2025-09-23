@@ -85,6 +85,25 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                 <li><a href="{{ route('home') }}">Home</a></li>
                 <li><a href="{{ route('physiotherapy-in-spine') }}">Physiotherapy In Spine</a></li>
             </ul>
+            <div class="language-switcher">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="language-buttons">
+                                <a href="{{ route('physiotherapy-in-spine') }}" class="language-btn {{ request()->is('physiotherapy-in-spine') && !request()->is('physiotherapy-in-spine-*') ? 'active' : '' }}">
+                                    ENGLISH
+                                </a>
+                                {{-- <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
+                                    HINDI
+                                </a> --}}
+                                <a href="{{ route('physiotherapy-in-spine-m') }}" class="language-btn {{ request()->is('physiotherapy-in-spine-m') ? 'active' : '' }}">
+                                    MARATHI
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

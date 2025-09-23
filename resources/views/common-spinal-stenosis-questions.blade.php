@@ -90,6 +90,25 @@ care and solutions in Mumbai for spine health.@endsection
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('common-spinal-stenosis-questions') }}">Common Spinal Stenosis Questions</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('common-spinal-stenosis-questions') }}" class="language-btn {{ request()->is('common-spinal-stenosis-questions') && !request()->is('common-spinal-stenosis-questions-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    {{-- <a href="{{ route('common-spinal-stenosis-questions-h') }}" class="language-btn {{ request()->is('common-spinal-stenosis-questions-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a> --}}
+                                    <a href="{{ route('common-spinal-stenosis-questions-m') }}" class="language-btn {{ request()->is('common-spinal-stenosis-questions-m') ? 'active' : '' }}">
+                                        MARATHI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
