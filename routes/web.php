@@ -536,7 +536,9 @@ Route::get('/minimally-invasive-spine-surgery-india', function () {
 Route::get('/cervical-spine-surgery-mumbai', function () {
     return view('cervical-spine-surgery-mumbai');
 })->name('cervical-spine-surgery-mumbai');
-
+Route::get('/back-pain-specialist-mumbai', function () {
+        return view('back-pain-specialist-mumbai');
+})->name('back-pain-specialist-mumbai');
 
 // marathi service pages start
 
@@ -585,6 +587,18 @@ Route::get('/micro-endoscopic-minimal-invasive-spine-surgery-m', function () {
 Route::get('/the-best-spine-surgeon-mumbai', function () {
     return view('the-best-spine-surgeon-mumbai');
 })->name('the-best-spine-surgeon-mumbai');
+
+Route::get('/spinal-stenosis-h', function () {
+    return view('hindi.spinal-stenosis-h');
+})->name('spinal-stenosis-h');
+
+Route::get('/spinal-injections-h', function () {
+    return view('hindi.spinal-injections-h');
+})->name('spinal-injections-h');
+
+Route::get('/spondylolisthesis-h', function () {
+    return view('hindi.spondylolisthesis-h');
+})->name('spondylolisthesis-h');
 
 
 

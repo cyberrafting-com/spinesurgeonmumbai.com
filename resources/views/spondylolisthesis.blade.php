@@ -93,9 +93,9 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 <a href="{{ route('spondylolisthesis') }}" class="language-btn {{ request()->is('spondylolisthesis') && !request()->is('spondylolisthesis-*') ? 'active' : '' }}">
                                     ENGLISH
                                 </a>
-                                {{-- <a href="{{ route('spondylolisthesis-h') }}" class="language-btn {{ request()->is('spondylolisthesis-h') ? 'active' : '' }}">
+                                <a href="{{ route('spondylolisthesis-h') }}" class="language-btn {{ request()->is('spondylolisthesis-h') ? 'active' : '' }}">
                                     HINDI
-                                </a> --}}
+                                </a>
                                 <a href="{{ route('spondylolisthesis-m') }}" class="language-btn {{ request()->is('spondylolisthesis-m') ? 'active' : '' }}">
                                     MARATHI
                                 </a>

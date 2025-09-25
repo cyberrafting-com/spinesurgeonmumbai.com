@@ -35,6 +35,14 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
         <div class="row justify-content-center">
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                        <a href="{{ route('back-pain-specialist-mumbai') }}"><img
+                            src="{{ asset('resources/assets/img/blog/back-pain-specialist-mumbai.png') }}">
+                        <h1>Back Pain Specialist in Mumbai – When to See a Spine Surgeon</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                         <a href="{{ route('cervical-spine-surgery-mumbai') }}"><img
                             src="{{ asset('resources/assets/img/blog/cervical-spine-surgery-mumbai.png') }}">
                         <h1>Cervical Spine Surgery in Mumbai – Causes, Treatments, Recovery</h1>

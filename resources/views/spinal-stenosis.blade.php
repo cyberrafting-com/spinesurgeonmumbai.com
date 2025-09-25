@@ -103,9 +103,9 @@ care and solutions in Mumbai for spine health.@endsection
                                     <a href="{{ route('spinal-stenosis') }}" class="language-btn {{ request()->is('spinal-stenosis') && !request()->is('spinal-stenosis-*') ? 'active' : '' }}">
                                         ENGLISH
                                     </a>
-                                    {{-- <a href="{{ route('spinal-stenosis-h') }}" class="language-btn {{ request()->is('spinal-stenosis-h') ? 'active' : '' }}">
+                                    <a href="{{ route('spinal-stenosis-h') }}" class="language-btn {{ request()->is('spinal-stenosis-h') ? 'active' : '' }}">
                                         HINDI
-                                    </a> --}}
+                                    </a>
                                     <a href="{{ route('spinal-stenosis-m') }}" class="language-btn {{ request()->is('spinal-stenosis-m') ? 'active' : '' }}">
                                         MARATHI
                                     </a>

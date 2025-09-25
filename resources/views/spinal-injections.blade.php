@@ -91,9 +91,9 @@
                                     <a href="{{ route('spinal-injections') }}" class="language-btn {{ request()->is('spinal-injections') && !request()->is('spinal-injections-*') ? 'active' : '' }}">
                                         ENGLISH
                                     </a>
-                                    {{-- <a href="{{ route('spinal-injections-h') }}" class="language-btn {{ request()->is('spinal-injections-h') ? 'active' : '' }}">
+                                    <a href="{{ route('spinal-injections-h') }}" class="language-btn {{ request()->is('spinal-injections-h') ? 'active' : '' }}">
                                         HINDI
-                                    </a> --}}
+                                    </a>
                                     <a href="{{ route('spinal-injections-m') }}" class="language-btn {{ request()->is('spinal-injections-m') ? 'active' : '' }}">
                                         MARATHI
                                     </a>
