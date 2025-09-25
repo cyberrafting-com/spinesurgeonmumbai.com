@@ -25,9 +25,10 @@
             "addressCountry": "IN"
         },
         "sameAs": [
-            "https://www.facebook.com/spinesurgeonmumbai",
-            "https://www.twitter.com/spinesurgeonmumbai",
-            "https://www.instagram.com/spinesurgeonmumbai"
+            "https://www.facebook.com/spineclinicmumbai",
+        "https://www.linkedin.com/in/dr-vishal-kundnani-654676b",
+        "https://www.instagram.com/spinespecialistvishal"
+
         ],
         "contactPoint": {
             "@type": "ContactPoint",

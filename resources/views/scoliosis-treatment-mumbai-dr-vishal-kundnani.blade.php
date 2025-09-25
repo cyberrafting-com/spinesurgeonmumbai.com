@@ -30,8 +30,11 @@
         "availableLanguage": "English"
     },
     "sameAs": [
-        "https://www.lilavathihospital.com",
-        "https://www.bombayhospital.com"
+        
+        "https://www.facebook.com/spineclinicmumbai",
+        "https://www.linkedin.com/in/dr-vishal-kundnani-654676b",
+       "https://www.instagram.com/spinespecialistvishal"
+      
     ],
     "medicalSpecialty": "Spine Surgery",
     "url": "https://www.lilavathihospital.com/dr-vishal-kundnani"

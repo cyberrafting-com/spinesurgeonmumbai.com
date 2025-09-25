@@ -35,6 +35,23 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
         <div class="row justify-content-center">
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                        <a href="{{ route('cervical-spine-surgery-mumbai') }}"><img
+                            src="{{ asset('resources/assets/img/blog/cervical-spine-surgery-mumbai.png') }}">
+                        <h1>Cervical Spine Surgery in Mumbai – Causes, Treatments, Recovery</h1>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                        <a href="{{ route('minimally-invasive-spine-surgery-india') }}"><img
+                            src="{{ asset('resources/assets/img/blog/minimally-invasive-spine-surgery-india.png') }}">
+                        <h1>Minimally Invasive Spine Surgery in India</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('the-best-spine-surgeon-mumbai') }}"><img
                             src="{{ asset('resources/assets/img/blog/the-best-spine-surgeon-mumbai-blog.png') }}">
                         <h1>Best Spine Surgeon in Mumbai – How to Choose the Right Doctor</h1>

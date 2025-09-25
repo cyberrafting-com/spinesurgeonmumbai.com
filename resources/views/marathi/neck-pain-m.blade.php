@@ -103,9 +103,9 @@
                                     <a href="{{ route('neck-pain') }}" class="language-btn {{ request()->is('neck-pain') && !request()->is('neck-pain-*') ? 'active' : '' }}">
                                         ENGLISH
                                     </a>
-                                    {{-- <a href="{{ route('neck-pain-h') }}" class="language-btn {{ request()->is('neck-pain-h') ? 'active' : '' }}">
+                                    <a href="{{ route('neck-pain-h') }}" class="language-btn {{ request()->is('neck-pain-h') ? 'active' : '' }}">
                                         HINDI
-                                    </a> --}}
+                                    </a>
                                     <a href="{{ route('neck-pain-m') }}" class="language-btn {{ request()->is('neck-pain-m') ? 'active' : '' }}">
                                         MARATHI
                                     </a>

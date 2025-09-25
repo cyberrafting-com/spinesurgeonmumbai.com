@@ -529,6 +529,13 @@ Route::get('/advanced-spine-surgery-mumbai-dr-vishal-kundnani', function () {
     return view('advanced-spine-surgery-mumbai-dr-vishal-kundnani');
 })->name('advanced-spine-surgery-mumbai-dr-vishal-kundnani');
 
+Route::get('/minimally-invasive-spine-surgery-india', function () {
+    return view('minimally-invasive-spine-surgery-india');
+})->name('minimally-invasive-spine-surgery-india');
+
+Route::get('/cervical-spine-surgery-mumbai', function () {
+    return view('cervical-spine-surgery-mumbai');
+})->name('cervical-spine-surgery-mumbai');
 
 
 // marathi service pages start
