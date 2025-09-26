@@ -559,7 +559,6 @@ Route::get('/spinal-fusion-m', function () {
     return view('marathi.spinal-fusion-m');
 })->name('spinal-fusion-m');
 
-
 Route::get('/spinal-stenosis-m', function () {
     return view('marathi.spinal-stenosis-m');
 })->name('spinal-stenosis-m');
