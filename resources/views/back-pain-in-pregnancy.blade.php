@@ -99,6 +99,22 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('back-pain') }}">Back Pain</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('back-pain-in-pregnancy') }}" class="language-btn {{ request()->is('back-pain-in-pregnancy') && !request()->is('back-pain-in-pregnancy-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    <a href="{{ route('back-pain-in-pregnancy-h') }}" class="language-btn {{ request()->is('back-pain-in-pregnancy-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

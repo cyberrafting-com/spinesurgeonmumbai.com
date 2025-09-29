@@ -100,6 +100,22 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('back-pain') }}">Degenerative Disc Disease</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('degenerative-disc-disease') }}" class="language-btn {{ request()->is('degenerative-disc-disease') && !request()->is('degenerative-disc-disease-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    <a href="{{ route('degenerative-disc-disease-h') }}" class="language-btn {{ request()->is('degenerative-disc-disease-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

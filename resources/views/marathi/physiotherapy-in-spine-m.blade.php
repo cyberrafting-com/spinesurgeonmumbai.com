@@ -92,9 +92,9 @@
                                 <a href="{{ route('physiotherapy-in-spine') }}" class="language-btn {{ request()->is('physiotherapy-in-spine') && !request()->is('physiotherapy-in-spine-*') ? 'active' : '' }}">
                                     ENGLISH
                                 </a>
-                                {{-- <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
+                                <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
                                     HINDI
-                                </a> --}}
+                                </a>
                                 <a href="{{ route('physiotherapy-in-spine-m') }}" class="language-btn {{ request()->is('physiotherapy-in-spine-m') ? 'active' : '' }}">
                                     MARATHI
                                 </a>

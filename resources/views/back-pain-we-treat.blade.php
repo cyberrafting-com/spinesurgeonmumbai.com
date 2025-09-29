@@ -81,42 +81,7 @@
             ]
         }
         </script>
-    <style>
-        /* Global icon alignment for all list items */
-        .cliclskil1 ul {
-            list-style: none;
-            padding-left: 0;
-        }
-
-        .cliclskil1 ul li {
-            position: relative;
-            padding-left: 35px;
-            margin-bottom: 15px;
-            line-height: 1.6;
-        }
-
-        .cliclskil1 ul li img {
-            position: absolute;
-            left: 0;
-            top: 12px;
-            width: 20px;
-            height: 20px;
-        }
-
-        /* Mobile responsive adjustments */
-        @media (max-width: 768px) {
-            .cliclskil1 ul li {
-                padding-left: 30px;
-            }
-
-            .cliclskil1 ul li img {
-                width: 18px;
-                height: 18px;
-                top: 2px;
-            }
-        }
-    </style>
-
+   
 
     @extends('layouts.default')
 
@@ -128,9 +93,25 @@
             <div class="row">
                 <h2>We <span>Treat</span></h2>
                 <ul class="breadcrumb1">
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="back-pain-we-treat.php">Back Pain</a></li>
+                    <li><a href="{{ route('home') }}">Home</a></li>
+                    <li><a href="{{ route('back-pain-we-treat') }}">Back Pain</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('back-pain-we-treat') }}" class="language-btn {{ request()->is('back-pain-we-treat') && !request()->is('back-pain-we-treat-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    <a href="{{ route('back-pain-we-treat-h') }}" class="language-btn {{ request()->is('back-pain-we-treat-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -194,7 +175,7 @@
                         <h3>Back pain is also caused by a specific spinal condition like :</h3>
                         <div class="container ba_image mt-4">
 
-                            <img src="images/causes-of-back-pain.jpg"
+                            <img src="{{ asset('resources/assets/images/causes-of-back-pain.jpg') }}"
                                 alt="Causes of back pain treaded by Dr. Vishal Kundnani in Mumbai"
                                 class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
 

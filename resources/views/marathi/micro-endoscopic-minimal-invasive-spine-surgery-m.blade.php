@@ -90,9 +90,9 @@
 									<a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery') && !request()->is('micro-endoscopic-minimal-invasive-spine-surgery-*') ? 'active' : '' }}">
 										ENGLISH
 									</a>
-									{{-- <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery-h') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery-h') ? 'active' : '' }}">
+									<a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery-h') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery-h') ? 'active' : '' }}">
 										HINDI
-									</a> --}}
+									</a>
 									<a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery-m') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery-m') ? 'active' : '' }}">
 										MARATHI
 									</a>
@@ -191,14 +191,14 @@
                                 <p class="mt-2">डॉ. विशाल कुंडनानी हे मुंबईतील स्पाइन नेव्हिगेशन सर्जरीचे अग्रणी तज्ञ आहेत. ते भारतातील सर्वोत्तम स्पाइन नेव्हिगेशन सर्जन मानले जातात आणि रोबोटिक स्पाइन सर्जरीत प्रशिक्षित आहेत.</p>
                                 <p class="mt-2"><b>मायक्रो एंडोस्कोपिक मिनिमल इनवेसिव्ह स्पाइन सर्जरी – गॅलरी</b></p>
                                 <ul class="mt-1">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SLIP DISC</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SPINAL STENOSIS</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">LUMBAR SPINAL STENOSIS</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SPONDYLOLISTHESIS</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC DISCECTOMY SURGERY</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC DECOMPRESSION SURGERY</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC SPINAL FUSION</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MIS TLIF – MINIMAL INVASIVE TRANSFORAMINAL INTERBODY FUSION</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल स्टेनोसिस</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लंबर स्पाइनल स्टेनोसिस</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मायक्रोएंडोस्कोपिक डिस्केक्टॉमी सर्जरी</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मायक्रोएंडोस्कोपिक डिकंप्रेशन सर्जरी</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मायक्रोएंडोस्कोपिक स्पाइनल फ्यूजन</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MIS TLIF – मिनिमल इनवेसिव्ह ट्रांसफोरामिनल इंटरबॉडी फ्यूजन</li>
                                 </ul>
 
                             </div>

@@ -100,6 +100,25 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('kyphosis') }}">Kyphosis</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('kyphosis') }}" class="language-btn {{ request()->is('kyphosis') && !request()->is('kyphosis-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    <a href="{{ route('kyphosis-h') }}" class="language-btn {{ request()->is('kyphosis-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a>
+                                    {{-- <a href="{{ route('kyphosis-m') }}" class="language-btn {{ request()->is('kyphosis-m') ? 'active' : '' }}">
+                                        MARATHI
+                                    </a> --}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

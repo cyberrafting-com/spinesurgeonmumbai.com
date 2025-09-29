@@ -100,6 +100,18 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('lumbarisation-and-sacralisation') }}">Lumbarisation and Sacralisation</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('lumbarisation-and-sacralisation') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation') && !request()->is('lumbarisation-and-sacralisation-*') ? 'active' : '' }}">ENGLISH</a>
+                                    <a href="{{ route('lumbarisation-and-sacralisation-h') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation-h') ? 'active' : '' }}">HINDI</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

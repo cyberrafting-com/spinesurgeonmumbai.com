@@ -90,9 +90,9 @@
                                     <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery') && !request()->is('micro-endoscopic-minimal-invasive-spine-surgery-*') ? 'active' : '' }}">
                                         ENGLISH
                                     </a>
-                                    {{-- <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery-h') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery-h') ? 'active' : '' }}">
+                                    <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery-h') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery-h') ? 'active' : '' }}">
                                         HINDI
-                                    </a> --}}
+                                    </a>
                                     <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery-m') }}" class="language-btn {{ request()->is('micro-endoscopic-minimal-invasive-spine-surgery-m') ? 'active' : '' }}">
                                         MARATHI
                                     </a>

@@ -26,6 +26,22 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('back-pain') }}">Facet Syndrome</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('facet-syndrome') }}" class="language-btn {{ request()->is('facet-syndrome') && !request()->is('facet-syndrome-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    <a href="{{ route('facet-syndrome-h') }}" class="language-btn {{ request()->is('facet-syndrome-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

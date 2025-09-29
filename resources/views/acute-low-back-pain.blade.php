@@ -99,6 +99,22 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('acute-low-back-pain') }}">Acute Low back Pain</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('acute-low-back-pain') }}" class="language-btn {{ request()->is('acute-low-back-pain') && !request()->is('acute-low-back-pain-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    <a href="{{ route('acute-low-back-pain-h') }}" class="language-btn {{ request()->is('acute-low-back-pain-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

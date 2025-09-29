@@ -27,6 +27,22 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('back-pain') }}">Failed Back Syndrome</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('failed-back-syndrome') }}" class="language-btn {{ request()->is('failed-back-syndrome') && !request()->is('failed-back-syndrome-*') ? 'active' : '' }}">
+                                        ENGLISH
+                                    </a>
+                                    <a href="{{ route('failed-back-syndrome-h') }}" class="language-btn {{ request()->is('failed-back-syndrome-h') ? 'active' : '' }}">
+                                        HINDI
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

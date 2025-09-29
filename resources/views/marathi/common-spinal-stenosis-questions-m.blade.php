@@ -76,9 +76,9 @@
                                     <a href="{{ route('common-spinal-stenosis-questions') }}" class="language-btn {{ request()->is('common-spinal-stenosis-questions') && !request()->is('common-spinal-stenosis-questions-*') ? 'active' : '' }}">
                                         ENGLISH
                                     </a>
-                                    {{-- <a href="{{ route('common-spinal-stenosis-questions-h') }}" class="language-btn {{ request()->is('common-spinal-stenosis-questions-h') ? 'active' : '' }}">
+                                    <a href="{{ route('common-spinal-stenosis-questions-h') }}" class="language-btn {{ request()->is('common-spinal-stenosis-questions-h') ? 'active' : '' }}">
                                         HINDI
-                                    </a> --}}
+                                    </a>
                                     <a href="{{ route('common-spinal-stenosis-questions-m') }}" class="language-btn {{ request()->is('common-spinal-stenosis-questions-m') ? 'active' : '' }}">
                                         MARATHI
                                     </a>

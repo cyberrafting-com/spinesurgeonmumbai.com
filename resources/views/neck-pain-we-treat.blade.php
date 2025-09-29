@@ -100,6 +100,18 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('neck-pain-we-treat') }}">Neck Pain</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('neck-pain-we-treat') }}" class="language-btn {{ request()->is('neck-pain-we-treat') && !request()->is('neck-pain-we-treat-*') ? 'active' : '' }}">ENGLISH</a>
+                                    <a href="{{ route('neck-pain-we-treat-h') }}" class="language-btn {{ request()->is('neck-pain-we-treat-h') ? 'active' : '' }}">HINDI</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
