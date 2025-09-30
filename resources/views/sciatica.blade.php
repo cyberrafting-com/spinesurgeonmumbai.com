@@ -100,6 +100,18 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('sciatica') }}">Sciatica</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('sciatica') }}" class="language-btn {{ request()->is('sciatica') && !request()->is('sciatica-*') ? 'active' : '' }}">ENGLISH</a>
+                                    <a href="{{ route('sciatica-h') }}" class="language-btn {{ request()->is('sciatica-h') ? 'active' : '' }}">HINDI</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

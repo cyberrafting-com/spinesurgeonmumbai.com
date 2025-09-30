@@ -100,6 +100,18 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('osteoporosis') }}">Osteoporosis</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('osteoporosis') }}" class="language-btn {{ request()->is('osteoporosis') && !request()->is('osteoporosis-*') ? 'active' : '' }}">ENGLISH</a>
+                                    <a href="{{ route('osteoporosis-h') }}" class="language-btn {{ request()->is('osteoporosis-h') ? 'active' : '' }}">HINDI</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

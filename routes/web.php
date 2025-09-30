@@ -670,10 +670,21 @@ Route::get('/lumbarisation-and-sacralisation-h', function () {
     return view('hindi.lumbarisation-and-sacralisation-h');
 })->name('lumbarisation-and-sacralisation-h');
 
+Route::get('/osteoporosis-h', function () {
+    return view('hindi.osteoporosis-h');
+})->name('osteoporosis-h');
+
 Route::get('/neck-pain-we-treat-h', function () {
     return view('hindi.neck-pain-we-treat-h');
 })->name('neck-pain-we-treat-h');
 
+Route::get('/sciatica-h', function () {
+    return view('hindi.sciatica-h');
+})->name('sciatica-h');
+
+Route::get('/scoliosis-h', function () {
+    return view('hindi.scoliosis-h');
+})->name('scoliosis-h');
 
 // hindi service pages end
 
