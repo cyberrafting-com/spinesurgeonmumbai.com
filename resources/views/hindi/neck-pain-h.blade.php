@@ -1,6 +1,6 @@
-@php($title = 'मुंबई में गर्दन दर्द का उपचार - डॉ. विशाल कुंडनानी')
+@php($title = 'मुंबई में गर्दन दर्द का उपचार - डॉ. विशाल कुंदनानी')
 
-@section('meta_desc')मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंडनानी के साथ गर्दन दर्द का सर्वोत्तम उपचार। प्रभावी राहत के लिए विशेषज्ञ देखभाल.@endsection
+@section('meta_desc')मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंदनानी के साथ गर्दन दर्द का सर्वोत्तम उपचार। प्रभावी राहत के लिए विशेषज्ञ देखभाल.@endsection
 
 @section('meta_keywords',
 'Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai')
@@ -9,8 +9,8 @@
 {
   "@context":"https://schema.org",
   "@type":"MedicalWebPage",
-  "name":"मुंबई में गर्दन दर्द का विशेषज्ञ उपचार - डॉ. विशाल कुंडनानी",
-  "description":"मुंबई के स्पाइन विशेषज्ञ डॉ. विशाल कुंडनानी के साथ गर्दन दर्द के लिए विशेष उपचार। उन्नत स्पाइन केयर और दर्द प्रबंधन।",
+  "name":"मुंबई में गर्दन दर्द का विशेषज्ञ उपचार - डॉ. विशाल कुंदनानी",
+  "description":"मुंबई के स्पाइन विशेषज्ञ डॉ. विशाल कुंदनानी के साथ गर्दन दर्द के लिए विशेष उपचार। उन्नत स्पाइन केयर और दर्द प्रबंधन।",
   "url":"https://www.spinesurgeonmumbai.com/neck-pain.php",
   "author":{"@type":"Person","name":"Dr. Vishal Kundnani","jobTitle":"Spine Surgeon","worksFor":{"@type":"MedicalOrganization","name":"Spine Surgeon Mumbai","address":{"@type":"PostalAddress","addressLocality":"Mumbai","addressRegion":"Maharashtra","addressCountry":"IN"}}},
   "provider":{"@type":"MedicalOrganization","name":"Spine Surgeon Mumbai","medicalSpecialty":"Spine Surgery"},

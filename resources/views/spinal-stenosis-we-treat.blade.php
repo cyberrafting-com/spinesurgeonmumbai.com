@@ -100,6 +100,19 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('spinal-stenosis-we-treat') }}">Spinal Stenosis</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('spinal-stenosis-we-treat') }}" class="language-btn {{ request()->is('spinal-stenosis-we-treat') && !request()->is('spinal-stenosis-we-treat-*') ? 'active' : '' }}">ENGLISH</a>
+                                    <a href="{{ route('spinal-stenosis-we-treat-h') }}" class="language-btn {{ request()->is('spinal-stenosis-we-treat-h') ? 'active' : '' }}">HINDI</a>
+                                    <a href="{{ route('spinal-stenosis-we-treat-m') }}" class="language-btn {{ request()->is('spinal-stenosis-we-treat-m') ? 'active' : '' }}">MARATHI</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

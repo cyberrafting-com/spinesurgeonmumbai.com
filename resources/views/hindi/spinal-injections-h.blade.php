@@ -1,6 +1,6 @@
-@php($title = 'डॉ. विशाल कुंडनानी द्वारा मुंबई में स्पाइनल इंजेक्शन')
+@php($title = 'डॉ. विशाल कुंदनानी द्वारा मुंबई में स्पाइनल इंजेक्शन')
 
-@section('meta_desc')डॉ. विशाल कुंडनानी स्पाइन स्पेशलिस्ट मुंबई के साथ दर्द से राहत के लिए सर्वश्रेष्ठ स्पाइनल इंजेक्शन की खोज करें। मुंबई में विशेषज्ञ उपचार विकल्प।@endsection
+@section('meta_desc')डॉ. विशाल कुंदनानी स्पाइन स्पेशलिस्ट मुंबई के साथ दर्द से राहत के लिए सर्वश्रेष्ठ स्पाइनल इंजेक्शन की खोज करें। मुंबई में विशेषज्ञ उपचार विकल्प।@endsection
 
 @section('meta_keywords',
 'Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai')
@@ -8,8 +8,8 @@
 {
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
-  "name": "डॉ. विशाल कुंडनानी द्वारा मुंबई में स्पाइनल इंजेक्शन उपचार",
-  "description": "डॉ. विशाल कुंडनानी स्पाइन स्पेशलिस्ट मुंबई के साथ प्रभावी स्पाइनल इंजेक्शन उपचार प्राप्त करें। रीढ़ के दर्द प्रबंधन के लिए विशेषज्ञ देखभाल और समाधान।",
+  "name": "डॉ. विशाल कुंदनानी द्वारा मुंबई में स्पाइनल इंजेक्शन उपचार",
+  "description": "डॉ. विशाल कुंदनानी स्पाइन स्पेशलिस्ट मुंबई के साथ प्रभावी स्पाइनल इंजेक्शन उपचार प्राप्त करें। रीढ़ के दर्द प्रबंधन के लिए विशेषज्ञ देखभाल और समाधान।",
   "url": "https://www.spinesurgeonmumbai.com/spinal-injections.blade.php",
   "mainEntity": {
     "@type": "MedicalTherapy",
@@ -117,7 +117,7 @@
             <div class="col-lg-8 col-md-8 col-sm-8">
                         <p>स्पाइनल इंजेक्शन स्लिप डिस्क, स्पाइनल स्टेनोसिस, स्पॉन्डिलोलिस्थेसिस और रीढ़ से उत्पन्न विभिन्न अन्य दर्दनाक स्थितियों वाले मरीज़ों के लिए दर्द से राहत देने वाले तरीके हैं।</p>
                         <p>स्पाइनल इंजेक्शन की सलाह रीढ़ विशेषज्ञों द्वारा तब दी जाती है जब दर्द का कारण स्पष्ट रूप से बहुत गंभीर नहीं है और प्रगति नहीं करने वाला है। दर्द प्रबंधन के लिए रीढ़ इंजेक्शन अत्यंत सुरक्षित और सरल हैं। हालांकि, स्पाइनल इंजेक्शन से दर्द से राहत की भविष्यवाणी नहीं की जा सकती और इसकी गारंटी नहीं है। कुछ मरीज़ों को स्पाइनल इंजेक्शन से लाभ नहीं हो सकता और कुछ को केवल आंशिक लाभ हो सकता है। रीढ़ में इंजेक्शन का दर्द से राहत देने वाला प्रभाव केवल कुछ सप्ताह या महीनों तक रह सकता है। स्पाइनल इंजेक्शन के बाद व्यायाम की सलाह दी जाती है।</p>
-                        <p>डॉ. विशाल कुंडनानी स्पाइन स्पेशलिस्ट मुंबई के साथ दर्द से राहत के लिए सर्वश्रेष्ठ स्पाइनल इंजेक्शन की खोज करें। मुंबई में विशेषज्ञ उपचार विकल्प।</p>
+                        <p>डॉ. विशाल कुंदनानी स्पाइन स्पेशलिस्ट मुंबई के साथ दर्द से राहत के लिए सर्वश्रेष्ठ स्पाइनल इंजेक्शन की खोज करें। मुंबई में विशेषज्ञ उपचार विकल्प।</p>
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading" role="tab" id="headingOne">
@@ -132,7 +132,7 @@
                                         <div class="cliclskil1">
                                             <ul>
                                                 <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क या नर्व कंप्रेशन या स्पाइनल स्टेनोसिस के कारण पीठ दर्द, पैर दर्द, नितंब दर्द, पैरों में सुन्नता के लक्षणों वाले मरीज़ों को स्पाइनल इंजेक्शन से लाभ हो सकता है।</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क और स्पाइनल स्टेनोसिस के लिए स्पाइनल इंजेक्शन डॉ. विशाल कुंडनानी द्वारा दिया जाता है, जो मुंबई के सर्वश्रेष्ठ रीढ़ विशेषज्ञों में से एक हैं और गोरेगांव, मालाड, कंदिवली के सर्वश्रेष्ठ रीढ़ सर्जनों में से एक हैं। अपॉइंटमेंट पर उपलब्ध।</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क और स्पाइनल स्टेनोसिस के लिए स्पाइनल इंजेक्शन डॉ. विशाल कुंदनानी द्वारा दिया जाता है, जो मुंबई के सर्वश्रेष्ठ रीढ़ विशेषज्ञों में से एक हैं और गोरेगांव, मालाड, कंदिवली के सर्वश्रेष्ठ रीढ़ सर्जनों में से एक हैं। अपॉइंटमेंट पर उपलब्ध।</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -210,7 +210,7 @@
 
                                             <ul>
                                                 <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फेसेट जॉइंट इंजेक्शन- ये तब सुझाए जाते हैं जब पीठ दर्द का कारण फेसेट आर्थराइटिस और फेसेट जॉइंट में सूजन है। अक्सर फेसेट जॉइंट इंजेक्शन का उपयोग नैदानिक उद्देश्य के लिए किया जाता है, क्योंकि दर्द कारण कारक को जिम्मेदार ठहराना मुश्किल है, रेडियोलॉजी के समर्थन के बावजूद। आपकी रीढ़ में फेसेट जॉइंट्स आपको हिलने में मदद करते हैं और स्थिरता प्रदान करते हैं। यदि वे सूज जाते हैं, तो आपको दर्द होगा। जॉइंट को सुन्न कर देगा और आपके दर्द को कम कर सकता है।</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क और स्पाइनल स्टेनोसिस के लिए स्पाइनल इंजेक्शन डॉ. विशाल कुंडनानी द्वारा दिया जाता है, जो मुंबई के सर्वश्रेष्ठ रीढ़ विशेषज्ञों में से एक हैं और गोरेगांव, मालाड, कंदिवली के सर्वश्रेष्ठ रीढ़ सर्जनों में से एक हैं। अपॉइंटमेंट पर उपलब्ध।</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क और स्पाइनल स्टेनोसिस के लिए स्पाइनल इंजेक्शन डॉ. विशाल कुंदनानी द्वारा दिया जाता है, जो मुंबई के सर्वश्रेष्ठ रीढ़ विशेषज्ञों में से एक हैं और गोरेगांव, मालाड, कंदिवली के सर्वश्रेष्ठ रीढ़ सर्जनों में से एक हैं। अपॉइंटमेंट पर उपलब्ध।</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -247,7 +247,7 @@
                                     <div class="panel-body">
                                         <div class="cliclskil1">
 
-                                            <p>स्लिप डिस्क और स्पाइनल स्टेनोसिस के लिए स्पाइनल इंजेक्शन डॉ. विशाल कुंडनानी द्वारा दिया जाता है, जो मुंबई के सर्वश्रेष्ठ रीढ़ विशेषज्ञों में से एक हैं और गोरेगांव, मालाड, कंदिवली के सर्वश्रेष्ठ रीढ़ सर्जनों में से एक हैं। अपॉइंटमेंट पर उपलब्ध।</p>
+                                            <p>स्लिप डिस्क और स्पाइनल स्टेनोसिस के लिए स्पाइनल इंजेक्शन डॉ. विशाल कुंदनानी द्वारा दिया जाता है, जो मुंबई के सर्वश्रेष्ठ रीढ़ विशेषज्ञों में से एक हैं और गोरेगांव, मालाड, कंदिवली के सर्वश्रेष्ठ रीढ़ सर्जनों में से एक हैं। अपॉइंटमेंट पर उपलब्ध।</p>
                                         </div>
                                     </div>
                                 </div>

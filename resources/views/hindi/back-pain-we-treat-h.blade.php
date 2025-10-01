@@ -1,23 +1,23 @@
-@php($title = 'डॉ. विशाल कुंडनानी द्वारा मुंबई में बैक पेन के लिए टॉप उपचार')
+@php($title = 'डॉ. विशाल कुंदनानी द्वारा मुंबई में बैक पेन के लिए टॉप उपचार')
 
 @section('meta_desc')
-    मुंबई में डॉ. विशाल कुंडनानी के टॉप उपचारों के साथ बैक पेन से राहत पाएं। मुंबई में प्रभावी दर्द प्रबंधन के लिए व्यापक देखभाल।
+    मुंबई में डॉ. विशाल कुंदनानी के टॉप उपचारों के साथ बैक पेन से राहत पाएं। मुंबई में प्रभावी दर्द प्रबंधन के लिए व्यापक देखभाल।
 @endsection
 
 @section('meta_keywords',
-    'मुंबई में बैक पेन उपचार, डॉ. विशाल कुंडनानी, मुंबई में स्पाइन स्पेशलिस्ट, मुंबई में स्पाइन सर्जन,
+    'मुंबई में बैक पेन उपचार, डॉ. विशाल कुंदनानी, मुंबई में स्पाइन स्पेशलिस्ट, मुंबई में स्पाइन सर्जन,
     मुंबई में स्पाइन क्लिनिक, माइक्रो एंडोस्कोपिक स्पाइन सर्जरी डॉक्टर मुंबई, मुंबई में स्पाइन रोग डॉक्टर, मुंबई में स्पाइन सर्जरी
     विशेषज्ञ, बांद्रा टॉप स्पाइन डॉक्टर, बांद्रा स्पाइन स्पेशलिस्ट, मुंबई में स्पाइन उपचार, मुंबई में स्पाइन रोग उपचार')
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "MedicalWebPage",
-            "name": "डॉ. विशाल कुंडनानी द्वारा मुंबई में बैक पेन उपचार",
-            "description": "मुंबई के स्पाइन स्पेशलिस्ट डॉ. विशाल कुंडनानी से विभिन्न प्रकार के बैक पेन के लिए विशेषज्ञ उपचार प्राप्त करें। सभी बैक पेन स्थितियों के लिए व्यापक देखभाल और समाधान।",
+            "name": "डॉ. विशाल कुंदनानी द्वारा मुंबई में बैक पेन उपचार",
+            "description": "मुंबई के स्पाइन स्पेशलिस्ट डॉ. विशाल कुंदनानी से विभिन्न प्रकार के बैक पेन के लिए विशेषज्ञ उपचार प्राप्त करें। सभी बैक पेन स्थितियों के लिए व्यापक देखभाल और समाधान।",
             "url": "https://www.spinesurgeonmumbai.com/back-pain-we-treat-h.php",
             "author": {
                 "@type": "Person",
-                "name": "डॉ. विशाल कुंडनानी",
+                "name": "डॉ. विशाल कुंदनानी",
                 "jobTitle": "स्पाइन सर्जन",
                 "worksFor": {
                     "@type": "MedicalOrganization",
@@ -160,7 +160,7 @@
                         <div class=" ba_image mt-4">
 
                             <img src="{{ asset('resources/assets/images/back-pain-treatment.jpg') }}"
-                                alt="डॉ. विशाल कुंडनानी द्वारा मुंबई में बैक पेन उपचार"
+                                alt="डॉ. विशाल कुंदनानी द्वारा मुंबई में बैक पेन उपचार"
                                 class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
 
                         </div>
@@ -177,7 +177,7 @@
                         <div class="container ba_image mt-4">
 
                             <img src="{{ asset('resources/assets/images/risk-factor-for-low-back-pain.jpg') }}"
-                                alt="लो बैक पेन के लिए जोखिम कारक: डॉ. विशाल कुंडनानी द्वारा मुंबई में बैक पेन उपचार"
+                                alt="लो बैक पेन के लिए जोखिम कारक: डॉ. विशाल कुंदनानी द्वारा मुंबई में बैक पेन उपचार"
                                 class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
 
                         </div>
@@ -191,7 +191,7 @@
                         <div class="container ba_image mt-4">
 
                             <img src="{{ asset('resources/assets/images/causes-of-back-pain.jpg') }}"
-                                alt="मुंबई में डॉ. विशाल कुंडनानी द्वारा उपचारित बैक पेन के कारण"
+                                alt="मुंबई में डॉ. विशाल कुंदनानी द्वारा उपचारित बैक पेन के कारण"
                                 class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
 
                         </div>
@@ -261,7 +261,7 @@
                         <div class="container ba_image mt-4">
 
                             <img src="{{ asset('resources/assets/images/common-symptoms-of-back-pain.jpg') }}"
-                                alt="मुंबई में डॉ. विशाल कुंडनानी द्वारा उपचारित बैक पेन के सामान्य लक्षण"
+                                alt="मुंबई में डॉ. विशाल कुंदनानी द्वारा उपचारित बैक पेन के सामान्य लक्षण"
                                 class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
 
                         </div>
@@ -346,7 +346,7 @@
                         <div class="container ba_image mt-4">
 
                             <img src="{{ asset('resources/assets/images/treatment-options-for-back-pain.jpg') }}"
-                                alt="मुंबई में डॉ. विशाल कुंडनानी द्वारा बैक पेन उपचार विकल्प"
+                                alt="मुंबई में डॉ. विशाल कुंदनानी द्वारा बैक पेन उपचार विकल्प"
                                 class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
 
                         </div>

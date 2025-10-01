@@ -1,11 +1,11 @@
-@php($title = 'मुंबई में साइटिका का उपचार - डॉ. विशाल कुंडनानी')
+@php($title = 'मुंबई में साइटिका का उपचार - डॉ. विशाल कुंदनानी')
 
 @section('meta_desc')
-    मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंडनानी के साथ साइटिका का विशेषज्ञ उपचार। उन्नत स्पाइन केयर और दर्द प्रबंधन समाधान।
+    मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंदनानी के साथ साइटिका का विशेषज्ञ उपचार। उन्नत स्पाइन केयर और दर्द प्रबंधन समाधान।
 @endsection
 
 @section('meta_keywords',
-    'मुंबई में साइटिका उपचार, डॉ. विशाल कुंडनानी, स्पाइन विशेषज्ञ मुंबई, स्पाइन सर्जन मुंबई,
+    'मुंबई में साइटिका उपचार, डॉ. विशाल कुंदनानी, स्पाइन विशेषज्ञ मुंबई, स्पाइन सर्जन मुंबई,
     स्पाइन क्लिनिक मुंबई, माइक्रो एंडोस्कोपिक स्पाइन सर्जरी, स्पाइन रोग डॉक्टर मुंबई, साइटिका दर्द उपचार,
     टॉप स्पाइन डॉक्टर बांद्रा, साइटिका इलाज मुंबई')
 
@@ -14,8 +14,8 @@
 {
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
-  "name": "मुंबई में साइटिका का उपचार - डॉ. विशाल कुंडनानी",
-  "description": "मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंडनानी के साथ साइटिका का विशेषज्ञ उपचार। उन्नत स्पाइन केयर और दर्द प्रबंधन समाधान।",
+  "name": "मुंबई में साइटिका का उपचार - डॉ. विशाल कुंदनानी",
+  "description": "मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंदनानी के साथ साइटिका का विशेषज्ञ उपचार। उन्नत स्पाइन केयर और दर्द प्रबंधन समाधान।",
   "url": "https://www.spinesurgeonmumbai.com/sciatica-h.php",
   "author": {"@type":"Person","name":"Dr. Vishal Kundnani","jobTitle":"Spine Surgeon","worksFor":{"@type":"MedicalOrganization","name":"Spine Surgeon Mumbai","address":{"@type":"PostalAddress","addressLocality":"Mumbai","addressRegion":"Maharashtra","addressCountry":"IN"}}},
   "provider": {"@type":"MedicalOrganization","name":"Spine Surgeon Mumbai","medicalSpecialty":"Spine Surgery"},
@@ -71,10 +71,10 @@
                 <div class="cliclskil1 mt-3">
                     <div class="col-lg-8 col-md-8 col-sm-8">
                         <h1>मुंबई में साइटिका का उपचार</h1>
-                        <img src="{{ asset('resources/assets/images/sciatica-treatment.jpg') }}" alt="मुंबई में साइटिका उपचार - डॉ. विशाल कुंडनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
+                        <img src="{{ asset('resources/assets/images/sciatica-treatment.jpg') }}" alt="मुंबई में साइटिका उपचार - डॉ. विशाल कुंदनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
 
                         <p class="mt-1">साइटिका एक आम प्रकार का दर्द है जो सायटिक नर्व को प्रभावित करता है। यह नर्व लोअर बैक से 
-                            पैरों तक जाती है। <a href="{{ route('home') }}">मुंबई के अग्रणी स्पाइन सर्जन</a> डॉ. विशाल कुंडनानी 
+                            पैरों तक जाती है। <a href="{{ route('home') }}">मुंबई के अग्रणी स्पाइन सर्जन</a> डॉ. विशाल कुंदनानी 
                             साइटिका और संबंधित स्पाइनल स्थितियों के समग्र उपचार में विशेषज्ञ हैं।</p>
 
                         <h2>साइटिका के लक्षण</h2>
@@ -89,7 +89,7 @@
                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">खड़े होने पर तेज झटका जैसा दर्द</li>
                         </ul>
 
-                        <img src="{{ asset('resources/assets/images/symptoms-sciatica-treatment.jpg') }}" alt="साइटिका के लक्षण - डॉ. विशाल कुंडनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
+                        <img src="{{ asset('resources/assets/images/symptoms-sciatica-treatment.jpg') }}" alt="साइटिका के लक्षण - डॉ. विशाल कुंदनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
 
                         <h2>साइटिका के कारण</h2>
                         <p>साइटिका निम्न स्पाइनल/मांसपेशीय स्थितियों से ट्रिगर हो सकता है:</p>
@@ -101,7 +101,7 @@
                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पीठ/नितंब की मांसपेशियों में स्पाज्म</li>
                         </ul>
 
-                        <img src="{{ asset('resources/assets/images/causes-of-sciatica.jpg') }}" alt="साइटिका के कारण - डॉ. विशाल कुंडनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
+                        <img src="{{ asset('resources/assets/images/causes-of-sciatica.jpg') }}" alt="साइटिका के कारण - डॉ. विशाल कुंदनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
 
                         <h2>साइटिका बनाम अन्य स्पाइन दर्द</h2>
                         <table class="table table-bordered mt-3">
@@ -121,7 +121,7 @@
                             </tbody>
                         </table>
 
-                        <h2>क्यों चुनें डॉ. विशाल कुंडनानी?</h2>
+                        <h2>क्यों चुनें डॉ. विशाल कुंदनानी?</h2>
                         <ul>
                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">अंतरराष्ट्रीय स्तर पर मान्य स्पाइन सर्जन</li>
                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">मिनिमली इनवेसिव/एंडोस्कोपिक स्पाइन सर्जरी विशेषज्ञता</li>
@@ -141,7 +141,7 @@
                         </ul>
 
                         <p class="mt-4"><strong>📍 साइटिका से राहत के लिए मिलें</strong><br>
-                            यदि आपको साइटिका के कारण लगातार दर्द/चलने में कठिनाई है, तो <a href="{{ route('contact') }}" target="_blank">डॉ. विशाल कुंडनानी</a> से संपर्क करें और विशेषज्ञ मूल्यांकन व उपचार प्राप्त करें।
+                            यदि आपको साइटिका के कारण लगातार दर्द/चलने में कठिनाई है, तो <a href="{{ route('contact') }}" target="_blank">डॉ. विशाल कुंदनानी</a> से संपर्क करें और विशेषज्ञ मूल्यांकन व उपचार प्राप्त करें।
                             <a href="{{ route('contact') }}" target="_blank" class="btn btn-primary mt-3"><strong>📞 अपॉइंटमेंट बुक करें</strong></a>
                         </p>
                     </div>

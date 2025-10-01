@@ -108,6 +108,19 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('spondylosis') }}">Spondylosis</a></li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('spondylosis') }}" class="language-btn {{ request()->is('spondylosis') && !request()->is('spondylosis-*') ? 'active' : '' }}">ENGLISH</a>
+                                    <a href="{{ route('spondylosis-h') }}" class="language-btn {{ request()->is('spondylosis-h') ? 'active' : '' }}">HINDI</a>
+                                    <a href="{{ route('spondylosis-m') }}" class="language-btn {{ request()->is('spondylosis-m') ? 'active' : '' }}">MARATHI</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

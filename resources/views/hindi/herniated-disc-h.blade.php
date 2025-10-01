@@ -1,6 +1,6 @@
-@php($title = 'मुंबई में हर्निएटेड डिस्क (स्लिप डिस्क) का उपचार - डॉ. विशाल कुंडनानी')
+@php($title = 'मुंबई में हर्निएटेड डिस्क (स्लिप डिस्क) का उपचार - डॉ. विशाल कुंदनानी')
 
-@section('meta_desc')मुंबई में हर्निएटेड डिस्क (स्लिप डिस्क) के लिए सर्वोत्तम उपचार। डॉ. विशाल कुंडनानी द्वारा उन्नत, सुरक्षित और प्रभावी स्पाइन केयर.@endsection
+@section('meta_desc')मुंबई में हर्निएटेड डिस्क (स्लिप डिस्क) के लिए सर्वोत्तम उपचार। डॉ. विशाल कुंदनानी द्वारा उन्नत, सुरक्षित और प्रभावी स्पाइन केयर.@endsection
 
 @section('meta_keywords', 'Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai')
 
@@ -8,8 +8,8 @@
 {
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
-  "name": "मुंबई में हर्निएटेड डिस्क का उपचार - डॉ. विशाल कुंडनानी",
-  "description": "मुंबई के प्रमुख स्पाइन विशेषज्ञ डॉ. विशाल कुंडनानी द्वारा हर्निएटेड डिस्क/स्लिप डिस्क के लिए विशेषज्ञ उपचार। साइयटिका और डिस्क हर्निएशन की समग्र देखभाल।",
+  "name": "मुंबई में हर्निएटेड डिस्क का उपचार - डॉ. विशाल कुंदनानी",
+  "description": "मुंबई के प्रमुख स्पाइन विशेषज्ञ डॉ. विशाल कुंदनानी द्वारा हर्निएटेड डिस्क/स्लिप डिस्क के लिए विशेषज्ञ उपचार। साइयटिका और डिस्क हर्निएशन की समग्र देखभाल।",
   "url": "https://www.spinesurgeonmumbai.com/herniated-disc.php",
   "mainEntity": {"@type":"MedicalCondition","name":"Herniated Disc","description":"रीढ़ की डिस्क के अंदर का नरम पदार्थ बाहरी रिंग में दरार से बाहर निकलकर नसों पर दबाव डालता है जिससे दर्द/सुन्नपन/कमजोरी हो सकती है।","possibleTreatment":{"@type":"MedicalTherapy","name":"Herniated Disc Treatment","description":"संरक्षणात्मक इलाज, फिजियोथेरेपी, और आवश्यकता पड़ने पर मिनिमली इनवेसिव सर्जरी।"}},
   "provider": {"@type":"MedicalOrganization","name":"Mumbai Institute of Spine Surgery","url":"https://www.spinesurgeonmumbai.com"},

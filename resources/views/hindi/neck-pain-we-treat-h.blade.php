@@ -1,11 +1,11 @@
-@php($title = 'मुंबई में गर्दन दर्द उपचार (We Treat) - डॉ. विशाल कुंडनानी')
+@php($title = 'मुंबई में गर्दन दर्द उपचार (We Treat) - डॉ. विशाल कुंदनानी')
 
 @section('meta_desc')
-    मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंडनानी के साथ गर्दन दर्द (We Treat) का उन्नत उपचार। प्रभावी राहत और व्यक्तिगत देखभाल।
+    मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंदनानी के साथ गर्दन दर्द (We Treat) का उन्नत उपचार। प्रभावी राहत और व्यक्तिगत देखभाल।
 @endsection
 
 @section('meta_keywords',
-    'मुंबई में गर्दन दर्द उपचार, डॉ. विशाल कुंडनानी, स्पाइन विशेषज्ञ मुंबई, स्पाइन सर्जन मुंबई,
+    'मुंबई में गर्दन दर्द उपचार, डॉ. विशाल कुंदनानी, स्पाइन विशेषज्ञ मुंबई, स्पाइन सर्जन मुंबई,
     स्पाइन क्लिनिक मुंबई, माइक्रो एंडोस्कोपिक स्पाइन सर्जरी, स्पाइन रोग डॉक्टर मुंबई, स्पाइन सर्जरी विशेषज्ञ,
     टॉप स्पाइन डॉक्टर बांद्रा, गर्दन दर्द इलाज मुंबई, सर्वाइकल दर्द उपचार')
 
@@ -14,8 +14,8 @@
 {
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
-  "name": "मुंबई में गर्दन दर्द उपचार (We Treat) - डॉ. विशाल कुंडनानी",
-  "description": "मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंडनानी के साथ गर्दन दर्द (We Treat) का उन्नत उपचार। प्रभावी राहत और व्यक्तिगत देखभाल।",
+  "name": "मुंबई में गर्दन दर्द उपचार (We Treat) - डॉ. विशाल कुंदनानी",
+  "description": "मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंदनानी के साथ गर्दन दर्द (We Treat) का उन्नत उपचार। प्रभावी राहत और व्यक्तिगत देखभाल।",
   "url": "https://www.spinesurgeonmumbai.com/neck-pain-we-treat-h.php",
   "author": {"@type":"Person","name":"Dr. Vishal Kundnani","jobTitle":"Spine Surgeon","worksFor":{"@type":"MedicalOrganization","name":"Spine Surgeon Mumbai","address":{"@type":"PostalAddress","addressLocality":"Mumbai","addressRegion":"Maharashtra","addressCountry":"IN"}}},
   "provider": {"@type":"MedicalOrganization","name":"Spine Surgeon Mumbai","medicalSpecialty":"Spine Surgery"},

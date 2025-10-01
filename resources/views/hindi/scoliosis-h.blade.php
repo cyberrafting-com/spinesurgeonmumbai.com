@@ -1,11 +1,11 @@
-@php($title = 'मुंबई में स्कोलियोसिस का उपचार - डॉ. विशाल कुंडनानी')
+@php($title = 'मुंबई में स्कोलियोसिस का उपचार - डॉ. विशाल कुंदनानी')
 
 @section('meta_desc')
-    मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंडनानी के साथ स्कोलियोसिस (रीढ़ की वक्रता) का उन्नत उपचार। सटीक निदान, ब्रेसिंग, फिजियोथेरेपी और सर्जिकल विकल्प उपलब्ध।
+    मुंबई में स्पाइन विशेषज्ञ डॉ. विशाल कुंदनानी के साथ स्कोलियोसिस (रीढ़ की वक्रता) का उन्नत उपचार। सटीक निदान, ब्रेसिंग, फिजियोथेरेपी और सर्जिकल विकल्प उपलब्ध।
 @endsection
 
 @section('meta_keywords',
-    'मुंबई में स्कोलियोसिस उपचार, डॉ. विशाल कुंडनानी, स्पाइन विशेषज्ञ मुंबई, स्पाइन सर्जन मुंबई,
+    'मुंबई में स्कोलियोसिस उपचार, डॉ. विशाल कुंदनानी, स्पाइन विशेषज्ञ मुंबई, स्पाइन सर्जन मुंबई,
     स्कोलियोसिस सर्जरी मुंबई, स्पाइन क्लिनिक मुंबई, स्पाइन विकृति सुधार, मिनिमली इनवेसिव स्पाइन सर्जरी, स्कोलियोसिस डॉक्टर मुंबई')
 
 @section('schema')
@@ -14,7 +14,7 @@
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
   "name": "मुंबई में स्कोलियोसिस का उपचार - डॉ. विशाल कुंडननी",
-  "description": "मुंबई में स्कोलियोसिस का विशेषज्ञ उपचार: फिजियोथेरेपी, ब्रेसिंग और आवश्यक होने पर सर्जरी। डॉ. विशाल कुंडनानी द्वारा उन्नत स्पाइन केयर।",
+  "description": "मुंबई में स्कोलियोसिस का विशेषज्ञ उपचार: फिजियोथेरेपी, ब्रेसिंग और आवश्यक होने पर सर्जरी। डॉ. विशाल कुंदनानी द्वारा उन्नत स्पाइन केयर।",
   "url": "https://www.spinesurgeonmumbai.com/scoliosis-h.php",
   "author": {"@type":"Person","name":"Dr. Vishal Kundnani","jobTitle":"Spine Surgeon","worksFor":{"@type":"MedicalOrganization","name":"Spine Surgeon Mumbai","address":{"@type":"PostalAddress","addressLocality":"Mumbai","addressRegion":"Maharashtra","addressCountry":"IN"}}},
   "provider": {"@type":"MedicalOrganization","name":"Spine Surgeon Mumbai","medicalSpecialty":"Spine Surgery"},
@@ -55,6 +55,7 @@
                                 <div class="language-buttons">
                                     <a href="{{ route('scoliosis') }}" class="language-btn {{ request()->is('scoliosis') && !request()->is('scoliosis-*') ? 'active' : '' }}">ENGLISH</a>
                                     <a href="{{ route('scoliosis-h') }}" class="language-btn {{ request()->is('scoliosis-h') ? 'active' : '' }}">HINDI</a>
+                                    <a href="{{ route('scoliosis-m') }}" class="language-btn {{ request()->is('scoliosis-m') ? 'active' : '' }}">MARATHI</a>
                                 </div>
                             </div>
                         </div>
@@ -69,18 +70,18 @@
             <div class="row">
                 <div class="cliclskil1 mt-3">
                     <div class="col-lg-8 col-md-8 col-sm-8">
-                        <h2><b>मुंबई में स्कोलियोसिस का उपचार - डॉ. विशाल कुंडनानी</b></h2>
-                        <img src="{{ asset('resources/assets/images/scoliosis.jpg') }}" alt="मुंबई में स्कोलियोसिस उपचार - डॉ. विशाल कुंडनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
+                        <h2><b>मुंबई में स्कोलियोसिस का उपचार - डॉ. विशाल कुंदनानी</b></h2>
+                        <img src="{{ asset('resources/assets/images/scoliosis.jpg') }}" alt="मुंबई में स्कोलियोसिस उपचार - डॉ. विशाल कुंदनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
 
                         <div class="content-section">
                             <h1>स्कोलियोसिस क्या है?</h1>
                             <p class="mt-1">स्कोलियोसिस में रीढ़ की हड्डी पार्श्व दिशा में मुड़ जाती है, जिससे सामने/पीछे से देखने पर "S" या "C" आकार दिख सकता है। स्वस्थ रीढ़ सामने/पीछे से सीधी दिखती है और साइड से ऊपरी हिस्से में स्वाभाविक गोलाई तथा निचले हिस्से में हल्का अंदर की ओर घुमाव दिखता है।</p>
-                            <p>एक अग्रणी <b>स्कोलियोसिस सर्जन</b> के रूप में, डॉ. विशाल कुंडनानी जटिल स्पाइनल विकृतियों के उन्नत सुधार में विशेषज्ञ हैं और व्यापक मूल्यांकन से लेकर सर्जिकल करेक्शन तक समग्र देखभाल प्रदान करते हैं।</p>
+                            <p>एक अग्रणी <b>स्कोलियोसिस सर्जन</b> के रूप में, डॉ. विशाल कुंदनानी जटिल स्पाइनल विकृतियों के उन्नत सुधार में विशेषज्ञ हैं और व्यापक मूल्यांकन से लेकर सर्जिकल करेक्शन तक समग्र देखभाल प्रदान करते हैं।</p>
                         </div>
 
                         <div class="content-section">
                             <h3><b>स्कोलियोसिस के कारण</b></h3>
-                            <img src="{{ asset('resources/assets/images/causes-of-scoliosis.jpg') }}" alt="स्कोलियोसिस के कारण - डॉ. विशाल कुंडनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
+                            <img src="{{ asset('resources/assets/images/causes-of-scoliosis.jpg') }}" alt="स्कोलियोसिस के कारण - डॉ. विशाल कुंदनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
                             <p><b>जन्मजात (Congenital):</b> जन्म के समय मौजूद हड्डी की असामान्यता।</p>
                             <p><b>न्यूरोमस्कुलर:</b> मांसपेशी/नस संबंधी रोग जैसे सेरेब्रल पाल्सी आदि।</p>
                             <p><b>डीजेनेरेटिव (एडल्ट):</b> उम्र के साथ हड्डियों का घिसना, ऑस्टियोपोरोसिस, चोट/पुरानी सर्जरी के कारण।</p>

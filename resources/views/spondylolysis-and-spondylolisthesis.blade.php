@@ -101,6 +101,19 @@
                     <li><a href="{{ route('spondylolysis-and-spondylolisthesis') }}">Spondylolysis and Spondylolisthesis</a>
                     </li>
                 </ul>
+                <div class="language-switcher">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="language-buttons">
+                                    <a href="{{ route('spondylolysis-and-spondylolisthesis') }}" class="language-btn {{ request()->is('spondylolysis-and-spondylolisthesis') && !request()->is('spondylolysis-and-spondylolisthesis-*') ? 'active' : '' }}">ENGLISH</a>
+                                    <a href="{{ route('spondylolysis-and-spondylolisthesis-h') }}" class="language-btn {{ request()->is('spondylolysis-and-spondylolisthesis-h') ? 'active' : '' }}">HINDI</a>
+                                    <a href="{{ route('spondylolysis-and-spondylolisthesis-m') }}" class="language-btn {{ request()->is('spondylolysis-and-spondylolisthesis-m') ? 'active' : '' }}">MARATHI</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

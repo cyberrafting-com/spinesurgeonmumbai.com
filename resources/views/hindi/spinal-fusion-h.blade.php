@@ -1,6 +1,6 @@
-@php($title = 'मुंबई में स्पाइनल फ्यूजन सर्जरी - डॉ. विशाल कुंडनानी')
+@php($title = 'मुंबई में स्पाइनल फ्यूजन सर्जरी - डॉ. विशाल कुंदनानी')
 
-@section('meta_desc')मुंबई में स्पाइनल फ्यूजन के लिए सुरक्षित और प्रभावी सर्जरी। डॉ. विशाल कुंडनानी द्वारा उन्नत तकनीकों के साथ रीढ़ की स्थिरता और दर्द में राहत.@endsection
+@section('meta_desc')मुंबई में स्पाइनल फ्यूजन के लिए सुरक्षित और प्रभावी सर्जरी। डॉ. विशाल कुंदनानी द्वारा उन्नत तकनीकों के साथ रीढ़ की स्थिरता और दर्द में राहत.@endsection
 
 @section('meta_keywords',
     'Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai')
@@ -8,8 +8,8 @@
     {
       "@context": "https://schema.org",
       "@type": "MedicalWebPage",
-      "name": "मुंबई में स्पाइनल फ्यूजन सर्जरी - डॉ. विशाल कुंडनानी",
-      "description": "मुंबई के अग्रणी स्पाइन विशेषज्ञ डॉ. विशाल कुंडनानी द्वारा स्पाइनल फ्यूजन सर्जरी। रीढ़ की अस्थिरता में स्थिरता और दर्द में राहत के लिए उन्नत तकनीकें।",
+      "name": "मुंबई में स्पाइनल फ्यूजन सर्जरी - डॉ. विशाल कुंदनानी",
+      "description": "मुंबई के अग्रणी स्पाइन विशेषज्ञ डॉ. विशाल कुंदनानी द्वारा स्पाइनल फ्यूजन सर्जरी। रीढ़ की अस्थिरता में स्थिरता और दर्द में राहत के लिए उन्नत तकनीकें।",
       "url": "https://www.spinesurgeonmumbai.com/spinal-fusion.php",
       "mainEntity": {
         "@type": "MedicalProcedure",
@@ -150,7 +150,7 @@
                                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लम्बर स्पाइनल स्टेनोसिस की सर्जरी सुरक्षित और सरल है। हर केस में फ्यूजन आवश्यक नहीं होता। जब स्टेनोसिस के साथ अस्थिरता भी हो—यानी नसों के दबाव के अलावा उस सेगमेंट में दर्दयुक्त असामान्य हरकत हो—तभी फ्यूजन सुझाया जाता है।</li>
                                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उद्देश्य: नसों का डिकंप्रेशन और उस सेगमेंट की अनावश्यक हरकत कम करना। खासकर स्पॉन्डिलोलिस्थेसिस (एक कशेरुका का दूसरी के सापेक्ष आगे खिसकना) में सहायक।</li>
                                         </ul>
-                                        <p class="mt-2">डॉ. विशाल कुंडनानी—मुंबई के प्रमुख स्पाइन सर्जन—स्पॉन्डिलोलिस्थेसिस में स्पाइनल फ्यूजन नियमित रूप से करते हैं।</p>
+                                        <p class="mt-2">डॉ. विशाल कुंदनानी—मुंबई के प्रमुख स्पाइन सर्जन—स्पॉन्डिलोलिस्थेसिस में स्पाइनल फ्यूजन नियमित रूप से करते हैं।</p>
                                     </div>
                                 </div>
                             </div>
@@ -169,7 +169,7 @@
                                         <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हाँ। स्पाइनल फ्यूजन में प्रयुक्त टाइटेनियम इम्प्लांट जैव-संगत और शरीर के लिए सुरक्षित होते हैं। प्रशिक्षित स्पाइन सर्जन द्वारा नियंत्रित तरीके से लगाए जाने पर ये समस्या नहीं करते।</li>
                                         <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सुरक्षा बढ़ाने के लिए ऑपरेशन के दौरान IITV (एक्स-रे), नेविगेशन और रोबोटिक्स का उपयोग किया जाता है।</li>
                                     </ul>
-                                    <p class="mt-2">डॉ. विशाल कुंडनानी स्पाइन नेविगेशन सर्जरी/रोबोटिक सर्जरी के अग्रणी हैं और मरीजों के लिए सर्जरी को अधिक सुरक्षित बनाते हैं।</p>
+                                    <p class="mt-2">डॉ. विशाल कुंदनानी स्पाइन नेविगेशन सर्जरी/रोबोटिक सर्जरी के अग्रणी हैं और मरीजों के लिए सर्जरी को अधिक सुरक्षित बनाते हैं।</p>
                                 </div>
                             </div>
                         </div>
@@ -196,7 +196,7 @@
                                             <img class="serv_img1 mt-2" src="{{ asset('resources/assets/img/capture5.png') }}">
                                         </div>
                                         <div class="clearfix"></div>
-                                        <p class="mt-2">डॉ. विशाल कुंडनानी—नेविगेशन/रोबोटिक स्पाइन सर्जरी में प्रशिक्षित—स्पाइनल फ्यूजन में इन तकनीकों का उपयोग करते हैं।</p>
+                                        <p class="mt-2">डॉ. विशाल कुंदनानी—नेविगेशन/रोबोटिक स्पाइन सर्जरी में प्रशिक्षित—स्पाइनल फ्यूजन में इन तकनीकों का उपयोग करते हैं।</p>
 
                                     </div>
                                 </div>
@@ -217,7 +217,7 @@
                                         <ul>
                                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल फ्यूजन ओपन तकनीक या मिनिमली इनवेसिव स्पाइन सर्जरी तकनीक (MIS-TLIF) से किया जा सकता है। MIS-TLIF के लाभ: कम दर्द/रक्तस्राव/संक्रमण, छोटे चीरे, जल्दी अस्पताल से छुट्टी, बेड रेस्ट की आवश्यकता नहीं, और जल्दी काम पर वापसी।</li>
                                         </ul>
-                                        <p class="mt-2">डॉ. विशाल कुंडनानी—मुंबई के अग्रणी मिनिमली इनवेसिव स्पाइन सर्जन—माइक्रोस्कोपिक/रोबोटिक तकनीक के साथ स्पाइनल फ्यूजन करते हैं।</p>
+                                        <p class="mt-2">डॉ. विशाल कुंदनानी—मुंबई के अग्रणी मिनिमली इनवेसिव स्पाइन सर्जन—माइक्रोस्कोपिक/रोबोटिक तकनीक के साथ स्पाइनल फ्यूजन करते हैं।</p>
                                     </div>
                                 </div>
                             </div>
@@ -265,7 +265,7 @@
                                             <img class="serv_img1 mt-2" src="{{ asset('resources/assets/img/capture8.png') }}">
                                         </div>
                                         <div class="clearfix"></div>
-                                        <p class="mt-2">डॉ. विशाल कुंडनानी द्वारा स्पॉन्डिलोलिस्थेसिस के लिए मिनिमली इनवेसिव स्पाइनल फ्यूजन नियमित रूप से किया जाता है।</p>
+                                        <p class="mt-2">डॉ. विशाल कुंदनानी द्वारा स्पॉन्डिलोलिस्थेसिस के लिए मिनिमली इनवेसिव स्पाइनल फ्यूजन नियमित रूप से किया जाता है।</p>
                                         <p>वे नेविगेशन/रोबोटिक स्पाइन सर्जरी में विशेषज्ञ हैं और गोरेगांव, कंदीवली, मालाड में सेवाएँ उपलब्ध हैं।</p>
                                     </div>
                                 </div>
@@ -321,7 +321,7 @@
                                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">संतुलित आहार लें (लो-फैट, फल-सब्ज़ी से भरपूर) और पर्याप्त कैल्शियम लें</li>
                                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">धूम्रपान बंद करें</li>
                                         </ul>
-                                        <p class="mt-2">डॉ. विशाल कुंडनानी मिनिमली इनवेसिव/माइक्रोएंडोस्कोपिक स्पाइनल फ्यूजन में विशेषज्ञ हैं और नेविगेशन/रोबोटिक तकनीकों का उपयोग करते हैं।</p>
+                                        <p class="mt-2">डॉ. विशाल कुंदनानी मिनिमली इनवेसिव/माइक्रोएंडोस्कोपिक स्पाइनल फ्यूजन में विशेषज्ञ हैं और नेविगेशन/रोबोटिक तकनीकों का उपयोग करते हैं।</p>
                                     </div>
                                 </div>
                             </div>

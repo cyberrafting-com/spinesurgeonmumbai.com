@@ -610,6 +610,26 @@ Route::get('/micro-endoscopic-minimal-invasive-spine-surgery-m', function () {
     return view('marathi.micro-endoscopic-minimal-invasive-spine-surgery-m');
 })->name('micro-endoscopic-minimal-invasive-spine-surgery-m');
 
+Route::get('/spondylosis-m', function () {
+    return view('marathi.spondylosis-m');
+})->name('spondylosis-m');
+
+Route::get('/spondylolysis-and-spondylolisthesis-m', function () {
+    return view('marathi.spondylolysis-and-spondylolisthesis-m');
+})->name('spondylolysis-and-spondylolisthesis-m');
+
+Route::get('/spinal-stenosis-we-treat-m', function () {
+    return view('marathi.spinal-stenosis-we-treat-m');
+})->name('spinal-stenosis-we-treat-m');
+
+Route::get('/slip-disc-m', function () {
+    return view('marathi.slip-disc-m');
+})->name('slip-disc-m');
+
+Route::get('/scoliosis-m', function () {
+    return view('marathi.scoliosis-m');
+})->name('scoliosis-m');
+
 Route::get('/the-best-spine-surgeon-mumbai', function () {
     return view('the-best-spine-surgeon-mumbai');
 })->name('the-best-spine-surgeon-mumbai');
@@ -685,6 +705,22 @@ Route::get('/sciatica-h', function () {
 Route::get('/scoliosis-h', function () {
     return view('hindi.scoliosis-h');
 })->name('scoliosis-h');
+
+Route::get('/slip-disc-h', function () {
+    return view('hindi.slip-disc-h');
+})->name('slip-disc-h');
+
+Route::get('/spinal-stenosis-we-treat-h', function () {
+    return view('hindi.spinal-stenosis-we-treat-h');
+})->name('spinal-stenosis-we-treat-h');
+
+Route::get('/spondylolysis-and-spondylolisthesis-h', function () {
+    return view('hindi.spondylolysis-and-spondylolisthesis-h');
+})->name('spondylolysis-and-spondylolisthesis-h');
+
+Route::get('/spondylosis-h', function () {
+    return view('hindi.spondylosis-h');
+})->name('spondylosis-h');
 
 // hindi service pages end
 

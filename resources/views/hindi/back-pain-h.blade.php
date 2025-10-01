@@ -1,6 +1,6 @@
-@php($title = 'मुंबई में पीठ दर्द का उपचार - डॉ. विशाल कुंडनानी')
+@php($title = 'मुंबई में पीठ दर्द का उपचार - डॉ. विशाल कुंदनानी')
 
-@section('meta_desc')मुंबई में डॉ. विशाल कुंडनानी के साथ पीठ दर्द से राहत पाएं। प्रभावी दर्द प्रबंधन और उन्नत स्पाइन केयर.@endsection
+@section('meta_desc')मुंबई में डॉ. विशाल कुंदनानी के साथ पीठ दर्द से राहत पाएं। प्रभावी दर्द प्रबंधन और उन्नत स्पाइन केयर.@endsection
 
 @section('meta_keywords',
     'Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai, Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai')
@@ -9,8 +9,8 @@
 {
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
-  "name": "मुंबई में पीठ दर्द का विशेषज्ञ उपचार - डॉ. विशाल कुंडनानी",
-  "description": "मुंबई के स्पाइन विशेषज्ञ डॉ. विशाल कुंडनानी के साथ पीठ दर्द के लिए विशेष उपचार। उन्नत स्पाइन केयर और दर्द प्रबंधन समाधान।",
+  "name": "मुंबई में पीठ दर्द का विशेषज्ञ उपचार - डॉ. विशाल कुंदनानी",
+  "description": "मुंबई के स्पाइन विशेषज्ञ डॉ. विशाल कुंदनानी के साथ पीठ दर्द के लिए विशेष उपचार। उन्नत स्पाइन केयर और दर्द प्रबंधन समाधान।",
   "url": "https://www.spinesurgeonmumbai.com/back-pain.php",
   "author": {"@type":"Person","name":"Dr. Vishal Kundnani","jobTitle":"Spine Surgeon","worksFor":{"@type":"MedicalOrganization","name":"Spine Surgeon Mumbai","address":{"@type":"PostalAddress","addressLocality":"Mumbai","addressRegion":"Maharashtra","addressCountry":"IN"}}},
   "provider": {"@type":"MedicalOrganization","name":"Spine Surgeon Mumbai","medicalSpecialty":"Spine Surgery"},
@@ -66,7 +66,7 @@
                     <div class="col-lg-8 col-md-8 col-sm-8">
                         <h1 class="back_">मुंबई में पीठ दर्द के डॉक्टर</h1>
                         <div class="ba_image mt-4">
-                            <img src="{{ asset('resources/assets/images/back-pain-treatment.jpg') }}" alt="मुंबई में पीठ दर्द का उपचार - डॉ. विशाल कुंडनानी" class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
+                            <img src="{{ asset('resources/assets/images/back-pain-treatment.jpg') }}" alt="मुंबई में पीठ दर्द का उपचार - डॉ. विशाल कुंदनानी" class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
                         </div>
 
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -88,7 +88,7 @@
                                                 </li>
                                             </ul>
                                             <div class="container ba_image mt-4">
-                                                <img src="{{ asset('resources/assets/images/back-pain.jpg') }}" alt="मुंबई में पीठ दर्द का उपचार - डॉ. विशाल कुंडनानी" class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
+                                                <img src="{{ asset('resources/assets/images/back-pain.jpg') }}" alt="मुंबई में पीठ दर्द का उपचार - डॉ. विशाल कुंदनानी" class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
                                             </div>
                                         </div>
                                     </div>
@@ -197,9 +197,9 @@
 
                             <div class="spine-expert-section mt-4">
                                 <h2>मुंबई में विशेषज्ञ पीठ दर्द उपचार</h2>
-                                <p><a href="{{ route('about-doctor') }}">डॉ. विशाल कुंडनानी</a> उन्नत तकनीक और व्यक्तिगत देखभाल के साथ जटिल स्पाइनल स्थितियों का सफलतापूर्वक इलाज करते हैं। न्यूनतम चीर-फाड़ (MIS) तकनीकों में अनुभवी, 5000+ सर्जरी का अनुभव।</p>
+                                <p><a href="{{ route('about-doctor') }}">डॉ. विशाल कुंदनानी</a> उन्नत तकनीक और व्यक्तिगत देखभाल के साथ जटिल स्पाइनल स्थितियों का सफलतापूर्वक इलाज करते हैं। न्यूनतम चीर-फाड़ (MIS) तकनीकों में अनुभवी, 5000+ सर्जरी का अनुभव।</p>
                                 <div class="container ba_image mt-4">
-                                    <img src="{{ asset('resources/assets/images/expert-back-pain-treatment-mumbai.png') }}" alt="मुंबई में पीठ दर्द का उपचार - डॉ. विशाल कुंडनानी" class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
+                                    <img src="{{ asset('resources/assets/images/expert-back-pain-treatment-mumbai.png') }}" alt="मुंबई में पीठ दर्द का उपचार - डॉ. विशाल कुंदनानी" class=" img-fluid rounded shadow-sm" style="max-width: 100%; height: auto;">
                                 </div>
                                 <h3>क्यों चुनें हमारा स्पाइन सेंटर?</h3>
                                 <ul>
