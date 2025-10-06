@@ -111,9 +111,9 @@
                                     <a href="{{ route('kyphosis-h') }}" class="language-btn {{ request()->is('kyphosis-h') ? 'active' : '' }}">
                                         HINDI
                                     </a>
-                                    {{-- <a href="{{ route('kyphosis-m') }}" class="language-btn {{ request()->is('kyphosis-m') ? 'active' : '' }}">
-                                        MARATHI
-                                    </a> --}}
+                                    <a href="{{ route('kyphosis-m') }}" class="language-btn {{ request()->is('kyphosis-m') ? 'active' : '' }}">
+                                        Marathi
+                                    </a>
                                 </div>
                             </div>
                         </div>

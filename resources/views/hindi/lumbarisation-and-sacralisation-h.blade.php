@@ -106,6 +106,7 @@
                                 <div class="language-buttons">
                                     <a href="{{ route('lumbarisation-and-sacralisation') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation') && !request()->is('lumbarisation-and-sacralisation-*') ? 'active' : '' }}">ENGLISH</a>
                                     <a href="{{ route('lumbarisation-and-sacralisation-h') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation-h') ? 'active' : '' }}">HINDI</a>
+                                    <a href="{{ route('lumbarisation-and-sacralisation-m') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation-m') ? 'active' : '' }}">Marathi</a>
                                 </div>
                             </div>
                         </div>

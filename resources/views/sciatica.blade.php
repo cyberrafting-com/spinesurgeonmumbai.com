@@ -107,6 +107,7 @@
                                 <div class="language-buttons">
                                     <a href="{{ route('sciatica') }}" class="language-btn {{ request()->is('sciatica') && !request()->is('sciatica-*') ? 'active' : '' }}">ENGLISH</a>
                                     <a href="{{ route('sciatica-h') }}" class="language-btn {{ request()->is('sciatica-h') ? 'active' : '' }}">HINDI</a>
+                                    <a href="{{ route('sciatica-m') }}" class="language-btn {{ request()->is('sciatica-m') ? 'active' : '' }}">Marathi</a>
                                 </div>
                             </div>
                         </div>

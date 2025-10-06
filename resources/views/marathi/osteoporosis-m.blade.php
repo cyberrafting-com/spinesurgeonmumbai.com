@@ -1,15 +1,14 @@
-@php($title = 'Top Treatment for Osteoporosis in Mumbai by Dr. Vishal Kundnani')
+@php($title = 'डॉ. विशाल कुंदनानी यांच्या मदतीने मुंबईतील ऑस्टिओपोरोसिस उपचार')
 
 @section('meta_desc')
-    Find effective osteoporosis treatment with Dr. Vishal Kundnani Spine Surgeon in Mumbai. Expert care and solutions for
-    bone health in Mumbai.
+    डॉ. विशाल कुंदनानी यांच्या मदतीने ऑस्टिओपोरोसिसचा प्रभावी उपचार मिळवा. मुंबईत हाडांच्या आरोग्यासाठी तज्ञ काळजी आणि उपाय.
 @endsection
 
 @section('meta_keywords',
-    'Back Pain Treatment Mumbai, Dr. Vishal Kundnani, Spine Specialist Mumbai, Spine Surgeon Mumbai,
-    Spine Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery
-    Specialist Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment
-    Mumbai')
+    'ऑस्टिओपोरोसिस उपचार मुंबई, डॉ. विशाल कुंदनानी, स्पाइन स्पेशालिस्ट मुंबई, स्पाइन सर्जन मुंबई,
+    स्पाइन क्लिनिक मुंबई, मायक्रो एंडोस्कोपिक स्पाइन सर्जरी डॉक्टर मुंबई, स्पाइन रोग डॉक्टर मुंबई, स्पाइन सर्जरी
+    स्पेशालिस्ट मुंबई, टॉप स्पाइन डॉक्टर बांद्रा, स्पाइन स्पेशालिस्ट बांद्रा, स्पाइन उपचार मुंबई, स्पाइन रोग उपचार
+    मुंबई')
 
 @section('schema')
     <script type="application/ld+json">
@@ -18,7 +17,7 @@
   "@type": "MedicalWebPage",
   "name": "Top Treatment for Osteoporosis in Mumbai by Dr. Vishal Kundnani",
   "description": "Find effective osteoporosis treatment with Dr.Vishal Kundnani Spine Surgeon in Mumbai. Expert care and solutions for bone health in Mumbai.",
-  "url": "https://www.spinesurgeonmumbai.com/osteoporosis.php",
+  "url": "https://www.spinesurgeonmumbai.com/osteoporosis-m.php",
   "author": {
     "@type": "Person",
     "name": "Dr. Vishal Kundnani",
@@ -95,10 +94,10 @@
     <div class="banner-wrap1">
         <div class="container">
             <div class="row">
-                <h2>We <span>Treat</span></h2>
+                <h2>आम्ही <span>उपचार करतो</span></h2>
                 <ul class="breadcrumb1">
-                    <li><a href="{{ route('home') }}">Home</a></li>
-                    <li><a href="{{ route('osteoporosis') }}">Osteoporosis</a></li>
+                    <li><a href="{{ route('home') }}">मुख्यपृष्ठ</a></li>
+                    <li><a href="{{ route('osteoporosis-m') }}">ऑस्टिओपोरोसिस</a></li>
                 </ul>
                 <div class="language-switcher">
                     <div class="container">
@@ -122,41 +121,30 @@
             <div class="row">
                 <div class="cliclskil1 mt-3">
                     <div class="col-lg-8 col-md-8 col-sm-8">
-                        <h1>Osteoporosis</h1>
-                        <p class="mt-1">Osteoporosis makes your bones weak and more likely to break. Anyone can develop
-                            osteoporosis, but it is common in older women. As many as half of all women and a quarter of men
-                            older than 50 will break a bone due to osteoporosis.</p>
-                        <h1>Risk factors include</h1>
+                        <h1>ऑस्टिओपोरोसिस</h1>
+                        <p class="mt-1">ऑस्टिओपोरोसिस तुमची हाडे कमकुवत बनवते आणि तुटण्याची शक्यता वाढवते. कोणीही ऑस्टिओपोरोसिस विकसित करू शकतो, परंतु हे वृद्ध महिलांमध्ये सामान्य आहे. 50 वर्षांपेक्षा जास्त वयाच्या सर्व महिलांपैकी अर्ध्या आणि पुरुषांपैकी एक चतुर्थांश लोकांना ऑस्टिओपोरोसिसमुळे हाड तुटेल.</p>
+                        <h1>जोखीम घटकांमध्ये हे समाविष्ट आहे</h1>
                         <ul>
                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
-                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Getting
-                                older</li>
+                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वय वाढत जाणे</li>
                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
-                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Being
-                                small and thin</li>
+                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लहान आणि पातळ असणे</li>
                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
-                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Having
-                                a family history of osteoporosis</li>
+                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">ऑस्टिओपोरोसिसचा कुटुंबातील इतिहास असणे</li>
                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
-                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Taking
-                                certain medicines</li>
+                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">काही औषधे घेणे</li>
                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
-                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Being
-                                a white or Asian woman</li>
+                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पांढरी किंवा आशियाई महिला असणे</li>
                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
-                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Having
-                                osteopenia, which is low bone density</li>
+                                    style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">ऑस्टिओपेनिया असणे, जे कमी हाडांची घनता आहे</li>
                         </ul>
-                        <p class="mt-1">Osteoporosis is a silent disease. You might not know you have it until you break a
-                            bone. A bone mineral density test is the best way to check your bone health. To keep bones
-                            strong, eat a diet rich in calcium and vitamin D, exercise and do not smoke. If needed,
-                            medicines can also help.</p>
+                        <p class="mt-1">ऑस्टिओपोरोसिस हा एक मूक रोग आहे. तुम्हाला हाड तुटेपर्यंत तुम्हाला हे माहीत नाही. हाडांच्या आरोग्याची तपासणी करण्यासाठी हाडांच्या खनिज घनतेची चाचणी हा सर्वोत्तम मार्ग आहे. हाडे मजबूत ठेवण्यासाठी, कॅल्शियम आणि विटॅमिन डी युक्त आहार घ्या, व्यायाम करा आणि धूम्रपान करू नका. आवश्यक असल्यास, औषधे देखील मदत करू शकतात.</p>
                     </div>
 
                     <div class="col-lg-4 col-md-4 col-sm-4">

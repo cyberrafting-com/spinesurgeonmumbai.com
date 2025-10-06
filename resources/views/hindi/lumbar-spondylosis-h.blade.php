@@ -106,6 +106,7 @@
                                 <div class="language-buttons">
                                     <a href="{{ route('lumbar-spondylosis') }}" class="language-btn {{ request()->is('lumbar-spondylosis') && !request()->is('lumbar-spondylosis-*') ? 'active' : '' }}">ENGLISH</a>
                                     <a href="{{ route('lumbar-spondylosis-h') }}" class="language-btn {{ request()->is('lumbar-spondylosis-h') ? 'active' : '' }}">HINDI</a>
+                                    <a href="{{ route('lumbar-spondylosis-m') }}" class="language-btn {{ request()->is('lumbar-spondylosis-m') ? 'active' : '' }}">Marathi</a>
                                 </div>
                             </div>
                         </div>

@@ -630,9 +630,50 @@ Route::get('/scoliosis-m', function () {
     return view('marathi.scoliosis-m');
 })->name('scoliosis-m');
 
+Route::get('/osteoporosis-m', function () {
+    return view('marathi.osteoporosis-m');
+})->name('osteoporosis-m');
+
+Route::get('/neck-pain-we-treat-m', function () {
+    return view('marathi.neck-pain-we-treat-m');
+})->name('neck-pain-we-treat-m');
+
+Route::get('/lumbarisation-and-sacralisation-m', function () {
+    return view('marathi.lumbarisation-and-sacralisation-m');
+})->name('lumbarisation-and-sacralisation-m');
+
+Route::get('/lumbar-spondylosis-m', function () {
+    return view('marathi.lumbar-spondylosis-m');
+})->name('lumbar-spondylosis-m');
+
+Route::get('/sciatica-m', function () {
+    return view('marathi.sciatica-m');
+})->name('sciatica-m');
+
+Route::get('/kyphosis-m', function () {
+    return view('marathi.kyphosis-m');
+})->name('kyphosis-m');
+
+Route::get('/back-pain-in-pregnancy-m', function () {
+    return view('marathi.back-pain-in-pregnancy-m');
+})->name('back-pain-in-pregnancy-m');
+
+Route::get('/back-pain-we-treat-m', function () {
+    return view('marathi.back-pain-we-treat-m');
+})->name('back-pain-we-treat-m');
+
 Route::get('/the-best-spine-surgeon-mumbai', function () {
     return view('the-best-spine-surgeon-mumbai');
 })->name('the-best-spine-surgeon-mumbai');
+
+Route::get('/acute-low-back-pain-m', function () {
+    return view('marathi.acute-low-back-pain-m');
+})->name('acute-low-back-pain-m');
+
+Route::get('/ankylosing-spondylitis-m', function () {
+    return view('marathi.ankylosing-spondylitis-m');
+})->name('ankylosing-spondylitis-m');
+
 
 // marathi service pages end
 

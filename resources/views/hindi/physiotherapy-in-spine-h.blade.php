@@ -93,10 +93,10 @@
                                     ENGLISH
                                 </a>
                                 <a href="{{ route('physiotherapy-in-spine-h') }}" class="language-btn {{ request()->is('physiotherapy-in-spine-h') ? 'active' : '' }}">
-                                    हिंदी
+                                   Hindi
                                 </a>
                                 <a href="{{ route('physiotherapy-in-spine-m') }}" class="language-btn {{ request()->is('physiotherapy-in-spine-m') ? 'active' : '' }}">
-                                    मराठी
+                                   Marathi
                                 </a>
                             </div>
                         </div>

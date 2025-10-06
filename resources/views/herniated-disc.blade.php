@@ -369,7 +369,7 @@ specialist. Effective care for relief.@endsection
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
                                         href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                        Toggle title
+                                        Do all slip disc patients need surgery?
                                     </a>
                                 </h4>
                             </div>
@@ -415,7 +415,7 @@ specialist. Effective care for relief.@endsection
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
                                         href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                        Toggle title
+                                        What are the non-surgical treatment options for slip disc?
                                     </a>
                                 </h4>
                             </div>
@@ -502,7 +502,7 @@ specialist. Effective care for relief.@endsection
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
                                         href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                        Toggle title
+                                        What physiotherapy treatments are available for slip disc?
                                     </a>
                                 </h4>
                             </div>
@@ -618,7 +618,7 @@ specialist. Effective care for relief.@endsection
                                 <h4 class="panel-title">
                                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
                                         href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
-                                        Toggle title
+                                        When is surgery required for slip disc?
                                     </a>
                                 </h4>
                             </div>
