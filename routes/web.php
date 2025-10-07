@@ -674,6 +674,19 @@ Route::get('/ankylosing-spondylitis-m', function () {
     return view('marathi.ankylosing-spondylitis-m');
 })->name('ankylosing-spondylitis-m');
 
+Route::get('/degenerative-disc-disease-m', function () {
+    return view('marathi.degenerative-disc-disease-m');
+})->name('degenerative-disc-disease-m');
+
+Route::get('/herniated-disc-m', function () {
+    return view('marathi.herniated-disc-m');
+})->name('herniated-disc-m');
+
+
+Route::get('/failed-back-syndrome-m', function () {
+    return view('marathi.failed-back-syndrome-m');
+})->name('failed-back-syndrome-m');
+
 
 // marathi service pages end
 
