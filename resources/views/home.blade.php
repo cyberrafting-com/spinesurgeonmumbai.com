@@ -943,4 +943,51 @@ Treatment Mumbai')
     </div>
 </section>
 
+<!-- Flyer Modal -->
+<div id="flyerModal" class="modal-flyer">
+    <div class="modal-content-flyer">
+        <span class="close-flyer">&times;</span>
+        <img src="{{ asset('resources/assets/img/Spine-surgey-camp-mumbai-on-world-spine-day.jpg') }}" alt="Spine-surgey-camp-mumbai-on-world-spine-day" class="flyer-image">
+    </div>
+</div>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Get the modal
+    var modal = document.getElementById("flyerModal");
+    
+    // Get the close button
+    var closeBtn = document.getElementsByClassName("close-flyer")[0];
+    
+    // Show modal on page load every time
+    setTimeout(function() {
+        modal.style.display = "block";
+        document.body.style.overflow = "hidden"; // Prevent background scrolling
+    }, 500); // 500ms delay for better UX
+    
+    // Close modal when clicking on X
+    closeBtn.onclick = function() {
+        modal.style.display = "none";
+        document.body.style.overflow = "auto"; // Re-enable scrolling
+    }
+    
+    // Close modal when clicking outside the image
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+            document.body.style.overflow = "auto"; // Re-enable scrolling
+        }
+    }
+    
+    // Close modal on ESC key press
+    document.addEventListener('keydown', function(event) {
+        if (event.key === "Escape" && modal.style.display === "block") {
+            modal.style.display = "none";
+            document.body.style.overflow = "auto"; // Re-enable scrolling
+        }
+    });
+});
+</script>
+
 @stop

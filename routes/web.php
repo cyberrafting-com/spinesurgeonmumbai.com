@@ -682,6 +682,10 @@ Route::get('/herniated-disc-m', function () {
     return view('marathi.herniated-disc-m');
 })->name('herniated-disc-m');
 
+Route::get('/facet-syndrome-m', function () {
+    return view('marathi.facet-syndrome-m');
+})->name('facet-syndrome-m');
+
 
 Route::get('/failed-back-syndrome-m', function () {
     return view('marathi.failed-back-syndrome-m');

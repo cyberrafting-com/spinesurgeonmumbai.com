@@ -68,7 +68,7 @@ var scrolltotop = {
 scrolltotop.init();
 
 const mediaQuery = window.matchMedia('(min-width: 768px)')
-// Check if the media query is true
+    // Check if the media query is true
 if (mediaQuery.matches) {
     // Then trigger an alert
     $('.navbar .dropdown').hover(function() {

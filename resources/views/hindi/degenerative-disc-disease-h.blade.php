@@ -216,7 +216,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        @include('includes.we-treat')
+                        @include('includes.we-treat-h')
                     </div>
                 </div>
             </div>

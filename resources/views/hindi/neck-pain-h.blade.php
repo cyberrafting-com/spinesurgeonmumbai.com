@@ -184,7 +184,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        @include('includes.what-we-do-sidebar')
+                        @include('includes.what-we-do-sidebar-h')
                     </div>
                 </div>
             </div>

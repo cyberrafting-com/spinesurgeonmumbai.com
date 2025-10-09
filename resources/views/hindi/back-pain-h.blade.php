@@ -213,16 +213,12 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        @include('includes.what-we-do-sidebar')
+                        @include('includes.what-we-do-sidebar-h')
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <style>
-        .cliclskil1 ul { list-style: none; padding-left: 0; }
-        .cliclskil1 ul li { position: relative; padding-left: 35px; margin-bottom: 15px; line-height: 1.6; }
-        .cliclskil1 ul li img { position: absolute; left: 0; top: 12px; width: 20px; height: 20px; }
-    </style>
+    
 @stop
