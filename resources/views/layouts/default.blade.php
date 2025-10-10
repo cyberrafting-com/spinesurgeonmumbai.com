@@ -11,7 +11,7 @@
 </head>
 
 <body>
-
+    @include('includes.load-popup')
     @include('includes.header')
     @yield('content')
     @include('includes.footer')
