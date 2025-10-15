@@ -91,13 +91,13 @@
                         <div class="col-lg-12">
                             <div class="language-buttons">
                                 <a href="{{ route('spondylolisthesis') }}" class="language-btn {{ request()->is('spondylolisthesis') && !request()->is('spondylolisthesis-*') ? 'active' : '' }}">
-                                    ENGLISH
+                                    इंग्रजी
                                 </a>
                                 <a href="{{ route('spondylolisthesis-h') }}" class="language-btn {{ request()->is('spondylolisthesis-h') ? 'active' : '' }}">
-                                    HINDI
+                                    हिंदी
                                 </a>
                                 <a href="{{ route('spondylolisthesis-m') }}" class="language-btn {{ request()->is('spondylolisthesis-m') ? 'active' : '' }}">
-                                    MARATHI
+                                    मराठी
                                 </a>
                             </div>
                         </div>

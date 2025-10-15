@@ -109,9 +109,9 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="language-buttons">
-                                    <a href="{{ route('lumbarisation-and-sacralisation') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation') && !request()->is('lumbarisation-and-sacralisation-*') ? 'active' : '' }}">ENGLISH</a>
-                                    <a href="{{ route('lumbarisation-and-sacralisation-h') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation-h') ? 'active' : '' }}">HINDI</a>
-                                    <a href="{{ route('lumbarisation-and-sacralisation-m') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation-m') ? 'active' : '' }}">Marathi</a>
+                                    <a href="{{ route('lumbarisation-and-sacralisation') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation') && !request()->is('lumbarisation-and-sacralisation-*') ? 'active' : '' }}">अंग्रेज़ी</a>
+                                    <a href="{{ route('lumbarisation-and-sacralisation-h') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation-h') ? 'active' : '' }}">हिंदी</a>
+                                    <a href="{{ route('lumbarisation-and-sacralisation-m') }}" class="language-btn {{ request()->is('lumbarisation-and-sacralisation-m') ? 'active' : '' }}">मराठी</a>
                                 </div>
                             </div>
                         </div>

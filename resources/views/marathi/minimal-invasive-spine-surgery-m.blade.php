@@ -88,13 +88,13 @@
                             <div class="col-lg-12">
                                 <div class="language-buttons">
                                     <a href="{{ route('minimal-invasive-spine-surgery') }}" class="language-btn {{ request()->is('minimal-invasive-spine-surgery') && !request()->is('minimal-invasive-spine-surgery-*') ? 'active' : '' }}">
-                                        ENGLISH
+                                        इंग्रजी
                                     </a>
                                     <a href="{{ route('minimal-invasive-spine-surgery-h') }}" class="language-btn {{ request()->is('minimal-invasive-spine-surgery-h') ? 'active' : '' }}">
-                                        HINDI
+                                        हिंदी
                                     </a>
                                     <a href="{{ route('minimal-invasive-spine-surgery-m') }}" class="language-btn {{ request()->is('minimal-invasive-spine-surgery-m') ? 'active' : '' }}">
-                                        MARATHI
+                                        मराठी
                                     </a>
                                 </div>
                             </div>

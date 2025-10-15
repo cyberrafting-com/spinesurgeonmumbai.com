@@ -92,13 +92,13 @@
                             <div class="col-lg-12">
                                 <div class="language-buttons">
                                     <a href="{{ route('failed-back-syndrome') }}" class="language-btn {{ request()->is('failed-back-syndrome') && !request()->is('failed-back-syndrome-*') ? 'active' : '' }}">
-                                        ENGLISH
+                                        इंग्रजी
                                     </a>
                                     <a href="{{ route('failed-back-syndrome-h') }}" class="language-btn {{ request()->is('failed-back-syndrome-h') ? 'active' : '' }}">
-                                        HINDI
+                                        हिंदी
                                     </a>
                                     <a href="{{ route('failed-back-syndrome-m') }}" class="language-btn {{ request()->is('failed-back-syndrome-m') ? 'active' : '' }}">
-                                        MARATHI
+                                        मराठी
                                     </a>
                                 </div>
                             </div>

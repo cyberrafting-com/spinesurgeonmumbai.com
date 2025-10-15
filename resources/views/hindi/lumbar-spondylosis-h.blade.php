@@ -100,9 +100,9 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="language-buttons">
-                                    <a href="{{ route('lumbar-spondylosis') }}" class="language-btn {{ request()->is('lumbar-spondylosis') && !request()->is('lumbar-spondylosis-*') ? 'active' : '' }}">ENGLISH</a>
-                                    <a href="{{ route('lumbar-spondylosis-h') }}" class="language-btn {{ request()->is('lumbar-spondylosis-h') ? 'active' : '' }}">HINDI</a>
-                                    <a href="{{ route('lumbar-spondylosis-m') }}" class="language-btn {{ request()->is('lumbar-spondylosis-m') ? 'active' : '' }}">Marathi</a>
+                                    <a href="{{ route('lumbar-spondylosis') }}" class="language-btn {{ request()->is('lumbar-spondylosis') && !request()->is('lumbar-spondylosis-*') ? 'active' : '' }}">अंग्रेज़ी</a>
+                                    <a href="{{ route('lumbar-spondylosis-h') }}" class="language-btn {{ request()->is('lumbar-spondylosis-h') ? 'active' : '' }}">हिंदी</a>
+                                    <a href="{{ route('lumbar-spondylosis-m') }}" class="language-btn {{ request()->is('lumbar-spondylosis-m') ? 'active' : '' }}">मराठी</a>
                                 </div>
                             </div>
                         </div>

@@ -101,13 +101,13 @@
                             <div class="col-lg-12">
                                 <div class="language-buttons">
                                     <a href="{{ route('acute-low-back-pain') }}" class="language-btn {{ request()->is('acute-low-back-pain') && !request()->is('acute-low-back-pain-*') ? 'active' : '' }}">
-                                        ENGLISH
+                                        अंग्रेज़ी
                                     </a>
                                     <a href="{{ route('acute-low-back-pain-h') }}" class="language-btn {{ request()->is('acute-low-back-pain-h') ? 'active' : '' }}">
-                                        HINDI
+                                        हिंदी
                                     </a>
                                     <a href="{{ route('acute-low-back-pain-m') }}" class="language-btn {{ request()->is('acute-low-back-pain-m') ? 'active' : '' }}">
-                                        MARATHI
+                                        मराठी
                                     </a>
                                 </div>
                             </div>

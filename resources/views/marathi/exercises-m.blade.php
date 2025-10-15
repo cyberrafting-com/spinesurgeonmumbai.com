@@ -88,13 +88,13 @@ style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="col-lg-12">
 								<div class="language-buttons">
 									<a href="{{ route('exercises') }}" class="language-btn {{ request()->is('exercises') && !request()->is('exercises-*') ? 'active' : '' }}">
-										ENGLISH
+										इंग्रजी
 									</a>
 									<a href="{{ route('exercises-h') }}" class="language-btn {{ request()->is('exercises-h') ? 'active' : '' }}">
-										HINDI
+										हिंदी
 									</a>
 									<a href="{{ route('exercises-m') }}" class="language-btn {{ request()->is('exercises-m') ? 'active' : '' }}">
-										MARATHI
+										मराठी
 									</a>
 								</div>
 							</div>

@@ -2,7 +2,7 @@
 <div id="loadPopupModal" class="load-popup-modal">
     <div class="load-popup-content">
         <span class="load-popup-close">&times;</span>
-        <img src="{{ asset('resources/assets/img/Spine-surgey-camp-mumbai-on-world-spine-day.jpg') }}" alt="pop-up" class="load-popup-img">
+        <img src="{{ asset('resources/assets/img/Spine-surgey-camp-mumbai-on-world-spine-day.jpg') }}" alt="Spine-surgey-camp-mumbai-on-world-spine-day" class="load-popup-img">
     </div>
 </div>
 <!-- ========== End Custom Modal ========== -->

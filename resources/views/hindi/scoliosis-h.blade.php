@@ -53,9 +53,9 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="language-buttons">
-                                    <a href="{{ route('scoliosis') }}" class="language-btn {{ request()->is('scoliosis') && !request()->is('scoliosis-*') ? 'active' : '' }}">ENGLISH</a>
-                                    <a href="{{ route('scoliosis-h') }}" class="language-btn {{ request()->is('scoliosis-h') ? 'active' : '' }}">HINDI</a>
-                                    <a href="{{ route('scoliosis-m') }}" class="language-btn {{ request()->is('scoliosis-m') ? 'active' : '' }}">MARATHI</a>
+                                    <a href="{{ route('scoliosis') }}" class="language-btn {{ request()->is('scoliosis') && !request()->is('scoliosis-*') ? 'active' : '' }}">अंग्रेज़ी</a>
+                                    <a href="{{ route('scoliosis-h') }}" class="language-btn {{ request()->is('scoliosis-h') ? 'active' : '' }}">हिंदी</a>
+                                    <a href="{{ route('scoliosis-m') }}" class="language-btn {{ request()->is('scoliosis-m') ? 'active' : '' }}">मराठी</a>
                                 </div>
                             </div>
                         </div>

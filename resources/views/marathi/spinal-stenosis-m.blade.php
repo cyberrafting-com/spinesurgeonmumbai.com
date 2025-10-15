@@ -105,13 +105,13 @@
                             <div class="col-lg-12">
                                 <div class="language-buttons">
                                     <a href="{{ route('spinal-stenosis') }}" class="language-btn {{ request()->is('spinal-stenosis') && !request()->is('spinal-stenosis-*') ? 'active' : '' }}">
-                                        ENGLISH
+                                        इंग्रजी
                                     </a>
                                     <a href="{{ route('spinal-stenosis-h') }}" class="language-btn {{ request()->is('spinal-stenosis-h') ? 'active' : '' }}">
-                                        HINDI
+                                        हिंदी
                                     </a>
                                     <a href="{{ route('spinal-stenosis-m') }}" class="language-btn {{ request()->is('spinal-stenosis-m') ? 'active' : '' }}">
-                                        MARATHI
+                                        मराठी
                                     </a>
                                 </div>
                             </div>

@@ -104,9 +104,9 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="language-buttons">
-                                    <a href="{{ route('slip-disc') }}" class="language-btn {{ request()->is('slip-disc') && !request()->is('slip-disc-*') ? 'active' : '' }}">ENGLISH</a>
-                                    <a href="{{ route('slip-disc-h') }}" class="language-btn {{ request()->is('slip-disc-h') ? 'active' : '' }}">HINDI</a>
-                                    <a href="{{ route('slip-disc-m') }}" class="language-btn {{ request()->is('slip-disc-m') ? 'active' : '' }}">MARATHI</a>
+                                    <a href="{{ route('slip-disc') }}" class="language-btn {{ request()->is('slip-disc') && !request()->is('slip-disc-*') ? 'active' : '' }}">इंग्रजी</a>
+                                    <a href="{{ route('slip-disc-h') }}" class="language-btn {{ request()->is('slip-disc-h') ? 'active' : '' }}">हिंदी</a>
+                                    <a href="{{ route('slip-disc-m') }}" class="language-btn {{ request()->is('slip-disc-m') ? 'active' : '' }}">मराठी</a>
                                 </div>
                             </div>
                         </div>

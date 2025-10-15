@@ -103,13 +103,13 @@
                             <div class="col-lg-12">
                                 <div class="language-buttons">
                                     <a href="{{ route('degenerative-disc-disease') }}" class="language-btn {{ request()->is('degenerative-disc-disease') && !request()->is('degenerative-disc-disease-*') ? 'active' : '' }}">
-                                        ENGLISH
+                                        अंग्रेज़ी
                                     </a>
                                     <a href="{{ route('degenerative-disc-disease-h') }}" class="language-btn {{ request()->is('degenerative-disc-disease-h') ? 'active' : '' }}">
-                                        HINDI
+                                        हिंदी
                                     </a>
                                     <a href="{{ route('degenerative-disc-disease-m') }}" class="language-btn {{ request()->is('degenerative-disc-disease-m') ? 'active' : '' }}">
-                                        MARATHI
+                                        मराठी
                                     </a>
                                 </div>
                             </div>

@@ -554,17 +554,17 @@ Route::get('/advanced-spine-surgery-mumbai-dr-vishal-kundnani', function () {
 })->name('advanced-spine-surgery-mumbai-dr-vishal-kundnani');
 
 Route::get('/minimally-invasive-spine-surgery-india', function () {
-    return view('minimally-invasive-spine-surgery-india');
+    return view('blog.minimally-invasive-spine-surgery-india');
 })->name('minimally-invasive-spine-surgery-india');
 
 Route::get('/cervical-spine-surgery-mumbai', function () {
-    return view('cervical-spine-surgery-mumbai');
+    return view('blog.cervical-spine-surgery-mumbai');
 })->name('cervical-spine-surgery-mumbai');
 
 
 
 Route::get('/back-pain-specialist-mumbai', function () {
-        return view('back-pain-specialist-mumbai');
+        return view('blog.back-pain-specialist-mumbai');
 })->name('back-pain-specialist-mumbai');
 
 // marathi service pages start
@@ -783,5 +783,5 @@ Route::get('/spondylosis-h', function () {
 // hindi service pages end
 
 Route::get('/scoliosis-treatment-india', function () {
-    return view('scoliosis-treatment-india');
+    return view('blog.scoliosis-treatment-india');
 })->name('scoliosis-treatment-india');

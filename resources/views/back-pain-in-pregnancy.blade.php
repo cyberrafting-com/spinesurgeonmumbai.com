@@ -110,9 +110,6 @@
                                     <a href="{{ route('back-pain-in-pregnancy-h') }}" class="language-btn {{ request()->is('back-pain-in-pregnancy-h') ? 'active' : '' }}">
                                         HINDI
                                     </a>
-                                    <a href="{{ route('back-pain-in-pregnancy-m') }}" class="language-btn {{ request()->is('back-pain-in-pregnancy-m') ? 'active' : '' }}">
-                                        Marathi
-                                    </a>
                                 </div>
                             </div>
                         </div>

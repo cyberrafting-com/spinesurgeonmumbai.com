@@ -90,13 +90,13 @@
                         <div class="col-lg-12">
                             <div class="language-buttons">
                                 <a href="{{ route('physiotherapy-in-spine') }}" class="language-btn {{ request()->is('physiotherapy-in-spine') && !request()->is('physiotherapy-in-spine-*') ? 'active' : '' }}">
-                                    ENGLISH
+                                    इंग्रजी
                                 </a>
                                 <a href="{{ route('spinal-fusion-h') }}" class="language-btn {{ request()->is('spinal-fusion-h') ? 'active' : '' }}">
-                                    HINDI
+                                    हिंदी
                                 </a>
                                 <a href="{{ route('physiotherapy-in-spine-m') }}" class="language-btn {{ request()->is('physiotherapy-in-spine-m') ? 'active' : '' }}">
-                                    MARATHI
+                                    मराठी
                                 </a>
                             </div>
                         </div>

@@ -105,13 +105,13 @@
                             <div class="col-lg-12">
                                 <div class="language-buttons">
                                     <a href="{{ route('slip-disc') }}" class="language-btn {{ request()->is('slip-disc') && !request()->is('slip-disc-*') ? 'active' : '' }}">
-                                        ENGLISH
+                                        अंग्रेज़ी
                                     </a>
                                     <a href="{{ route('slip-disc-h') }}" class="language-btn {{ request()->is('slip-disc-h') ? 'active' : '' }}">
-                                        HINDI
+                                        हिंदी
                                     </a>
                                     <a href="{{ route('slip-disc-m') }}" class="language-btn {{ request()->is('slip-disc-m') ? 'active' : '' }}">
-                                        MARATHI
+                                        मराठी
                                     </a>
                                 </div>
                             </div>

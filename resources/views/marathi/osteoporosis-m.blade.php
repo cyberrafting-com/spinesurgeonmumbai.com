@@ -109,9 +109,9 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="language-buttons">
-                                    <a href="{{ route('osteoporosis') }}" class="language-btn {{ request()->is('osteoporosis') && !request()->is('osteoporosis-*') ? 'active' : '' }}">ENGLISH</a>
-                                    <a href="{{ route('osteoporosis-h') }}" class="language-btn {{ request()->is('osteoporosis-h') ? 'active' : '' }}">HINDI</a>
-                                    <a href="{{ route('osteoporosis-m') }}" class="language-btn {{ request()->is('osteoporosis-m') ? 'active' : '' }}">Marathi</a>
+                                    <a href="{{ route('osteoporosis') }}" class="language-btn {{ request()->is('osteoporosis') && !request()->is('osteoporosis-*') ? 'active' : '' }}">इंग्रजी</a>
+                                    <a href="{{ route('osteoporosis-h') }}" class="language-btn {{ request()->is('osteoporosis-h') ? 'active' : '' }}">हिंदी</a>
+                                    <a href="{{ route('osteoporosis-m') }}" class="language-btn {{ request()->is('osteoporosis-m') ? 'active' : '' }}">मराठी</a>
                                 </div>
                             </div>
                         </div>

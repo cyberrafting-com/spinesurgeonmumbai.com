@@ -47,9 +47,9 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="language-buttons">
-                                    <a href="{{ route('neck-pain') }}" class="language-btn {{ request()->is('neck-pain') && !request()->is('neck-pain-*') ? 'active' : '' }}">ENGLISH</a>
-                                    <a href="{{ route('neck-pain-h') }}" class="language-btn {{ request()->is('neck-pain-h') ? 'active' : '' }}">HINDI</a>
-                                    <a href="{{ route('neck-pain-m') }}" class="language-btn {{ request()->is('neck-pain-m') ? 'active' : '' }}">MARATHI</a>
+                                    <a href="{{ route('neck-pain') }}" class="language-btn {{ request()->is('neck-pain') && !request()->is('neck-pain-*') ? 'active' : '' }}">अंग्रेज़ी</a>
+                                    <a href="{{ route('neck-pain-h') }}" class="language-btn {{ request()->is('neck-pain-h') ? 'active' : '' }}">हिंदी</a>
+                                    <a href="{{ route('neck-pain-m') }}" class="language-btn {{ request()->is('neck-pain-m') ? 'active' : '' }}">मराठी</a>
                                 </div>
                             </div>
                         </div>

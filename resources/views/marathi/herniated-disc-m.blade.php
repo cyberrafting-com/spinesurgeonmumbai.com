@@ -91,13 +91,13 @@
                             <div class="col-lg-12">
                                 <div class="language-buttons">
                                     <a href="{{ route('herniated-disc') }}" class="language-btn {{ request()->is('herniated-disc') && !request()->is('herniated-disc-*') ? 'active' : '' }}">
-                                        ENGLISH
+                                        इंग्रजी
                                     </a>
                                     <a href="{{ route('herniated-disc-h') }}" class="language-btn {{ request()->is('herniated-disc-h') ? 'active' : '' }}">
-                                        HINDI
+                                        हिंदी
                                     </a>
                                     <a href="{{ route('herniated-disc-m') }}" class="language-btn {{ request()->is('herniated-disc-m') ? 'active' : '' }}">
-                                        MARATHI
+                                        मराठी
                                     </a>
                                 </div>
                             </div>

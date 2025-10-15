@@ -47,9 +47,9 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="language-buttons">
-                                <a href="{{ route('herniated-disc') }}" class="language-btn {{ request()->is('herniated-disc') && !request()->is('herniated-disc-*') ? 'active' : '' }}">ENGLISH</a>
-                                <a href="{{ route('herniated-disc-h') }}" class="language-btn {{ request()->is('herniated-disc-h') ? 'active' : '' }}">HINDI</a>
-                                <a href="{{ route('herniated-disc-m') }}" class="language-btn {{ request()->is('herniated-disc-m') ? 'active' : '' }}">MARATHI</a>
+                                <a href="{{ route('herniated-disc') }}" class="language-btn {{ request()->is('herniated-disc') && !request()->is('herniated-disc-*') ? 'active' : '' }}">अंग्रेज़ी</a>
+                                <a href="{{ route('herniated-disc-h') }}" class="language-btn {{ request()->is('herniated-disc-h') ? 'active' : '' }}">हिंदी</a>
+                                <a href="{{ route('herniated-disc-m') }}" class="language-btn {{ request()->is('herniated-disc-m') ? 'active' : '' }}">मराठी</a>
                             </div>
                         </div>
                     </div>
