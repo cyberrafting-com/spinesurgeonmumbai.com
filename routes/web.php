@@ -567,6 +567,29 @@ Route::get('/back-pain-specialist-mumbai', function () {
         return view('blog.back-pain-specialist-mumbai');
 })->name('back-pain-specialist-mumbai');
 
+// blogs
+
+
+Route::get('early-signs-of-scoliosis', function () {
+    return view('blog.early-signs-of-scoliosis');
+})->name('early-signs-of-scoliosis');
+
+
+Route::get('myths-vs-facts-understanding-scoliosis-better', function () {
+    return view('blog.myths-vs-facts-understanding-scoliosis-better');
+})->name('myths-vs-facts-understanding-scoliosis-better');
+
+
+
+Route::get('what-to-expect-before-and-after-minimally-invasive-spine-surgery', function () {
+    return view('blog.what-to-expect-before-and-after-minimally-invasive-spine-surgery');
+})->name('what-to-expect-before-and-after-minimally-invasive-spine-surgery');
+
+Route::get('why-minimally-invasive-spine-surgery-changing-lives', function () {        
+    return view('blog.why-minimally-invasive-spine-surgery-changing-lives');
+})->name('why-minimally-invasive-spine-surgery-changing-lives');
+
+
 // marathi service pages start
 
 Route::get('/back-pain-m', function () {

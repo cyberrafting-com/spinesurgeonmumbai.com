@@ -33,6 +33,41 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 <section class="gallery_inner blog">
     <div class="container">
         <div class="row justify-content-center">
+            <!-- latest blogs start -->
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('early-signs-of-scoliosis') }}"><img
+                            src="{{ asset('resources/assets/img/blog/scoliosis-signs.jpg') }}">
+                        <h1>Early Signs of Scoliosis: What Every Parent Should Know</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('myths-vs-facts-understanding-scoliosis-better') }}"><img
+                            src="{{ asset('resources/assets/img/blog/myth-fact-scoliosis.jpg') }}">
+                        <h1>Myths vs Facts: Understanding Scoliosis Better</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('what-to-expect-before-and-after-minimally-invasive-spine-surgery') }}"><img
+                            src="{{ asset('resources/assets/img/blog/after-before-minimally-invasive-spine-surgery.jpg') }}">
+                        <h1>What to Expect Before and After Minimally Invasive Spine Surgery</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('why-minimally-invasive-spine-surgery-changing-lives') }}"><img
+                            src="{{ asset('resources/assets/img/blog/minimally- invasive-spine-surgery.jpg') }}">
+                        <h1>Why Minimally Invasive Spine Surgery Is Changing Lives</h1>
+                    </a>
+                </div>
+            </div>
+
+            <!-- latest blogs end -->
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
                         <a href="{{ route('scoliosis-treatment-india') }}"><img
