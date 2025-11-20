@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spine Clinic Mumbai - Minimally Invasive Spine Surgery</title>
-    <link rel="stylesheet" href="{{ asset('resources/assets/landing-page/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('resources/assets/landing-page/css/style2.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer"
     />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-1hctYcZMWvx6bMpiKFFitvolG/G5hgbf+5Q5e0siJmq9hw3rroWAtxEvsC0BpvyOuk+qS0bkkCm1cWUGXcYFeg==" crossorigin="anonymous" referrerpolicy="no-referrer">
@@ -131,25 +131,15 @@
             <div class="banner-overlay"></div>
             <div class="banner-content">
                 <div class="banner-text">
-                    <h1 class="banner-headline">Get Back to Life with Minimally Invasive Spine Surgery</h1>
+                    <h1 class="banner-headline">Get Back to a Pain-Free Life with Expert Spine Surgery!
+                    </h1>
                     <p class="banner-subtext">Small incision. Quicker recovery. Expert spinal care in Mumbai.</p>
                     <div class="banner-cta">
-                        <div class="cta-row">
-                            <div class="cta-col-6">
-                                <a href="tel:+919619100123" class="cta-button phone">
-                                    <span class="cta-icon" aria-hidden="true"><i class="fa-solid fa-phone"></i></span>
-                                    <span class="sr-only">Call us</span>
-                                    <span> +91 96191 00123</span>
-                                </a>
-                            </div>
-                            <div class="cta-col-6">
-                                <a href="mailto:spineclinicmumbai@gmail.com" class="cta-button email">
-                                    <span class="cta-icon" aria-hidden="true"><i class="fa-solid fa-envelope"></i></span>
-                                    <span class="sr-only">Email us</span>
-                                    <span>spineclinicmumbai@gmail.com</span>
-                                </a>
-                            </div>
-                        </div>
+                        <a href="#appointmentForm" class="cta-button appointment">
+                            <span class="cta-icon" aria-hidden="true"><i class="fa-solid fa-calendar-check"></i></span>
+                            <span class="sr-only">Book appointment</span>
+                            <span>Book Appointment</span>
+                        </a>
                     </div>
                 </div>
                 <div class="banner-image">
@@ -163,28 +153,28 @@
         <!-- Why Choose Section -->
         <section id="why-choose" class="section why-choose-section">
             <div class="container">
-                <h2 class="section-title">Why Choose Minimally Invasive Spine Surgery?</h2>
-                <p class="section-intro">When back pain or neck discomfort disrupts your daily life, consider minimally invasive spine surgery (MISS). This modern technique allows for:</p>
+                <h2 class="section-title">Why Choose Spine Clinic Mumbai?</h2>
+                <p class="section-intro">Trusted expertise, modern techniques, and compassionate care—every step of your spine treatment is handled with precision.</p>
                 <div class="features-grid">
                     <div class="feature-card">
-                        <div class="feature-icon"><img src="{{ asset('resources/assets/landing-page/images/smaller-scars.png') }}" alt="" class="why-choose-img"></div>
-                        <h3>Smaller Scars</h3>
-                        <p>Less tissue trauma with minimal incisions</p>
+                        <div class="feature-icon"><img src="resources\assets\landing-page\images\careexpert.png" alt="Expert care" class="why-choose-img"></div>
+                        <h5>Expert Care with Dr. Vishal Kundnani –</h5>
+                        <p class="feature-description">Over 20,000 successful spine surgeries and 5,000+ microsurgeries performed!</p>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon"><img src="{{ asset('resources/assets/landing-page/images/reduce-pain.png') }}" alt="" class="why-choose-img"></div>
-                        <h3>Reduced Pain</h3>
-                        <p>Less post-operative pain and need for strong medications</p>
+                        <div class="feature-icon"><img src="resources\assets\landing-page\images\relevant-equipment.png" alt="Advanced treatments" class="why-choose-img"></div>
+                        <h5>Advanced Treatment Options –</h5>
+                        <p class="feature-description">We use the latest minimally invasive techniques for faster recovery and less pain.</p>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon"><img src="{{ asset('resources/assets/landing-page/images/faster-recovery.png') }}" alt="" class="why-choose-img"></div>
-                        <h3>Faster Recovery</h3>
-                        <p>Shorter hospital stays and quicker return to normal life</p>
+                        <div class="feature-icon"><img src="resources\assets\landing-page\images\consultatntdr.png" alt="Personalized plan" class="why-choose-img"></div>
+                        <h5>Personalized Consultation –</h5>
+                        <p class="feature-description">Get a tailored treatment plan designed just for you.</p>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon"><img src="{{ asset('resources/assets/landing-page/images/lower-risk.png') }}" alt="" class="why-choose-img"></div>
-                        <h3>Lower Risk</h3>
-                        <p>Reduced risk of complications like infections or blood loss</p>
+                        <div class="feature-icon"><img src="resources\assets\landing-page\images\postcare-img.png" alt="Post operative care" class="why-choose-img"></div>
+                        <h5>Comprehensive Post-Operative Care –</h5>
+                        <p class="feature-description">Our dedicated care ensures you heal properly and quickly.</p>
                     </div>
                 </div>
             </div>
@@ -201,7 +191,9 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Herniated-Bulging-Discs-img.png') }}" alt="Herniated or Bulging Discs causing leg or arm pain (sciatica)" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <p>Herniated or bulging discs causing leg or arm pain (sciatica)</p>
+                            <h4>Minimally Invasive Spine Surgery (MISS)</h4>
+                            <p>Say goodbye to long recovery times! Smaller incisions, faster recovery, and less pain — that’s the power of MISS.</p>
+                            <a href="#appointmentForm" class="condition-cta">Book your consultation now!</a>
                         </div>
                     </div>
                     <div class="condition-item">
@@ -209,7 +201,9 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Spinal-Stenosis-img.png') }}" alt="Spinal Stenosis narrowing of the spinal canal" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <p>Spinal stenosis (narrowing of the spinal canal)</p>
+                            <h4>Slip Disc Treatment</h4>
+                            <p>Struggling with sciatica or leg pain? We specialize in treating herniated or slipped discs with precision and care.</p>
+                            <a href="tel:+919619100123" class="condition-cta">Get relief today — Call now!</a>
                         </div>
                     </div>
                     <div class="condition-item">
@@ -217,7 +211,9 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Spondylolisthesis-img.png') }}" alt="Spondylolisthesis vertebra shifting out of place" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <p>Spondylolisthesis (vertebra shifting out of place)</p>
+                            <h4>Microendoscopic Spine Surgery</h4>
+                            <p>Experience minimal scarring, less pain, and quicker recovery with our advanced microendoscopic techniques.</p>
+                            <a href="tel:+919619100123" class="condition-cta">Ready to feel better? Contact us now!</a>
                         </div>
                     </div>
                     <div class="condition-item">
@@ -225,7 +221,9 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Degenerative-Disc-Disease-img.png') }}" alt="Degenerative disc disease severe arthritis" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <p>Degenerative disc disease, severe arthritis</p>
+                            <h4>Endoscopic Spine Surgery</h4>
+                            <p>Using the latest technology, we treat spinal conditions with tiny incisions for less risk and faster healing.</p>
+                            <a href="#appointmentForm" class="condition-cta">Want to learn more? Schedule your appointment!</a>
                         </div>
                     </div>
                     <div class="condition-item">
@@ -233,7 +231,9 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Scoliosis-Kyphosis-img.png') }}" alt="Scoliosis or Kyphosis" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <p>Scoliosis or kyphosis (in selected cases)</p>
+                            <h4>Spinal Fusion Surgery</h4>
+                            <p>If you’re dealing with spinal instability or severe arthritis, our expert spinal fusion surgery helps restore function and eliminate pain.</p>
+                            <a href="#appointmentForm" class="condition-cta">Book your consultation today!</a>
                         </div>
                     </div>
                     <div class="condition-item">
@@ -241,7 +241,9 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Recurrent-Disc-Problems-img.png') }}" alt="Recurrent Disc Problems after prior surgery" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <p>Recurrent disc problems after prior surgery</p>
+                            <h4>Scoliosis Surgery</h4>
+                            <p>Whether you're a child or adult, we specialize in correcting spinal deformities with minimally invasive techniques.</p>
+                            <a href="#appointmentForm" class="condition-cta">Start your journey to confidence—contact us now!</a>
                         </div>
                     </div>
                 </div>
@@ -288,8 +290,7 @@
                     </div>
                     <div class="doctor-info">
                         <h2 class="section-title text-left">Meet Dr. Vishal Kundnani</h2>
-                        <h4 class="doctor-subheading">Education</h4>
-                        <p class="doctor-highlight">MS (Ortho) · FASSI · FNUS · FNAMS</p>
+                        <p class="doctor-highlight"><strong>MS (Ortho) · FASSI · FNUS · FNAMS</strong></p>
                         <h4 class="doctor-subheading">Specialization</h4>
                         <ul class="doctor-specialization-list">
                             <li>Minimal Invasive Spine Surgery</li>
@@ -344,10 +345,10 @@
                             </a>
                         </div>
                         <div class="cta-col-6-secondary">
-                            <a href="mailto:spineclinicmumbai@gmail.com" class="cta-button email">
-                                <span class="cta-icon" aria-hidden="true"><i class="fa-solid fa-envelope"></i></span>
-                                <span class="sr-only">Email us</span>
-                                <span>spineclinicmumbai@gmail.com</span>
+                            <a href="#appointmentForm" class="cta-button email">
+                                <!-- <span class="cta-icon" aria-hidden="true"><i class="fa-solid fa-envelope"></i></span>
+                                <span class="sr-only">Email us</span> -->
+                                <span>Book Appointment</span>
                             </a>
                         </div>
                     </div>
@@ -547,43 +548,34 @@
                             <span class="faq-toggle">+</span>
                         </button>
                         <div class="faq-answer">
-                            <p>Minimally invasive spine surgery involves making small incisions rather than large cuts. This reduces tissue damage, scarring, and recovery time while maintaining the effectiveness of traditional spine surgeries.</p>
+                            <p>MINIMALLY INVASIVE spine surgery means smaller incisions, less pain, and quicker recovery. This technique helps treat spine conditions like herniated discs and sciatica.</p>
                         </div>
                     </div>
                     <div class="faq-item">
                         <button class="faq-question" aria-expanded="false">
-                            <span>Is the recovery process quicker with minimally invasive spine surgery?</span>
+                            <span>How long does it take to recover from spine surgery?</span>
                             <span class="faq-toggle">+</span>
                         </button>
                         <div class="faq-answer">
-                            <p>Yes, recovery is generally quicker with MISS due to the smaller incisions and less tissue damage. Patients often return to their normal activities in a shorter time compared to traditional surgery.</p>
+                            <p>Recovery times vary depending on the surgery, but most patients return to normal activities much faster than with traditional surgery.</p>
                         </div>
                     </div>
                     <div class="faq-item">
                         <button class="faq-question" aria-expanded="false">
-                            <span>Is minimally invasive spine surgery suitable for all spine conditions?</span>
+                            <span>Can I get a spine surgery consultation today?</span>
                             <span class="faq-toggle">+</span>
                         </button>
                         <div class="faq-answer">
-                            <p>While MISS can treat many spine conditions, it may not be suitable for all cases. Your surgeon will discuss whether this approach is right for your specific condition.</p>
+                            <p>YES! Call us NOW to schedule your appointment or email us for immediate assistance.</p>
                         </div>
                     </div>
                     <div class="faq-item">
                         <button class="faq-question" aria-expanded="false">
-                            <span>What are the benefits of minimally invasive surgery over traditional surgery?</span>
+                            <span>What if my slip disc is causing severe pain?</span>
                             <span class="faq-toggle">+</span>
                         </button>
                         <div class="faq-answer">
-                            <p>The key benefits of MISS include smaller scars, less pain, faster recovery, and a lower risk of complications like infection and blood loss.</p>
-                        </div>
-                    </div>
-                    <div class="faq-item">
-                        <button class="faq-question" aria-expanded="false">
-                            <span>How do I know if I need spine surgery?</span>
-                            <span class="faq-toggle">+</span>
-                        </button>
-                        <div class="faq-answer">
-                            <p>If conservative treatments like physical therapy and medications haven’t provided relief, surgery may be considered. A consultation with Dr. Vishal Kundnani can help determine the best treatment for your condition.</p>
+                            <p>Our expert team can treat your slip disc with the latest minimally invasive techniques to get you back to pain-free living. Book your consultation today!</p>
                         </div>
                     </div>
                 </div>

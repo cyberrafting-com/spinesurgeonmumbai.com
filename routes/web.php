@@ -814,3 +814,7 @@ Route::get('/scoliosis-treatment-india', function () {
 Route::get('/treatment-minimal-invaisve-spine-surgery', function () {
     return view('landing-page.treatment-minimal-invaisve-spine-surgery');
 })->name('treatment-minimal-invaisve-spine-surgery');
+//  New file treatment-minimal.blade.php and updated changes 
+Route::get('/spine-surgery-treatment-mumbai', function () {
+    return view('landing-page.spine-surgery-treatment-mumbai');
+})->name('spine-surgery-treatment-mumbai');
