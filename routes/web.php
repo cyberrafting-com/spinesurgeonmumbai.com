@@ -808,3 +808,9 @@ Route::get('/spondylosis-h', function () {
 Route::get('/scoliosis-treatment-india', function () {
     return view('blog.scoliosis-treatment-india');
 })->name('scoliosis-treatment-india');
+
+
+// landing page
+Route::get('/treatment-minimal-invaisve-spine-surgery', function () {
+    return view('landing-page.treatment-minimal-invaisve-spine-surgery');
+})->name('treatment-minimal-invaisve-spine-surgery');
