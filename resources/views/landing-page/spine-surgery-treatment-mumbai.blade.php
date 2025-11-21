@@ -158,23 +158,31 @@
                 <div class="features-grid">
                     <div class="feature-card">
                         <div class="feature-icon"><img src="resources\assets\landing-page\images\careexpert.png" alt="Expert care" class="why-choose-img"></div>
-                        <h5>Expert Care with Dr. Vishal Kundnani –</h5>
-                        <p class="feature-description">Over 20,000 successful spine surgeries and 5,000+ microsurgeries performed!</p>
+                        <div class="feature-card-content">
+                            <h5>Expert Care with Dr. Vishal Kundnani </h5>
+                            <p class="feature-description">Over 20,000 successful spine surgeries and 5,000+ microsurgeries performed!</p>
+                        </div>
                     </div>
                     <div class="feature-card">
                         <div class="feature-icon"><img src="resources\assets\landing-page\images\relevant-equipment.png" alt="Advanced treatments" class="why-choose-img"></div>
-                        <h5>Advanced Treatment Options –</h5>
-                        <p class="feature-description">We use the latest minimally invasive techniques for faster recovery and less pain.</p>
+                        <div class="feature-card-content">
+                            <h5>Advanced Treatment Options </h5>
+                            <p class="feature-description">We use the latest minimally invasive techniques for faster recovery and less pain.</p>
+                        </div>
                     </div>
                     <div class="feature-card">
                         <div class="feature-icon"><img src="resources\assets\landing-page\images\consultatntdr.png" alt="Personalized plan" class="why-choose-img"></div>
-                        <h5>Personalized Consultation –</h5>
-                        <p class="feature-description">Get a tailored treatment plan designed just for you.</p>
+                        <div class="feature-card-content">
+                            <h5>Personalized Consultation</h5>
+                            <p class="feature-description">Get a tailored treatment plan designed just for you.</p>
+                        </div>
                     </div>
                     <div class="feature-card">
-                        <div class="feature-icon"><img src="resources\assets\landing-page\images\postcare-img.png" alt="Post operative care" class="why-choose-img"></div>
-                        <h5>Comprehensive Post-Operative Care –</h5>
-                        <p class="feature-description">Our dedicated care ensures you heal properly and quickly.</p>
+                        <div class="feature-icon"><img src="resources\assets\landing-page\images\postcare.png" alt="Post operative care" class="why-choose-img"></div>
+                        <div class="feature-card-content">
+                            <h5>Comprehensive Post-Operative Care –</h5>
+                            <p class="feature-description">Our dedicated care ensures you heal properly and quickly.</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -188,7 +196,7 @@
                 <div class="conditions-list">
                     <div class="condition-item">
                         <div class="condition-media">
-                            <img src="{{ asset('resources/assets/landing-page/images/Herniated-Bulging-Discs-img.png') }}" alt="Herniated or Bulging Discs causing leg or arm pain (sciatica)" loading="lazy">
+                            <img src="{{ asset('resources/assets/landing-page/images/Degenerative-Disc-Disease-img.png') }}" alt="Degenerative disc disease severe arthritis" loading="lazy">
                         </div>
                         <div class="condition-content">
                             <h4>Minimally Invasive Spine Surgery (MISS)</h4>
@@ -218,7 +226,7 @@
                     </div>
                     <div class="condition-item">
                         <div class="condition-media">
-                            <img src="{{ asset('resources/assets/landing-page/images/Degenerative-Disc-Disease-img.png') }}" alt="Degenerative disc disease severe arthritis" loading="lazy">
+                            <img src="{{ asset('resources/assets/landing-page/images/Herniated-Bulging-Discs-img.png') }}" alt="Herniated or Bulging Discs causing leg or arm pain (sciatica)" loading="lazy">
                         </div>
                         <div class="condition-content">
                             <h4>Endoscopic Spine Surgery</h4>
@@ -360,7 +368,7 @@
         <section id="reviews" class="section reviews-section">
             <div class="container">
                 <div class="reviews-header">
-                    <h2 class="section-title">Reviews</h2>
+                    <h2 class="section-title">Patients Reviews</h2>
                     <p class="section-intro">Hear from patients who trusted Dr. Vishal Kundnani with their spine care.</p>
                 </div>
                 <div class="reviews-grid">
@@ -581,23 +589,34 @@
                 </div>
             </div>
         </section>
+
+        <!-- Book Appointment CTA Section -->
+        <section class="section book-appointment-cta">
+            <div class="container">
+                <h2 class="cta-title">Get the Spine Care You Deserve – Book Now!</h2>
+                <p class="cta-description">Don't let pain control your life any longer. Book your appointment with Dr. Vishal Kundnani today, and take the first step toward a pain-free future!</p>
+                <div class="cta-action-row">
+                    <a href="tel:+919619100123" class="cta-button cta-inline-btn phone-btn">
+                        <span class="btn-icon"><i class="fa-solid fa-phone"></i></span>
+                        <span class="btn-text">
+                            <strong>CALL NOW</strong>
+                            <span>+91 96191 00123</span>
+                        </span>
+                    </a>
+                    <a href="#contact" class="cta-button cta-inline-btn schedule-btn">
+                        <span class="btn-icon"><i class="fas fa-calendar-check"></i></span>
+                        <span class="btn-text">
+                            <strong>SCHEDULE</strong>
+                            <span>Your consultation today!</span>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </section>
     </main>
 
     <script src="{{ asset('resources/assets/js/footer.js') }}"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const faqButtons = document.querySelectorAll('.faq-question');
 
-            faqButtons.forEach((button) => {
-                button.addEventListener('click', () => {
-                    const isExpanded = button.getAttribute('aria-expanded') === 'true';
-
-                    button.setAttribute('aria-expanded', (!isExpanded).toString());
-                    button.closest('.faq-item').classList.toggle('open', !isExpanded);
-                });
-            });
-        });
-    </script>
 </body>
 
 </html>

@@ -65,6 +65,9 @@
 <link rel="stylesheet" href="{{ asset('resources/assets/css/sidebar.css') }}">
 <link rel="stylesheet" href="{{ asset('resources/assets/css/responsive.css') }}">
 
+<!-- landing page css -->
+<link rel="stylesheet" href="{{ asset('resources/assets/landing-page/css/style2.css') }}">
+
 
 
 <!-- Google tag (gtag.js) -->
