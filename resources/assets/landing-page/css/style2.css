@@ -260,7 +260,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('data:image/svg+xml,<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="grid" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M 100 0 L 0 0 0 100" fill="none" stroke="rgba(59,130,246,0.1)" stroke-width="1"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>');
+    background: url('data:image/svg+xml,<svg widh="100" height="100" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="grid" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M 100 0 L 0 0 0 100" fill="none" stroke="rgba(59,130,246,0.1)" stroke-width="1"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>');
     opacity: 0.3;
     pointer-events: none;
 }
@@ -272,7 +272,7 @@ body {
     margin: 0 auto;
     padding: 0 20px;
     display: grid;
-    grid-template-columns: 1.15fr repeat(2, 0.95fr);
+    /* grid-template-columns: 1.15fr repeat(2, 0.95fr); */
     gap: 40px;
     align-items: stretch;
 }
@@ -420,14 +420,14 @@ button.cta-button:active {
 }
 
 .banner-image {
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
 }
 
 .doctor-image-placeholder {
-    width: 300px;
-    height: 400px;
+    width: 75%;
+    height: 550px;
     background: linear-gradient(135deg, var(--white), #e0f2fe);
     border-radius: 20px;
     display: flex;
@@ -510,7 +510,9 @@ button.cta-button:active {
     align-items: stretch;
 }
 
+
 /* Largest screens: 2 columns with increased gap */
+
 @media (min-width: 1200px) {
     .features-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -518,7 +520,9 @@ button.cta-button:active {
     }
 }
 
+
 /* Large desktop (900px-1200px): 2 columns */
+
 @media (min-width: 900px) and (max-width: 1200px) {
     .features-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -526,34 +530,34 @@ button.cta-button:active {
     }
 }
 
+
 /* iPad/Medium screens (768px-900px): 2 columns */
+
 @media (min-width: 768px) and (max-width: 900px) {
     .features-grid {
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
+
 /* Small screens (<768px): 1 column */
+
 @media (max-width: 768px) {
     .features-grid {
         grid-template-columns: 1fr;
         gap: 15px;
     }
-    
     .feature-card {
         flex-direction: column;
         text-align: center;
     }
-    
     .feature-icon {
         width: 100%;
         margin-bottom: 10px;
     }
-    
     .feature-card-content {
         text-align: center;
     }
-    
     .feature-card h5,
     .feature-card .feature-description {
         text-align: center;
@@ -600,7 +604,7 @@ button.cta-button:active {
 }
 
 .feature-card h5 {
-    font-size:20px;
+    font-size: 20px;
     color: var(--primary-blue);
     margin-bottom: 6px;
     font-weight: 700;
@@ -1330,6 +1334,7 @@ img.why-choose-img {
     border-radius: 16px;
     object-fit: cover;
 }
+
 .footer-locations .header_title {
     text-align: center;
     margin-bottom: 10px;
@@ -1615,7 +1620,7 @@ img.why-choose-img {
     margin: 0px;
     padding: 7px;
     text-align: left;
-     border-radius: 0px;
+    border-radius: 0px;
 }
 
 .ba_image {
@@ -2097,12 +2102,16 @@ img.why-choose-img {
 
 /* language switcher css end */
 
+
 /* Location section spacing tweak */
+
 .location-section {
     padding-bottom: 40px;
 }
 
+
 /* FAQ Section */
+
 .faq-section {
     background: #f8f9fb;
     padding-top: 40px;
@@ -2189,18 +2198,18 @@ img.why-choose-img {
         font-size: 0.95rem;
         padding: 0.85rem 1rem;
     }
-
     .faq-answer {
         padding-left: 1rem;
         padding-right: 1rem;
     }
-
     .faq-item.open .faq-answer {
         padding: 0 1rem 0.85rem;
     }
 }
 
+
 /* Book Appointment CTA Section */
+
 .book-appointment-cta,
 .faq-section .book-appointment-cta.faq-cta-embed {
     background: linear-gradient(135deg, #fbb4b4 0%, #fde2e2 50%, #fcb7b7 100%);
@@ -2325,21 +2334,17 @@ img.why-choose-img {
         border-radius: 10px;
         margin: 20px 15px 30px;
     }
-    
     .cta-title {
         font-size: 1.5rem;
     }
-    
     .cta-description {
         font-size: 0.9rem;
     }
-    
     .cta-action-row {
         flex-direction: column;
         gap: 20px;
         flex-wrap: wrap;
     }
-    
     .cta-inline-btn {
         padding: 15px 30px;
         font-size: 1rem;
@@ -2348,7 +2353,9 @@ img.why-choose-img {
     }
 }
 
+
 /* Reviews Section */
+
 .reviews-section {
     background: #f4f8ff;
     padding-bottom: 40px;
@@ -2496,13 +2503,17 @@ img.why-choose-img {
     }
 }
 
+
 /* Modal Styles */
+
 .appointment-modal-custom {
     border-radius: 12px;
     overflow: hidden;
 }
 
+
 /* Header Styling */
+
 .appointment-modal-header-custom {
     background: #004c74;
     color: white;
@@ -2512,7 +2523,9 @@ img.why-choose-img {
     align-items: center;
 }
 
+
 /* Close Button Styling */
+
 .modal-close {
     border: none;
     background: transparent;
@@ -2522,17 +2535,23 @@ img.why-choose-img {
     cursor: pointer;
 }
 
+
 /* Close Button Hover */
+
 .modal-close:hover {
     color: #dcdcdc;
 }
 
+
 /* Body Styling */
+
 .appointment-modal-body-custom {
     padding: 20px 25px;
 }
 
+
 /* Input Fields Styling */
+
 .appointment-form .form-group {
     margin-bottom: 15px;
 }
@@ -2557,7 +2576,9 @@ img.why-choose-img {
     font-size: 12px;
 }
 
+
 /* Submit Button Styling */
+
 .btn-submit {
     width: 100%;
     padding: 12px;
@@ -2574,4 +2595,18 @@ img.why-choose-img {
 .btn-submit:hover {
     background: var(--primary-blue);
     transform: translateY(-2px);
+}
+
+@media (max-width: 911px) {
+    .doctor-image-placeholder {
+        width: 100%;
+        height: 800px;
+    }
+}
+
+@media (max-width: 767px) {
+    .doctor-image-placeholder {
+        width: 100%;
+        height: 450px;
+    }
 }

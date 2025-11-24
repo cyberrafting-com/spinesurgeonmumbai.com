@@ -96,46 +96,51 @@
         <!-- Banner Section -->
         <section id="home" class="banner-section">
             <div class="banner-overlay"></div>
-            <div class="banner-content">
-                <div class="banner-text">
-                    <h1 class="banner-headline">Get Back to a Pain-Free Life with Expert Spine Surgery!</h1>
-                    <p class="banner-subtext">Small incision. Quicker recovery. Expert spinal care in Mumbai.</p>
-
-                    <div class="banner-cta">
-                        <button type="button" class="cta-button appointment open-appointment-modal" data-bs-toggle="modal" data-bs-target="#appointmentModal" aria-label="Book Appointment">
-                            <span class="cta-icon" aria-hidden="true"><i class="fa-solid fa-calendar-check"></i></span>
-                            <span>Book Appointment</span>
-                        </button>
+            <div class="banner-content container">
+                <div class="row g-4 align-items-center">
+                    <div class="col-12 col-lg-6">
+                        <div class="banner-text">
+                            <h1 class="banner-headline">Get Back to a Pain-Free Life with Expert Spine Surgery!</h1>
+                            <p class="banner-subtext">Small incision. Quicker recovery. Expert spinal care in Mumbai.</p>
+                            <div class="banner-image">
+                                <div class="doctor-image-placeholder">
+                                    <img src="{{ asset('resources/assets/landing-page/images/dr-vishal.jpg') }}" alt="Dr. Vishal Kundnani">
+                                </div>
+                            </div>
+                            <div class="banner-cta mt-4">
+                                <button type="button" class="cta-button appointment open-appointment-modal" data-bs-toggle="modal" data-bs-target="#appointmentModal" aria-label="Book Appointment">
+                                    <span class="cta-icon" aria-hidden="true"><i class="fa-solid fa-calendar-check"></i></span>
+                                    <span>Book Appointment</span>
+                                </button>
+                            </div>
+                        </div>
                     </div>
-                </div>
+                    <div class="col-12 col-lg-6">
+                        <div class="banner-form h-100">
+                            {{-- <div class="form-container">
+                                <h3>Book Consultation</h3>
+                                <form id="appointmentForm" class="appointment-form">
+                                    <div class="form-group">
+                                        <input type="text" id="patientName" placeholder="Patient Name" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="tel" id="mobileNumber" class="mobile-input" placeholder="Mobile Number" required pattern="[0-9]{10}" inputmode="numeric" maxlength="10" title="Please enter a 10-digit Indian mobile number">
+                                    </div>
+                                    <div class="form-group">
+                                        <select id="selectCity" required>
+                                            <option value="">Select City</option>
+                                            <option value="mumbai">Mumbai</option>
+                                            <option value="pune">Pune</option>
+                                            <option value="delhi">Delhi</option>
+                                            <option value="bangalore">Bangalore</option>
+                                        </select>
+                                    </div>
+                                    <button type="submit" class="btn-submit">Book Appointment</button>
+                                </form>
+                            </div> --}}
 
-                <div class="banner-image">
-                    <div class="doctor-image-placeholder">
-                        <img src="{{ asset('resources/assets/landing-page/images/dr-vishal.jpg') }}" alt="Dr. Vishal Kundnani">
-                    </div>
-                </div>
-
-                <div class="banner-form">
-                    <div class="form-container">
-                        <h3>Book Consultation</h3>
-                        <form id="appointmentForm" class="appointment-form">
-                            <div class="form-group">
-                                <input type="text" id="patientName" placeholder="Patient Name" required>
-                            </div>
-                            <div class="form-group">
-                                <input type="tel" id="mobileNumber" class="mobile-input" placeholder="Mobile Number" required pattern="[0-9]{10}" inputmode="numeric" maxlength="10" title="Please enter a 10-digit Indian mobile number">
-                            </div>
-                            <div class="form-group">
-                                <select id="selectCity" required>
-                                    <option value="">Select City</option>
-                                    <option value="mumbai">Mumbai</option>
-                                    <option value="pune">Pune</option>
-                                    <option value="delhi">Delhi</option>
-                                    <option value="bangalore">Bangalore</option>
-                                </select>
-                            </div>
-                            <button type="submit" class="btn-submit">Book Appointment</button>
-                        </form>
+                            <iframe src="https://get-appointment.docfx.in/appointment-form?doctor=Vishal--Kundnani" width="100%" height="800" style="border:none;"></iframe>
+                        </div>
                     </div>
                 </div>
             </div>
