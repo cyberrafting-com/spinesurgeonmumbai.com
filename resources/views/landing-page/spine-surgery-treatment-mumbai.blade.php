@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spine Clinic Mumbai - Minimally Invasive Spine Surgery</title>
     <link rel="stylesheet" href="{{ asset('resources/assets/landing-page/css/style2.css') }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-G/EV+4j2dNv+tEPo3++6LCgdCROaejBqfUeNjuKAiuXbjrxilcCdDz6ZAVfHWe1Y" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer"
     />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-1hctYcZMWvx6bMpiKFFitvolG/G5hgbf+5Q5e0siJmq9hw3rroWAtxEvsC0BpvyOuk+qS0bkkCm1cWUGXcYFeg==" crossorigin="anonymous" referrerpolicy="no-referrer">
@@ -92,13 +95,13 @@
     <!-- Sticky Appointment Form -->
     <aside class="sticky-form">
         <div class="form-container">
-            <h3>Book FREE Consultation</h3>
+            <h3>Book  Consultation</h3>
             <form id="appointmentForm" class="appointment-form">
                 <div class="form-group">
                     <input type="text" id="patientName" placeholder="Patient Name" required>
                 </div>
                 <div class="form-group">
-                    <input type="tel" id="mobileNumber" placeholder="Mobile Number" required>
+                    <input type="tel" id="mobileNumber" class="mobile-input" placeholder="Mobile Number" required pattern="[0-9]{10}" inputmode="numeric" maxlength="10" title="Please enter a 10-digit Indian mobile number">
                 </div>
                 <div class="form-group">
                     <select id="selectCity" required>
@@ -128,27 +131,72 @@
     <main class="main-content">
         <!-- Banner Section -->
         <section id="home" class="banner-section">
-            <div class="banner-overlay"></div>
-            <div class="banner-content">
-                <div class="banner-text">
-                    <h1 class="banner-headline">Get Back to a Pain-Free Life with Expert Spine Surgery!
-                    </h1>
-                    <p class="banner-subtext">Small incision. Quicker recovery. Expert spinal care in Mumbai.</p>
-                    <div class="banner-cta">
-                        <a href="#appointmentForm" class="cta-button appointment">
-                            <span class="cta-icon" aria-hidden="true"><i class="fa-solid fa-calendar-check"></i></span>
-                            <span class="sr-only">Book appointment</span>
-                            <span>Book Appointment</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="banner-image">
-                    <div class="doctor-image-placeholder">
-                        <img src="{{ asset('resources/assets/landing-page/images/dr-vishal.jpg') }}" alt="Dr. Vishal Kundnani">
-                    </div>
-                </div>
+    <div class="banner-overlay"></div>
+    <div class="banner-content">
+        <div class="banner-text">
+            <h1 class="banner-headline">Get Back to a Pain-Free Life with Expert Spine Surgery!</h1>
+            <p class="banner-subtext">Small incision. Quicker recovery. Expert spinal care in Mumbai.</p>
+
+            <div class="banner-cta">
+                <button type="button" class="cta-button appointment" data-bs-toggle="modal" data-bs-target="#appointmentModal" aria-label="Book Appointment" style="border: none;  outline: none;">
+                    <span class="cta-icon" aria-hidden="true"><i class="fa-solid fa-calendar-check"></i></span>
+                    <span>Book Appointment</span>
+                </button>
             </div>
-        </section>
+        </div>
+
+        <div class="banner-image">
+            <div class="doctor-image-placeholder">
+                <img src="{{ asset('resources/assets/landing-page/images/dr-vishal.jpg') }}" alt="Dr. Vishal Kundnani">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Modal -->
+<!-- Modal -->
+<div class="modal fade" id="appointmentModal" tabindex="-1" aria-labelledby="appointmentModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content appointment-modal-custom">
+
+    <div class="modal-header appointment-modal-header-custom d-flex justify-content-between align-items-center">
+    <h3 class="modal-title mb-0" id="appointmentModalLabel" style="font-size: 25px; font-weight: 600;font-bold: 700;">Book  Consultation</h3>
+
+    <button type="button" class="modal-close-btn" data-bs-dismiss="modal" aria-label="Close"style="border: none; background: transparent; outline: none;">
+        <i class="fa-solid fa-times"></i>
+    </button>
+</div>
+
+
+      <div class="modal-body appointment-modal-body-custom">
+        <form id="appointmentFormModal" class="appointment-form">
+
+          <div class="form-group" style="border: 1px solid #949292; border-radius: 8px;" >
+            <input type="text" id="patientNameModal" name="patientName" placeholder="Patient Name" required>
+          </div>
+
+          <div class="form-group" style="border: 1px solid #949292; border-radius: 8px;">
+            <input type="tel" id="mobileNumberModal" name="mobileNumber" class="mobile-input" placeholder="Mobile Number" required pattern="[0-9]{10}" inputmode="numeric" maxlength="10" title="Please enter a 10-digit Indian mobile number">
+          </div>
+
+          <div class="form-group" style="border: 1px solid #949292; border-radius: 8px; "            >
+            <select id="selectCityModal" name="selectCity" required>
+              <option value="">Select City</option>
+              <option value="mumbai">Mumbai</option>
+              <option value="pune">Pune</option>
+              <option value="delhi">Delhi</option>
+              <option value="bangalore">Bangalore</option>
+            </select>
+          </div>
+
+          <button type="submit" class="btn-submit">Book Appointment</button>
+
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
 
         <!-- Why Choose Section -->
         <section id="why-choose" class="section why-choose-section">
@@ -353,11 +401,11 @@
                             </a>
                         </div>
                         <div class="cta-col-6-secondary">
-                            <a href="#appointmentForm" class="cta-button email">
+                            <button type="button" class="cta-button email" data-bs-toggle="modal" data-bs-target="#appointmentModal" aria-label="Book Appointment">
                                 <!-- <span class="cta-icon" aria-hidden="true"><i class="fa-solid fa-envelope"></i></span>
                                 <span class="sr-only">Email us</span> -->
                                 <span>Book Appointment</span>
-                            </a>
+                            </button>
                         </div>
                     </div>
                 </div>
@@ -444,7 +492,7 @@
 
         <!-- Location Section -->
         <section id="location" class="section location-section">
-            <div class="footer-locations bg-dark text-white py-4 pb-5">
+            <div class="footer-locations  py-4 pb-5">
                 <div class="container">
                     <div class="header_title">
                         <h3>Our Locations</h3>
@@ -587,35 +635,64 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </section>
-
-        <!-- Book Appointment CTA Section -->
-        <section class="section book-appointment-cta">
-            <div class="container">
-                <h2 class="cta-title">Get the Spine Care You Deserve – Book Now!</h2>
-                <p class="cta-description">Don't let pain control your life any longer. Book your appointment with Dr. Vishal Kundnani today, and take the first step toward a pain-free future!</p>
-                <div class="cta-action-row">
-                    <a href="tel:+919619100123" class="cta-button cta-inline-btn phone-btn">
-                        <span class="btn-icon"><i class="fa-solid fa-phone"></i></span>
-                        <span class="btn-text">
-                            <strong>CALL NOW</strong>
-                            <span>+91 96191 00123</span>
-                        </span>
-                    </a>
-                    <a href="#contact" class="cta-button cta-inline-btn schedule-btn">
-                        <span class="btn-icon"><i class="fas fa-calendar-check"></i></span>
-                        <span class="btn-text">
-                            <strong>SCHEDULE</strong>
-                            <span>Your consultation today!</span>
-                        </span>
-                    </a>
+                <div class="book-appointment-cta faq-cta-embed">
+                    <h2 class="cta-title">Get the Spine Care You Deserve – Book Now!</h2>
+                    <p class="cta-description">Don't let pain control your life any longer. Book your appointment with Dr. Vishal Kundnani today, and take the first step toward a pain-free future!</p>
+                    <div class="cta-action-row">
+                        <a href="tel:+919619100123" class="cta-button cta-inline-btn phone-btn">
+                            <span class="btn-icon"><i class="fa-solid fa-phone"></i></span>
+                            <span class="btn-text">
+                                <strong>CALL NOW</strong>
+                                <span>+91 96191 00123</span>
+                            </span>
+                        </a>
+                        <button type="button" class="cta-button cta-inline-btn schedule-btn" data-bs-toggle="modal" data-bs-target="#appointmentModal" aria-label="Schedule your consultation today">
+                            <span class="btn-icon"><i class="fas fa-calendar-check"></i></span>
+                            <span class="btn-text">
+                                <strong>SCHEDULE</strong>
+                                <span>Your consultation today!</span>
+                            </span>
+                        </button>
+                    </div>
                 </div>
             </div>
         </section>
     </main>
-
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js" integrity="sha384-G/EV+4j2dNv+tEPo3++6LCgdCROaejBqfUeNjuKAiuXbjrxilcCdDz6ZAVfHWe1Y" crossorigin="anonymous"></script>
     <script src="{{ asset('resources/assets/js/footer.js') }}"></script>
+    <script>
+        // Handle form submission in modal
+        document.addEventListener('DOMContentLoaded', function() {
+            const form = document.getElementById('appointmentFormModal');
+            const modal = document.getElementById('appointmentModal');
+            const mobileInputs = document.querySelectorAll('.mobile-input');
+
+            mobileInputs.forEach((input) => {
+                input.addEventListener('input', function () {
+                    this.value = this.value.replace(/\D/g, '').slice(0, 10);
+                });
+            });
+            
+            if (form) {
+                form.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    alert('Thank you! Your appointment request has been submitted. We will contact you shortly.');
+                    
+                    // Close modal using Bootstrap
+                    const bootstrapModal = bootstrap.Modal.getInstance(modal);
+                    if (bootstrapModal) {
+                        bootstrapModal.hide();
+                    }
+                    
+                    // Reset form
+                    form.reset();
+                });
+            }
+        });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 
 </body>
 

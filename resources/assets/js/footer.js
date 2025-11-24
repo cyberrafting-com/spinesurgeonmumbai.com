@@ -40,3 +40,24 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+ const modal = document.getElementById("appointmentModal");
+    const openBtn = document.querySelector(".open-appointment-modal");
+    const closeBtn = document.querySelector(".modal-close");
+
+    // Open modal
+    openBtn.addEventListener("click", function(e) {
+        e.preventDefault();
+        modal.style.display = "flex";
+    });
+
+    // Close modal
+    closeBtn.addEventListener("click", function() {
+        modal.style.display = "none";
+    });
+
+    // Close when clicking outside modal box
+    window.addEventListener("click", function(e) {
+        if (e.target === modal) {
+            modal.style.display = "none";
+        }
+    });
