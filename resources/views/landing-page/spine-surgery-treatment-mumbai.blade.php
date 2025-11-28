@@ -66,6 +66,31 @@
                 margin-bottom: 0.85rem;
             }
         }
+
+        .doctor-section .condition-cta {
+            display: inline-block;
+            padding: 12px 24px;
+            background: var(--accent-orange);
+            color: var(--white);
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .doctor-section .condition-cta:hover {
+            background: var(--primary-blue);
+            transform: translateX(5px);
+            color: var(--white);
+        }
+
+        .condition-content h4 a {
+            transition: color 0.3s ease;
+        }
+
+        .condition-content h4 a:hover {
+            color: var(--accent-orange) !important;
+        }
     </style>
 </head>
 
@@ -200,9 +225,9 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Degenerative-Disc-Disease-img.png') }}" alt="Degenerative disc disease severe arthritis" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <h4>Minimally Invasive Spine Surgery (MISS)</h4>
-                            <p>Say goodbye to long recovery times! Smaller incisions, faster recovery, and less pain — that’s the power of MISS.</p>
-                            <a href="#appointmentForm" class="condition-cta">Book your consultation now!</a>
+                            <h4><a href="{{ route('minimal-invasive-spine-surgery') }}" style="color: var(--primary-blue); text-decoration: none;">Minimally Invasive Spine Surgery (MISS)</a></h4>
+                            <p>Say goodbye to long recovery times! Smaller incisions, faster recovery, and less pain — that's the power of MISS.</p>
+                            <a href="javascript:void(0);" class="condition-cta open-appointment-modal" data-bs-toggle="modal" data-bs-target="#appointmentModal">Book your consultation now!</a>
                         </div>
                     </div>
                     <div class="condition-item">
@@ -210,7 +235,7 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Spinal-Stenosis-img.png') }}" alt="Spinal Stenosis narrowing of the spinal canal" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <h4>Slip Disc Treatment</h4>
+                            <h4><a href="{{ route('slip-disc') }}" style="color: var(--primary-blue); text-decoration: none;">Slip Disc Treatment</a></h4>
                             <p>Struggling with sciatica or leg pain? We specialize in treating herniated or slipped discs with precision and care.</p>
                             <a href="tel:+919619100123" class="condition-cta">Get relief today — Call now!</a>
                         </div>
@@ -220,7 +245,7 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Spondylolisthesis-img.png') }}" alt="Spondylolisthesis vertebra shifting out of place" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <h4>Microendoscopic Spine Surgery</h4>
+                            <h4><a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}" style="color: var(--primary-blue); text-decoration: none;">Microendoscopic Spine Surgery</a></h4>
                             <p>Experience minimal scarring, less pain, and quicker recovery with our advanced microendoscopic techniques.</p>
                             <a href="tel:+919619100123" class="condition-cta">Ready to feel better? Contact us now!</a>
                         </div>
@@ -230,9 +255,9 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Herniated-Bulging-Discs-img.png') }}" alt="Herniated or Bulging Discs causing leg or arm pain (sciatica)" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <h4>Endoscopic Spine Surgery</h4>
+                            <h4><a href="{{ route('endoscopic-spine-surgery-with-dr-vishal-kundnani') }}" style="color: var(--primary-blue); text-decoration: none;">Endoscopic Spine Surgery</a></h4>
                             <p>Using the latest technology, we treat spinal conditions with tiny incisions for less risk and faster healing.</p>
-                            <a href="#appointmentForm" class="condition-cta">Want to learn more? Schedule your appointment!</a>
+                            <a href="javascript:void(0);" class="condition-cta open-appointment-modal" data-bs-toggle="modal" data-bs-target="#appointmentModal">Want to learn more? Schedule your appointment!</a>
                         </div>
                     </div>
                     <div class="condition-item">
@@ -240,9 +265,9 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Scoliosis-Kyphosis-img.png') }}" alt="Scoliosis or Kyphosis" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <h4>Spinal Fusion Surgery</h4>
-                            <p>If you’re dealing with spinal instability or severe arthritis, our expert spinal fusion surgery helps restore function and eliminate pain.</p>
-                            <a href="#appointmentForm" class="condition-cta">Book your consultation today!</a>
+                            <h4><a href="{{ route('spinal-fusion') }}" style="color: var(--primary-blue); text-decoration: none;">Spinal Fusion Surgery</a></h4>
+                            <p>If you're dealing with spinal instability or severe arthritis, our expert spinal fusion surgery helps restore function and eliminate pain.</p>
+                            <a href="javascript:void(0);" class="condition-cta open-appointment-modal" data-bs-toggle="modal" data-bs-target="#appointmentModal">Book your consultation today!</a>
                         </div>
                     </div>
                     <div class="condition-item">
@@ -250,9 +275,9 @@
                             <img src="{{ asset('resources/assets/landing-page/images/Recurrent-Disc-Problems-img.png') }}" alt="Recurrent Disc Problems after prior surgery" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <h4>Scoliosis Surgery</h4>
+                            <h4><a href="{{ route('scoliosis') }}" style="color: var(--primary-blue); text-decoration: none;">Scoliosis Surgery</a></h4>
                             <p>Whether you're a child or adult, we specialize in correcting spinal deformities with minimally invasive techniques.</p>
-                            <a href="#appointmentForm" class="condition-cta">Start your journey to confidence—contact us now!</a>
+                            <a href="javascript:void(0);" class="condition-cta open-appointment-modal" data-bs-toggle="modal" data-bs-target="#appointmentModal">Start your journey to confidence—contact us now!</a>
                         </div>
                     </div>
                 </div>
@@ -307,6 +332,9 @@
                             <li>Microendoscopic Spine Surgery</li>
                         </ul>
                         <p class="doctor-description" style="font-size: 0.95rem; line-height: 1.7; text-align: justify;">Dr. Vishal Kundnani—gold medalist throughout his scholar years—is fellowship-trained in spine surgery from internationally reputed centres in the UK, Singapore, Japan, Australia, Malaysia, and Korea. He has treated over 20,000 spine patients non-surgically using advanced slip-disc protocols, performed 5,000+ microsurgeries, minimally invasive procedures for sciatica, and laser surgeries for lumbar and cervical conditions. As Director &amp; Head of Spine Surgery at Lilavati Hospital and Head of the Mumbai Institute of Spine Surgery at Bombay Hospital, he pioneers complex spine, robotic, and navigation-assisted surgeries, innovates awake day-care MISS, and has 100+ international scientific publications.</p>
+                        <div style="margin-top: 1.5rem;">
+                            <a href="{{ route('about-doctor') }}" class="condition-cta">Read More</a>
+                        </div>
                     </div>
                 </div>
                 <div class="doctor-cta">
