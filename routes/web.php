@@ -809,6 +809,10 @@ Route::get('/scoliosis-treatment-india', function () {
     return view('blog.scoliosis-treatment-india');
 })->name('scoliosis-treatment-india');
 
+Route::get('/spine-surgery-cost-mumbai', function () {
+    return view('spine-surgery-cost-mumbai');
+})->name('spine-surgery-cost-mumbai');
+
 
 // landing page
 Route::get('/treatment-minimal-invaisve-spine-surgery', function () {

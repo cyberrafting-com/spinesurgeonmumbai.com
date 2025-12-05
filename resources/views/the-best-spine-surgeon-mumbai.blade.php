@@ -66,7 +66,7 @@ Searching for the best spine surgeon in Mumbai? Dr. Vishal Kundnani offers advan
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Best Spine Surgeon in Mumbai – How to Choose the Right Doctor</h1>
-                                <img src="{{ asset('resources/assets/img/blog/the-best-spine-surgeon-mumbai-blog-img.png') }}" alt="Best Spine Surgeon in Mumbai – How to Choose the Right Doctor">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/the-best-spine-surgeon-mumbai-blog-img.png') }}" alt="Best Spine Surgeon in Mumbai – How to Choose the Right Doctor">
                                 <p>Finding the right spine surgeon is vital to ensure successful treatment. Whether you're dealing with back pain, scoliosis, or any other spine-related issue, choosing the right expert can make a significant difference. In Mumbai, one name stands out when it comes to spine care—Dr. Vishal Kundnani. This blog will guide you on how to choose the best spine surgeon in Mumbai and why Dr. Vishal Kundnani should be your top choice.</p>
                             </div>
                         </div>

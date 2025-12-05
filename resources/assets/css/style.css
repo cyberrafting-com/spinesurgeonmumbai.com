@@ -185,6 +185,75 @@ body {
     color: rgba(0, 33, 71, 1);
 }
 
+#blog-profile-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    max-width: 100%;
+}
+
+/* Small screens - prevent image from going outside */
+@media screen and (max-width: 767px) {
+    #blog-profile-img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+/* Medium screens - keep as is (perfect) */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    #blog-profile-img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+/* Desktop - increase width */
+@media screen and (min-width: 992px) {
+    #blog-profile-img {
+        width: 105%;
+        max-width: 105%;
+        height: auto;
+        margin-left: -2.5%;
+    }
+}
+
+    /* Blog hero image pages like spine-surgery-cost-mumbai */
+.blog-hero-img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Mobile: keep inside and add right padding */
+@media screen and (max-width: 767px) {
+    .blog-hero-img {
+        width: 100%;
+        max-width: 100%;
+        /* padding-right: 12px; */
+        box-sizing: border-box;
+    }
+}
+
+/* Tablets: keep as-is */
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+    .blog-hero-img {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+/* Large screens: expand slightly to cover extra space */
+@media screen and (min-width: 1200px) {
+    .blog-hero-img {
+        /* width: 108%;
+        max-width: 108%;
+        margin-left: -4%; */
+    }
+}
+
 .hero-img {
     position: absolute;
     top: 66%;

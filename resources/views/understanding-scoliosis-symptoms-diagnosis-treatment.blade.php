@@ -64,7 +64,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h1>Understanding Scoliosis: Symptoms, Diagnosis, and Treatment</h1>
-                            <img src="{{ asset('resources/assets/img/blog/scoliosis-symptoms-img.png') }}" alt="Understanding Scoliosis" class="img-responsive mb-4">
+                            <img class="blog-hero-img img-responsive mb-4" src="{{ asset('resources/assets/img/blog/scoliosis-symptoms-img.png') }}" alt="Understanding Scoliosis">
                         </div>
 
                         <div class="sec-blog-design pt-5">

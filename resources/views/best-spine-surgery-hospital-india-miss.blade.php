@@ -36,8 +36,8 @@
                                 <img src="{{ asset('resources/assets/images/MISS_Logo.jpg') }}" alt="Mumbai Institute of Spine Surgery (MISS) Logo"
                                     class="miss-logo">
                             </div>
-                            <p>When it comes to expert spine care in India, the <a href="{{ route('about-mumbai-institute-of-spine-surgery') }}" target="_blank"><strong>Mumbai Institute of Spine Surgery (M.I.S.S)</strong></a> has emerged as a national leader. Based in Mumbai, M.I.S.S is widely recognized for offering advanced and personalized treatment for spine-related conditions through a network of top hospitals including Bombay Hospital, Lilavati Hospital, Breach Candy Hospital, and Criticare Hospital.
-                            <img src="{{ asset('resources/assets/img/blog/best-spine-surgery.jpg') }}" alt="Best Spine Surgery Hospital in India at MISS by Dr. Vishal Kundnani in Mumbai"></p>
+                            <p>When it comes to expert spine care in India, the <a href="{{ route('about-mumbai-institute-of-spine-surgery') }}" target="_blank"><strong>Mumbai Institute of Spine Surgery (M.I.S.S)</strong></a> has emerged as a national leader. Based in Mumbai, M.I.S.S is widely recognized for offering advanced and personalized treatment for spine-related conditions through a network of top hospitals including Bombay Hospital, Lilavati Hospital, Breach Candy Hospital, and Criticare Hospital.</p>
+                            <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/best-spine-surgery.jpg') }}" alt="Best Spine Surgery Hospital in India at MISS by Dr. Vishal Kundnani in Mumbai">
                         </div>
 
                         <div class="sec-blog-design pt-5">

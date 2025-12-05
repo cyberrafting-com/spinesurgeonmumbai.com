@@ -76,7 +76,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h1>Minimally Invasive Scoliosis Surgery: Faster Recovery, Safer Outcomes</h1>
-                            <img src="{{ asset('resources/assets/images/blogs/minimally-invasive-scoliosis-surgery-img.png') }}" alt="Minimally Invasive Scoliosis Surgery" class="img-responsive mb-4">
+                            <img class="blog-hero-img img-responsive mb-4" src="{{ asset('resources/assets/images/blogs/minimally-invasive-scoliosis-surgery-img.png') }}" alt="Minimally Invasive Scoliosis Surgery">
                         </div>
 
                         <div class="sec-blog-design pt-5">

@@ -98,7 +98,7 @@ Discover the truth about scoliosis with expert insights that debunk common myths
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Myths vs Facts: Understanding Scoliosis Better</h1>
-                                <img src="{{ asset('resources/assets/img/blog/myth-fact-scoliosis-img.jpg') }}" alt="Myths vs Facts Scoliosis">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/myth-fact-scoliosis-img.jpg') }}" alt="Myths vs Facts Scoliosis">
                                 <p>It is perhaps one of the more commonly misunderstood spine diseases. In actuality, while scoliosis may occur at any age, this disorder is more often a childhood and adolescent affliction. Misinformation breeds unjustified fears or delayed treatment should that begin in the first place.</p>
                                 <p>Have allegedly preached the same old song: different parents and patients should have the possibility to escape it and come to an appreciation of the truth surrounding scoliosis, its symptoms, and modern-day treatment options, which include treatment through <b> scoliosis surgery in Mumbai </b>and non-surgical scoliosis treatments.</p>
                             </div>

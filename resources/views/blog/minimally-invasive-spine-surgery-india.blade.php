@@ -66,7 +66,7 @@ Learn about minimally invasive spine surgery in India. Faster recovery & less pa
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Minimally Invasive Spine Surgery in India – Advantages, Cost & Recovery</h1>
-                                <img src="{{ asset('resources/assets/img/blog/minimally-invasive-spine-surgery-india-blog-img.png') }}" alt="Minimally Invasive Spine Surgery in India">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/minimally-invasive-spine-surgery-india-blog-img.png') }}" alt="Minimally Invasive Spine Surgery in India">
                                 <p>Minimally invasive spine surgery (MISS) is revolutionizing the way spine conditions are treated. It offers a quicker, safer, and less painful alternative to traditional open spine surgery. This blog will explore the advantages of MISS, its cost, recovery, and how Dr. Vishal Kundnani is leading the way in India with advanced, minimally invasive spine treatments.</p>
                             </div>
                         </div>

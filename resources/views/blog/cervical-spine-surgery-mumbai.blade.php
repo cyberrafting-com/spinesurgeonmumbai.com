@@ -66,7 +66,7 @@ Understand cervical spine surgery in Mumbai: causes, treatments (ACDF, disc repl
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Cervical Spine Surgery in Mumbai – Causes, Treatments, Recovery</h1>
-                                <img src="{{ asset('resources/assets/img/blog/cervical-spine-surgery-mumbai-blog-img.png') }}" alt="Cervical Spine Surgery in Mumbai">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/cervical-spine-surgery-mumbai-blog-img.png') }}" alt="Cervical Spine Surgery in Mumbai">
                                 <p>Cervical spine surgery addresses neck pain, nerve compression, and spinal cord issues due to slipped discs, stenosis, and degeneration. With advanced minimally invasive, endoscopic, and robotic techniques, Dr. Vishal Kundnani offers precise treatment and faster recovery in Mumbai’s top hospitals.</p>
                             </div>
                         </div>

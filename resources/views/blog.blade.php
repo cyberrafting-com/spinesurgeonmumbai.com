@@ -36,6 +36,16 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             <!-- latest blogs start -->
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('spine-surgery-cost-mumbai') }}"><img
+                            src="{{ asset('resources/assets/img/blog/spine-surgery-cost-mumbai2.png') }}">
+                        <h1>Spine Surgery Cost in Mumbai – What Patients Should Know
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('early-signs-of-scoliosis') }}"><img
                             src="{{ asset('resources/assets/img/blog/scoliosis-signs.jpg') }}">
                         <h1>Early Signs of Scoliosis: What Every Parent Should Know</h1>

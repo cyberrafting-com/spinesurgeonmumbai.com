@@ -66,7 +66,7 @@
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                             <h1>Slip Disc Treatment in Mumbai – Without Surgery & With Surgery Options</h1>
-                            <img src="{{ asset('resources/assets/img/blog/slip-disc-treatment-mumbai-blog-img.png') }}" alt="Slip Disc Treatment in Mumbai – Dr. Vishal Kundnani">
+                            <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/slip-disc-treatment-mumbai-blog-img.png') }}" alt="Slip Disc Treatment in Mumbai – Dr. Vishal Kundnani">
                                 <p>A slip disc is a painful condition that affects many individuals. It happens when one of the discs in your spine bulges or ruptures, pressing on nerves and causing severe back and leg pain. If left untreated, a slip disc can lead to chronic pain and mobility issues. This blog will guide you through the treatment options available for slip discs, including both non-surgical and surgical solutions, with expert advice from Dr. Vishal Kundnani, one of the best spine surgeons in Mumbai.</p>
                             </div>
                         </div>

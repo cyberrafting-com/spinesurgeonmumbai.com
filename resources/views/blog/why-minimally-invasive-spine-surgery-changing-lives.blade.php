@@ -32,7 +32,7 @@ Discover how minimally invasive spine surgery in Mumbai delivers precise care, f
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Why Minimally Invasive Spine Surgery Is Changing Lives</h1>
-                                <img src="{{ asset('resources/assets/img/blog/minimally- invasive-spine-surgery-img.jpg') }}" alt="Why Minimally Invasive Spine Surgery Is Changing Lives">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/minimally- invasive-spine-surgery-img.jpg') }}" alt="Why Minimally Invasive Spine Surgery Is Changing Lives">
                                 <p>Minimally Invasive Spine Surgery has been the mainstay of the treatment for spinal disorders and has paved the way for modern medicine to use it as a resort. Surgeries have become less complicated and less risky with medical innovations and improved surgical techniques.</p>
                             </div>
                         </div>

@@ -52,7 +52,7 @@
                 <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
                     <div class="blog-profile-details">
                         <h1>Is Spine Surgery Safe in India? Here's What You Need to Know</h1>
-                        <img src="{{ asset('resources/assets/img/blog/is-spine-surgery-safe-india.jpeg') }}" alt="Is Spine Surgery Safe in India">
+                        <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/is-spine-surgery-safe-india.jpeg') }}" alt="Is Spine Surgery Safe in India">
 
                         <p>If you've been told you need spine surgery and are worried about safety, you're not alone. 
                             Many patients share similar concerns. 

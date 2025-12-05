@@ -78,7 +78,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h1>Adult Scoliosis: Managing Pain and Improving Quality of Life</h1>
-                            <img src="{{ asset('resources/assets/img/blog/scoliosis-in-adults-img.png') }}" alt="Adult Scoliosis" class="img-responsive mb-4">
+                            <img class="blog-hero-img img-responsive mb-4" src="{{ asset('resources/assets/img/blog/scoliosis-in-adults-img.png') }}" alt="Adult Scoliosis">
                         </div>
 
                         <div class="sec-blog-design pt-5">

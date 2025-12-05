@@ -78,7 +78,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h1>Scoliosis in Children and Teens: When to Seek Help</h1>
-                            <img src="{{ asset('resources/assets/img/blog/scoliosis-in-child-img.png') }}" alt="Scoliosis in Children and Teens" class="img-responsive mb-4">
+                            <img class="blog-hero-img img-responsive mb-4" src="{{ asset('resources/assets/img/blog/scoliosis-in-child-img.png') }}" alt="Scoliosis in Children and Teens">
                         </div>
 
                         <div class="sec-blog-design pt-5">

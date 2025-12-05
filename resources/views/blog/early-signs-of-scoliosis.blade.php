@@ -98,7 +98,7 @@ Learn the early signs of scoliosis in children, when to consult a specialist, an
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Early Signs of Scoliosis: What Every Parent Should Know</h1>
-                                <img src="{{ asset('resources/assets/img/blog/scoliosis-signs-img.jpg') }}" alt="Early Signs of Scoliosis">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/scoliosis-signs-img.jpg') }}" alt="Early Signs of Scoliosis">
                                 <p>Especially if it concerns your child, earl y awareness can be all that may matter. There is one disorder that often remains hidden as it progresses into the sideways curvature of the spine that can affect posture, balance, and well-being. Whenever the early signs of this condition are recognized and it is known when to consult a specialist for scoliosis near me, this helps with ensuring the child receives proper care before the wrong course gets worse.</p>
                             </div>
                         </div>
