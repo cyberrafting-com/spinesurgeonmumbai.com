@@ -227,6 +227,20 @@ body {
     display: block;
 }
 
+.icon-bullet-list {
+    list-style: disc !important;
+    list-style-position: outside;
+    padding-left: 40px;
+    margin: 0;
+}
+
+.icon-bullet-list li {
+    list-style: disc !important;
+    margin-bottom: 8px;
+    padding-left: 0;
+    margin-left: 30px;
+}
+
 /* Mobile: keep inside and add right padding */
 @media screen and (max-width: 767px) {
     .blog-hero-img {

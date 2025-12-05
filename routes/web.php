@@ -589,6 +589,26 @@ Route::get('why-minimally-invasive-spine-surgery-changing-lives', function () {
     return view('blog.why-minimally-invasive-spine-surgery-changing-lives');
 })->name('why-minimally-invasive-spine-surgery-changing-lives');
 
+Route::get('herniated-disc-treatment-india', function () {
+    return view('blog.heriated-disc');
+})->name('herniated-disc-treatment-india');
+
+Route::get('spinal-stenosis-treatment-mumbai', function () {
+    return view('blog.spinal-stenosis-treatment-mumbai');
+})->name('spinal-stenosis-treatment-mumbai');
+
+Route::get('cervical-disc-disease-treatment-india', function () {
+    return view('blog.cervical-disc-disease-treatment-india');
+})->name('cervical-disc-disease-treatment-india');
+
+Route::get('minimally-invasive-vs-open-spine-surgery', function () {
+    return view('blog.minimally-invasive-vs-open-spine-surgery');
+})->name('minimally-invasive-vs-open-spine-surgery');
+
+Route::get('best-hospital-spine-surgery-mumbai', function () {
+    return view('blog.best-hospital-spine-surgery-mumbai');
+})->name('best-hospital-spine-surgery-mumbai');
+
 
 // marathi service pages start
 

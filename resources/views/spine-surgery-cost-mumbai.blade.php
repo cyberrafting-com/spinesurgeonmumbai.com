@@ -143,7 +143,7 @@ Spine surgery cost in Mumbai explained by Dr. Vishal Kundnani – affordable & a
 
                         <div class="sec-blog-design pt-5">
                             <h2>Advantages of Consulting Dr. Vishal Kundnani:</h2>
-                            <ul>
+                            <ul class="icon-bullet-list">
                                 <li>Detailed cost discussions with patients to ensure full transparency.</li>
                                 <li>Expertise in minimally invasive, scoliosis, and cervical spine surgeries.</li>
                                 <li>Use of advanced robotic and navigation-assisted techniques for enhanced precision.</li>

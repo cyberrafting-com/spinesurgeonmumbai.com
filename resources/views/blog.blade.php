@@ -36,6 +36,54 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             <!-- latest blogs start -->
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('best-hospital-spine-surgery-mumbai') }}"><img
+                            src="{{ asset('resources/assets/img/blog/best-spine-surgeon-mumbai-delhi-hyderabad-raipur-drvishaKundnani.jpg') }}">
+                        <h1>Best Hospital for Spine Surgery in Mumbai – Bombay Hospital & Lilavati Hospital</h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}"><img
+                            src="{{ asset('resources/assets/img/blog/minimally-invasive-spine-surgery-india-blog-img.png') }}">
+                        <h1>Minimally Invasive Spine Surgery vs Open Surgery – Which Is Better?
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('cervical-disc-disease-treatment-india') }}"><img
+                            src="{{ asset('resources\assets\img\blog\neckpain.png') }}">
+                        <h1>Neck Pain & Cervical Disc Disease – Best Treatment in India </h1>
+                    </a>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('spinal-stenosis-treatment-mumbai') }}"><img
+                            src="{{ asset('resources\assets\img\blog\spinal-stenosis.png') }}">
+                        <h1>Spinal Stenosis Treatment in Mumbai – Non-Surgical & Surgical Care
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('herniated-disc-treatment-india') }}"><img
+                            src="{{ asset('resources/assets/img/blog/heriated-disc.jpg') }}">
+                        <h1>Herniated Disc – Symptoms, Diagnosis & Latest Treatments in India</h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('spine-surgery-cost-mumbai') }}"><img
                             src="{{ asset('resources/assets/img/blog/spine-surgery-cost-mumbai2.png') }}">
                         <h1>Spine Surgery Cost in Mumbai – What Patients Should Know
