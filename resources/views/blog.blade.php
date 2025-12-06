@@ -33,7 +33,65 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 <section class="gallery_inner blog">
     <div class="container">
         <div class="row justify-content-center">
+
+          <!-- latest blogs start -->
+          <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('cervical-vs-lumbar-spine-surgery') }}"><img
+                            src="{{ asset('resources\assets\img\blog\cervical-vs-lumbar-spine-surgery.png') }}">
+                        <h1>Cervical vs Lumbar Spine Surgery – What Patients Must Know</h1>
+                    </a>
+                </div>
+            </div>
             <!-- latest blogs start -->
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('sciatica-pain-treatment-mumbai') }}"><img
+                            src="{{ asset('resources\assets\img\sciatica-pain-treatment-mumbai.png') }}">
+                        <h1>Sciatica Pain Treatment in Mumbai – Latest & Effective Options</h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('scoliosis-specialist-india') }}"><img
+                            src="{{ asset('resources\assets\img\blog\scoliosis-specialist-india.png') }}">
+                        <h1>Scoliosis Specialist in India – Why Choose Dr. Vishal Kundnani</h1>
+                    </a>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('endoscopic-spine-surgery-mumbai') }}"><img
+                            src="{{ asset('resources\assets\img\blog\endoscopic-spine-surgery-india.jpg') }}">
+                        <h1>Endoscopic Spine Surgery in Mumbai – Benefits & Success Rate</h1>
+                    </a>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('osteoporosis-spine-fractures-india') }}"><img
+                            src="{{ asset('resources\assets\img\blog\osteoporosis-spine-fractures.png') }}">
+                        <h1>Osteoporosis & Spine Fractures – Advanced Treatment Options in India</h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('spine-surgery-recovery-time') }}"><img
+                            src="{{ asset('resources\assets\img\blog\spine-surgery-recovery-time.png') }}">
+                        <h1>Spine Surgery Recovery Time – What Patients Can Expect</h1>
+                    </a>
+                </div>
+            </div>
+
+
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
                     <a href="{{ route('best-hospital-spine-surgery-mumbai') }}"><img

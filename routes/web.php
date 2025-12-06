@@ -609,6 +609,30 @@ Route::get('best-hospital-spine-surgery-mumbai', function () {
     return view('blog.best-hospital-spine-surgery-mumbai');
 })->name('best-hospital-spine-surgery-mumbai');
 
+Route::get('spine-surgery-recovery-time', function () {
+    return view('blog.spine-surgery-recovery-time');
+})->name('spine-surgery-recovery-time');
+
+Route::get('osteoporosis-spine-fractures-india', function () {
+    return view('blog.osteoporosis-spine-fractures-india');
+})->name('osteoporosis-spine-fractures-india');
+
+Route::get('endoscopic-spine-surgery-mumbai', function () {
+    return view('blog.endoscopic-spine-surgery-mumbai');
+})->name('endoscopic-spine-surgery-mumbai');
+
+Route::get('scoliosis-specialist-india', function () {
+    return view('blog.scoliosis-specialist-india');
+})->name('scoliosis-specialist-india');
+
+Route::get('sciatica-pain-treatment-mumbai', function () {
+    return view('blog.sciatica-pain-treatment-mumbai');
+})->name('sciatica-pain-treatment-mumbai');
+
+Route::get('cervical-vs-lumbar-spine-surgery', function () {
+    return view('blog.cervical-vs-lumbar-spine-surgery');
+})->name('cervical-vs-lumbar-spine-surgery');
+
 
 // marathi service pages start
 
