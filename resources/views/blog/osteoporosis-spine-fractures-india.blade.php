@@ -131,8 +131,8 @@ Osteoporosis-related spine fracture treatment in India by Dr. Vishal Kundnani �
                             <div class="sec-blog-design pt-5">
                                 <h1>Osteoporosis & Spine Fractures – Advanced Treatment Options in India</h1>
                                 <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/osteoporosis-spine-fractures2.png') }}" alt="Osteoporosis & Spine Fractures Treatment">
-                                <p>Osteoporosis is a condition that weakens bones, making them fragile and prone to fractures. The spine is one of the most commonly affected areas, and even minor falls or routine activities can cause compression fractures. Early diagnosis and proper management can prevent severe disability, deformity, and long-term mobility issues.</p>
-                                <p>Dr. Vishal Kundnani, a leading spine surgeon in India, specializes in treating osteoporotic spine fractures using non-surgical care, minimally invasive procedures, vertebroplasty, kyphoplasty, and robotic-assisted stabilization techniques. Patients across India trust his expertise for safe, effective, and long-lasting treatment outcomes.</p>
+                                <p><a href="{{ route('osteoporosis') }}">Osteoporosis</a> is a condition that weakens bones, making them fragile and prone to fractures. The spine is one of the most commonly affected areas, and even minor falls or routine activities can cause compression fractures. Early diagnosis and proper management can prevent severe disability, deformity, and long-term mobility issues.</p>
+                                <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, a leading spine surgeon in India, specializes in treating osteoporotic spine fractures using non-surgical care, <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive procedures</a>, vertebroplasty, kyphoplasty, and robotic-assisted stabilization techniques. Patients across India trust his expertise for safe, effective, and long-lasting treatment outcomes.</p>
                             </div>
                         </div>
 
@@ -231,7 +231,7 @@ Osteoporosis-related spine fracture treatment in India by Dr. Vishal Kundnani �
                                 <li>Personalized clinics in South Mumbai, Bandra, Goregaon & Borivali</li>
                                 <li>Director & Head of Spine Services at Lilavati & Bombay Hospitals</li>
                             </ul>
-                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – Consult Dr. Vishal Kundnani, top osteoporosis spine fracture specialist in India.</b></p>
+                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a>, top osteoporosis spine fracture specialist in India.</b></p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -244,7 +244,7 @@ Osteoporosis-related spine fracture treatment in India by Dr. Vishal Kundnani �
                                 <li><b>What is kyphoplasty?</b> <br> A balloon is used to restore vertebral height before cement injection, improving posture and stability.</li>
                                 <li><b>Is robotic-assisted surgery useful for osteoporotic fractures?</b> <br> Yes. It increases precision and reduces complications in weak bones.</li>
                                 <li><b>Which hospitals offer these treatments?</b> <br> Lilavati, Bombay, Breach Candy, and Saifee Hospitals in Mumbai.</li>
-                                <li><b>How do I book an appointment with Dr. Kundnani?</b> <br>📞 Call <a href="tel:9619100123">9619100123</a> for consultation and treatment options.</li>
+                                <li><b>How do I book an appointment with <a href="{{ route('about-doctor') }}">Dr. Kundnani</a>?</b> <br>📞 Call <a href="tel:9619100123">9619100123</a> for consultation and treatment options.</li>
                             </ol>
                         </div>
 

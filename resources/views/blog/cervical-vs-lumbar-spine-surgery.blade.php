@@ -124,9 +124,9 @@ Cervical vs lumbar spine surgery explained by Dr. Vishal Kundnani – minimally 
                                 <h1>Cervical vs Lumbar Spine Surgery – What Patients Must Know</h1>
                                 <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/cervical-vs-lumbar-spine-surgery.png') }}" alt="Cervical vs Lumbar Spine Surgery">
                                 <p>Cervical and lumbar spine surgeries address different regions of the spine—each with unique symptoms, surgical approaches, and recovery expectations. Understanding these differences helps patients make informed decisions and plan their treatment journey.</p>
-                                <p>Cervical spine surgery treats conditions affecting the neck, such as disc herniation, nerve compression, or cervical spondylosis.</p>
-                                <p>Lumbar spine surgery addresses lower back conditions like herniated discs, spinal stenosis, and sciatica.</p>
-                                <p>Dr. Vishal Kundnani, a leading spine surgeon in India, specializes in both cervical and lumbar procedures using minimally invasive and robotic-assisted techniques for safer, more precise outcomes.</p>
+                                <p><a href="{{ route('cervical-spine-surgery-mumbai') }}">Cervical spine surgery</a> treats conditions affecting the neck, such as disc herniation, nerve compression, or cervical spondylosis.</p>
+                                <p><a href="{{ route('back-pain') }}">Lumbar spine surgery</a> addresses lower back conditions like herniated discs, spinal stenosis, and sciatica.</p>
+                                <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, a leading spine surgeon in India, specializes in both cervical and lumbar procedures using minimally invasive and robotic-assisted techniques for safer, more precise outcomes.</p>
                             </div>
                         </div>
 
@@ -245,11 +245,11 @@ Cervical vs lumbar spine surgery explained by Dr. Vishal Kundnani – minimally 
                                 <li>Clinics in South Mumbai, Bandra, Goregaon, Borivali</li>
                                 <li>Director & Head of Spine Services at Lilavati & Bombay Hospitals</li>
                             </ul>
-                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – Consult Dr. Vishal Kundnani, top spine surgeon in Mumbai & India.</b></p>
+                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a>, top spine surgeon in Mumbai & India.</b></p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <h2> FAQ – Cervical vs Lumbar Spine Surgery</h2>
+                            <h2>FAQ – Cervical vs Lumbar Spine Surgery</h2>
                             <ol class="pl-2">
                                 <li><b>What is the difference between cervical and lumbar spine surgery?</b> <br> Cervical surgery treats neck-related conditions, while lumbar surgery focuses on lower back and leg pain.</li>
                                 <li><b>Which surgery has faster recovery?</b> <br> Recovery depends on the procedure, but minimally invasive cervical surgeries often have quicker recovery times.</li>

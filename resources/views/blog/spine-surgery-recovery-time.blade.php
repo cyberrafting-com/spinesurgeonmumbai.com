@@ -131,8 +131,8 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
                             <div class="sec-blog-design pt-5">
                                 <h1>Spine Surgery Recovery Time – What Patients Can Expect</h1>
                                 <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/spine-surgery-recovery-time2.png') }}" alt="Spine Surgery Recovery Time">
-                                <p>Spine surgery recovery varies depending on the type of procedure, overall health, age, and the severity of the condition. With advancements in minimally invasive spine surgery (MISS) and robotic-assisted techniques, many patients now experience significantly faster and smoother recovery than ever before.</p>
-                                <p>Dr. Vishal Kundnani ensures customized post-operative care plans that help patients regain mobility safely and return to daily activities with confidence.</p>
+                                <p>Spine surgery recovery varies depending on the type of procedure, overall health, age, and the severity of the condition. With advancements in <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive spine surgery</a> (MISS) and robotic-assisted techniques, many patients now experience significantly faster and smoother recovery than ever before.</p>
+                                <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> ensures customized post-operative care plans that help patients regain mobility safely and return to daily activities with confidence.</p>
                                 <p>Understanding expected recovery timelines helps patients prepare for work, home responsibilities, physiotherapy, and follow-up visits.</p>
                             </div>
                         </div>
@@ -197,7 +197,7 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
 
                         <div class="sec-blog-design pt-5">
                             <h2>🏥 Post-Operative Care & Rehabilitation</h2>
-                            <p>Dr. Vishal Kundnani's structured recovery program includes:</p>
+                            <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>'s structured recovery program includes:</p>
                             <ul class="icon-bullet-list">
                                 <li>Early mobility plans</li>
                                 <li>Pain management</li>
@@ -207,7 +207,7 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
                                 <li>Scheduled follow-up evaluations</li>
                             </ul>
                             <p>Patients receive care across Lilavati, Bombay, Breach Candy & Saifee Hospitals, with consultation clinics located in South Mumbai, Bandra, Goregaon, and Borivali.</p>
-                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – Consult Dr. Vishal Kundnani, best spine surgeon in Mumbai & India.</b></p>
+                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a>, best spine surgeon in Mumbai & India.</b></p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -232,7 +232,7 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
                                 <li><b>When can I return to work after spine surgery?</b> <br> Light office work: 1–2 weeks. Physically demanding work: 6–12 weeks, depending on your procedure.</li>
                                 <li><b>Does robotic spine surgery improve recovery?</b> <br> Yes. Accuracy and reduced tissue trauma result in faster, safer healing.</li>
                                 <li><b>Where can I get post-operative care?</b> <br> At Lilavati, Bombay, Breach Candy, Saifee Hospitals, and clinics in South Mumbai, Bandra, Goregaon, Borivali.</li>
-                                <li><b>How do I book a consultation with Dr. Vishal Kundnani?</b> <br>📞 Call <a href="tel:9619100123">9619100123</a> for a complete evaluation and recovery planning.</li>
+                                <li><b>How do I book a consultation with <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>?</b> <br>📞 Call <a href="tel:9619100123">9619100123</a> for a complete evaluation and recovery planning.</li>
                             </ol>
                         </div>
 

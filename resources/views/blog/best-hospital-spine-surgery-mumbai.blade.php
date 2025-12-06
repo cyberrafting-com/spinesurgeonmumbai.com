@@ -124,7 +124,7 @@ Looking for top spine surgery hospitals in Mumbai? Dr. Vishal Kundnani offers ad
                                 <h1>Best Hospital for Spine Surgery in Mumbai – Bombay Hospital & Lilavati Hospital</h1>
                                 <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/spine-surgery-international-patients-miss.jpg') }}" alt="Best Hospital for Spine Surgery in Mumbai">
                                 <p>Choosing the right hospital for spine surgery is crucial—experienced surgeons, advanced technology, and comprehensive post-operative care significantly impact outcomes. Lilavati Hospital and Bombay Hospital are two of the most trusted centers for world-class spine surgery in Mumbai, offering cutting-edge treatments, modern infrastructure, and highly trained spine specialists.</p>
-                                <p>Dr. Vishal Kundnani, Director & Head of Spine Services at Lilavati & Bombay Hospitals, leads specialized teams delivering safe, precise, and advanced spine care to patients across India.</p>
+                                <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, Director & Head of Spine Services at Lilavati & Bombay Hospitals, leads specialized teams delivering safe, precise, and advanced spine care to patients across India.</p>
                                 <p>Patients from Mumbai, Delhi, Pune, Nashik, Aurangabad, Thane, Navi Mumbai, Raipur, Indore, Bhopal, Jaipur, and international regions seek treatment under his expertise.</p>
                             </div>
                         </div>
@@ -145,11 +145,11 @@ Looking for top spine surgery hospitals in Mumbai? Dr. Vishal Kundnani offers ad
                             <h3>2. Specialized Spine Units</h3>
                             <p>Dedicated units for:</p>
                             <ul class="icon-bullet-list">
-                                <li>Herniated discs</li>
-                                <li>Spinal stenosis</li>
-                                <li>Scoliosis & kyphosis</li>
-                                <li>Cervical spine disorders</li>
-                                <li>Minimally invasive spine surgery (MISS)</li>
+                                <li><a href="{{ route('herniated-disc') }}">Herniated discs</a></li>
+                                <li><a href="{{ route('spinal-stenosis') }}">Spinal stenosis</a></li>
+                                <li><a href="{{ route('scoliosis') }}">Scoliosis</a> & kyphosis</li>
+                                <li><a href="{{ route('cervical-spine-surgery-mumbai') }}">Cervical spine</a> disorders</li>
+                                <li><a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">Minimally invasive spine surgery</a> (MISS)</li>
                             </ul>
                             <p>A multidisciplinary team ensures seamless care—from diagnosis to recovery.</p>
 
@@ -200,7 +200,7 @@ Looking for top spine surgery hospitals in Mumbai? Dr. Vishal Kundnani offers ad
                                 <li>Accessible locations and patient assistance services</li>
                             </ul>
                             <p>With personalized clinics in South Mumbai, Bandra, Goregaon & Borivali, consultations are convenient and patient-focused.</p>
-                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – Consult Dr. Vishal Kundnani, top spine surgeon in Mumbai & India.</b></p>
+                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a>, top spine surgeon in Mumbai & India.</b></p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

@@ -131,8 +131,8 @@ Herniated disc treatment in India by Dr. Vishal Kundnani – minimally invasive,
                             <div class="sec-blog-design pt-5">
                                 <h1>Herniated Disc – Symptoms, Diagnosis & Latest Treatments in India</h1>
                                 <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/heriated-disc2.png') }}" alt="Herniated Disc Treatment in India">
-                                <p>A herniated disc, commonly known as a slipped or ruptured disc, occurs when the soft inner portion of the spinal disc bulges out and compresses nearby nerves. This can lead to back pain, radiating leg pain (sciatica), numbness, tingling, or even muscle weakness. Early diagnosis and timely treatment are essential to prevent long-term nerve damage.</p>
-                                <p>Dr. Vishal Kundnani, one of India's leading spine surgeons, offers advanced, minimally invasive, and endoscopic treatments for herniated disc conditions at top hospitals across Mumbai.</p>
+                                <p>A <a href="{{ route('herniated-disc') }}">herniated disc</a>, commonly known as a slipped or ruptured disc, occurs when the soft inner portion of the spinal disc bulges out and compresses nearby nerves. This can lead to back pain, radiating leg pain (<a href="{{ route('sciatica') }}">sciatica</a>), numbness, tingling, or even muscle weakness. Early diagnosis and timely treatment are essential to prevent long-term nerve damage.</p>
+                                <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, one of India's leading spine surgeons, offers advanced, <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive</a>, and <a href="{{ route('endoscopic-spine-surgery-mumbai') }}">endoscopic</a> treatments for herniated disc conditions at top hospitals across Mumbai.</p>
                             </div>
                         </div>
 
@@ -216,7 +216,7 @@ Herniated disc treatment in India by Dr. Vishal Kundnani – minimally invasive,
                                 <li>Clinics across South Mumbai, Bandra, Goregaon & Borivali</li>
                                 <li>Director & Head of Spine Services at Lilavati & Bombay Hospitals</li>
                             </ul>
-                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – Consult Dr. Vishal Kundnani, India's leading herniated disc surgeon.</b></p>
+                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a>, India's leading herniated disc surgeon.</b></p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

@@ -131,8 +131,8 @@ Spinal stenosis treatment in Mumbai – Dr. Vishal Kundnani provides minimally i
                             <div class="sec-blog-design pt-5">
                                 <h1>Spinal Stenosis Treatment in Mumbai – Non-Surgical & Surgical Care</h1>
                                 <img class="blog-hero-img" src="{{ asset('resources\assets\img\blog\spinal-stenosis-treatment-mumbai.png') }}" alt="Spinal Stenosis Treatment in Mumbai">
-                                <p>Spinal stenosis occurs when the spinal canal becomes narrowed, putting pressure on the spinal cord and nerves. This leads to symptoms such as back pain, leg weakness, tingling, numbness, and difficulty walking. Early evaluation is crucial to prevent progressive nerve damage and mobility issues.</p>
-                                <p>Dr. Vishal Kundnani, a leading spine surgeon in India, provides world-class spinal stenosis treatment using both non-surgical therapies and advanced minimally invasive surgical techniques. His approach ensures precision, safety, and faster recovery for patients across Mumbai and India.</p>
+                                <p><a href="{{ route('spinal-stenosis') }}">Spinal stenosis</a> occurs when the spinal canal becomes narrowed, putting pressure on the spinal cord and nerves. This leads to symptoms such as back pain, leg weakness, tingling, numbness, and difficulty walking. Early evaluation is crucial to prevent progressive nerve damage and mobility issues.</p>
+                                <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, a leading spine surgeon in India, provides world-class spinal stenosis treatment using both non-surgical therapies and advanced <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive surgical techniques</a>. His approach ensures precision, safety, and faster recovery for patients across Mumbai and India.</p>
                             </div>
                         </div>
 
@@ -209,7 +209,7 @@ Spinal stenosis treatment in Mumbai – Dr. Vishal Kundnani provides minimally i
                                 <li>Clinics in South Mumbai, Bandra, Goregaon, Borivali</li>
                                 <li>Director & Head of Spine Services at Lilavati & Bombay Hospitals</li>
                             </ul>
-                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – Consult Dr. Vishal Kundnani, leading spinal stenosis specialist in India.</b></p>
+                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a>, leading spinal stenosis specialist in India.</b></p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

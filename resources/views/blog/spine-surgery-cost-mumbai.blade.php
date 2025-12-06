@@ -99,14 +99,14 @@ Understand spine surgery costs in Mumbai: factors affecting pricing, insurance c
                             <div class="sec-blog-design pt-5">
                                 <h1>Spine Surgery Cost in Mumbai – What Patients Should Know</h1>
                                 <img src="{{ asset('resources/assets/img/blog/spine-surgery-cost-mumbai.png') }}" alt="Spine Surgery Cost in Mumbai">
-                                <p>Understanding the cost of spine surgery is crucial for patients and their families when making informed healthcare decisions. In Mumbai, spine surgery costs can vary significantly based on several factors. This guide provides comprehensive information about spine surgery pricing, what influences costs, and how to access affordable, world-class spine care with Dr. Vishal Kundnani.</p>
+                                <p>Understanding the cost of spine surgery is crucial for patients and their families when making informed healthcare decisions. In Mumbai, spine surgery costs can vary significantly based on several factors. This guide provides comprehensive information about spine surgery pricing, what influences costs, and how to access affordable, world-class spine care with <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>.</p>
                             </div>
                         </div>
 
                         <div class="sec-blog-design pt-5">
                             <h2>Factors Affecting Spine Surgery Cost in Mumbai</h2>
                             <p>The cost of spine surgery in Mumbai depends on multiple factors:</p>
-                            <p><b>Type of Surgery:</b> Minimally invasive procedures, endoscopic surgery, robotic-assisted surgery, and traditional open surgery have different cost structures.</p>
+                            <p><b>Type of Surgery:</b> <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">Minimally invasive procedures</a>, <a href="{{ route('endoscopic-spine-surgery-mumbai') }}">endoscopic surgery</a>, robotic-assisted surgery, and traditional open surgery have different cost structures.</p>
                             <p><b>Hospital Facilities:</b> Premium hospitals with advanced technology and infrastructure may have higher costs but offer superior care and outcomes.</p>
                             <p><b>Surgeon's Expertise:</b> Experienced spine surgeons with specialized training may command higher fees, but their expertise often leads to better outcomes and fewer complications.</p>
                             <p><b>Implants and Equipment:</b> The type of implants, screws, rods, or artificial discs used can significantly impact the total cost.</p>
@@ -116,12 +116,12 @@ Understand spine surgery costs in Mumbai: factors affecting pricing, insurance c
 
                         <div class="sec-blog-design pt-5">
                             <h2>Types of Spine Surgery and Their Cost Range</h2>
-                            <p><b>Minimally Invasive Spine Surgery:</b> These procedures use smaller incisions and advanced technology. While the initial cost may be similar to traditional surgery, patients benefit from shorter hospital stays and faster recovery, potentially reducing overall expenses.</p>
-                            <p><b>Endoscopic Spine Surgery:</b> A highly advanced technique that minimizes tissue damage. Costs are competitive and often offset by reduced recovery time.</p>
+                            <p><b><a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">Minimally Invasive Spine Surgery</a>:</b> These procedures use smaller incisions and advanced technology. While the initial cost may be similar to traditional surgery, patients benefit from shorter hospital stays and faster recovery, potentially reducing overall expenses.</p>
+                            <p><b><a href="{{ route('endoscopic-spine-surgery-mumbai') }}">Endoscopic Spine Surgery</a>:</b> A highly advanced technique that minimizes tissue damage. Costs are competitive and often offset by reduced recovery time.</p>
                             <p><b>Robotic Spine Surgery:</b> Uses precision robotics for enhanced accuracy. Initial costs may be higher, but precision reduces risks and improves outcomes.</p>
-                            <p><b>Scoliosis Surgery:</b> Complex procedures requiring specialized implants and longer surgery time, typically at a higher cost range.</p>
-                            <p><b>Slip Disc Surgery:</b> Can range from minimally invasive discectomy to complex fusion procedures, with costs varying accordingly.</p>
-                            <p><b>Cervical Spine Surgery:</b> Includes ACDF, disc replacement, or decompression procedures, with costs depending on the complexity.</p>
+                            <p><b><a href="{{ route('scoliosis') }}">Scoliosis Surgery</a>:</b> Complex procedures requiring specialized implants and longer surgery time, typically at a higher cost range.</p>
+                            <p><b><a href="{{ route('herniated-disc') }}">Slip Disc Surgery</a>:</b> Can range from minimally invasive discectomy to complex fusion procedures, with costs varying accordingly.</p>
+                            <p><b><a href="{{ route('cervical-spine-surgery-mumbai') }}">Cervical Spine Surgery</a>:</b> Includes ACDF, disc replacement, or decompression procedures, with costs depending on the complexity.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -136,7 +136,7 @@ Understand spine surgery costs in Mumbai: factors affecting pricing, insurance c
 
                         <div class="sec-blog-design pt-5">
                             <h2>Affordable Spine Surgery Options</h2>
-                            <p>Dr. Vishal Kundnani provides transparent pricing and affordable spine surgery packages in Mumbai. We offer:</p>
+                            <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> provides transparent pricing and affordable spine surgery packages in Mumbai. We offer:</p>
                             <p><b>Transparent Cost Estimates:</b> Detailed cost breakdowns before treatment, with no hidden charges.</p>
                             <p><b>Comprehensive Packages:</b> All-inclusive packages covering surgery, hospital stay, implants, and follow-up care.</p>
                             <p><b>Flexible Payment Options:</b> EMI facilities and payment plans to make treatment accessible.</p>
@@ -183,8 +183,8 @@ Understand spine surgery costs in Mumbai: factors affecting pricing, insurance c
 
                         <div class="sec-blog-design pt-5">
                             <h2>How to Book a Consultation</h2>
-                            <p>If you're considering spine surgery and want to understand the costs involved, schedule a consultation with Dr. Vishal Kundnani.</p>
-                            <p>📞 Call <a href="tel:9619100123">9619100123</a> today to discuss your condition and receive a personalized cost estimate.</p>
+                            <p>If you're considering spine surgery and want to understand the costs involved, schedule a consultation with <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>.</p>
+                            <p>📞 Call <a href="tel:9619100123">9619100123</a> today – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a> to discuss your condition and receive a personalized cost estimate.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

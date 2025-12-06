@@ -131,8 +131,8 @@ Compare minimally invasive vs open spine surgery in India with Dr. Vishal Kundna
                             <div class="sec-blog-design pt-5">
                                 <h1>Minimally Invasive Spine Surgery vs Open Surgery – Which Is Better?</h1>
                                 <img class="blog-hero-img" src="{{ asset('resources\assets\img\blog\open-spine-surgery.png') }}" alt="Minimally Invasive vs Open Spine Surgery">
-                                <p>Spine surgery has advanced significantly over the last decade, giving patients safer, less painful, and faster recovery options. The two main approaches are Minimally Invasive Spine Surgery (MISS) and Open Spine Surgery. While MISS uses small incisions and targets damaged areas with minimal disruption, open surgery involves larger cuts and wider exposure of the spine.</p>
-                                <p>Dr. Vishal Kundnani, one of India's leading spine surgeons, offers both MISS and open spine surgery, selecting the most appropriate technique based on each patient's condition, spine anatomy, and long-term expectations.</p>
+                                <p>Spine surgery has advanced significantly over the last decade, giving patients safer, less painful, and faster recovery options. The two main approaches are <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">Minimally Invasive Spine Surgery</a> (MISS) and Open Spine Surgery. While MISS uses small incisions and targets damaged areas with minimal disruption, open surgery involves larger cuts and wider exposure of the spine.</p>
+                                <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, one of India's leading spine surgeons, offers both MISS and open spine surgery, selecting the most appropriate technique based on each patient's condition, spine anatomy, and long-term expectations.</p>
                             </div>
                         </div>
 
@@ -149,7 +149,7 @@ Compare minimally invasive vs open spine surgery in India with Dr. Vishal Kundna
                                 <li>Reduced risk of infection</li>
                                 <li>Early return to routine activities</li>
                             </ul>
-                            <p>MISS is highly effective for conditions such as herniated discs, spinal stenosis, spondylolisthesis, scoliosis (selected cases), and nerve compression.</p>
+                            <p>MISS is highly effective for conditions such as <a href="{{ route('herniated-disc') }}">herniated discs</a>, <a href="{{ route('spinal-stenosis') }}">spinal stenosis</a>, spondylolisthesis, <a href="{{ route('scoliosis') }}">scoliosis</a> (selected cases), and nerve compression.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -210,7 +210,7 @@ Compare minimally invasive vs open spine surgery in India with Dr. Vishal Kundna
                                 <li>Clinics in South Mumbai, Bandra, Goregaon & Borivali</li>
                                 <li>Director & Head of Spine Services at Lilavati & Bombay Hospitals</li>
                             </ul>
-                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – Consult Dr. Vishal Kundnani, best spine surgeon in India.</b></p>
+                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a>, best spine surgeon in India.</b></p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

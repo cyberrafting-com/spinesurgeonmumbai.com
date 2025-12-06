@@ -131,8 +131,8 @@ Sciatica treatment in Mumbai by Dr. Vishal Kundnani – non-surgical & minimally
                             <div class="sec-blog-design pt-5">
                                 <h1>Sciatica Pain Treatment in Mumbai – Latest & Effective Options</h1>
                                 <img class="blog-hero-img" src="{{ asset('resources\assets\img\blog\sciatica-pain-treatment-mumbai2.png') }}" alt="Sciatica Pain Treatment in Mumbai">
-                                <p>Sciatica is a common condition caused by compression or irritation of the sciatic nerve, usually due to a herniated disc, spinal stenosis, or degenerative spine changes. It leads to sharp leg pain, numbness, tingling, or weakness that radiates from the lower back down to the leg.</p>
-                                <p>Early diagnosis is essential to prevent chronic pain and nerve damage. Dr. Vishal Kundnani, a leading spine specialist in India, offers comprehensive sciatica treatment—from conservative care to advanced minimally invasive and endoscopic procedures—ensuring faster relief and long-term recovery.</p>
+                                <p><a href="{{ route('sciatica') }}">Sciatica</a> is a common condition caused by compression or irritation of the sciatic nerve, usually due to a <a href="{{ route('herniated-disc') }}">herniated disc</a>, <a href="{{ route('spinal-stenosis') }}">spinal stenosis</a>, or degenerative spine changes. It leads to sharp leg pain, numbness, tingling, or weakness that radiates from the lower back down to the leg.</p>
+                                <p>Early diagnosis is essential to prevent chronic pain and nerve damage. <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, a leading spine specialist in India, offers comprehensive sciatica treatment—from conservative care to advanced <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive</a> and <a href="{{ route('endoscopic-spine-surgery-mumbai') }}">endoscopic</a> procedures—ensuring faster relief and long-term recovery.</p>
                             </div>
                         </div>
 
@@ -229,7 +229,7 @@ Sciatica treatment in Mumbai by Dr. Vishal Kundnani – non-surgical & minimally
                                 <li>Clinics in South Mumbai, Bandra, Goregaon & Borivali</li>
                                 <li>Director & Head of Spine Services at Lilavati & Bombay Hospitals</li>
                             </ul>
-                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – Consult Dr. Vishal Kundnani, best sciatica specialist in India.</b></p>
+                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a>, best sciatica specialist in India.</b></p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

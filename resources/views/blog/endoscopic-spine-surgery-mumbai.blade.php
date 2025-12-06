@@ -115,9 +115,9 @@ Endoscopic spine surgery in Mumbai by Dr. Vishal Kundnani – minimally invasive
                             <div class="sec-blog-design pt-5">
                                 <h1>Endoscopic Spine Surgery in Mumbai – Benefits & Success Rate</h1>
                                 <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/endoscopic-spine-surgery.png') }}" alt="Endoscopic Spine Surgery in Mumbai">
-                                <p>Endoscopic spine surgery is one of the most advanced minimally invasive techniques used to treat herniated discs, spinal stenosis, and nerve compression. Through a tiny incision, a high-definition camera and specialized instruments allow surgeons to access the damaged area with minimal muscle disruption.</p>
+                                <p><a href="{{ route('endoscopic-spine-surgery-mumbai') }}">Endoscopic spine surgery</a> is one of the most advanced <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive techniques</a> used to treat <a href="{{ route('herniated-disc') }}">herniated discs</a>, <a href="{{ route('spinal-stenosis') }}">spinal stenosis</a>, and nerve compression. Through a tiny incision, a high-definition camera and specialized instruments allow surgeons to access the damaged area with minimal muscle disruption.</p>
                                 <p>This modern technique offers less pain, faster recovery, smaller scars, and quicker return to routine activities compared to traditional open surgery. With robotic navigation and precision imaging, endoscopic procedures deliver excellent long-term outcomes and a high success rate.</p>
-                                <p>Dr. Vishal Kundnani, a leading expert in endoscopic spine surgery, provides advanced, safe, and effective treatments across Mumbai's top hospitals.</p>
+                                <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, a leading expert in endoscopic spine surgery, provides advanced, safe, and effective treatments across Mumbai's top hospitals.</p>
                             </div>
                         </div>
 
@@ -125,10 +125,10 @@ Endoscopic spine surgery in Mumbai by Dr. Vishal Kundnani – minimally invasive
                             <h2>🔍 What Conditions Can Endoscopic Spine Surgery Treat?</h2>
                             <p>Endoscopic techniques are ideal for:</p>
                             <ul class="icon-bullet-list">
-                                <li>Herniated or slipped discs</li>
-                                <li>Sciatica or nerve root compression</li>
-                                <li>Lumbar canal stenosis</li>
-                                <li>Cervical radiculopathy</li>
+                                <li><a href="{{ route('herniated-disc') }}">Herniated or slipped discs</a></li>
+                                <li><a href="{{ route('sciatica') }}">Sciatica</a> or nerve root compression</li>
+                                <li><a href="{{ route('back-pain') }}">Lumbar</a> canal stenosis</li>
+                                <li><a href="{{ route('cervical-spine-surgery-mumbai') }}">Cervical</a> radiculopathy</li>
                                 <li>Recurrent disc prolapse</li>
                                 <li>Foraminal stenosis</li>
                             </ul>
@@ -179,7 +179,7 @@ Endoscopic spine surgery in Mumbai by Dr. Vishal Kundnani – minimally invasive
                                 <li>Clinics across South Mumbai, Bandra, Goregaon & Borivali</li>
                                 <li>Director & Head of Spine Services at Lilavati & Bombay Hospitals</li>
                             </ul>
-                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – Consult Dr. Vishal Kundnani, best endoscopic spine surgeon in Mumbai & India.</b></p>
+                            <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a>, best endoscopic spine surgeon in Mumbai & India.</b></p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
