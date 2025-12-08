@@ -11,7 +11,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 </script>
 @extends('layouts.default')
 @section('content')
-    
+
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6PXG4VM" height="0" width="0"
         style="display:none;visibility:hidden"></iframe></noscript>
@@ -34,8 +34,89 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
     <div class="container">
         <div class="row justify-content-center">
 
-          <!-- latest blogs start -->
-          <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+            <!-- latest blogs start -->
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('custom-3d-spine-implants') }}">
+                        <img src="{{ asset('resources/assets/img/blog/3d-customize-solution1.png') }}" alt="Custom 3D Tailor-Made Implants: Personalized Solutions for Complex Spine Cases">
+                          
+                        <h1> Custom 3D Tailor-Made Implants: Personalized Solutions for Complex Spine Cases
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('neuromonitoring-spine-surgery') }}">
+                        <img src="{{ asset('resources/assets/img/blog/neuromonitoring-spine-surgery.jpg') }}" alt="Ensuring Safety in Spine Surgery: The Role of Neuromonitoring">
+                          
+                        <h1>  Ensuring Safety in Spine Surgery: The Role of Neuromonitoring
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('3d-printed-spine-implants') }}">
+                        <img src="{{ asset('resources/assets/img/blog/3d-printed-implants.png') }}" alt="3D Printed Spine Implants – Precision & Personalization">
+                          
+                        <h1>  3D Printed Implants: Transforming Spine Surgery with Precision & Personalization  </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('scoliosis-surgery-india') }}">
+                        <img src="{{ asset('resources/assets/img/blog/scoliosis-specialist-india.png') }}" alt="Scoliosis Surgery in India – Safe & Effective with Dr. Vishal Kundnani">
+                          
+                        <h1>  Scoliosis Surgery in India – Safe & Effective with Dr. Vishal Kundnani
+
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('best-scoliosis-surgeon-india') }}">
+                        <img src="{{ asset('resources/assets/img/blog/scoliosis-symptoms-img.png') }}" alt="Best Scoliosis Surgeon in Mumbai & India – Dr. Vishal Kundnani">
+                          
+                        <h1> Best Scoliosis Surgeon in Mumbai & India – Dr. Vishal Kundnani
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('back-pain-warning-signs') }}">
+                        <img src="{{ asset('resources\assets\img\blog\back-pain-warning-signs2.png') }}" alt="Back Pain Warning Signs – When to See a Spine Surgeon">
+                          
+                        <h1> Back Pain Warning Signs – When to See a Spine Surgeon
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('laser-spine-surgery-india') }}">
+                        <img src="{{ asset('resources/assets/img/blog/LASER-SPINAL-SUGERY-dr-vishal-kundnani.jpg') }}" alt="Laser Spine Surgery in India – Advanced & Minimally Invasive">
+                          
+                        <h1> Laser Spine Surgery in India – Advanced & Minimally Invasive
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
                     <a href="{{ route('cervical-vs-lumbar-spine-surgery') }}"><img
                             src="{{ asset('resources\assets\img\blog\cervical-vs-lumbar-spine-surgery.png') }}">
@@ -43,7 +124,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                     </a>
                 </div>
             </div>
-            <!-- latest blogs start -->
+         
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
                     <a href="{{ route('sciatica-pain-treatment-mumbai') }}"><img
@@ -186,7 +267,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             <!-- latest blogs end -->
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
-                        <a href="{{ route('scoliosis-treatment-india') }}"><img
+                    <a href="{{ route('scoliosis-treatment-india') }}"><img
                             src="{{ asset('resources/assets/img/blog/scoliosis-treatment-india.png') }}">
                         <h1>Scoliosis Treatment in India – Non-Surgical & Surgical Options</h1>
                     </a>
@@ -194,7 +275,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
-                        <a href="{{ route('back-pain-specialist-mumbai') }}"><img
+                    <a href="{{ route('back-pain-specialist-mumbai') }}"><img
                             src="{{ asset('resources/assets/img/blog/back-pain-specialist-mumbai.png') }}">
                         <h1>Back Pain Specialist in Mumbai – When to See a Spine Surgeon</h1>
                     </a>
@@ -202,16 +283,16 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
-                        <a href="{{ route('cervical-spine-surgery-mumbai') }}"><img
+                    <a href="{{ route('cervical-spine-surgery-mumbai') }}"><img
                             src="{{ asset('resources/assets/img/blog/cervical-spine-surgery-mumbai.png') }}">
                         <h1>Cervical Spine Surgery in Mumbai – Causes, Treatments, Recovery</h1>
                     </a>
                 </div>
             </div>
-            
+
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
-                        <a href="{{ route('minimally-invasive-spine-surgery-india') }}"><img
+                    <a href="{{ route('minimally-invasive-spine-surgery-india') }}"><img
                             src="{{ asset('resources/assets/img/blog/minimally-invasive-spine-surgery-india.png') }}">
                         <h1>Minimally Invasive Spine Surgery in India</h1>
                     </a>
@@ -249,7 +330,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                     </a>
                 </div>
             </div>
-           
+
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
                     <a href="{{ route('3d-printed-implants-spine-surgery-mumbai') }}"><img
@@ -622,7 +703,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
                     <a href="{{ route('success-story-case-1') }}">
-                        <img src="{{ asset('resources/assets/img/blog/10.jpg') }}" >
+                        <img src="{{ asset('resources/assets/img/blog/10.jpg') }}">
                         <h1>Success story – case 1</h1>
                     </a>
                 </div>

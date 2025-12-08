@@ -597,6 +597,34 @@ Route::get('spinal-stenosis-treatment-mumbai', function () {
     return view('blog.spinal-stenosis-treatment-mumbai');
 })->name('spinal-stenosis-treatment-mumbai');
 
+Route::get('laser-spine-surgery-india', function () {
+    return view('blog.laser-spine-surgery-india');
+})->name('laser-spine-surgery-india');
+
+Route::get('back-pain-warning-signs', function () {
+    return view('blog.back-pain-warning-signs');
+})->name('back-pain-warning-signs');
+
+Route::get('best-scoliosis-surgeon-india', function () {
+    return view('blog.best-scoliosis-surgeon-india');
+})->name('best-scoliosis-surgeon-india');
+
+Route::get('scoliosis-surgery-india', function () {
+    return view('blog.scoliosis-surgery-india');
+})->name('scoliosis-surgery-india');
+
+Route::get('3d-printed-spine-implants', function () {
+    return view('blog.3d-printed-spine-implants');
+})->name('3d-printed-spine-implants');
+
+Route::get('neuromonitoring-spine-surgery', function () {
+    return view('blog.neuromonitoring-spine-surgery');
+})->name('neuromonitoring-spine-surgery');
+
+Route::get('custom-3d-spine-implants', function () {
+    return view('blog.custom-3d-spine-implants');
+})->name('custom-3d-spine-implants');
+
 Route::get('cervical-disc-disease-treatment-india', function () {
     return view('blog.cervical-disc-disease-treatment-india');
 })->name('cervical-disc-disease-treatment-india');
