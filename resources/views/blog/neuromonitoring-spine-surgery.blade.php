@@ -93,6 +93,21 @@ Spine surgery safety with neuromonitoring by Dr. Vishal Kundnani – India’s t
 </script>
 @endsection
 
+@section('styles')
+<style>
+    .icon-bullet-list a.scoliosis-link,
+    .icon-bullet-list a.kyphosis-link {
+        color: #337ab7;
+        font-weight: 600;
+    }
+    .icon-bullet-list a.scoliosis-link:hover,
+    .icon-bullet-list a.kyphosis-link:hover {
+        color: #23527c;
+        text-decoration: underline;
+    }
+</style>
+@endsection
+
 @extends('layouts.default')
 
 @section('content')
@@ -119,7 +134,7 @@ Spine surgery safety with neuromonitoring by Dr. Vishal Kundnani – India’s t
                             <div class="sec-blog-design pt-5">
                                 <h1>Ensuring Safety in Spine Surgery: The Role of Neuromonitoring</h1>
                                 <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/neuromonitoring.png') }}" alt="Ensuring Safety in Spine Surgery: The Role of Neuromonitoring">
-                                <p>Spine surgery requires exceptional precision, as even minor disruptions to spinal nerves can affect movement, sensation, or organ function. Intraoperative Neuromonitoring (IONM) plays a critical role in enhancing surgical safety by continuously monitoring nerve and spinal cord function throughout the procedure.</p>
+                                <p>Spine surgery requires exceptional precision, as even minor disruptions to spinal nerves can affect movement, sensation, or organ function. <a href="{{ route('neuromonitoring-spine-surgery') }}">Intraoperative Neuromonitoring (IONM)</a> plays a critical role in enhancing surgical safety by continuously monitoring nerve and spinal cord function throughout the procedure.</p>
                                 <p>IONM provides real-time feedback to the surgical team, allowing immediate response to any changes that may indicate potential nerve compromise. This technology is especially essential during scoliosis correction, cervical spine surgery, revision surgeries, and complex deformity procedures.</p>
                                 <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> integrates advanced neuromonitoring systems into all major spine surgeries to ensure maximum safety, accuracy, and optimal patient outcomes.</p>
                             </div>
@@ -165,7 +180,7 @@ Spine surgery safety with neuromonitoring by Dr. Vishal Kundnani – India’s t
                         <div class="sec-blog-design pt-5">
                             <h2>🩺 Conditions Where Neuromonitoring Is Most Important</h2>
                             <ul class="icon-bullet-list">
-                                <li>Severe scoliosis & kyphosis</li>
+                                <li>Severe <a class="scoliosis-link color-blue" href="{{ route('scoliosis') }}">scoliosis</a> &amp; <a class="kyphosis-link color-blue" href="{{ route('kyphosis') }}">kyphosis</a></li>
                                 <li>Cervical spine surgery</li>
                                 <li>Complex deformity correction</li>
                                 <li>Spinal tumors</li>

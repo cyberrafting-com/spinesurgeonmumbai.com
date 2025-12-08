@@ -382,4 +382,8 @@
         margin: 15px 0;
         width: 100%;
     }
+    /* Hide scroll-to-top control */
+    #topcontrol {
+        display: none !important;
+    }
 </style>

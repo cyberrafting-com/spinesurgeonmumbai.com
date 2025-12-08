@@ -105,6 +105,19 @@ Meet Dr. Vishal Kundnani – best scoliosis surgeon in Mumbai & India providing 
 </script>
 @endsection
 
+@section('styles')
+<style>
+    .icon-bullet-list a {
+        color: #337ab7;
+        font-weight: 600;
+    }
+    .icon-bullet-list a:hover {
+        color: #23527c;
+        text-decoration: underline;
+    }
+</style>
+@endsection
+
 @extends('layouts.default')
 
 @section('content')
@@ -187,7 +200,7 @@ Meet Dr. Vishal Kundnani – best scoliosis surgeon in Mumbai & India providing 
                             <p><b>Modern Surgical Techniques Include:</b></p>
                             <ul class="icon-bullet-list">
                                 <li><a href="{{ route('minimally-invasive-scoliosis-surgery-faster-recovery') }}">Minimally invasive scoliosis correction</a></li>
-                                <li>Spinal fusion with advanced implants</li>
+                                <li><a href="{{ route('spinal-fusion') }}">Spinal fusion with advanced implants</a></li>
                                 <li>3D-planned instrumentation</li>
                                 <li>Growth-friendly techniques for children</li>
                                 <li>Navigation-guided screw placement</li>
