@@ -84,8 +84,8 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="sec-blog-design pt-5">
-                        <h1>Top 10 Best Spine Surgeons in India: Dr. Vishal Kundnani Leading the Way</h1>
+                    <div class="sec-blog-design pt-25" >
+                        <h1 >Top 10 Best Spine Surgeons in India: Dr. Vishal Kundnani Leading the Way</h1>
                         <p>When it comes to <b>spinal health</b>, choosing the right surgeon can make all the difference.
                             Whether dealing with <b>scoliosis, degenerative disc disease, spinal trauma, or chronic back
                                 pain</b>, patients deserve a specialist who combines <b>skill, experience, and cutting-edge

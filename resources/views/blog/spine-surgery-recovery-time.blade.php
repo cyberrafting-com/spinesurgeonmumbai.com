@@ -140,7 +140,7 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
                         <div class="sec-blog-design pt-5">
                             <h2>🩺 Typical Recovery Timelines After Spine Surgery</h2>
                             
-                            <h3>1. Minimally Invasive Spine Surgery (MISS)</h3>
+                            <h3>1. <a href="{{ route('minimal-invasive-spine-surgery') }}" style="color: var(--primary-blue); text-decoration: none;">Minimally Invasive Spine Surgery (MISS)</a></h3>
                             <ul class="icon-bullet-list">
                                 <li>Mobility often begins within 24–48 hours</li>
                                 <li>Hospital stay: 1–2 days</li>
@@ -149,7 +149,7 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
                             </ul>
                             <p>MISS significantly reduces muscle damage, blood loss, and pain, allowing quicker rehabilitation.</p>
 
-                            <h3>2. Herniated Disc Surgery Recovery</h3>
+                            <h3>2. <a href="{{ route('herniated-disc') }}" style="color: var(--primary-blue); text-decoration: none;">Herniated Disc Surgery Recovery</a></h3>
                             <ul class="icon-bullet-list">
                                 <li>Walking the same or next day</li>
                                 <li>Return to office work in 1–2 weeks</li>
@@ -157,7 +157,7 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
                             </ul>
                             <p>Endoscopic and minimally invasive discectomy offer the fastest recovery among spine surgeries.</p>
 
-                            <h3>3. Spinal Stenosis Surgery Recovery</h3>
+                            <h3>3. <a href="{{ route('spinal-stenosis') }}" style="color: var(--primary-blue); text-decoration: none;">Spinal Stenosis Surgery Recovery</a></h3>
                             <ul class="icon-bullet-list">
                                 <li>Pain relief often immediate</li>
                                 <li>Light activities in 2 weeks</li>
@@ -165,7 +165,7 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
                             </ul>
                             <p>MISS decompression shortens recovery compared to open surgery.</p>
 
-                            <h3>4. Cervical Spine Surgery Recovery</h3>
+                            <h3>4. <a href="{{ route('cervical-disc-disease-treatment-india') }}" style="color: var(--primary-blue); text-decoration: none;">Cervical Spine Surgery Recovery</a></h3>
                             <ul class="icon-bullet-list">
                                 <li>Mobility returns gradually over the first week</li>
                                 <li>Return to routine activities in 2–4 weeks</li>
@@ -173,7 +173,7 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
                             </ul>
                             <p>Proper neck support and physiotherapy enhance outcomes.</p>
 
-                            <h3>5. Scoliosis & Complex Spine Surgery Recovery</h3>
+                            <h3>5. <a href="{{ route('scoliosis') }}" style="color: var(--primary-blue); text-decoration: none;">Scoliosis & Complex Spine Surgery Recovery</a></h3>
                             <ul class="icon-bullet-list">
                                 <li>Hospital stay: 3–7 days</li>
                                 <li>Return to daily activities in 4–6 weeks</li>
