@@ -73,9 +73,6 @@ Route::get('/neckcrea-pain', function () {
     return view('neck-pain');
 })->name('neck-pain');
 
-Route::get('/neck-pain-h', function () {
-    return view('hindi.neck-pain-h');
-})->name('neck-pain-h');
 
 Route::get('/herniated-disc', function () {
     return view('herniated-disc');
@@ -89,9 +86,6 @@ Route::get('/spinal-fusion', function () {
     return view('spinal-fusion');
 })->name('spinal-fusion');
 
-Route::get('/spinal-fusion-h', function () {
-    return view('hindi.spinal-fusion-h');
-})->name('spinal-fusion-h');
 
 Route::get('/spinal-stenosis', function () {
     return view('spinal-stenosis');
