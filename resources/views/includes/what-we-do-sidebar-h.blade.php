@@ -2,7 +2,7 @@
     <nav id="jquery-accordion-menu" class="jquery-accordion-menu">
         <h1>हम क्या करते हैं</h1>
         <ul>
-            <li class=""><a href="{{ route('back-pain-h') }}">पीठ दर्द</a></li>
+            <li class=""><a href="#">पीठ दर्द</a></li>
             <li class="active"><a href="{{ route('neck-pain-h') }}">गर्दन दर्द</a></li>
             <li class=""><a href="{{ route('herniated-disc-h') }}">हर्नियेटेड डिस्क</a></li>
             <li class=""><a href="{{ route('spinal-fusion-h') }}">स्पाइनल फ्यूजन</a></li>

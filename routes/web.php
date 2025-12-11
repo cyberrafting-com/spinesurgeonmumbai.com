@@ -65,9 +65,7 @@ Route::get('/back-pain', function () {
     return view('back-pain');
 })->name('back-pain');
 
-Route::get('/back-pain-h', function () {
-    return view('hindi.back-pain-h');
-})->name('back-pain-h');
+
 
 Route::get('/neckcrea-pain', function () {
     return view('neck-pain');
@@ -78,9 +76,7 @@ Route::get('/herniated-disc', function () {
     return view('herniated-disc');
 })->name('herniated-disc');
 
-Route::get('/herniated-disc-h', function () {
-    return view('hindi.herniated-disc-h');
-})->name('herniated-disc-h');
+
 
 Route::get('/spinal-fusion', function () {
     return view('spinal-fusion');
@@ -111,30 +107,17 @@ Route::get('/minimal-invasive-spine-surgery', function () {
     return view('minimal-invasive-spine-surgery');
 })->name('minimal-invasive-spine-surgery');
 
-Route::get('/minimal-invasive-spine-surgery-m', function () {
-    return view('marathi.minimal-invasive-spine-surgery-m');
-})->name('minimal-invasive-spine-surgery-m');
 
 Route::get('/micro-endoscopic-minimal-invasive-spine-surgery', function () {
     return view('micro-endoscopic-minimal-invasive-spine-surgery');
 })->name('micro-endoscopic-minimal-invasive-spine-surgery');
-
-Route::get('/micro-endoscopic-minimal-invasive-spine-surgery-h', function () {
-    return view('hindi.micro-endoscopic-minimal-invasive-spine-surgery-h');
-})->name('micro-endoscopic-minimal-invasive-spine-surgery-h');
 
 
 Route::get('/common-spinal-stenosis-questions', function () {
     return view('common-spinal-stenosis-questions');
 })->name('common-spinal-stenosis-questions');
 
-Route::get('/common-spinal-stenosis-questions-h', function () {
-    return view('hindi.common-spinal-stenosis-questions-h');
-})->name('common-spinal-stenosis-questions-h');
 
-Route::get('/common-spinal-stenosis-questions-m', function () {
-    return view('marathi.common-spinal-stenosis-questions-m');
-})->name('common-spinal-stenosis-questions-m');
 
 Route::get('/acute-low-back-pain', function () {
     return view('acute-low-back-pain');
@@ -146,17 +129,12 @@ Route::get('/ankylosing-spondylitis', function () {
     return view('ankylosing-spondylitis');
 })->name('ankylosing-spondylitis');
 
-Route::get('/ankylosing-spondylitis-h', function () {
-    return view('hindi.ankylosing-spondylitis-h');
-})->name('ankylosing-spondylitis-h');
 
 Route::get('/back-pain-we-treat', function () {
     return view('back-pain-we-treat');
 })->name('back-pain-we-treat');
 
-Route::get('/back-pain-we-treat-h', function () {
-    return view('hindi.back-pain-we-treat-h');
-})->name('back-pain-we-treat-h');
+
 
 Route::get('/back-pain-in-pregnancy', function () {
     return view('back-pain-in-pregnancy');
@@ -176,9 +154,6 @@ Route::get('/failed-back-syndrome', function () {
     return view('failed-back-syndrome');
 })->name('failed-back-syndrome');
 
-Route::get('/failed-back-syndrome-h', function () {
-    return view('hindi.failed-back-syndrome-h');
-})->name('failed-back-syndrome-h');
 
 Route::get('/kyphosis', function () {
     return view('kyphosis');
@@ -658,96 +633,105 @@ Route::get('cervical-vs-lumbar-spine-surgery', function () {
 
 // marathi service pages start
 
-Route::get('/back-pain-m', function () {
+
+Route::get('mr/common-spinal-stenosis-questions', function () {
+    return view('marathi.common-spinal-stenosis-questions-m');
+})->name('common-spinal-stenosis-questions-m');
+
+Route::get('mr/minimal-invasive-spine-surgery', function () {
+    return view('marathi.minimal-invasive-spine-surgery-m');
+})->name('minimal-invasive-spine-surgery-m');
+
+Route::get('mr/back-pain', function () {
     return view('marathi.back-pain-m');
 })->name('back-pain-m');
 
-Route::get('/neck-pain-m', function () {
+Route::get('mr/neck-pain', function () {
     return view('marathi.neck-pain-m');
 })->name('neck-pain-m');
 
-Route::get('/herniated-disc-m', function () {
+Route::get('mr/herniated-disc', function () {
     return view('marathi.herniated-disc-m');
 })->name('herniated-disc-m');
 
 
-Route::get('/spinal-fusion-m', function () {
+Route::get('mr/spinal-fusion', function () {
     return view('marathi.spinal-fusion-m');
 })->name('spinal-fusion-m');
 
-Route::get('/spinal-stenosis-m', function () {
+Route::get('mr/spinal-stenosis', function () {
     return view('marathi.spinal-stenosis-m');
 })->name('spinal-stenosis-m');
 
-Route::get('/spinal-injections-m', function () {
+Route::get('mr/spinal-injections', function () {
     return view('marathi.spinal-injections-m');
 })->name('spinal-injections-m');
 
-Route::get('/spondylolisthesis-m', function () {
+Route::get('mr/spondylolisthesis', function () {
     return view('marathi.spondylolisthesis-m');
 })->name('spondylolisthesis-m');
 
-Route::get('/physiotherapy-in-spine-m', function () {
+Route::get('mr/physiotherapy-in-spine', function () {
     return view('marathi.physiotherapy-in-spine-m');
 })->name('physiotherapy-in-spine-m');
 
-Route::get('/exercises-m', function () {
+Route::get('mr/exercises', function () {
     return view('marathi.exercises-m');
 })->name('exercises-m');
 
-Route::get('/micro-endoscopic-minimal-invasive-spine-surgery-m', function () {
+Route::get('mr/micro-endoscopic-minimal-invasive-spine-surgery', function () {
     return view('marathi.micro-endoscopic-minimal-invasive-spine-surgery-m');
 })->name('micro-endoscopic-minimal-invasive-spine-surgery-m');
 
-Route::get('/spondylosis-m', function () {
+Route::get('mr/spondylosis', function () {
     return view('marathi.spondylosis-m');
 })->name('spondylosis-m');
 
-Route::get('/spondylolysis-and-spondylolisthesis-m', function () {
+Route::get('mr/spondylolysis-and-spondylolisthesis', function () {
     return view('marathi.spondylolysis-and-spondylolisthesis-m');
 })->name('spondylolysis-and-spondylolisthesis-m');
 
-Route::get('/spinal-stenosis-we-treat-m', function () {
+Route::get('mr/spinal-stenosis-we-treat', function () {
     return view('marathi.spinal-stenosis-we-treat-m');
 })->name('spinal-stenosis-we-treat-m');
 
-Route::get('/slip-disc-m', function () {
+Route::get('mr/slip-disc', function () {
     return view('marathi.slip-disc-m');
 })->name('slip-disc-m');
 
-Route::get('/scoliosis-m', function () {
+Route::get('mr/scoliosis', function () {
     return view('marathi.scoliosis-m');
 })->name('scoliosis-m');
 
-Route::get('/osteoporosis-m', function () {
+Route::get('mr/osteoporosis', function () {
     return view('marathi.osteoporosis-m');
 })->name('osteoporosis-m');
 
-Route::get('/neck-pain-we-treat-m', function () {
+Route::get('mr/neck-pain-we-treat', function () {
     return view('marathi.neck-pain-we-treat-m');
 })->name('neck-pain-we-treat-m');
 
-Route::get('/lumbarisation-and-sacralisation-m', function () {
+Route::get('mr/lumbarisation-and-sacralisation', function () {
     return view('marathi.lumbarisation-and-sacralisation-m');
 })->name('lumbarisation-and-sacralisation-m');
 
-Route::get('/lumbar-spondylosis-m', function () {
+Route::get('mr/lumbar-spondylosis', function () {
     return view('marathi.lumbar-spondylosis-m');
 })->name('lumbar-spondylosis-m');
 
-Route::get('/sciatica-m', function () {
+Route::get('mr/sciatica', function () {
     return view('marathi.sciatica-m');
 })->name('sciatica-m');
 
-Route::get('/kyphosis-m', function () {
+Route::get('mr/kyphosis', function () {
     return view('marathi.kyphosis-m');
 })->name('kyphosis-m');
 
-Route::get('/back-pain-in-pregnancy-m', function () {
+Route::get('mr/back-pain-in-pregnancy', function () {
     return view('marathi.back-pain-in-pregnancy-m');
 })->name('back-pain-in-pregnancy-m');
 
-Route::get('/back-pain-we-treat-m', function () {
+Route::get('mr/back-pain-we-treat', function () {
     return view('marathi.back-pain-we-treat-m');
 })->name('back-pain-we-treat-m');
 
@@ -755,119 +739,157 @@ Route::get('/the-best-spine-surgeon-mumbai', function () {
     return view('the-best-spine-surgeon-mumbai');
 })->name('the-best-spine-surgeon-mumbai');
 
-Route::get('/acute-low-back-pain-m', function () {
+Route::get('mr/acute-low-back-pain', function () {
     return view('marathi.acute-low-back-pain-m');
 })->name('acute-low-back-pain-m');
 
-Route::get('/ankylosing-spondylitis-m', function () {
+Route::get('mr/ankylosing-spondylitis', function () {
     return view('marathi.ankylosing-spondylitis-m');
 })->name('ankylosing-spondylitis-m');
 
-Route::get('/degenerative-disc-disease-m', function () {
+Route::get('mr/degenerative-disc-disease', function () {
     return view('marathi.degenerative-disc-disease-m');
 })->name('degenerative-disc-disease-m');
 
-Route::get('/herniated-disc-m', function () {
+Route::get('mr/herniated-disc', function () {
     return view('marathi.herniated-disc-m');
 })->name('herniated-disc-m');
 
-Route::get('/facet-syndrome-m', function () {
+Route::get('mr/facet-syndrome', function () {
     return view('marathi.facet-syndrome-m');
 })->name('facet-syndrome-m');
 
 
-Route::get('/failed-back-syndrome-m', function () {
+Route::get('mr/failed-back-syndrome', function () {
     return view('marathi.failed-back-syndrome-m');
 })->name('failed-back-syndrome-m');
 
 
 // marathi service pages end
 
-// hindi serive oages start
+// hindi serive pages start
 
-Route::get('/spinal-stenosis-h', function () {
+Route::get('/hi/neck-pain', function () {
+    return view('hindi.neck-pain-h');
+})->name('neck-pain-h');
+
+Route::get('/hi/herniated-disc', function () {
+    return view('hindi.herniated-disc-h');
+})->name('herniated-disc-h');
+
+Route::get('/hi/spinal-fusion', function () {
+    return view('hindi.spinal-fusion-h');
+})->name('spinal-fusion-h');
+
+Route::get('/hi/micro-endoscopic-minimal-invasive-spine-surgery', function () {
+    return view('hindi.micro-endoscopic-minimal-invasive-spine-surgery-h');
+})->name('micro-endoscopic-minimal-invasive-spine-surgery-h');
+
+Route::get('/hi/common-spinal-stenosis-questions', function () {
+    return view('hindi.common-spinal-stenosis-questions-h');
+})->name('common-spinal-stenosis-questions-h');
+
+Route::get('/hi/ankylosing-spondylitis', function () {
+    return view('hindi.ankylosing-spondylitis-h');
+})->name('ankylosing-spondylitis-h');
+
+Route::get('/hi/back-pain-we-treat', function () {
+    return view('hindi.back-pain-we-treat-h');
+})->name('back-pain-we-treat-h');
+
+Route::get('/hi/failed-back-syndrome', function () {
+    return view('hindi.failed-back-syndrome-h');
+})->name('failed-back-syndrome-h');
+
+Route::get('/hi/spinal-stenosis', function () {
     return view('hindi.spinal-stenosis-h');
 })->name('spinal-stenosis-h');
 
-Route::get('/spinal-injections-h', function () {
+Route::get('/hi/spinal-injections', function () {
     return view('hindi.spinal-injections-h');
 })->name('spinal-injections-h');
 
-Route::get('/spondylolisthesis-h', function () {
+Route::get('/hi/spondylolisthesis', function () {
     return view('hindi.spondylolisthesis-h');
 })->name('spondylolisthesis-h');
 
-Route::get('/exercises-h', function () {
+Route::get('/hi/exercises', function () {
     return view('hindi.exercises-h');
 })->name('exercises-h');
 
-Route::get('/minimal-invasive-spine-surgery-h', function () {
+Route::get('/hi/minimal-invasive-spine-surgery', function () {
     return view('hindi.minimal-invasive-spine-surgery-h');
 })->name('minimal-invasive-spine-surgery-h');
 
-Route::get('/acute-low-back-pain-h', function () {
+Route::get('/hi/acute-low-back-pain', function () {
     return view('hindi.acute-low-back-pain-h');
 })->name('acute-low-back-pain-h');
 
-Route::get('/physiotherapy-in-spine-h', function () {
+Route::get('/hi/physiotherapy-in-spine', function () {
     return view('hindi.physiotherapy-in-spine-h');
 })->name('physiotherapy-in-spine-h');
 
-Route::get('/back-pain-in-pregnancy-h', function () {
+Route::get('/hi/back-pain-in-pregnancy', function () {
     return view('hindi.back-pain-in-pregnancy-h');
 })->name('back-pain-in-pregnancy-h');
 
-Route::get('/degenerative-disc-disease-h', function () {
+Route::get('/hi/degenerative-disc-disease', function () {
     return view('hindi.degenerative-disc-disease-h');
 })->name('degenerative-disc-disease-h');
 
-Route::get('/facet-syndrome-h', function () {
+Route::get('/hi/facet-syndrome', function () {
     return view('hindi.facet-syndrome-h');
 })->name('facet-syndrome-h');
 
-Route::get('/kyphosis-h', function () {
+Route::get('/hi/kyphosis', function () {
     return view('hindi.kyphosis-h');
 })->name('kyphosis-h');
 
-Route::get('/lumbar-spondylosis-h', function () {
+Route::get('/hi/lumbar-spondylosis', function () {
     return view('hindi.lumbar-spondylosis-h');
 })->name('lumbar-spondylosis-h');
 
-Route::get('/lumbarisation-and-sacralisation-h', function () {
+Route::get('/hi/lumbarisation-and-sacralisation', function () {
     return view('hindi.lumbarisation-and-sacralisation-h');
 })->name('lumbarisation-and-sacralisation-h');
 
-Route::get('/osteoporosis-h', function () {
+Route::get('/hi/osteoporosis', function () {
     return view('hindi.osteoporosis-h');
 })->name('osteoporosis-h');
 
-Route::get('/neck-pain-we-treat-h', function () {
+Route::get('/hi/neck-pain-we-treat', function () {
     return view('hindi.neck-pain-we-treat-h');
 })->name('neck-pain-we-treat-h');
 
-Route::get('/sciatica-h', function () {
+Route::get('/hi/sciatica', function () {
     return view('hindi.sciatica-h');
 })->name('sciatica-h');
 
-Route::get('/scoliosis-h', function () {
+Route::get('/hi/scoliosis', function () {
     return view('hindi.scoliosis-h');
 })->name('scoliosis-h');
 
-Route::get('/slip-disc-h', function () {
+Route::get('/hi/slip-disc', function () {
     return view('hindi.slip-disc-h');
 })->name('slip-disc-h');
 
-Route::get('/spinal-stenosis-we-treat-h', function () {
+Route::get('/hi/spinal-stenosis-we-treat', function () {
     return view('hindi.spinal-stenosis-we-treat-h');
 })->name('spinal-stenosis-we-treat-h');
 
-Route::get('/spondylolysis-and-spondylolisthesis-h', function () {
+Route::get('/hi/spondylolysis-and-spondylolisthesis', function () {
     return view('hindi.spondylolysis-and-spondylolisthesis-h');
 })->name('spondylolysis-and-spondylolisthesis-h');
 
-Route::get('/spondylosis-h', function () {
+Route::get('/hi/spondylosis', function () {
     return view('hindi.spondylosis-h');
 })->name('spondylosis-h');
+
+Route::get('/hi/back-pain', function () {
+    return view('hindi.back-pain-h');
+})->name('back-pain-h');
+
+
 
 // hindi service pages end
 
