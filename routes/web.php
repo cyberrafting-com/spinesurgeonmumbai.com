@@ -910,3 +910,14 @@ Route::get('/treatment-minimal-invaisve-spine-surgery', function () {
 Route::get('/spine-surgery-treatment-mumbai', function () {
     return view('landing-page.spine-surgery-treatment-mumbai');
 })->name('spine-surgery-treatment-mumbai');
+Route::get('lumber-spinal-stenosis', function () {
+    return view('blog.lumber-spinal-stenosis');
+})->name('lumber-spinal-stenosis');
+ 
+Route::get('living-well-scoliosis', function () {
+    return view('blog.living-well-scoliosis');
+})->name('living-well-scoliosis');
+ 
+Route::get('stages-of-lumber-spinal-stenosis', function () {
+    return view('blog.stages-of-lumber-spinal-stenosis');
+})->name('stages-of-lumber-spinal-stenosis');

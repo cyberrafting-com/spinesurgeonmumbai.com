@@ -37,6 +37,38 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             <!-- latest blogs start -->
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('stages-of-lumber-spinal-stenosis') }}">
+                        <img src="{{ asset('resources\assets\img\blog\lumber-spinal-stenosis-img2 .png') }}" alt="Stages of Lumbar Spinal Stenosis: Mild, Moderate & Severe Explained">
+                          
+                        <h1>Stages of Lumbar Spinal Stenosis: Mild, Moderate & Severe Explained
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('living-well-scoliosis') }}">
+                        <img src="{{ asset('resources\assets\img\blog\live-with-scoliosis.jpg') }}" alt="Living Well with Scoliosis: Lifestyle Tips and Exercises That Help">
+                          
+                        <h1>Living Well with Scoliosis: Lifestyle Tips and Exercises That Help
+                        </h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('lumber-spinal-stenosis') }}">
+                        <img src="{{ asset('resources\assets\img\blog\lumber-spinal-stenosis-img.jpg') }}" alt="What Is Lumbar Spinal Stenosis? Causes, Symptoms & Early Warning Signs">
+                          
+                        <h1>What Is Lumbar Spinal Stenosis? Causes, Symptoms & Early Warning Signs
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('custom-3d-spine-implants') }}">
                         <img src="{{ asset('resources/assets/img/blog/3d-customize-solution1.png') }}" alt="Custom 3D Tailor-Made Implants: Personalized Solutions for Complex Spine Cases">
                           
