@@ -922,6 +922,7 @@ Route::get('stages-of-lumber-spinal-stenosis', function () {
     return view('blog.stages-of-lumber-spinal-stenosis');
 })->name('stages-of-lumber-spinal-stenosis');
 
+<<<<<<< HEAD
 Route::get('advanced-spine-care-minimally-invasive-surgery-mumbai', function () {
     return view('blog.advanced-spine-care-minimally-invasive-surgery-mumbai');
 })->name('advanced-spine-care-minimally-invasive-surgery-mumbai');
@@ -943,3 +944,10 @@ Route::get('minimally-Invasive-spine-surgery-FAQ', function () {
 })->name('minimally-Invasive-spine-surgery-FAQ');
 
 // latest blogs
+=======
+
+// latest-blog
+Route::get('transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai', function() {
+    return view('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai');
+})->name('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai');
+>>>>>>> a1365d0fbb9ed4151063ee482c7e8cba206587dc
