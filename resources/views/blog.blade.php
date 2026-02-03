@@ -45,6 +45,16 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                     </a>
                 </div>
             </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('stages-of-lumber-spinal-stenosis') }}">
+                        <img src="{{ asset('resources\assets\img\blog\lumber-spinal-stenosis-img2 .png') }}" alt="Stages of Lumbar Spinal Stenosis: Mild, Moderate & Severe Explained">
+                          
+                        <h1>Stages of Lumbar Spinal Stenosis: Mild, Moderate & Severe Explained
+                        </h1>
+                    </a>
+                </div>
+            </div>
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
@@ -786,6 +796,19 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                     </a>
                 </div>
             </div>
+
+            <!-- // adding for Transforming Lives with Minimally Invasive Spine Surgery  -->
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai') }}">
+                    <img src="{{ asset('/resources/assets/images/transforming-lives-with-minimally-invasive-spine-surgery-in-Mumbai.png') }}" alt="Minimally Invasive Spine Surgery in Mumbai">
+                    <h1>
+                    Transforming Lives with Minimally Invasive Spine Surgery in Mumbai
+                    </h1>
+                    </a>
+                </div>
+            </div>
+
 
         </div>
     </div>

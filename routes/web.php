@@ -921,3 +921,9 @@ Route::get('living-well-scoliosis', function () {
 Route::get('stages-of-lumber-spinal-stenosis', function () {
     return view('blog.stages-of-lumber-spinal-stenosis');
 })->name('stages-of-lumber-spinal-stenosis');
+
+
+// latest-blog
+Route::get('transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai', function() {
+    return view('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai');
+})->name('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai');
