@@ -921,3 +921,25 @@ Route::get('living-well-scoliosis', function () {
 Route::get('stages-of-lumber-spinal-stenosis', function () {
     return view('blog.stages-of-lumber-spinal-stenosis');
 })->name('stages-of-lumber-spinal-stenosis');
+
+Route::get('advanced-spine-care-minimally-invasive-surgery-mumbai', function () {
+    return view('blog.advanced-spine-care-minimally-invasive-surgery-mumbai');
+})->name('advanced-spine-care-minimally-invasive-surgery-mumbai');
+
+Route::get('back-pain-blog', function () {
+    return view('blog.back-pain-blog');
+})->name('back-pain-blog');
+
+Route::get('advanced-mis-scoliosis-spine-care', function () {
+    return view('blog.advanced-mis-scoliosis-spine-care');
+})->name('advanced-mis-scoliosis-spine-care');
+
+Route::get('back-pain-sciatica-spine-problems-common-questions-answered', function () {
+    return view('blog.back-pain-sciatica-spine-problems-common-questions-answered');
+})->name('back-pain-sciatica-spine-problems-common-questions-answered');
+
+Route::get('minimally-Invasive-spine-surgery-FAQ', function () {
+    return view('blog.minimally-invasive-spine-surgery-faq');
+})->name('minimally-Invasive-spine-surgery-FAQ');
+
+// latest blogs

@@ -4133,7 +4133,7 @@ img.gal-img {
 }
 
 .blog-profile-details ul {
-    padding-left: unset;
+    padding-left: 20px;
 }
 
 .blog-profile-details ul li {
@@ -4142,10 +4142,10 @@ img.gal-img {
 
 .blog-profile-details ul li a {
     text-decoration: none;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 34px;
     color: #337ab7;
-    font-weight: 300;
+    font-weight: 600;
 }
 
 .blog-profile-details ul li a img {

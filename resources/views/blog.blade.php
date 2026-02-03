@@ -35,6 +35,60 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
         <div class="row justify-content-center">
 
             <!-- latest blogs start -->
+
+
+
+          
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('advanced-spine-care-minimally-invasive-surgery-mumbai') }}">
+                        <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/advanced-spine-care-minimally-invasive-surgery.webp" alt="Advanced Spine Care & Minimally Invasive Surgery in Mumbai">
+                          
+                        <h1>Advanced Spine Care & Minimally Invasive Surgery in Mumbai
+                        </h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('back-pain-blog') }}">
+                        <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/causes-lower-back-pain.png" alt="What Causes Lower Back Pain?">
+                          
+                        <h1>What Causes Lower Back Pain?
+                        </h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('advanced-mis-scoliosis-spine-care') }}">
+                        <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/advanced-MIS-scoliosis-spine-care.png" alt="Best Spine Surgeon in Mumbai – Advanced MIS, Scoliosis & Spine Care">
+                          
+                        <h1>Best Spine Surgeon in Mumbai – Advanced MIS, Scoliosis & Spine Care
+                        </h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('minimally-Invasive-spine-surgery-FAQ') }}">
+                        <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/minimally-invasive-spine-surgery.png" alt="Minimally Invasive Spine Surgery – FAQ">
+                          
+                        <h1>Minimally Invasive Spine Surgery – FAQ
+                        </h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('back-pain-sciatica-spine-problems-common-questions-answered') }}">
+                        <img src="{{ asset('resources\assets\img\blog\back-pain-warning-signs2.png') }}" alt="Back Pain, Sciatica & Spine Problems: 20 Common Questions Answered">
+                          
+                        <h1>Back Pain, Sciatica & Spine Problems: 20 Common Questions Answered
+                        </h1>
+                    </a>
+                </div>
+            </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
                     <a href="{{ route('stages-of-lumber-spinal-stenosis') }}">
