@@ -35,7 +35,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
         <div class="row justify-content-center">
 
             <!-- latest blogs start -->
-             
+
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
@@ -863,17 +863,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                 </div>
             </div>
 
-            <!-- // adding for Transforming Lives with Minimally Invasive Spine Surgery  -->
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
-                <div class="gallery">
-                    <a href="{{ route('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai') }}">
-                    <img src="{{ asset('/resources/assets/images/transforming-lives-with-minimally-invasive-spine-surgery-in-Mumbai.png') }}" alt="Minimally Invasive Spine Surgery in Mumbai">
-                    <h1>
-                    Transforming Lives with Minimally Invasive Spine Surgery in Mumbai
-                    </h1>
-                    </a>
-                </div>
-            </div>
+           
 
             <!-- adding surgery success story -->
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
