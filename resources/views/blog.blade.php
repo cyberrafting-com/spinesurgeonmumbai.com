@@ -81,6 +81,46 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('sciatica') }}">
+                        <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/sciatic-nerve.webp" alt="What Is Sciatica and Why Does It Happen?">
+                          
+                        <h1>What Is Sciatica and Why Does It Happen?
+                        </h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('scoliosis-scoliosis-surgery') }}">
+                        <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/scoliosis-scoliosis-surgery.webp" alt="Scoliosis & Scoliosis Surgery">
+                          
+                        <h1>Scoliosis & Scoliosis Surgery
+                        </h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('slipped-disc') }}">
+                        <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/slip-disc-blog.webp" alt="What Is a Slipped Disc (Herniated Disc)?">
+                          
+                        <h1>What Is a Slipped Disc (Herniated Disc)?
+                        </h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('spinal-fusion-MIS-TLIF-spinal-decompression') }}">
+                        <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/spinal-fusion-spinal-decompression.webp" alt="Spinal Fusion, MIS-TLIF & Spinal Decompression">
+                          
+                        <h1>Spinal Fusion, MIS-TLIF & Spinal Decompression
+                        </h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('back-pain-sciatica-spine-problems-common-questions-answered') }}">
                         <img src="{{ asset('resources\assets\img\blog\back-pain-warning-signs2.png') }}" alt="Back Pain, Sciatica & Spine Problems: 20 Common Questions Answered">
                           

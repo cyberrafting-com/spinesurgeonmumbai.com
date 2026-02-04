@@ -942,6 +942,22 @@ Route::get('minimally-Invasive-spine-surgery-FAQ', function () {
     return view('blog.minimally-invasive-spine-surgery-faq');
 })->name('minimally-Invasive-spine-surgery-FAQ');
 
+Route::get('sciatica', function () {
+    return view('blog.sciatica');
+})->name('sciatica');
+
+Route::get('scoliosis-scoliosis-surgery', function () {
+    return view('blog.scoliosis-scoliosis-surgery');
+})->name('scoliosis-scoliosis-surgery');
+
+Route::get('slipped-disc', function () {
+    return view('blog.slipped-disc');
+})->name('slipped-disc');
+
+Route::get('spinal-fusion-MIS-TLIF-spinal-decompression', function () {
+    return view('blog.spinal-fusion-MIS-TLIF-spinal-decompression');
+})->name('spinal-fusion-MIS-TLIF-spinal-decompression');
+
 // latest blogs
 
 // latest-blog
