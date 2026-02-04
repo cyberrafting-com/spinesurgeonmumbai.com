@@ -866,7 +866,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
            
 
             <!-- adding surgery success story -->
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+            <!-- <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
                 <a href="{{ route('spine-surgery-success-stories-mumbai') }}">
                 <img src="{{ asset('/resources/assets/images/stories-about-spine-surgery-mumbai.png') }}" 
@@ -875,7 +875,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                 Patient Stories About Spine Surgery in Mumbai
                 </h1>
                 </a>
-            </div>
+            </div> -->
 </div>
 
 
