@@ -965,8 +965,8 @@ Route::get('transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai',
     return view('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai');
 
 })->name('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai');
-=======
-})->name('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai');
+
+
 
 Route::get('spine-surgery-blog', function () {
     return view('blog.spine-surgery-blog');
