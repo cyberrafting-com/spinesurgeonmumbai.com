@@ -47,6 +47,32 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                     </a>
                 </div>
             </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('blog.spine-surgery-blog') }}">
+                    <img src="{{ asset('/resources/assets/images/spine-surgery-frequent-askedquestions.png') }}"
+                    alt="Spine Surgery FAQs – 20 Most Common Patient Questions Answered">
+                <h1>
+                Spine Surgery: 20 Most Common Patient Questions Answered
+                </h1>
+                    </a>
+                </div>
+            </div>
+
+
+
+        <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+            <div class="gallery">
+                <a href="{{ route('blog.spine-surgery-success-stories') }}">
+                <img src="{{ asset('/resources/assets/images/spine-surgery-success-stories.png') }}" 
+                alt="Spine Surgery Success Stories – Real Patient Experiences with Dr. Vishal Kundnani">
+                <h1>
+                Spine Surgery Success Stories – Real Patient Experiences
+                </h1>
+                </a>
+            </div>
+        </div>
+
 
 
 

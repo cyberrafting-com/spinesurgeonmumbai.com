@@ -1,0 +1,259 @@
+@extends('layouts.default')
+
+@php($title = "Spine Surgery: 20 Most Common Patient Questions Answered | Dr. Vishal Kundnani Mumbai")
+
+@section('meta_desc')
+Confused or anxious about spine surgery? Get clear, honest answers to the 20 most common spine surgery questions covering risks, recovery, success rates, and minimally invasive options explained by Dr. Vishal Kundnani, leading spine surgeon in Mumbai.
+@endsection
+
+@section('meta_keywords',
+"spine surgery questions, spine surgery FAQ, minimally invasive spine surgery Mumbai, spine surgery recovery, spine surgery risks, spine surgery success rate, back surgery Mumbai, sciatica surgery, spinal fusion, Dr. Vishal Kundnani")
+
+@section('schema')
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is spine surgery and when is it needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spine surgery is performed to relieve nerve pressure or stabilise the spine when pain, weakness, or nerve symptoms do not improve with conservative treatments."
+      }
+    }
+  ]
+}
+</script>
+@endsection
+
+@section('content')
+<section>
+    <div class="container">
+        <div class="row">
+
+            <!-- Doctor Profile -->
+            <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
+                <div class="blog-profile">
+                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                    <h3>Dr. Vishal Kundnani</h3>
+                    <span>MS (Ortho) FASSI, FNUS, FNAMS</span><br>
+
+                    <p class="bold-text">
+                        Leading spine surgeon in Mumbai specialising in  
+                        <a href="{{ route('minimal-invasive-spine-surgery') }}">
+                            minimally invasive spine surgery
+                        </a>,
+                        <a href="{{ route('sciatica') }}">sciatica</a>treatment,
+                        spinal fusion, and complex deformity correction.
+                    </p>
+
+                    <a href="tel:+919619100123">
+                        <img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal">
+                    </a>
+
+                    <a href="{{ route('contact') }}">
+                        <img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive">
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog Content -->
+            <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
+                <div class="blog-profile-details">
+
+                    <!-- Intro -->
+                    <div class="sec-blog-design pt-5">
+                        <h1>Spine Surgery: 20 Most Common Patient Questions Answered</h1>
+                        <p>
+                            Spine surgery is often surrounded by fear and confusion.
+                            Most patients want clear answers before making any decision.
+                            Here are 20 of the most searched spine surgery questions,
+                            answered simply and honestly by spine specialists.
+                        </p>
+                    </div>
+
+                    <!-- FAQ -->
+                    <div class="sec-blog-design pt-4">
+                        <ol class="pl-2">
+
+                            <li>
+                                <b>What is spine surgery and when is it needed?</b><br>
+                                Spine surgery is performed to relieve nerve pressure or stabilize the spine.
+                                It is needed only when pain, weakness, or nerve symptoms do not improve with conservative treatment.
+                            </li>
+
+                            <li>
+                                <b>How do I know if I’m a candidate for spine surgery?</b>
+                                <ul>
+                                    <li>Pain persists despite treatment</li>
+                                    <li>Nerve weakness or numbness</li>
+                                    <li>MRI shows a correctable spine problem</li>
+                                    <li>Confirmed by a spine specialist after evaluation</li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <b>What are the different types of spine surgery procedures?</b>
+                                <ul>
+                                    <li>Discectomy or microdiscectomy</li>
+                                    <li>Laminectomy</li>
+                                    <li>Spinal fusion</li>
+                                    <li>
+                                        <a href="{{ route('minimal-invasive-spine-surgery') }}">
+                                            Minimally invasive spine surgery
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <b>What are the risks and complications of spine surgery?</b>
+                                <ul>
+                                    <li>Infection</li>
+                                    <li>Bleeding</li>
+                                    <li>Nerve injury</li>
+                                    <li>Persistent pain</li>
+                                </ul>
+                                Serious complications are uncommon when surgery is properly planned.
+                            </li>
+
+                            <li>
+                                <b>How effective is spine surgery for back pain or  <a href="{{ route('sciatica') }}">Sciatica</a>?</b><br>
+                                Spine surgery is very effective for nerve pain ( <a href="{{ route('sciatica') }}">Sciatica</a>).
+                                Results for pure back pain depend on correct diagnosis and patient selection.
+                            </li>
+
+                            <li>
+                                <b>Will spine surgery completely cure my pain?</b><br>
+                                Surgery aims to relieve nerve compression and improve function.
+                                Most patients experience significant relief, though complete pain elimination is not guaranteed.
+                            </li>
+
+                            <li>
+                                <b>How long does recovery take after spine surgery?</b>
+                                <ul>
+                                    <li>
+                                        <a href="{{ route('minimal-invasive-spine-surgery') }}">
+                                            Minimally invasive surgery: 2–6 weeks
+                                        </a>
+                                    </li>
+                                    <li>Open surgery or fusion: 6–12 weeks</li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <b>What should I ask my surgeon before surgery?</b>
+                                <ul>
+                                    <li>Need for surgery</li>
+                                    <li>Type of procedure</li>
+                                    <li>Risks and benefits</li>
+                                    <li>Recovery time</li>
+                                    <li>Alternative treatments</li>
+                                    <li>Clear communication builds confidence.</li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <b>Is minimally invasive spine surgery safer than open surgery?</b><br>
+                                <a href="{{ route('minimal-invasive-spine-surgery') }}">
+                                    Minimally invasive surgery
+                                </a> usually means smaller cuts, less pain, and faster recovery.
+                                It is safe and effective in selected patients.
+                            </li>
+
+                            <li>
+                                <b>What is the success rate of spine surgery?</b><br>
+                                 <a href="{{ route('sciatica') }}">Sciatica</a> surgery</a> has very high success.
+                                Degenerative spine conditions also show good outcomes when properly selected.
+                            </li>
+
+                            <li>
+                                <b>Can I avoid surgery with physiotherapy or conservative treatment?</b><br>
+                                Yes. Most spine problems improve with physiotherapy, medications, and lifestyle changes.
+                            </li>
+
+                            <li>
+                                <b>Will I need to stay in the hospital after spine surgery?</b><br>
+                                <a href="{{ route('minimal-invasive-spine-surgery') }}">
+                                    Minimally invasive surgery
+                                </a>: same day or 1–2 days.
+                                Complex surgery may require a longer stay.
+                            </li>
+
+                            <li>
+                                <b>What activities should I avoid after spine surgery?</b><br>
+                                Heavy lifting, bending, twisting, and high-impact activities should be avoided initially.
+                            </li>
+
+                            <li>
+                                <b>How soon can I return to work after spine surgery?</b><br>
+                                Desk work: 2–4 weeks. Physical work: 6–12 weeks.
+                            </li>
+
+                            <li>
+                                <b>Difference between microdiscectomy, fusion, and laminectomy?</b><br>
+                                Microdiscectomy removes disc pressure, laminectomy relieves nerve compression,
+                                and fusion stabilizes the spine.
+                            </li>
+
+                            <li>
+                                <b>Does spine surgery require general anesthesia?</b><br>
+                                Most spine surgeries are done under general anesthesia.
+                            </li>
+
+                            <li>
+                                <b>Can I have spine surgery if I have other health conditions?</b><br>
+                                Yes. With proper pre-surgical evaluation, surgery is safe for many patients.
+                            </li>
+
+                            <li>
+                                <b>Will I still need pain medications after surgery?</b><br>
+                                Short-term pain medication is common and gradually reduced during recovery.
+                            </li>
+
+                            <li>
+                                <b>What lifestyle changes improve outcomes?</b>
+                                <ul>
+                                    <li>Weight control</li>
+                                    <li>Smoking cessation</li>
+                                    <li>Regular exercise</li>
+                                    <li>Posture correction</li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <b>What are the signs that spine surgery should not be delayed?</b><br>
+                                Progressive weakness, bladder or bowel issues, or severe disabling pain
+                                may indicate nerve damage and need urgent care.
+                            </li>
+
+                        </ol>
+                    </div>
+
+                    <!-- CTA -->
+                    <div class="sec-blog-design pt-5">
+                        <h2>Consult a Spine Specialist</h2>
+                        <p>
+                            If spine surgery has been suggested, a detailed discussion with a qualified spine specialist
+                            can help you understand options, risks, and expected outcomes.
+                        </p>
+                        <p>
+                            <b>
+                                📞 Call <a href="tel:9619100123">9619100123</a> or
+                                <a href="{{ route('contact') }}">Book a Consultation</a>
+                            </b>
+                        </p>
+                        <p>
+                            <i>Medical Disclaimer: This information is for educational purposes only and does not replace professional medical advice.</i>
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+@stop
