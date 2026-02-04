@@ -120,8 +120,8 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
                     <div class="sec-blog-design pt-5">
                         <h1>Transforming Lives with Minimally Invasive Spine Surgery in Mumbai</h1>
                         <img class="blog-hero-img" src="{{ asset('/resources/assets/img/blog/procedure-of-TLIF-surgery-in-Mumbai-1024x576.webp') }}" alt="Minimally invasive spine surgery in Mumbai including MIS-TLIF and lumbar decompression by Dr. Vishal Kundnani">
-                        <p>Discover expert spine care with Dr. Vishal Kundnani at Bombay & Lilavati Hospitals. Minimally invasive surgery, scoliosis, sciatica, and personalised treatment options. Back pain, sciatica, and spinal deformities can severely impact daily life. With modern technology and minimally invasive spine surgery, Dr. Vishal Kundnani offers compassionate, personalised care that restores mobility, reduces pain, and improves quality of life.</p>
-                        <p>Minimally invasive procedures like lumbar decompression, MIS-TLIF, and spinal fusion reduce recovery time and pain. Advanced scoliosis surgery can correct spinal deformities safely, even in adults. Non-surgical options for sciatica and slipped discs often restore function without surgery. Expert diagnosis using high-resolution MRI, 3D navigation, and modern imaging ensures personalised treatment. Patients regain mobility, confidence, and lifestyle quality under professional, empathetic care.</p>
+                        <p>Discover expert spine care with <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> at <a href="{{ route('best-hospital-spine-surgery-mumbai') }}">Bombay & Lilavati Hospitals</a>. <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">Minimally invasive surgery</a>, <a href="{{ route('scoliosis-surgery-india') }}">scoliosis</a>, <a href="{{ route('sciatica-pain-treatment-mumbai') }}">sciatica</a>, and personalised treatment options. <a href="{{ route('back-pain-blog') }}">Back pain</a>, <a href="{{ route('sciatica') }}">sciatica</a>, and spinal deformities can severely impact daily life. With modern technology and <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive spine surgery</a>, Dr. Vishal Kundnani offers compassionate, personalised care that restores mobility, reduces pain, and improves quality of life.</p>
+                        <p><a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">Minimally invasive procedures</a> like lumbar decompression, <a href="{{ route('case-of-mis-tlif-spinal-fusion') }}">MIS-TLIF</a>, and <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">spinal fusion</a> reduce recovery time and pain. Advanced <a href="{{ route('scoliosis-surgery-india') }}">scoliosis surgery</a> can correct spinal deformities safely, even in adults. Non-surgical options for <a href="{{ route('sciatica-pain-treatment-mumbai') }}">sciatica</a> and <a href="{{ route('herniated-disc-treatment-india') }}">slipped discs</a> often restore function without surgery. Expert diagnosis using high-resolution MRI, <a href="{{ route('3d-printed-spine-implants') }}">3D navigation</a>, and modern imaging ensures personalised treatment. Patients regain mobility, confidence, and lifestyle quality under professional, empathetic care.</p>
                     </div>
 
                     <!-- Modern Spine Care -->
@@ -129,14 +129,14 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
                         <h2>Modern Spine Care with Dr. Vishal Kundnani</h2>
 
                         <h3>Understanding Spine Conditions</h3>
-                        <p>Back pain, sciatica, scoliosis, and spinal instability are common but debilitating. Patients often experience:</p>
+                        <p><a href="{{ route('back-pain-blog') }}">Back pain</a>, <a href="{{ route('sciatica') }}">sciatica</a>, <a href="{{ route('scoliosis-surgery-india') }}">scoliosis</a>, and spinal instability are common but debilitating. Patients often experience:</p>
                         <ul class="icon-bullet-list">
                             <li>Pain radiating to legs or arms</li>
                             <li>Numbness, tingling, or weakness</li>
                             <li>Postural changes or spinal deformities</li>
                             <li>Reduced mobility and daily function</li>
                         </ul>
-                        <p>Early, accurate diagnosis is critical. Dr. Vishal Kundnani uses MRI, 3D imaging, and computer-assisted planning to design personalised treatment plans.</p>
+                        <p>Early, accurate diagnosis is critical. <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> uses MRI, <a href="{{ route('3d-printed-spine-implants') }}">3D imaging</a>, and computer-assisted planning to design personalised treatment plans.</p>
 
                         <h3>Minimally Invasive Spine Surgery (MIS)</h3>
                         <ul class="icon-bullet-list">
@@ -147,14 +147,14 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
                         </ul>
 
                         <h4>Patient Stories:</h4>
-                        <p><b>Mr. Ramesh Sharma:</b> "After two years of severe back and leg pain, MIS lumbar decompression and fusion helped me walk the next day. I regained mobility and confidence."</p>
-                        <p><b>Ms. Priya Shah:</b> "Severe sciatica left me immobilised. MIS lumbar decompression restored mobility within weeks. Dr. Kundnani’s care made all the difference."</p>
+                        <p><b>Mr. Ramesh Sharma:</b> "After two years of severe back and leg pain, <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">MIS</a> lumbar decompression and fusion helped me walk the next day. I regained mobility and confidence."</p>
+                        <p><b>Ms. Priya Shah:</b> "Severe <a href="{{ route('sciatica') }}">sciatica</a> left me immobilised. <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">MIS</a> lumbar decompression restored mobility within weeks. Dr. Kundnani's care made all the difference."</p>
                     </div>
 
                     <!-- Scoliosis -->
                     <div class="sec-blog-design pt-5">
                         <h2>Scoliosis and Spine Deformity Correction</h2>
-                        <p>Adult or adolescent scoliosis can cause pain, fatigue, and postural imbalance. Advanced surgical correction with modern instrumentation and intraoperative navigation restores alignment and improves quality of life.</p>
+                        <p>Adult or adolescent <a href="{{ route('scoliosis-surgery-india') }}">scoliosis</a> can cause pain, fatigue, and postural imbalance. Advanced surgical correction with modern instrumentation and <a href="{{ route('neuromonitoring-spine-surgery') }}">intraoperative navigation</a> restores alignment and improves quality of life.</p>
                         <h4>Patient Stories:</h4>
                         <p><b>Ms. Ananya Desai:</b> "Personalised scoliosis correction surgery improved my posture, strength, and confidence."</p>
                         <p><b>Mr. Sanjay Deshmukh:</b> "Chronic adult scoliosis pain improved significantly after spinal fusion guided by Dr. Kundnani."</p>
@@ -164,11 +164,11 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
                     <div class="sec-blog-design pt-5">
                         <h2>Non-Surgical Spine Care</h2>
                         <ul class="icon-bullet-list">
-                            <li>Guided physiotherapy for sciatica or postural pain</li>
+                            <li>Guided physiotherapy for <a href="{{ route('sciatica') }}">sciatica</a> or postural pain</li>
                             <li>Activity modification and ergonomic advice</li>
                             <li>Medication or injection therapies for inflammation and nerve pain</li>
                         </ul>
-                        <p><b>Mr. Sameer Khan:</b> "Non-surgical care relieved my slipped disc pain within weeks. Dr. Kundnani’s personal attention gave me confidence."</p>
+                        <p><b>Mr. Sameer Khan:</b> "Non-surgical care relieved my <a href="{{ route('herniated-disc-treatment-india') }}">slipped disc</a> pain within weeks. Dr. Kundnani's personal attention gave me confidence."</p>
                     </div>
 
                     <!-- Symptoms & Causes -->
@@ -181,7 +181,7 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
                             <li>Limited mobility or spinal deformities</li>
                         </ul>
                         <h3>Causes</h3>
-                        <p>Herniated discs, spinal stenosis, scoliosis, degenerative disc disease, poor posture, heavy lifting, sedentary lifestyle, age-related degeneration</p>
+                        <p><a href="{{ route('herniated-disc-treatment-india') }}">Herniated discs</a>, <a href="{{ route('spinal-stenosis-treatment-mumbai') }}">spinal stenosis</a>, <a href="{{ route('scoliosis-surgery-india') }}">scoliosis</a>, degenerative disc disease, poor posture, heavy lifting, sedentary lifestyle, age-related degeneration</p>
                         <h3>Risk Factors</h3>
                         <p>Age over 40, sedentary occupation, previous spine injuries or chronic conditions</p>
                     </div>
@@ -197,8 +197,8 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
                         <h3>Treatment – Stepwise Approach</h3>
                         <ul class="icon-bullet-list">
                             <li>Conservative Care: Physiotherapy, posture correction, medication</li>
-                            <li>Minimally Invasive Surgery: Lumbar decompression, MIS-TLIF, spinal fusion</li>
-                            <li>Advanced Correction Surgeries: Scoliosis correction, multi-level fusion</li>
+                            <li><a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">Minimally Invasive Surgery</a>: Lumbar decompression, <a href="{{ route('case-of-mis-tlif-spinal-fusion') }}">MIS-TLIF</a>, <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">spinal fusion</a></li>
+                            <li>Advanced Correction Surgeries: <a href="{{ route('scoliosis-surgery-india') }}">Scoliosis correction</a>, multi-level fusion</li>
                             <li>Post-Op Rehabilitation: Personalised physiotherapy and follow-ups</li>
                         </ul>
                         <h4>Patient Stories – Relief and Transformation:</h4>
@@ -215,19 +215,19 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
                     <div class="sec-blog-design pt-5">
                         <h2>FAQs Patients Ask Frequently</h2>
                         <ol class="pl-2">
-                            <li><b>Is minimally invasive spine surgery safe?</b> <br> Yes, MIS reduces muscle trauma, speeds recovery, and is effective for spondylolisthesis, sciatica, and spinal instability.</li>
-                            <li><b>Can scoliosis be corrected in adults?</b> <br> Yes, advanced surgical techniques can safely correct adult scoliosis with personalised planning.</li>
-                            <li><b>Do all slipped discs require surgery?</b> <br> No. Many respond well to non-surgical care including physiotherapy, posture correction, and medication.</li>
+                            <li><b>Is minimally invasive spine surgery safe?</b> <br> Yes, <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">MIS</a> reduces muscle trauma, speeds recovery, and is effective for spondylolisthesis, <a href="{{ route('sciatica') }}">sciatica</a>, and spinal instability.</li>
+                            <li><b>Can scoliosis be corrected in adults?</b> <br> Yes, advanced surgical techniques can safely correct adult <a href="{{ route('scoliosis-surgery-india') }}">scoliosis</a> with personalised planning.</li>
+                            <li><b>Do all slipped discs require surgery?</b> <br> No. Many respond well to non-surgical care including physiotherapy, posture correction, and medication. Learn about <a href="{{ route('herniated-disc-treatment-india') }}">slipped disc treatment options</a>.</li>
                             <li><b>How soon can I return to work after MIS spine surgery?</b> <br> Most patients resume light activities within days and regular work within weeks depending on recovery.</li>
-                            <li><b>How do I choose the right spine surgeon?</b> <br> Look for expertise, experience in advanced techniques, compassionate care, and personalised approach—qualities exemplified by Dr. Vishal Kundnani.</li>
-                            <li><b>Are advanced imaging and technology necessary?</b> <br> Yes, 3D navigation, MRI, and intraoperative monitoring improve safety and outcomes.</li>
+                            <li><b>How do I choose the right spine surgeon?</b> <br> Look for expertise, experience in advanced techniques, compassionate care, and personalised approach—qualities exemplified by <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>.</li>
+                            <li><b>Are advanced imaging and technology necessary?</b> <br> Yes, <a href="{{ route('3d-printed-spine-implants') }}">3D navigation</a>, MRI, and <a href="{{ route('neuromonitoring-spine-surgery') }}">intraoperative monitoring</a> improve safety and outcomes.</li>
                         </ol>
                     </div>
 
                     <!-- Call to Action -->
                     <div class="sec-blog-design pt-5">
                         <h2>Consult Dr. Vishal Kundnani</h2>
-                        <p>If you or a loved one suffers from back pain, sciatica, or spinal deformities, consult Dr. Vishal Kundnani at Bombay Hospital or Lilavati Hospital. Experience compassionate, personalised care, advanced technology, and minimally invasive treatment options tailored to your needs.</p>
+                        <p>If you or a loved one suffers from <a href="{{ route('back-pain-blog') }}">back pain</a>, <a href="{{ route('sciatica') }}">sciatica</a>, or spinal deformities, consult <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> at <a href="{{ route('best-hospital-spine-surgery-mumbai') }}">Bombay Hospital or Lilavati Hospital</a>. Experience compassionate, personalised care, advanced technology, and <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive treatment</a> options tailored to your needs.</p>
                         <p><b>📞 Call <a href="tel:9619100123">9619100123</a> – <a href="{{ route('contact') }}">Consult Dr. Vishal Kundnani</a></b></p>
                         <p><i>Medical Disclaimer: This information is for educational purposes only and does not replace professional medical advice. Please consult a qualified spine specialist for personalised diagnosis and treatment.</i></p>
                     </div>
