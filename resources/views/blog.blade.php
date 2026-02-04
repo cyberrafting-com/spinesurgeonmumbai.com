@@ -35,6 +35,18 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
         <div class="row justify-content-center">
 
             <!-- latest blogs start -->
+             
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai') }}">
+                    <img src="{{ asset('/resources/assets/images/transforming-lives-with-minimally-invasive-spine-surgery-in-Mumbai.png') }}" alt="Minimally Invasive Spine Surgery in Mumbai">
+                    <h1>
+                    Transforming Lives with Minimally Invasive Spine Surgery in Mumbai
+                    </h1>
+                    </a>
+                </div>
+            </div>
 
 
 
@@ -862,6 +874,20 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                     </a>
                 </div>
             </div>
+
+            <!-- adding surgery success story -->
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                <a href="{{ route('spine-surgery-success-stories-mumbai') }}">
+                <img src="{{ asset('/resources/assets/images/stories-about-spine-surgery-mumbai.png') }}" 
+                 alt="Patient Success Stories of Spine Surgery in Mumbai">
+                <h1>
+                Patient Stories About Spine Surgery in Mumbai
+                </h1>
+                </a>
+            </div>
+</div>
+
 
 
         </div>
