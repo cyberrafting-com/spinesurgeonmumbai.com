@@ -86,7 +86,7 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
                         <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
-                        <p class="bold-text">Dedicated spinal stenosis specialist and spine surgeon in Mumbai.</p>
+                        <p class="bold-text">Dedicated <a href="{{ route('spinal-fusion') }}">spinal fusion</a> specialist and spine surgeon in Mumbai.</p>
                         <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
                         <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
@@ -108,7 +108,7 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
                             <h2>SPINAL DECOMPRESSION SURGERY – FAQ</h2>
                             
                             <p><b>1. What is spinal decompression surgery?</b></p>
-                            <p>Spinal decompression surgery relieves pressure on spinal nerves caused by disc herniation, spinal stenosis, or bone overgrowth.</p>
+                            <p>Spinal decompression surgery relieves pressure on spinal nerves caused by disc herniation, <a href="{{ route('spinal-stenosis') }}">spinal stenosis</a>, or bone overgrowth.</p>
 
                             <p><b>2. Why is spinal decompression needed?</b></p>
                             <p>It is done to relieve:</p>
@@ -122,8 +122,8 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
                             <p><b>3. What conditions need decompression surgery?</b></p>
                             <p>Common conditions include:</p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('slipped-disc') }}">Slipped (herniated) disc</a></li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('spinal-stenosis-treatment-mumbai') }}">Lumbar canal stenosis</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('slip-disc') }}">Slipped (herniated) disc</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Lumbar canal stenosis</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Cervical stenosis</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Nerve root compression</li>
                             </ul>
@@ -137,7 +137,7 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
                             </ul>
 
                             <p><b>5. Is decompression surgery a major surgery?</b></p>
-                            <p>Most decompression procedures today are minimally invasive and considered safe and routine when done by experienced spine surgeons.</p>
+                            <p>Most decompression procedures today are <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive</a> and considered safe and routine when done by experienced spine surgeons.</p>
 
                             <p><b>6. How effective is spinal decompression surgery?</b></p>
                             <p>Success rates are high (80–95%) for properly selected patients, especially for leg pain and nerve symptoms.</p>
@@ -154,10 +154,10 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Spine instability</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Severe disc degeneration</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Spondylolisthesis</li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('spondylolisthesis') }}">Spondylolisthesis</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Deformity or recurrent disc problems</li>
                             </ul>
-                            <p>Spinal fusion is also commonly used in <a href="{{ route('scoliosis-scoliosis-surgery') }}">scoliosis surgery</a> to correct spinal deformities.</p>
+                            <p>Spinal fusion is also commonly used in <a href="{{ route('scoliosis') }}">scoliosis surgery</a> to correct spinal deformities.</p>
 
                             <p><b>9. Does spinal fusion mean loss of movement?</b></p>
                             <p>Movement at the fused level is lost, but most patients do not notice significant restriction in daily activities.</p>
@@ -204,7 +204,7 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
                             <p><b>15. Who is a candidate for MIS-TLIF?</b></p>
                             <p>MIS-TLIF is suitable for patients with:</p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('slipped-disc') }}">Slip disc</a> with instability</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Slip disc with instability</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Spondylolisthesis</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Failed conservative treatment</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Recurrent disc herniation</li>
@@ -233,7 +233,7 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
                             <p><b>19. Will spinal fusion or MIS-TLIF completely cure my pain?</b></p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Leg pain usually improves significantly.</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Back pain improves gradually and depends on rehabilitation and lifestyle changes.</li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('back-pain') }}">Back pain</a> improves gradually and depends on rehabilitation and lifestyle changes.</li>
                             </ul>
 
                             <p><b>20. When should surgery not be delayed?</b></p>
@@ -248,7 +248,7 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
 
                         <div class="sec-blog-design pt-5">
                             <h2>Call to Action</h2>
-                            <p>Early diagnosis and choosing the right surgery for the right patient leads to excellent outcomes and faster recovery. Consult <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> at <a href="{{ route('best-hospital-spine-surgery-mumbai') }}">Bombay Hospital or Lilavati Hospital</a> in Mumbai for expert evaluation. Learn more about <a href="{{ route('spinal-fusion') }}">spinal fusion</a>, <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive spine surgery</a>, and <a href="{{ route('case-of-mis-tlif-spinal-fusion') }}">MIS-TLIF procedures</a>.</p>
+                            <p>Early diagnosis and choosing the right surgery for the right patient leads to excellent outcomes and faster recovery. Learn more about our <a href="{{ route('physiotherapy-in-spine') }}">physiotherapy</a> and rehabilitation services. Consult Dr. Vishal Kundnani at Bombay Hospital or Lilavati Hospital in Mumbai for expert evaluation. <a href="{{ route('contact') }}">Book your consultation today</a>.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -262,4 +262,3 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
         </div>
     </section>
 @stop
-

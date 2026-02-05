@@ -94,7 +94,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                         <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
-                        <p class="bold-text">Dedicated spinal stenosis specialist and spine surgeon in Mumbai.</p>
+                        <p class="bold-text">Dedicated <a href="{{ route('back-pain') }}">back pain</a> specialist and spine surgeon in Mumbai.</p>
                         <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
                         <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
@@ -123,7 +123,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Muscle strain from overuse or sudden movement</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Poor posture or long hours of sitting</li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('herniated-disc-treatment-india') }}">Slipped (herniated) disc</a> pressing on nerves</li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('slip-disc') }}">Slipped (herniated) disc</a> pressing on nerves</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Age-related wear and tear of the spine</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Weak core muscles or lack of physical activity</li>
                             </ul>
@@ -159,13 +159,13 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                             </ul>
                             <p>Poor posture puts continuous stress on spinal muscles and discs.</p>
 
-                            <p><b>3. Slipped Disc (Herniated Disc)</b></p>
+                            <p><b>3. Slipped Disc (<a href="{{ route('herniated-disc') }}">Herniated Disc</a>)</b></p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">The spinal disc bulges out</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Presses on nearby nerves</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Can cause back pain with leg pain or numbness</li>
                             </ul>
-                            <p>Common in people aged 30–60 years. Learn more about <a href="{{ route('herniated-disc-treatment-india') }}">slipped disc treatment options</a>.</p>
+                            <p>Common in people aged 30–60 years.</p>
 
                             <p><b>4. Age-Related Degeneration</b></p>
                             <ul>
@@ -188,7 +188,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Stiffness in the lower back</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Pain worsening with movement</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Pain radiating to buttocks or legs (may indicate <a href="{{ route('sciatica-pain-treatment-mumbai') }}">sciatica</a>)</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Pain radiating to buttocks or legs (may indicate <a href="{{ route('sciatica') }}">sciatica</a>)</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Tingling or numbness (nerve involvement)</li>
                             </ul>
                         </div>
@@ -222,23 +222,23 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Rest and activity modification</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Pain-relief medications</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Physiotherapy</li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('physiotherapy-in-spine') }}">Physiotherapy</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Posture correction</li>
                             </ul>
                             <p><b>Advanced Treatment (If Needed)</b></p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;">Targeted injections</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Targeted <a href="{{ route('spinal-injections') }}">spinal injections</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Specialized spine rehabilitation</li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">Surgery</a> (only in selected cases)</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Surgery (only in selected cases)</li>
                             </ul>
-                            <p>For persistent pain, consider consulting <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> for <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive spine surgery</a> options.</p>
+                            <p>For persistent pain, consider consulting Dr. Vishal Kundnani for <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery</a> options.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
                             <h2>Can Lower Back Pain Be Prevented?</h2>
                             <p>Yes. Prevention includes:</p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;">Regular exercise</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Regular <a href="{{ route('exercises') }}">exercise</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Core strengthening</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Maintaining healthy weight</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Correct sitting and sleeping posture</li>
@@ -262,7 +262,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
 
                         <div class="sec-blog-design pt-5">
                             <h2>Call to Action</h2>
-                            <p>If your lower back pain is persistent, worsening, or affecting your daily life, an early evaluation by a <a href="{{ route('back-pain-specialist-mumbai') }}">spine specialist</a> can help identify the cause and guide proper treatment. Consult <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> at <a href="{{ route('best-hospital-spine-surgery-mumbai') }}">Bombay Hospital or Lilavati Hospital</a> in Mumbai. <a href="{{ route('contact') }}">Book your consultation</a> today for expert diagnosis and personalised <a href="{{ route('back-pain-specialist-mumbai') }}">back pain treatment</a>.</p>
+                            <p>If your lower back pain is persistent, worsening, or affecting your daily life, an early evaluation by a spine specialist can help identify the cause and guide proper treatment. Consult Dr. Vishal Kundnani at Bombay Hospital or Lilavati Hospital in Mumbai. <a href="{{ route('contact') }}">Book your consultation</a> today for expert diagnosis and personalised back pain treatment.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -276,4 +276,3 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
         </div>
     </section>
 @stop
-

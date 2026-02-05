@@ -86,7 +86,7 @@ Scoliosis, scoliosis treatment, scoliosis surgery, spine deformity surgery, scol
                         <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
-                        <p class="bold-text">Dedicated spinal stenosis specialist and spine surgeon in Mumbai.</p>
+                        <p class="bold-text">Dedicated <a href="{{ route('scoliosis') }}">scoliosis</a> specialist and spine surgeon in Mumbai.</p>
                         <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
                         <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
@@ -133,7 +133,7 @@ Scoliosis, scoliosis treatment, scoliosis surgery, spine deformity surgery, scol
                             <p><b>5. Is scoliosis painful?</b></p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">In children, scoliosis is often painless</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">In adults, it may cause back pain, stiffness, or fatigue</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">In adults, it may cause <a href="{{ route('back-pain') }}">back pain</a>, stiffness, or fatigue</li>
                             </ul>
 
                             <p><b>6. Can scoliosis get worse over time?</b></p>
@@ -152,7 +152,7 @@ Scoliosis, scoliosis treatment, scoliosis surgery, spine deformity surgery, scol
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Observation and follow-up</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Bracing (in growing children)</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Physiotherapy and posture correction</li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('physiotherapy-in-spine') }}">Physiotherapy</a> and posture correction</li>
                             </ul>
                         </div>
 
@@ -175,7 +175,7 @@ Scoliosis, scoliosis treatment, scoliosis surgery, spine deformity surgery, scol
                                 <li style="list-style-type: disc; padding: 5px 0;">Stabilizing the spine using rods and screws</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Preventing further progression</li>
                             </ul>
-                            <p>Learn more about <a href="{{ route('spinal-fusion-MIS-TLIF-spinal-decompression') }}">spinal fusion surgery</a> and <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive spine surgery</a> techniques.</p>
+                            <p>Learn more about <a href="{{ route('spinal-fusion') }}">spinal fusion surgery</a> and <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery</a> techniques.</p>
 
                             <p><b>11. Is scoliosis surgery safe?</b></p>
                             <p>Yes. With modern techniques and experienced surgeons, scoliosis surgery is safe and outcomes are predictable.</p>
@@ -226,7 +226,7 @@ Scoliosis, scoliosis treatment, scoliosis surgery, spine deformity surgery, scol
                             <p>Serious complications are rare.</p>
 
                             <p><b>19. Can adults undergo scoliosis surgery?</b></p>
-                            <p>Yes. Adult scoliosis surgery can improve pain, posture, and quality of life when conservative treatment fails. <a href="{{ route('scoliosis') }}">Scoliosis treatment</a> options are available for both children and adults.</p>
+                            <p>Yes. Adult scoliosis surgery can improve pain, posture, and quality of life when conservative treatment fails. Learn more about <a href="{{ route('kyphosis') }}">kyphosis</a> and other spinal deformity treatments.</p>
 
                             <p><b>20. When should scoliosis surgery not be delayed?</b></p>
                             <p>Do not delay surgery if:</p>
@@ -240,7 +240,7 @@ Scoliosis, scoliosis treatment, scoliosis surgery, spine deformity surgery, scol
 
                         <div class="sec-blog-design pt-5">
                             <h2>Call to Action</h2>
-                            <p>If scoliosis is suspected or diagnosed, timely evaluation by a <a href="{{ route('about-doctor') }}">spine deformity specialist</a> like <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> helps guide treatment and prevent long-term complications. Consult at <a href="{{ route('best-hospital-spine-surgery-mumbai') }}">Bombay Hospital or Lilavati Hospital</a> in Mumbai. Learn more about <a href="{{ route('scoliosis') }}">scoliosis treatment options</a> and <a href="{{ route('scoliosis-surgery-india') }}">scoliosis surgery</a>.</p>
+                            <p>If scoliosis is suspected or diagnosed, timely evaluation by a spine deformity specialist like Dr. Vishal Kundnani helps guide treatment and prevent long-term complications. Consult at Bombay Hospital or Lilavati Hospital in Mumbai. <a href="{{ route('contact') }}">Book your consultation today</a>.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -254,4 +254,3 @@ Scoliosis, scoliosis treatment, scoliosis surgery, spine deformity surgery, scol
         </div>
     </section>
 @stop
-

@@ -86,7 +86,7 @@ What is a slipped disc? Learn causes, symptoms, treatment options, and when surg
                         <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
-                        <p class="bold-text">Dedicated spinal stenosis specialist and spine surgeon in Mumbai.</p>
+                        <p class="bold-text">Dedicated <a href="{{ route('slip-disc') }}">slipped disc</a> specialist and spine surgeon in Mumbai.</p>
                         <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
                         <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
@@ -139,7 +139,7 @@ What is a slipped disc? Learn causes, symptoms, treatment options, and when surg
                                 <li style="list-style-type: disc; padding: 5px 0;">The inner soft material bulges out</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Nearby nerves get compressed</li>
                             </ul>
-                            <p>This nerve pressure causes pain and other symptoms.</p>
+                            <p>This nerve pressure causes pain and other symptoms. Learn more about <a href="{{ route('herniated-disc') }}">herniated disc treatment</a>.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -177,7 +177,7 @@ What is a slipped disc? Learn causes, symptoms, treatment options, and when surg
                             <p>Symptoms depend on which nerve is affected.</p>
                             <p><b>Common Symptoms</b></p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;">Lower back or neck pain</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Lower <a href="{{ route('back-pain') }}">back</a> or <a href="{{ route('neck-pain') }}">neck</a> pain</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Pain radiating to arm or leg</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Tingling or numbness</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Muscle weakness</li>
@@ -204,7 +204,7 @@ What is a slipped disc? Learn causes, symptoms, treatment options, and when surg
                             <p><b>Conservative Treatment (First Choice)</b></p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Pain-relief medications</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Physiotherapy</li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('physiotherapy-in-spine') }}">Physiotherapy</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Activity modification</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Posture correction</li>
                             </ul>
@@ -212,7 +212,7 @@ What is a slipped disc? Learn causes, symptoms, treatment options, and when surg
 
                             <p><b>Advanced Non-Surgical Options</b></p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;">Epidural or nerve block injections</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Epidural or nerve block <a href="{{ route('spinal-injections') }}">injections</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Targeted spine rehabilitation</li>
                             </ul>
 
@@ -223,7 +223,7 @@ What is a slipped disc? Learn causes, symptoms, treatment options, and when surg
                                 <li style="list-style-type: disc; padding: 5px 0;">There is significant nerve weakness</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Bladder or bowel problems occur</li>
                             </ul>
-                            <p>When surgery is needed, <a href="{{ route('spinal-fusion-MIS-TLIF-spinal-decompression') }}">spinal decompression surgery</a> or <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive discectomy</a> can provide relief. Learn about <a href="{{ route('herniated-disc-treatment-india') }}">slipped disc treatment options</a>.</p>
+                            <p>When surgery is needed, spinal decompression surgery or <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive discectomy</a> can provide relief.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -240,7 +240,7 @@ What is a slipped disc? Learn causes, symptoms, treatment options, and when surg
                             <p>Yes, by:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Maintaining good posture</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Regular exercise and core strengthening</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Regular <a href="{{ route('exercises') }}">exercise</a> and core strengthening</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Avoiding sudden heavy lifting</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Maintaining healthy body weight</li>
                             </ul>
@@ -255,15 +255,15 @@ What is a slipped disc? Learn causes, symptoms, treatment options, and when surg
                             <p>Yes, in many patients with rest and physiotherapy. Many patients also find relief with <a href="{{ route('sciatica') }}">sciatica treatment</a> when the disc causes nerve compression.</p>
                             
                             <p><b>Is bed rest recommended?</b></p>
-                            <p>Short rest is fine, but prolonged bed rest is not advised. <a href="{{ route('back-pain-blog') }}">Back pain</a> management often includes gentle movement and exercise.</p>
+                            <p>Short rest is fine, but prolonged bed rest is not advised. Back pain management often includes gentle movement and exercise.</p>
                             
                             <p><b>Does slipped disc always need surgery?</b></p>
-                            <p>No. Surgery is required only in a small number of cases. Most patients improve with <a href="{{ route('slip-disc') }}">conservative slipped disc treatment</a>.</p>
+                            <p>No. Surgery is required only in a small number of cases. Most patients improve with conservative slipped disc treatment.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
                             <h2>Call to Action</h2>
-                            <p>If you have persistent <a href="{{ route('back-pain-blog') }}">back</a> or leg pain, early evaluation by a <a href="{{ route('about-doctor') }}">spine specialist</a> like <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> can help confirm the diagnosis and prevent complications. Consult at <a href="{{ route('best-hospital-spine-surgery-mumbai') }}">Bombay Hospital or Lilavati Hospital</a> in Mumbai. Learn more about <a href="{{ route('slip-disc') }}">slipped disc treatment</a> and <a href="{{ route('sciatica') }}">sciatica symptoms</a>.</p>
+                            <p>If you have persistent back or leg pain, early evaluation by a spine specialist like Dr. Vishal Kundnani can help confirm the diagnosis and prevent complications. Consult at Bombay Hospital or Lilavati Hospital in Mumbai. <a href="{{ route('contact') }}">Book your consultation today</a>.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -277,4 +277,3 @@ What is a slipped disc? Learn causes, symptoms, treatment options, and when surg
         </div>
     </section>
 @stop
-

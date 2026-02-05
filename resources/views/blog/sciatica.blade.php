@@ -94,7 +94,7 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
                         <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
-                        <p class="bold-text">Dedicated spinal stenosis specialist and spine surgeon in Mumbai.</p>
+                        <p class="bold-text">Dedicated <a href="{{ route('sciatica') }}">sciatica</a> specialist and spine surgeon in Mumbai.</p>
                         <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
                         <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
@@ -107,9 +107,9 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
                             <div class="sec-blog-design pt-5">
                                 <h1>What Is Sciatica and Why Does It Happen?</h1>
                                 <img class="blog-hero-img" src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/sciatic-nerve-img.webp" alt="What Is Sciatica and Why Does It Happen?">
-                                <p>Pain that starts in the <a href="{{ route('back-pain-blog') }}">lower back</a> and travels down the leg can be alarming.</p>
+                                <p>Pain that starts in the lower back and travels down the leg can be alarming.</p>
                                 <p>Many patients describe it as sharp, burning, or electric-like pain.</p>
-                                <p>This type of pain is commonly called <a href="{{ route('sciatica-pain-treatment-mumbai') }}">sciatica</a>, and understanding its cause helps reduce fear and guide proper treatment.</p>
+                                <p>This type of pain is commonly called sciatica, and understanding its cause helps reduce fear and guide proper treatment.</p>
                             </div>
                         </div>
 
@@ -137,20 +137,19 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
                         <div class="sec-blog-design pt-5">
                             <h2>Why Does Sciatica Happen?</h2>
                             
-                            <p><b>1. Slipped (Herniated) Disc</b></p>
+                            <p><b>1. Slipped (<a href="{{ route('herniated-disc') }}">Herniated</a>) Disc</b></p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Most common cause</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Disc presses on the sciatic nerve</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Causes leg pain and numbness</li>
                             </ul>
-                            <p>Learn more about <a href="{{ route('herniated-disc-treatment-india') }}">slipped disc treatment</a>.</p>
+                            <p>Learn more about <a href="{{ route('slip-disc') }}">slipped disc treatment</a>.</p>
 
                             <p><b>2. Spine Degeneration</b></p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Age-related disc and joint changes</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Narrowing of nerve passages</li>
                             </ul>
-                            <p>Learn about <a href="{{ route('back-pain-blog') }}">age-related back pain</a> and treatment options.</p>
 
                             <p><b>3. Muscle Spasm or Tight Muscles</b></p>
                             <ul>
@@ -163,7 +162,7 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
                                 <li style="list-style-type: disc; padding: 5px 0;">Reduced space for nerves</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">More common in older adults</li>
                             </ul>
-                            <p>This condition is also known as <a href="{{ route('spinal-stenosis-treatment-mumbai') }}">spinal stenosis</a>.</p>
+                            <p>This condition is also known as <a href="{{ route('spinal-stenosis') }}">spinal stenosis</a>.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -196,7 +195,7 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
                                 <li style="list-style-type: disc; padding: 5px 0;">Physical examination</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">MRI scan (only if symptoms persist or worsen)</li>
                             </ul>
-                            <p>Most patients do not need immediate imaging. Consult <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> for expert <a href="{{ route('back-pain-specialist-mumbai') }}">spine diagnosis</a>.</p>
+                            <p>Most patients do not need immediate imaging. Consult Dr. Vishal Kundnani for expert spine diagnosis.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -204,15 +203,15 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
                             <p><b>Conservative Treatment (First Line)</b></p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Pain-relief medications</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Physiotherapy</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Stretching and strengthening exercises</li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('physiotherapy-in-spine') }}">Physiotherapy</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Stretching and strengthening <a href="{{ route('exercises') }}">exercises</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Activity modification</li>
                             </ul>
-                            <p>Many patients find relief with <a href="{{ route('sciatica-pain-treatment-mumbai') }}">conservative sciatica treatment</a>.</p>
+                            <p>Many patients find relief with conservative sciatica treatment.</p>
 
                             <p><b>Advanced Non-Surgical Treatment</b></p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;">Targeted nerve injections</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Targeted nerve <a href="{{ route('spinal-injections') }}">injections</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Guided spine rehabilitation</li>
                             </ul>
 
@@ -223,7 +222,7 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
                                 <li style="list-style-type: disc; padding: 5px 0;">Significant weakness develops</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Daily life is severely affected</li>
                             </ul>
-                            <p>When surgery is needed, <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive spine surgery</a> offers faster recovery. Learn about <a href="{{ route('sciatica-pain-treatment-mumbai') }}">sciatica surgery options</a>.</p>
+                            <p>When surgery is needed, <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery</a> offers faster recovery.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -252,10 +251,10 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
                             <p>No. Most cases improve with treatment.</p>
                             
                             <p><b>Can sciatica go away on its own?</b></p>
-                            <p>Yes, many patients recover without surgery. Learn about <a href="{{ route('sciatica-pain-treatment-mumbai') }}">non-surgical sciatica treatment</a>.</p>
+                            <p>Yes, many patients recover without surgery.</p>
                             
                             <p><b>Is walking good for sciatica?</b></p>
-                            <p>Yes, gentle walking helps recovery. Combined with <a href="{{ route('back-pain-blog') }}">back pain exercises</a>, it can improve symptoms.</p>
+                            <p>Yes, gentle walking helps recovery.</p>
                             
                             <p><b>Does sciatica affect both legs?</b></p>
                             <p>Usually only one leg is affected.</p>
@@ -263,7 +262,7 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
 
                         <div class="sec-blog-design pt-5">
                             <h2>Call to Action</h2>
-                            <p>If leg pain or numbness is limiting your daily activities, early consultation with a <a href="{{ route('back-pain-specialist-mumbai') }}">spine specialist</a> like <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> can help relieve symptoms and prevent worsening. Consult at <a href="{{ route('best-hospital-spine-surgery-mumbai') }}">Bombay Hospital or Lilavati Hospital</a> in Mumbai. <a href="{{ route('contact') }}">Book your consultation</a> today for expert <a href="{{ route('sciatica-pain-treatment-mumbai') }}">sciatica treatment</a>.</p>
+                            <p>If leg pain or numbness is limiting your daily activities, early consultation with a spine specialist like Dr. Vishal Kundnani can help relieve symptoms and prevent worsening. Learn more about our <a href="{{ route('back-pain') }}">back pain treatments</a>. Consult at Bombay Hospital or Lilavati Hospital in Mumbai. <a href="{{ route('contact') }}">Book your consultation</a> today for expert sciatica treatment.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -277,4 +276,3 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
         </div>
     </section>
 @stop
-

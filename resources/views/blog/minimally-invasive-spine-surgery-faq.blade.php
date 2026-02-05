@@ -86,7 +86,7 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                         <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
-                        <p class="bold-text">Dedicated spinal stenosis specialist and spine surgeon in Mumbai.</p>
+                        <p class="bold-text">Dedicated <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery</a> specialist and spine surgeon in Mumbai.</p>
                         <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
                         <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
@@ -99,7 +99,7 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                             <div class="sec-blog-design pt-5">
                                 <h1>Minimally Invasive Spine Surgery – FAQ</h1>
                                 <img class="blog-hero-img" src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/minimally-invasive-spine-surgery-img.png" alt="Minimally Invasive Spine Surgery – FAQ">
-                                <p><a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">Minimally invasive spine surgery</a> is changing how spine problems are treated.</p>
+                                <p>Minimally invasive spine surgery is changing how spine problems are treated.</p>
                                 <p>Patients often want to know if it is safer, effective, and right for them.</p>
                                 <p>Here are the most commonly asked patient questions, answered clearly and honestly.</p>
                             </div>
@@ -109,10 +109,10 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                             <h2>Minimally Invasive Spine Surgery – FAQ</h2>
                             
                             <p><b>1. What is minimally invasive spine surgery?</b></p>
-                            <p><a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">Minimally invasive spine surgery</a> uses small incisions and specialized instruments to treat spine problems while causing minimal damage to muscles and tissues.</p>
+                            <p>Minimally invasive spine surgery uses small incisions and specialized instruments to treat spine problems while causing minimal damage to muscles and tissues.</p>
 
                             <p><b>2. How is minimally invasive spine surgery different from open surgery?</b></p>
-                            <p>Compared to <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">open surgery</a>, <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive surgery</a>:</p>
+                            <p>Compared to open surgery, minimally invasive surgery:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Uses smaller cuts</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Causes less blood loss</li>
@@ -123,22 +123,22 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                             <p><b>3. Who is a good candidate for minimally invasive spine surgery?</b></p>
                             <p>You may be suitable if you have:</p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('herniated-disc-treatment-india') }}">Slipped disc</a></li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('sciatica-pain-treatment-mumbai') }}">Sciatica</a></li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('spinal-stenosis-treatment-mumbai') }}">Spinal stenosis</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('slip-disc') }}">Slipped disc</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('sciatica') }}">Sciatica</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('spinal-stenosis') }}">Spinal stenosis</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Nerve compression</li>
                             </ul>
-                            <p>Final decision depends on imaging and clinical evaluation. Consult <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> for a detailed evaluation.</p>
+                            <p>Final decision depends on imaging and clinical evaluation. Consult Dr. Vishal Kundnani for a detailed evaluation.</p>
 
                             <p><b>4. Is minimally invasive spine surgery safe?</b></p>
-                            <p>Yes. When performed by experienced spine surgeons like <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, it is safe and effective with fewer complications compared to traditional surgery.</p>
+                            <p>Yes. When performed by experienced spine surgeons like Dr. Vishal Kundnani, it is safe and effective with fewer complications compared to traditional surgery.</p>
 
                             <p><b>5. What spine conditions can be treated with minimally invasive surgery?</b></p>
                             <p>Common conditions include:</p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('herniated-disc-treatment-india') }}">Herniated (slipped) disc</a></li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('sciatica-pain-treatment-mumbai') }}">Sciatica</a></li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('spinal-stenosis-treatment-mumbai') }}">Spinal stenosis</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('herniated-disc') }}">Herniated (slipped) disc</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Sciatica</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Spinal stenosis</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Degenerative spine conditions</li>
                             </ul>
 
@@ -159,10 +159,10 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                             <p><b>9. What is the success rate of minimally invasive spine surgery?</b></p>
                             <p>Success rates are high, especially for:</p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('sciatica-pain-treatment-mumbai') }}">Sciatica</a></li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('herniated-disc-treatment-india') }}">Slipped disc surgery</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Sciatica</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Slipped disc surgery</li>
                             </ul>
-                            <p>Proper patient selection is key to good outcomes. <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> specializes in <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive spine surgery</a> with excellent outcomes.</p>
+                            <p>Proper patient selection is key to good outcomes. Dr. Vishal Kundnani specializes in minimally invasive spine surgery with excellent outcomes.</p>
 
                             <p><b>10. How long is hospital stay after minimally invasive spine surgery?</b></p>
                             <p>Many patients:</p>
@@ -170,7 +170,7 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                                 <li style="list-style-type: disc; padding: 5px 0;">Go home the same day</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Or stay 1 night in the hospital</li>
                             </ul>
-                            <p>Long hospital stays are usually not required. Treatment is available at <a href="{{ route('best-hospital-spine-surgery-mumbai') }}">Bombay Hospital and Lilavati Hospital</a> in Mumbai.</p>
+                            <p>Long hospital stays are usually not required. Treatment is available at Bombay Hospital and Lilavati Hospital in Mumbai.</p>
 
                             <p><b>11. How long does recovery take after minimally invasive spine surgery?</b></p>
                             <ul>
@@ -178,10 +178,10 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                                 <li style="list-style-type: disc; padding: 5px 0;">Normal routine: 2–4 weeks</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Full recovery: varies by procedure</li>
                             </ul>
-                            <p>Recovery is faster than open surgery. Learn more about <a href="{{ route('spine-surgery-recovery-time') }}">spine surgery recovery time</a>.</p>
+                            <p>Recovery is faster than open surgery.</p>
 
                             <p><b>12. Will I need physiotherapy after surgery?</b></p>
-                            <p>Yes. Physiotherapy helps:</p>
+                            <p>Yes. <a href="{{ route('physiotherapy-in-spine') }}">Physiotherapy</a> helps:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Strengthen muscles</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Improve mobility</li>
@@ -212,10 +212,10 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                             <p>Like any surgery, results depend on:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Correct diagnosis</li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('about-doctor') }}">Surgeon experience</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Surgeon experience</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Patient compliance</li>
                             </ul>
-                            <p>Failure rates are low when properly selected. <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> has extensive experience in <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive spine surgery</a>.</p>
+                            <p>Failure rates are low when properly selected. Dr. Vishal Kundnani has extensive experience in minimally invasive spine surgery.</p>
 
                             <p><b>17. What activities should I avoid after minimally invasive spine surgery?</b></p>
                             <p>Initially avoid:</p>
@@ -237,10 +237,10 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                             <p>Costs vary based on:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Type of surgery</li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('best-hospital-spine-surgery-mumbai') }}">Hospital</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Hospital</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Technology used</li>
                             </ul>
-                            <p>Shorter hospital stay may reduce overall costs. Learn more about <a href="{{ route('spine-surgery-cost-mumbai') }}">spine surgery cost in Mumbai</a>.</p>
+                            <p>Shorter hospital stay may reduce overall costs.</p>
 
                             <p><b>20. When should minimally invasive spine surgery not be delayed?</b></p>
                             <p>Do not delay surgery if you have:</p>
@@ -253,7 +253,7 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <p>If <a href="{{ route('minimally-invasive-vs-open-spine-surgery') }}">minimally invasive spine surgery</a> has been suggested, a detailed consultation with a qualified <a href="{{ route('back-pain-specialist-mumbai') }}">spine specialist</a> like <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> can help determine whether it is the right option for you. <a href="{{ route('contact') }}">Book your consultation</a> at <a href="{{ route('best-hospital-spine-surgery-mumbai') }}">Bombay Hospital or Lilavati Hospital</a> in Mumbai.</p>
+                            <p>If minimally invasive spine surgery has been suggested, a detailed consultation with a qualified spine specialist like Dr. Vishal Kundnani can help determine whether it is the right option for you. Learn more about our <a href="{{ route('back-pain') }}">back pain treatments</a> and <a href="{{ route('spinal-fusion') }}">spinal fusion procedures</a>. <a href="{{ route('contact') }}">Book your consultation</a> at Bombay Hospital or Lilavati Hospital in Mumbai.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -267,4 +267,3 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
         </div>
     </section>
 @stop
-

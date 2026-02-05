@@ -89,11 +89,9 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
 
                     <p class="bold-text">
                         Leading spine surgeon in Mumbai specialising in  
-                        <a href="{{ route('minimal-invasive-spine-surgery') }}">
-                            minimally invasive spine surgery
-                        </a>,
-                        <a href="{{ route('sciatica') }}">sciatica</a>treatment,
-                        spinal fusion, and complex deformity correction.
+                        <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery</a>,
+                        sciatica treatment,
+                        <a href="{{ route('spinal-fusion') }}">spinal fusion</a>, and complex deformity correction.
                     </p>
 
                     <a href="tel:+919619100123">
@@ -119,7 +117,7 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                             Spine surgery is often surrounded by fear and confusion.
                             Most patients want clear answers before making any decision.
                             Here are 20 of the most searched spine surgery questions,
-                            answered simply and honestly by spine specialists.
+                            answered simply and honestly by spine specialists. For a comprehensive list of conditions we treat, please visit our <a href="{{ route('sciatica') }}">conditions page</a>.
                         </p>
                     </div>
 
@@ -134,7 +132,7 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                             </li>
 
                             <li>
-                                <b>How do I know if I’m a candidate for spine surgery?</b>
+                                <b>How do I know if I'm a candidate for spine surgery?</b>
                                 <ul>
                                     <li>Pain persists despite treatment</li>
                                     <li>Nerve weakness or numbness</li>
@@ -149,11 +147,7 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                                     <li>Discectomy or microdiscectomy</li>
                                     <li>Laminectomy</li>
                                     <li>Spinal fusion</li>
-                                    <li>
-                                        <a href="{{ route('minimal-invasive-spine-surgery') }}">
-                                            Minimally invasive spine surgery
-                                        </a>
-                                    </li>
+                                    <li>Minimally invasive spine surgery</li>
                                 </ul>
                             </li>
 
@@ -169,8 +163,8 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                             </li>
 
                             <li>
-                                <b>How effective is spine surgery for back pain or  <a href="{{ route('sciatica') }}">Sciatica</a>?</b><br>
-                                Spine surgery is very effective for nerve pain ( <a href="{{ route('sciatica') }}">Sciatica</a>).
+                                <b>How effective is spine surgery for back pain or sciatica?</b><br>
+                                Spine surgery is very effective for nerve pain (<a href="{{ route('sciatica') }}">sciatica</a>).
                                 Results for pure back pain depend on correct diagnosis and patient selection.
                             </li>
 
@@ -183,11 +177,7 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                             <li>
                                 <b>How long does recovery take after spine surgery?</b>
                                 <ul>
-                                    <li>
-                                        <a href="{{ route('minimal-invasive-spine-surgery') }}">
-                                            Minimally invasive surgery: 2–6 weeks
-                                        </a>
-                                    </li>
+                                    <li>Minimally invasive surgery: 2–6 weeks</li>
                                     <li>Open surgery or fusion: 6–12 weeks</li>
                                 </ul>
                             </li>
@@ -206,28 +196,24 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
 
                             <li>
                                 <b>Is minimally invasive spine surgery safer than open surgery?</b><br>
-                                <a href="{{ route('minimal-invasive-spine-surgery') }}">
-                                    Minimally invasive surgery
-                                </a> usually means smaller cuts, less pain, and faster recovery.
+                                Minimally invasive surgery usually means smaller cuts, less pain, and faster recovery.
                                 It is safe and effective in selected patients.
                             </li>
 
                             <li>
                                 <b>What is the success rate of spine surgery?</b><br>
-                                 <a href="{{ route('sciatica') }}">Sciatica</a> surgery</a> has very high success.
+                                Sciatica surgery has very high success.
                                 Degenerative spine conditions also show good outcomes when properly selected.
                             </li>
 
                             <li>
                                 <b>Can I avoid surgery with physiotherapy or conservative treatment?</b><br>
-                                Yes. Most spine problems improve with physiotherapy, medications, and lifestyle changes.
+                                Yes. Most spine problems improve with <a href="{{ route('physiotherapy-in-spine') }}">physiotherapy</a>, medications, and lifestyle changes.
                             </li>
 
                             <li>
                                 <b>Will I need to stay in the hospital after spine surgery?</b><br>
-                                <a href="{{ route('minimal-invasive-spine-surgery') }}">
-                                    Minimally invasive surgery
-                                </a>: same day or 1–2 days.
+                                Minimally invasive surgery: same day or 1–2 days.
                                 Complex surgery may require a longer stay.
                             </li>
 
@@ -286,7 +272,7 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                         <h2>Consult a Spine Specialist</h2>
                         <p>
                             If spine surgery has been suggested, a detailed discussion with a qualified spine specialist
-                            can help you understand options, risks, and expected outcomes.
+                            can help you understand options, risks, and expected outcomes. Learn more about our <a href="{{ route('back-pain') }}">back pain treatments</a> and <a href="{{ route('spinal-stenosis') }}">spinal stenosis care</a>.
                         </p>
                         <p>
                             <b>
