@@ -6,38 +6,69 @@
 Read real-life spine surgery success stories from patients treated by Dr. Vishal Kundnani in Mumbai. Discover minimally invasive spine surgery, sciatica treatments, scoliosis correction, spinal fusion, and advanced care that transformed patients' lives.
 @endsection
 
-@section('meta_keywords', 
+@section('meta_keywords',
 "spine surgery success stories, minimally invasive spine surgery Mumbai, sciatica treatment Mumbai, lumbar decompression, spinal fusion, scoliosis correction, cervical spine surgery, MIS TLIF, Dr. Vishal Kundnani, advanced spine care Mumbai")
 
 @section('schema')
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Blog",
-  "name": "Spine Surgery Success Stories",
-  "author": {
-    "@type": "Person",
-    "name": "Dr. Vishal Kundnani"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Bombay & Lilavati Hospitals"
-  },
-  "blogPost": [
+  "@graph": [
     {
-      "@type": "BlogPosting",
-      "headline": "Lumbar Decompression & Fusion (MIS) Success",
-      "keywords": "minimally invasive spine surgery, lumbar decompression, spinal fusion, sciatica surgery, Dr. Vishal Kundnani"
+      "@type": "MedicalBusiness",
+      "name": "Dr. Vishal Kundnani - Spine Surgery Success Stories",
+      "description": "Read real-life spine surgery success stories from patients treated by Dr. Vishal Kundnani in Mumbai. Discover minimally invasive spine surgery, sciatica treatments, scoliosis correction, spinal fusion, and advanced care.",
+      "url": "https://www.spinesurgeonmumbai.com/spine-surgery-success-stories",
+      "telephone": "+919619100123",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lilavati Hospital, Breach Candy Hospital, Saifee Hospital, Bombay Hospital",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "postalCode": "400001",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/spineclinicmumbai",
+        "https://www.linkedin.com/in/dr-vishal-kundnani-654676b",
+        "https://www.instagram.com/spinespecialistvishal"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+919619100123",
+        "contactType": "Customer Service",
+        "areaServed": "IN",
+        "availableLanguage": "English"
+      }
     },
     {
-      "@type": "BlogPosting",
-      "headline": "Scoliosis Correction Success",
-      "keywords": "scoliosis treatment, scoliosis surgery, spine deformity correction, advanced spine surgery Mumbai, Dr. Vishal Kundnani"
-    },
-    {
-      "@type": "BlogPosting",
-      "headline": "Non-Surgical Sciatica Care Success",
-      "keywords": "non-surgical sciatica treatment, slipped disc management, back pain treatment Mumbai, Dr. Vishal Kundnani"
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is minimally invasive spine surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minimally invasive spine surgery uses smaller incisions and specialized instruments to treat spine problems while causing minimal damage to muscles and tissues, resulting in faster recovery."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can scoliosis be corrected with surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Advanced scoliosis correction surgery can significantly improve spinal alignment, reduce pain, and restore posture in both adolescents and adults."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is non-surgical treatment effective for sciatica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Many patients with sciatica improve with personalised non-surgical care including physiotherapy, posture correction, medications, and activity modification."
+          }
+        }
+      ]
     }
   ]
 }
@@ -56,10 +87,10 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
                     <h3>Dr. Vishal Kundnani</h3>
                     <span>MS (Ortho) FASSI, FNUS, FNAMS</span><br>
                     <p class="bold-text mt-2">
-                        Leading spine surgeon in Mumbai specialising in 
+                        Leading spine surgeon in Mumbai specialising in
                         <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery</a>,
                         <a href="{{ route('sciatica') }}">sciatica treatment</a>,
-                        <a href="{{ route('spinal-fusion') }}">spinal fusion</a>, 
+                        <a href="{{ route('spinal-fusion') }}">spinal fusion</a>,
                         <a href="{{ route('scoliosis') }}">scoliosis correction</a>, and complex spine deformities.
                     </p>
                     <a href="tel:+919619100123" class="d-block mb-2">
@@ -78,6 +109,10 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
                     <!-- Page Intro -->
                     <div class="sec-blog-design pt-5">
                         <h1>Spine Surgery Success Stories</h1>
+
+             
+
+                        <img class="blog-hero-img" src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/spine-surgery-success-stories-img.webp" alt="Spine Surgery Success Stories">
                         <p>
                             Discover real-life success stories of patients treated by Dr. Vishal Kundnani in Mumbai. From <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery</a> to <a href="{{ route('scoliosis') }}">scoliosis </a>correction, <a href="{{ route('sciatica') }}">sciatica relief</a>, and complex <a href="{{ route('spinal-fusion') }}">spinal fusions</a>, these stories highlight expert care, advanced technology, and life-changing results.
                         </p>
@@ -119,10 +154,10 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
                             <h2>Story 4 – MIS-TLIF for Spondylolisthesis</h2>
                             <p><strong>Patient Profile:</strong> Mr. Arjun Mehta, 45-year-old software engineer, Mumbai.</p>
                             <p>
-                               "After months of intense lower back pain, Dr. Vishal Kundnani recommended 
-                               <a href="{{ route('case-of-mis-tlif-spinal-fusion') }}">MIS-TLIF (Minimally Invasive Transforaminal Lumbar Interbody Fusion)</a>. 
-                               The minimally invasive approach allowed smaller incisions, minimal muscle trauma, and faster recovery. 
-                               My leg pain significantly reduced within a week, and I regained independence quickly."
+                                "After months of intense lower back pain, Dr. Vishal Kundnani recommended
+                                <a href="{{ route('case-of-mis-tlif-spinal-fusion') }}">MIS-TLIF (Minimally Invasive Transforaminal Lumbar Interbody Fusion)</a>.
+                                The minimally invasive approach allowed smaller incisions, minimal muscle trauma, and faster recovery.
+                                My leg pain significantly reduced within a week, and I regained independence quickly."
 
                             </p>
                         </div>
@@ -131,34 +166,34 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
                         <div class="mb-5">
                             <h2>Story 5 – Cervical Spine Decompression</h2>
                             <p><strong>Patient Profile:</strong> Ms. Ritu Kapoor, 38-year-old school teacher, Mumbai.</p>
-                            
+
                             <p>
-                                 "I had chronic neck stiffness, tingling in my arms, and constant headaches. Everyday tasks like writing, lifting books, or even cooking became painful. I feared surgery but worried that conservative care wouldn’t help."
+                                "I had chronic neck stiffness, tingling in my arms, and constant headaches. Everyday tasks like writing, lifting books, or even cooking became painful. I feared surgery but worried that conservative care wouldn’t help."
 
-At Bombay Hospital, Dr. Vishal Kundnani evaluated my scans using high-resolution MRI and nerve conduction studies. He diagnosed cervical nerve compression and suggested minimally invasive 
-<a href="{{ route('cervical-spine-surgery-mumbai') }}">decompression surgery</a>. The procedure was precise, using modern surgical microscopes and navigation tools, and post-operative care was empathetic and personalised. Within weeks, my neck pain decreased, my arm numbness resolved, and I regained normal mobility.
+                                At Bombay Hospital, Dr. Vishal Kundnani evaluated my scans using high-resolution MRI and nerve conduction studies. He diagnosed cervical nerve compression and suggested minimally invasive
+                                <a href="{{ route('cervical-spine-surgery-mumbai') }}">decompression surgery</a>. The procedure was precise, using modern surgical microscopes and navigation tools, and post-operative care was empathetic and personalised. Within weeks, my neck pain decreased, my arm numbness resolved, and I regained normal mobility.
 
-"Dr. Kundnani’s professional guidance, patience, and advanced surgical skills completely restored my confidence and quality of life."
+                                "Dr. Kundnani’s professional guidance, patience, and advanced surgical skills completely restored my confidence and quality of life."
 
 
                             </p>
-                           
+
                         </div>
 
                         <!-- Story 6 -->
                         <div class="mb-5">
                             <h2>Story 6 – Adult Degenerative Scoliosis</h2>
                             <p><strong>Patient Profile:</strong> Mr. Sanjay Deshmukh, 55-year-old businessman, Mumbai.</p>
-                             using
+                            using
                             <p>
-                                 "Years of back pain and fatigue made me avoid social events and even simple walks. I had been told my scoliosis was ‘manageable’, but my discomfort kept worsening, affecting my sleep and work."
-                                 Dr. Vishal Kundnani at Lilavati Hospital thoroughly evaluated me using advanced spine imaging and computer-assisted planning. He recommended <a href="{{ route('spinal-fusion') }}">spinal fusion with deformity correction</a>,customised to my age, lifestyle, and curve severity.
-                                 The surgery was performed with modern instrumentation and navigation, ensuring safety and optimal correction. Recovery was guided with personalised physiotherapy and regular follow-up, helping me regain strength and mobility.
-                                 "Thanks to Dr. Kundnani, I now walk comfortably, sleep well, and enjoy life again. His compassionate approach, expertise, and personal attention made all the difference."
-                               
+                                "Years of back pain and fatigue made me avoid social events and even simple walks. I had been told my scoliosis was ‘manageable’, but my discomfort kept worsening, affecting my sleep and work."
+                                Dr. Vishal Kundnani at Lilavati Hospital thoroughly evaluated me using advanced spine imaging and computer-assisted planning. He recommended <a href="{{ route('spinal-fusion') }}">spinal fusion with deformity correction</a>,customised to my age, lifestyle, and curve severity.
+                                The surgery was performed with modern instrumentation and navigation, ensuring safety and optimal correction. Recovery was guided with personalised physiotherapy and regular follow-up, helping me regain strength and mobility.
+                                "Thanks to Dr. Kundnani, I now walk comfortably, sleep well, and enjoy life again. His compassionate approach, expertise, and personal attention made all the difference."
+
                             </p>
 
-                           
+
 
                         </div>
 
@@ -168,12 +203,12 @@ At Bombay Hospital, Dr. Vishal Kundnani evaluated my scans using high-resolution
                             <p><strong>Patient Profile:</strong> Ms. Priya Shah, 42-year-old marketing executive, Mumbai.</p>
                             <p>
                                 "Severe sciatica from a slipped disc left me unable to sit, walk, or sleep comfortably. Every day felt like a struggle, and I feared I would never return to my normal life."
-                                Dr. Vishal Kundnani at Bombay Hospital diagnosed the problem using high-resolution MRI and nerve monitoring technology. He recommended  <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive lumbar decompression</a>, a modern technique to relieve nerve pressure while reducing recovery time.
+                                Dr. Vishal Kundnani at Bombay Hospital diagnosed the problem using high-resolution MRI and nerve monitoring technology. He recommended <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive lumbar decompression</a>, a modern technique to relieve nerve pressure while reducing recovery time.
                                 Post-surgery, I experienced gradual pain relief and was walking comfortably within days. Dr. Kundnani’s personalised rehabilitation plan ensured I regained strength and avoided future flare-ups.
                                 "I cannot thank Dr. Vishal Kundnani enough—his expertise, empathy, and use of modern technology gave me a new lease on life."
 
                             </p>
-                            
+
                         </div>
 
                         <!-- Story 8 -->
@@ -181,13 +216,13 @@ At Bombay Hospital, Dr. Vishal Kundnani evaluated my scans using high-resolution
                             <h2>Story 8 – Spine Fusion for Instability</h2>
                             <p><strong>Patient Profile:</strong> Mr. Ravi Joshi, 50-year-old chartered accountant, Mumbai.</p>
                             <p>
-                               "Chronic back instability made simple tasks like standing or lifting objects painful. After months of failed conservative care, I was anxious and fearful about surgery."
-                               At Lilavati Hospital, Dr. Vishal Kundnani conducted a thorough assessment with modern imaging and dynamic X-rays, diagnosing spinal instability. He recommended  <a href="{{ route('spinal-fusion') }}">spinal fusion surgery</a>  using minimally invasive technology.
-                               The surgery went smoothly, with minimal muscle trauma, and post-operative care was empathetic and personalised. Over the next few months, I regained normal movement and strength, returning to my daily life confidently.
-                               "Dr. Kundnani’s professionalism, precision, and personal attention restored not only my spine but also my confidence."
+                                "Chronic back instability made simple tasks like standing or lifting objects painful. After months of failed conservative care, I was anxious and fearful about surgery."
+                                At Lilavati Hospital, Dr. Vishal Kundnani conducted a thorough assessment with modern imaging and dynamic X-rays, diagnosing spinal instability. He recommended <a href="{{ route('spinal-fusion') }}">spinal fusion surgery</a> using minimally invasive technology.
+                                The surgery went smoothly, with minimal muscle trauma, and post-operative care was empathetic and personalised. Over the next few months, I regained normal movement and strength, returning to my daily life confidently.
+                                "Dr. Kundnani’s professionalism, precision, and personal attention restored not only my spine but also my confidence."
 
                             </p>
-                             
+
                         </div>
 
                         <!-- Story 9 -->
@@ -207,14 +242,14 @@ At Bombay Hospital, Dr. Vishal Kundnani evaluated my scans using high-resolution
                             <h2>Story 10 – Complex Multi-Level Spine Surgery</h2>
                             <p><strong>Patient Profile:</strong> Mr. Anil Kapoor, 60-year-old retired engineer, Mumbai.</p>
                             <p>
-                               "I suffered chronic back pain due to poor posture at work. Sitting long hours caused fatigue, pain, and stress, affecting both my professional and personal life."
-                               Dr. Vishal Kundnani at Bombay Hospital assessed my condition using ergonomic analysis and spinal imaging. He created a personalised non-surgical spine care plan including physiotherapy, posture correction, and lifestyle adjustments.
-                               Within weeks, my pain reduced, posture improved, and I returned to work without discomfort. Dr. Kundnani’s empathy, guidance, and professional approach made all the difference.
-                            "He helped me understand my spine health and take proactive steps, avoiding unnecessary surgery."
+                                "I suffered chronic back pain due to poor posture at work. Sitting long hours caused fatigue, pain, and stress, affecting both my professional and personal life."
+                                Dr. Vishal Kundnani at Bombay Hospital assessed my condition using ergonomic analysis and spinal imaging. He created a personalised non-surgical spine care plan including physiotherapy, posture correction, and lifestyle adjustments.
+                                Within weeks, my pain reduced, posture improved, and I returned to work without discomfort. Dr. Kundnani’s empathy, guidance, and professional approach made all the difference.
+                                "He helped me understand my spine health and take proactive steps, avoiding unnecessary surgery."
 
                             </p>
-                            
-                           
+
+
                         </div>
 
                     </div>

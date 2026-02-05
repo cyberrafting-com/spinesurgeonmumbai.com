@@ -13,15 +13,62 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
+  "@graph": [
     {
-      "@type": "Question",
-      "name": "What is spine surgery and when is it needed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Spine surgery is performed to relieve nerve pressure or stabilise the spine when pain, weakness, or nerve symptoms do not improve with conservative treatments."
+      "@type": "MedicalBusiness",
+      "name": "Dr. Vishal Kundnani - Spine Surgery FAQ",
+      "description": "Get clear, honest answers to the 20 most common spine surgery questions covering risks, recovery, success rates, and minimally invasive options explained by Dr. Vishal Kundnani, leading spine surgeon in Mumbai.",
+      "url": "https://www.spinesurgeonmumbai.com/spine-surgery-blog",
+      "telephone": "+919619100123",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lilavati Hospital, Breach Candy Hospital, Saifee Hospital, Bombay Hospital",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "postalCode": "400001",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/spineclinicmumbai",
+        "https://www.linkedin.com/in/dr-vishal-kundnani-654676b",
+        "https://www.instagram.com/spinespecialistvishal"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+919619100123",
+        "contactType": "Customer Service",
+        "areaServed": "IN",
+        "availableLanguage": "English"
       }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is spine surgery and when is it needed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Spine surgery is performed to relieve nerve pressure or stabilise the spine when pain, weakness, or nerve symptoms do not improve with conservative treatments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the success rate of spine surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sciatica surgery has very high success rates. Degenerative spine conditions also show good outcomes when patients are properly selected."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does recovery take after spine surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minimally invasive surgery recovery takes 2–6 weeks. Open surgery or fusion may take 6–12 weeks for full recovery."
+          }
+        }
+      ]
     }
   ]
 }
@@ -66,6 +113,8 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                     <!-- Intro -->
                     <div class="sec-blog-design pt-5">
                         <h1>Spine Surgery: 20 Most Common Patient Questions Answered</h1>
+                        
+                        <img class="blog-hero-img" src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/spine-surgery-20-most-common-patient-questions-answered-img.webp" alt="Spine Surgery: 20 Most Common Patient Questions Answered">
                         <p>
                             Spine surgery is often surrounded by fear and confusion.
                             Most patients want clear answers before making any decision.
