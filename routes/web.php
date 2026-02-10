@@ -1,8 +1,9 @@
 
 <?php
-use App\Http\Controllers\ContactController;
+
+// use App\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\SigninController;
+// use App\Http\Controllers\SigninController;
 
 /*
 |--------------------------------------------------------------------------
@@ -533,7 +534,7 @@ Route::get('/cervical-spine-surgery-mumbai', function () {
 
 
 Route::get('/back-pain-specialist-mumbai', function () {
-        return view('blog.back-pain-specialist-mumbai');
+    return view('blog.back-pain-specialist-mumbai');
 })->name('back-pain-specialist-mumbai');
 
 // blogs
@@ -554,7 +555,7 @@ Route::get('what-to-expect-before-and-after-minimally-invasive-spine-surgery', f
     return view('blog.what-to-expect-before-and-after-minimally-invasive-spine-surgery');
 })->name('what-to-expect-before-and-after-minimally-invasive-spine-surgery');
 
-Route::get('why-minimally-invasive-spine-surgery-changing-lives', function () {        
+Route::get('why-minimally-invasive-spine-surgery-changing-lives', function () {
     return view('blog.why-minimally-invasive-spine-surgery-changing-lives');
 })->name('why-minimally-invasive-spine-surgery-changing-lives');
 
@@ -913,11 +914,11 @@ Route::get('/spine-surgery-treatment-mumbai', function () {
 Route::get('lumber-spinal-stenosis', function () {
     return view('blog.lumber-spinal-stenosis');
 })->name('lumber-spinal-stenosis');
- 
+
 Route::get('living-well-scoliosis', function () {
     return view('blog.living-well-scoliosis');
 })->name('living-well-scoliosis');
- 
+
 Route::get('stages-of-lumber-spinal-stenosis', function () {
     return view('blog.stages-of-lumber-spinal-stenosis');
 })->name('stages-of-lumber-spinal-stenosis');
@@ -926,9 +927,9 @@ Route::get('advanced-spine-care-minimally-invasive-surgery-mumbai', function () 
     return view('blog.advanced-spine-care-minimally-invasive-surgery-mumbai');
 })->name('advanced-spine-care-minimally-invasive-surgery-mumbai');
 
-Route::get('back-pain-blog', function () {
-    return view('blog.back-pain-blog');
-})->name('back-pain-blog');
+Route::get('what-causes-lower-back-pain', function () {
+    return view('blog.what-causes-lower-back-pain');
+})->name('blog.what-causes-lower-back-pain');
 
 Route::get('advanced-mis-scoliosis-spine-care', function () {
     return view('blog.advanced-mis-scoliosis-spine-care');
@@ -961,16 +962,15 @@ Route::get('spinal-fusion-MIS-TLIF-spinal-decompression', function () {
 // latest blogs
 
 // latest-blog
-Route::get('transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai', function() {
+Route::get('transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai', function () {
     return view('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai');
-
 })->name('blog.transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai');
 
 
 
-Route::get('spine-surgery-blog', function () {
-    return view('blog.spine-surgery-blog');
-})->name('blog.spine-surgery-blog');
+Route::get('spine-surgery-common-patient-questions', function () {
+    return view('blog.spine-surgery-common-patient-questions');
+})->name('blog.spine-surgery-common-patient-questions');
 
 Route::get('/spine-surgery-success-stories', function () {
     return view('blog.spine-surgery-success-stories');
