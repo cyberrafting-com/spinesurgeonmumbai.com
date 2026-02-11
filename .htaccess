@@ -58,6 +58,7 @@ Redirect 301 /lumbar-spondylosis.php https://spinesurgeonmumbai.com/lumbar-spond
 Redirect 301 /lumbarisation-and-sacralisation.php https://spinesurgeonmumbai.com/lumbarisation-and-sacralisation
 Redirect 301 /neck-pain-we-treat.php https://spinesurgeonmumbai.com/neck-pain-we-treat
 Redirect 301 /osteoporosis.php https://spinesurgeonmumbai.com/osteoporosis
+
 Redirect 301 /sciatica.php https://spinesurgeonmumbai.com/sciatica
 Redirect 301 /scoliosis.php https://spinesurgeonmumbai.com/scoliosis
 Redirect 301 /slip-disc.php https://spinesurgeonmumbai.com/slip-disc
@@ -159,7 +160,10 @@ Redirect 301 /safe-spine-surgery-in-india https://spinesurgeonmumbai.com/
 
 
 
+#blog redirect
 
+Redirect 301 /spine-surgery-blog https://spinesurgeonmumbai.com/spine-surgery-common-patient-questions
+Redirect 301 /slipped-disc https://spinesurgeonmumbai.com/what-is-a-slipped-disc-herniated-disc
 
 # service pages redirect start
 
