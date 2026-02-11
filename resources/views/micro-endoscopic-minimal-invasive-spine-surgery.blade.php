@@ -135,7 +135,7 @@
                                 early return to work with no need of post-surgery bed rest.</p>
                             <p>Micro Endoscopic Minimal Invasive Spine Surgery also referred to as Microscopic Spine
                                 Surgery or Endoscopic Spine Surgery is performed for patients who have Back Pain or Leg
-                                pain and numbness due to <b><a href="{{route('slip-disc')}}"
+                                pain and numbness due to <b><a href="{{route('what-is-a-slipped-disc-herniated-disc')}}"
                                         >Slip Disc</a></b>, Herniated Disc, Spinal Stenosis, Lumbar Spine
                                 Stenosis, spondylolisthesis or spinal trauma, spinal tuberculosis, fracture Spine or
                                 scoliosis and <a href="{{route('kyphosis')}}"

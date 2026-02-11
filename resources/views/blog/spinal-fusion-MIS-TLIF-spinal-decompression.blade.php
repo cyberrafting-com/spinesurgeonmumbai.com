@@ -113,7 +113,7 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
                             <p><b>2. Why is spinal decompression needed?</b></p>
                             <p>It is done to relieve:</p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;">Leg pain (<a href="{{ route('sciatica') }}">sciatica</a>)</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Leg pain (<a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a>)</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Numbness or weakness</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Difficulty walking</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Nerve compression pain</li>
@@ -122,7 +122,7 @@ Spinal fusion surgery, MIS TLIF surgery, minimally invasive spine surgery, spina
                             <p><b>3. What conditions need decompression surgery?</b></p>
                             <p>Common conditions include:</p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('slip-disc') }}">Slipped (herniated) disc</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">Slipped (herniated) disc</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Lumbar canal stenosis</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Cervical stenosis</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Nerve root compression</li>

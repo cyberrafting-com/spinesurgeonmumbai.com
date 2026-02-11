@@ -123,8 +123,8 @@ minimally invasive spine surgery, MISS, keyhole spine surgery, spine surgery rec
                             <p><b>3. Who is a good candidate for minimally invasive spine surgery?</b></p>
                             <p>You may be suitable if you have:</p>
                             <ul>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('slip-disc') }}">Slipped disc</a></li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('sciatica') }}">Sciatica</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">Slipped disc</a></li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('what-is-sciatica-and-why-it-happens') }}">Sciatica</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('spinal-stenosis') }}">Spinal stenosis</a></li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Nerve compression</li>
                             </ul>

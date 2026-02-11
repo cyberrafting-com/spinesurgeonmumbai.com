@@ -159,7 +159,7 @@
                             </div>
                             
                             <p>Whether the scoliosis is congenital, degenerative, or idiopathic, this advanced approach allows for better management of the condition with fewer risks and faster healing.</p>
-                            <p>Many patients with scoliosis also experience related conditions such as <a href="{{ route('back-pain') }}">back pain</a>, <a href="{{ route('neck-pain') }}">neck pain</a>, and in some cases, <a href="{{ route('sciatica') }}">sciatica</a> due to nerve compression.</p>
+                            <p>Many patients with scoliosis also experience related conditions such as <a href="{{ route('back-pain') }}">back pain</a>, <a href="{{ route('neck-pain') }}">neck pain</a>, and in some cases, <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a> due to nerve compression.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

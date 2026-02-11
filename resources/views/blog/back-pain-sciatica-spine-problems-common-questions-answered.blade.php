@@ -111,7 +111,7 @@ back pain causes, slipped disc, sciatica pain, spine specialist, spine treatment
                             <p>Lower <a href="{{ route('back-pain') }}">back pain</a> can happen due to:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Muscle strain or poor posture</li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('slip-disc') }}">Slipped disc</a> or disc degeneration</li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">Slipped disc</a> or disc degeneration</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Long sitting, heavy lifting, or weak core muscles</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Age-related wear and tear</li>
                             </ul>
@@ -127,7 +127,7 @@ back pain causes, slipped disc, sciatica pain, spine specialist, spine treatment
                             <p>It is common and often treatable without surgery.</p>
 
                             <p><b>3. What is Sciatica and why does it happen?</b></p>
-                            <p><a href="{{ route('sciatica') }}">Sciatica</a> is pain that:</p>
+                            <p><a href="{{ route('what-is-sciatica-and-why-it-happens') }}">Sciatica</a> is pain that:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Starts in the lower back</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Travels down the buttock and leg</li>

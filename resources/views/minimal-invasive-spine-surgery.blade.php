@@ -359,7 +359,7 @@
                             available in various hospitals for consultation and for surgery. Dr. Vishal Kundnani is
                             the best spine specialist with a considerate approach to patients with an honest opinion
                             and ethical spine practice. Dr. Vishal Kundnani is the best microscopic and minimally
-                            invasive surgeon for <a href="{{ route('slip-disc') }}"
+                            invasive surgeon for <a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}"
                                 target="_blank">slip disc surgery</a> in Goregaon, Malad, Kandivali.</p>
 
                     </div>

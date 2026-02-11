@@ -176,7 +176,7 @@
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
                                     स्टेनोसिस डिस्क के गंभीर लेकिन पुराने उभार में भी होता है। <a
-                                        href="{{route('slip-disc')}}" target="_blank">स्लिप डिस्क</a>
+                                        href="{{route('what-is-a-slipped-disc-herniated-disc')}}" target="_blank">स्लिप डिस्क</a>
                                     या
                                     बल्ज डिस्क या हर्नियेटेड डिस्क स्पाइनल कैनल में फैलती है और नर्व को दबाती है।
                                     रीढ़ में अपक्षय और लम्बर स्पाइनल स्टेनोसिस दोनों के लिए जोखिम कारकों में उम्र बढ़ना,

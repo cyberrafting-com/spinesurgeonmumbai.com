@@ -208,7 +208,7 @@ care and solutions in Mumbai for spine health.@endsection
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                     Stenosis also happens in the severe yet chronic bulge of disc /bulge disc. <a
-                                        href="{{route('slip-disc')}}" target="_blank">Slip disc</a>
+                                        href="{{route('what-is-a-slipped-disc-herniated-disc')}}" target="_blank">Slip disc</a>
                                     or
                                     bulge disc or herniated disc protrudes into the spinal canal and pinches over the nerve.
                                     Risk factors for both degeneration and lumbar spinal stenosis in the spine include

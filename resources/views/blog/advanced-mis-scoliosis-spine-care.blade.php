@@ -99,7 +99,7 @@ Consult Dr. Vishal Kundnani, the best spine surgeon in Mumbai, for scoliosis, MI
                             <div class="sec-blog-design pt-5">
                                 <h1>Best Spine Surgeon in Mumbai – Advanced MIS, Scoliosis & Spine Care</h1>
                                 <img class="blog-hero-img" src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/advanced-MIS-scoliosis-spine-care-img.png" alt="Best Spine Surgeon in Mumbai">
-                                <p>Chronic <a href="{{ route('back-pain') }}">back pain</a>, <a href="{{ route('sciatica') }}">sciatica</a>, spinal instability, or <a href="{{ route('scoliosis') }}">scoliosis</a> can disrupt your life, making daily activities difficult. Choosing the right spine surgeon in Mumbai is crucial for safe, effective treatment. Dr. Vishal Kundnani, recognised as one of the best spine and scoliosis surgeons in Mumbai, provides advanced <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery (MIS)</a>, personalised care, and compassionate guidance at Bombay and Lilavati Hospitals, helping patients regain mobility, reduce pain, and improve quality of life.</p>
+                                <p>Chronic <a href="{{ route('back-pain') }}">back pain</a>, <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a>, spinal instability, or <a href="{{ route('scoliosis') }}">scoliosis</a> can disrupt your life, making daily activities difficult. Choosing the right spine surgeon in Mumbai is crucial for safe, effective treatment. Dr. Vishal Kundnani, recognised as one of the best spine and scoliosis surgeons in Mumbai, provides advanced <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery (MIS)</a>, personalised care, and compassionate guidance at Bombay and Lilavati Hospitals, helping patients regain mobility, reduce pain, and improve quality of life.</p>
                             </div>
                         </div>
 
@@ -108,7 +108,7 @@ Consult Dr. Vishal Kundnani, the best spine surgeon in Mumbai, for scoliosis, MI
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Minimally invasive lumbar decompression, MIS-TLIF, and <a href="{{ route('spinal-fusion') }}">spinal fusion</a> reduce recovery time and post-op pain.</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Advanced scoliosis surgery safely corrects spinal deformities in adolescents and adults.</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Non-surgical care can relieve sciatica and <a href="{{ route('slip-disc') }}">slipped disc</a> pain without surgery.</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Non-surgical care can relieve sciatica and <a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">slipped disc</a> pain without surgery.</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Accurate diagnosis using MRI, 3D imaging, and navigation technology ensures personalised treatment plans.</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Patients regain mobility, independence, and confidence under expert guidance.</li>
                             </ul>

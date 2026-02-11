@@ -119,7 +119,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
-                    <a href="{{ route('sciatica') }}">
+                    <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">
                         <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/sciatic-nerve.webp" alt="What Is Sciatica and Why Does It Happen?">
 
                         <h1>What Is Sciatica and Why Does It Happen?
@@ -139,7 +139,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
-                    <a href="{{ route('slipped-disc') }}">
+                    <a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">
                         <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/slip-disc-blog.webp" alt="What Is a Slipped Disc (Herniated Disc)?">
 
                         <h1>What Is a Slipped Disc (Herniated Disc)?

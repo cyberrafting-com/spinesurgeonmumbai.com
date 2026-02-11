@@ -121,7 +121,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                         <ul>
                             <li style="list-style-type: disc; padding: 5px 0;">Muscle strain from overuse or sudden movement</li>
                             <li style="list-style-type: disc; padding: 5px 0;">Poor posture or long hours of sitting</li>
-                            <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('slip-disc') }}">Slipped (herniated) disc</a> pressing on nerves</li>
+                            <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">Slipped (herniated) disc</a> pressing on nerves</li>
                             <li style="list-style-type: disc; padding: 5px 0;">Age-related wear and tear of the spine</li>
                             <li style="list-style-type: disc; padding: 5px 0;">Weak core muscles or lack of physical activity</li>
                         </ul>
@@ -186,7 +186,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                         <ul>
                             <li style="list-style-type: disc; padding: 5px 0;">Stiffness in the lower back</li>
                             <li style="list-style-type: disc; padding: 5px 0;">Pain worsening with movement</li>
-                            <li style="list-style-type: disc; padding: 5px 0;">Pain radiating to buttocks or legs (may indicate <a href="{{ route('sciatica') }}">sciatica</a>)</li>
+                            <li style="list-style-type: disc; padding: 5px 0;">Pain radiating to buttocks or legs (may indicate <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a>)</li>
                             <li style="list-style-type: disc; padding: 5px 0;">Tingling or numbness (nerve involvement)</li>
                         </ul>
                     </div>

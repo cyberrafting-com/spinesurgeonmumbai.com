@@ -527,7 +527,7 @@ Treatment Mumbai')
                     </div>
                     <div class="cmt-box-content">
                         <div class="cmt-box-title">
-                            <h5><a href="{{route('sciatica')}}">Sciatica</a></h5>
+                            <h5><a href="{{route('what-is-sciatica-and-why-it-happens')}}">Sciatica</a></h5>
                         </div>
 
                     </div>
@@ -565,7 +565,7 @@ Treatment Mumbai')
                     </div>
                     <div class="cmt-box-content">
                         <div class="cmt-box-title">
-                            <h5><a href="{{route('slip-disc')}}">Slip Disc</a></h5>
+                            <h5><a href="{{route('what-is-a-slipped-disc-herniated-disc')}}">Slip Disc</a></h5>
                         </div>
 
                     </div>

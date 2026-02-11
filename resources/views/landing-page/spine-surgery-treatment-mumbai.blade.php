@@ -251,7 +251,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <img src="{{ asset('resources/assets/landing-page/images/Spinal-Stenosis-img.png') }}" alt="Spinal Stenosis narrowing of the spinal canal" loading="lazy">
                         </div>
                         <div class="condition-content">
-                            <h4><a href="{{ route('slip-disc') }}" style="color: var(--primary-blue); text-decoration: none;">Slip Disc Treatment</a></h4>
+                            <h4><a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}" style="color: var(--primary-blue); text-decoration: none;">Slip Disc Treatment</a></h4>
                             <p>Struggling with sciatica or leg pain? We specialize in treating herniated or slipped discs with precision and care.</p>
                             <a href="tel:+919619100123" class="condition-cta">Get relief today — Call now!</a>
                         </div>

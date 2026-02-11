@@ -97,14 +97,14 @@
                 <h2>हम <span>उपचार करते हैं</span></h2>
                 <ul class="breadcrumb1">
                     <li><a href="{{ route('home') }}">होम</a></li>
-                    <li><a href="{{ route('slip-disc') }}">स्लिप डिस्क</a></li>
+                    <li><a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">स्लिप डिस्क</a></li>
                 </ul>
                 <div class="language-switcher">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="language-buttons">
-                                    <a href="{{ route('slip-disc') }}" class="language-btn {{ request()->is('slip-disc') && !request()->is('slip-disc-*') ? 'active' : '' }}">
+                                    <a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}" class="language-btn {{ request()->is('slip-disc') && !request()->is('slip-disc-*') ? 'active' : '' }}">
                                         अंग्रेज़ी
                                     </a>
                                     <a href="{{ route('slip-disc-h') }}" class="language-btn {{ request()->is('slip-disc-h') ? 'active' : '' }}">

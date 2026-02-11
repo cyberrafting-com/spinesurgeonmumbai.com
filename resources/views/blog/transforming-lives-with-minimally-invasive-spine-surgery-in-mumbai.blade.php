@@ -120,7 +120,7 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
                     <div class="sec-blog-design pt-5">
                         <h1>Transforming Lives with Minimally Invasive Spine Surgery in Mumbai</h1>
                         <img class="blog-hero-img" src="{{ asset('/resources/assets/img/blog/procedure-of-TLIF-surgery-in-Mumbai-1024x576.webp') }}" alt="Minimally invasive spine surgery in Mumbai including MIS-TLIF and lumbar decompression by Dr. Vishal Kundnani">
-                        <p>Discover expert spine care with Dr. Vishal Kundnani at Bombay & Lilavati Hospitals. <a href="{{ route('minimal-invasive-spine-surgery') }}">Minimally invasive surgery</a>, <a href="{{ route('scoliosis') }}">scoliosis</a>, <a href="{{ route('sciatica') }}">sciatica</a>, and personalised treatment options. Back pain, sciatica, and spinal deformities can severely impact daily life. With modern technology and minimally invasive spine surgery, Dr. Vishal Kundnani offers compassionate, personalised care that restores mobility, reduces pain, and improves quality of life.</p>
+                        <p>Discover expert spine care with Dr. Vishal Kundnani at Bombay & Lilavati Hospitals. <a href="{{ route('minimal-invasive-spine-surgery') }}">Minimally invasive surgery</a>, <a href="{{ route('scoliosis') }}">scoliosis</a>, <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a>, and personalised treatment options. Back pain, sciatica, and spinal deformities can severely impact daily life. With modern technology and minimally invasive spine surgery, Dr. Vishal Kundnani offers compassionate, personalised care that restores mobility, reduces pain, and improves quality of life.</p>
                         <p>Minimally invasive procedures like lumbar decompression, MIS-TLIF, and <a href="{{ route('spinal-fusion') }}">spinal fusion</a> reduce recovery time and pain. Advanced scoliosis surgery can correct spinal deformities safely, even in adults. Non-surgical options for sciatica and slipped discs often restore function without surgery. Expert diagnosis using high-resolution MRI, 3D navigation, and modern imaging ensures personalised treatment. Patients regain mobility, confidence, and lifestyle quality under professional, empathetic care.</p>
                     </div>
 
@@ -168,7 +168,7 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
                             <li>Activity modification and ergonomic advice</li>
                             <li>Medication or injection therapies for inflammation and nerve pain</li>
                         </ul>
-                        <p><b>Mr. Sameer Khan:</b> "Non-surgical care relieved my <a href="{{ route('slip-disc') }}">slipped disc</a> pain within weeks. Dr. Kundnani's personal attention gave me confidence."</p>
+                        <p><b>Mr. Sameer Khan:</b> "Non-surgical care relieved my <a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">slipped disc</a> pain within weeks. Dr. Kundnani's personal attention gave me confidence."</p>
                     </div>
 
                     <!-- Symptoms & Causes -->

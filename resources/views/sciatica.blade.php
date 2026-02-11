@@ -98,14 +98,14 @@
                 <h2>We <span>Treat</span></h2>
                 <ul class="breadcrumb1">
                     <li><a href="{{ route('home') }}">Home</a></li>
-                    <li><a href="{{ route('sciatica') }}">Sciatica</a></li>
+                    <li><a href="{{ route('what-is-sciatica-and-why-it-happens') }}">Sciatica</a></li>
                 </ul>
                 <div class="language-switcher">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="language-buttons">
-                                    <a href="{{ route('sciatica') }}" class="language-btn {{ request()->is('sciatica') && !request()->is('sciatica-*') ? 'active' : '' }}">ENGLISH</a>
+                                    <a href="{{ route('what-is-sciatica-and-why-it-happens') }}" class="language-btn {{ request()->is('sciatica') && !request()->is('sciatica-*') ? 'active' : '' }}">ENGLISH</a>
                                     <a href="{{ route('sciatica-h') }}" class="language-btn {{ request()->is('sciatica-h') ? 'active' : '' }}">HINDI</a>
                                     <a href="{{ route('sciatica-m') }}" class="language-btn {{ request()->is('sciatica-m') ? 'active' : '' }}">Marathi</a>
                                 </div>

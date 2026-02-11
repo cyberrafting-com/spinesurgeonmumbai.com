@@ -113,7 +113,7 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
 
                         <img class="blog-hero-img" src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/spine-surgery-success-stories-img.webp" alt="Spine Surgery Success Stories">
                         <p>
-                            Discover real-life success stories of patients treated by Dr. Vishal Kundnani in Mumbai. From minimally invasive spine surgery to <a href="{{ route('scoliosis') }}">scoliosis correction</a>, <a href="{{ route('sciatica') }}">sciatica</a> relief, and complex spinal fusions, these stories highlight expert care, advanced technology, and life-changing results.
+                            Discover real-life success stories of patients treated by Dr. Vishal Kundnani in Mumbai. From minimally invasive spine surgery to <a href="{{ route('scoliosis') }}">scoliosis correction</a>, <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a> relief, and complex spinal fusions, these stories highlight expert care, advanced technology, and life-changing results.
                         </p>
                     </div>
 
@@ -144,7 +144,7 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
                             <h2>Story 3 – Non-Surgical Sciatica Care</h2>
                             <p><strong>Patient Profile:</strong> Mr. Sameer Khan, 40-year-old IT professional, Mumbai.</p>
                             <p>
-                                "I developed sudden leg pain and numbness from a <a href="{{ route('slip-disc') }}">slipped disc</a>. Dr. Vishal Kundnani explained that many patients like me could improve with personalised non-surgical spine care, including <a href="{{ route('physiotherapy-in-spine') }}">physiotherapy</a>, posture correction, medications, and activity modification. Within weeks, my leg pain gradually reduced, and I regained confidence in my mobility without surgery."
+                                "I developed sudden leg pain and numbness from a <a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">slipped disc</a>. Dr. Vishal Kundnani explained that many patients like me could improve with personalised non-surgical spine care, including <a href="{{ route('physiotherapy-in-spine') }}">physiotherapy</a>, posture correction, medications, and activity modification. Within weeks, my leg pain gradually reduced, and I regained confidence in my mobility without surgery."
                             </p>
                         </div>
 

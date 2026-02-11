@@ -180,7 +180,7 @@ slip disc, and more, including cost of surgery.@endsection
                                                             target="_blank">Lumbar Spondylosis, <a
                                                                 href="{{route('osteoporosis')}}"
                                                                 target="_blank">Osteoporosis, <a
-                                                                    href="{{route('sciatica')}}"
+                                                                    href="{{route('what-is-sciatica-and-why-it-happens')}}"
                                                                     target="_blank">Sciatica, and <a
                                                                         href="https://www.slipdiscindia.com/"
                                                                         target="_blank">slip disc</a> problems.</p>

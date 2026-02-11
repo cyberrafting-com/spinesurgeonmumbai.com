@@ -91,7 +91,7 @@
                         <div class="sec-blog-design pt-5">
                             <h2>Symptoms and Effects of Scoliosis</h2>
                             <p>While mild scoliosis may not cause any symptoms, more pronounced curves can lead to visible signs such as uneven shoulders, an uneven waistline, or one hip being higher than the other. As the curvature worsens, individuals may experience discomfort or pain, particularly in the back. In severe cases, the curvature can affect the ability to breathe or perform daily movements, leading to significant impairment in quality of life.</p>
-                            <p>Many patients with scoliosis also experience related conditions such as <a href="{{ route('back-pain') }}">back pain</a>, <a href="{{ route('neck-pain') }}">neck pain</a>, and in some cases, <a href="{{ route('sciatica') }}">sciatica</a> due to nerve compression.</p>
+                            <p>Many patients with scoliosis also experience related conditions such as <a href="{{ route('back-pain') }}">back pain</a>, <a href="{{ route('neck-pain') }}">neck pain</a>, and in some cases, <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a> due to nerve compression.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

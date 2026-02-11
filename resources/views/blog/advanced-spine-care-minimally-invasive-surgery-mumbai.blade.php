@@ -115,7 +115,7 @@ Relieve back pain, sciatica, and spinal deformities with Dr. Vishal Kundnani at 
                             <div class="sec-blog-design pt-5">
                                 <h1>Advanced Spine Care & Minimally Invasive Surgery in Mumbai</h1>
                                 <img class="blog-hero-img" src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/advanced-spine-care-minimally-invasive-surgery-img.jpg" alt="Advanced Spine Care & Minimally Invasive Surgery in Mumbai">
-                                <p>Chronic <a href="{{ route('back-pain') }}">back pain</a>, <a href="{{ route('sciatica') }}">sciatica</a>, or spinal deformities can significantly reduce quality of life. Today, <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery</a> and advanced personalised treatments provide safe, effective solutions. At Bombay and Lilavati Hospitals, Dr. Vishal Kundnani combines expert knowledge, compassion, and cutting-edge technology to restore mobility, reduce pain, and improve daily function.</p>
+                                <p>Chronic <a href="{{ route('back-pain') }}">back pain</a>, <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a>, or spinal deformities can significantly reduce quality of life. Today, <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive spine surgery</a> and advanced personalised treatments provide safe, effective solutions. At Bombay and Lilavati Hospitals, Dr. Vishal Kundnani combines expert knowledge, compassion, and cutting-edge technology to restore mobility, reduce pain, and improve daily function.</p>
                             </div>
                         </div>
 
@@ -124,7 +124,7 @@ Relieve back pain, sciatica, and spinal deformities with Dr. Vishal Kundnani at 
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Minimally invasive lumbar decompression, MIS-TLIF, and <a href="{{ route('spinal-fusion') }}">spinal fusion</a> for faster recovery.</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Modern <a href="{{ route('scoliosis') }}">scoliosis correction</a> for both adolescents and adults.</li>
-                                <li style="list-style-type: disc; padding: 5px 0;">Non-surgical care for sciatica and <a href="{{ route('slip-disc') }}">slipped discs</a> often restores function without surgery.</li>
+                                <li style="list-style-type: disc; padding: 5px 0;">Non-surgical care for sciatica and <a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">slipped discs</a> often restores function without surgery.</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Accurate, personalised diagnosis using MRI, 3D imaging, and navigation technology.</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Patients regain comfort, mobility, and confidence with expert care.</li>
                             </ul>

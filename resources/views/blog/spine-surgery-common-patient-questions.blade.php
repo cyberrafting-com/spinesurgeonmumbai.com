@@ -115,7 +115,7 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                             Spine surgery is often surrounded by fear and confusion.
                             Most patients want clear answers before making any decision.
                             Here are 20 of the most searched spine surgery questions,
-                            answered simply and honestly by spine specialists. For a comprehensive list of conditions we treat, please visit our <a href="{{ route('sciatica') }}">conditions page</a>.
+                            answered simply and honestly by spine specialists. For a comprehensive list of conditions we treat, please visit our <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">conditions page</a>.
                         </p>
                     </div>
 
@@ -162,7 +162,7 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
 
                             <li>
                                 <b>How effective is spine surgery for back pain or sciatica?</b><br>
-                                Spine surgery is very effective for nerve pain (<a href="{{ route('sciatica') }}">sciatica</a>).
+                                Spine surgery is very effective for nerve pain (<a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a>).
                                 Results for pure back pain depend on correct diagnosis and patient selection.
                             </li>
 

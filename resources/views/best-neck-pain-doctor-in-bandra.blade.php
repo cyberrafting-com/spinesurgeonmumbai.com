@@ -62,7 +62,7 @@
                 <h2>Best Neck Pain Doctor In Bandra</h2> 
                 <ul class="breadcrumb1">
                     <li><a href="{{ route('home') }}">Dr.</a></li>
-                    <li><a href="{{ route('slip-disc') }}">Vishal Kundnani</a></li>
+                    <li><a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">Vishal Kundnani</a></li>
                 </ul>
             </div>
         </div>

@@ -126,7 +126,7 @@ Endoscopic spine surgery in Mumbai by Dr. Vishal Kundnani – minimally invasive
                             <p>Endoscopic techniques are ideal for:</p>
                             <ul class="icon-bullet-list">
                                 <li><a href="{{ route('herniated-disc') }}">Herniated or slipped discs</a></li>
-                                <li><a href="{{ route('sciatica') }}">Sciatica</a> or nerve root compression</li>
+                                <li><a href="{{ route('what-is-sciatica-and-why-it-happens') }}">Sciatica</a> or nerve root compression</li>
                                 <li><a href="{{ route('back-pain') }}">Lumbar</a> canal stenosis</li>
                                 <li><a href="{{ route('cervical-spine-surgery-mumbai') }}">Cervical</a> radiculopathy</li>
                                 <li>Recurrent disc prolapse</li>

@@ -285,7 +285,7 @@ plenary lectures on minimally invasive spine surgery and spinal deformity correc
                             <h4>For Advanced Spine Treatment</h4>
                             <p>Dr. Vishal Kundnani brings this international expertise to patients in Mumbai through
                                 advanced spine treatments at leading hospitals. Whether you're dealing with <a
-                                    href="{{ route('back-pain') }}">back pain</a>, <a href="{{ route('slip-disc') }}">slip
+                                    href="{{ route('back-pain') }}">back pain</a>, <a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">slip
                                     disc</a>, or complex spinal conditions, our team offers world-class care with the latest
                                 minimally invasive techniques.</p>
                             <p style="text-align: center; margin-top: 20px;"><strong>For consultation and advanced spine
