@@ -975,3 +975,11 @@ Route::get('spine-surgery-common-patient-questions', function () {
 Route::get('/spine-surgery-success-stories', function () {
     return view('blog.spine-surgery-success-stories');
 })->name('blog.spine-surgery-success-stories');
+
+Route::get('/advanced-spine-care-mumbai-dr-vishal-kundnani', function () {
+    return view('blog.advanced-spine-care-mumbai-dr-vishal-kundnani');
+})->name('blog.advanced-spine-care-mumbai-dr-vishal-kundnani');
+
+Route::get('/best-spine-surgeons-in-india-2026-expert-guide', function () {
+    return view('blog.best-spine-surgeons-in-india-2026-expert-guide');
+})->name('blog.best-spine-surgeons-in-india-2026-expert-guide');

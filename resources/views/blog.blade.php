@@ -36,6 +36,27 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 
             <!-- latest blogs start -->
 
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('blog.best-spine-surgeons-in-india-2026-expert-guide') }}">
+                        <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/Best-Spine-Surgeons-India.png" alt="Best Spine Surgeons in India (2026 Expert Editorial Guide)">
+                        <h1>
+                            Best Spine Surgeons in India (2026 Expert Editorial Guide)
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('blog.advanced-spine-care-mumbai-dr-vishal-kundnani') }}">
+                        <img src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/advanced-spine-care-mumbai.png" alt="Advanced Spine Care in Mumbai | Dr Vishal Kundnani">
+                        <h1>
+                            Advanced Spine Care in Mumbai | Dr Vishal Kundnani
+                        </h1>
+                    </a>
+                </div>
+            </div>
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
