@@ -631,6 +631,10 @@ Route::get('cervical-vs-lumbar-spine-surgery', function () {
     return view('blog.cervical-vs-lumbar-spine-surgery');
 })->name('cervical-vs-lumbar-spine-surgery');
 
+Route::get('/best-spine-surgeons-mumbai-2026-editorial-guide', function () {
+    return view('blog.best-spine-surgeons-mumbai-2026-editorial-guide');
+})->name('blog.best-spine-surgeons-mumbai-2026-editorial-guide');
+
 
 // marathi service pages start
 

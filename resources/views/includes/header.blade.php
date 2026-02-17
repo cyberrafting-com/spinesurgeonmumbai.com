@@ -176,6 +176,7 @@
                                 </li>
                                 <li class=""><a href="{{ route('media') }}">Media</a></li>
                                 <li class=""><a href="{{ route('blog') }}">Blog</a></li>
+                                <li class="hidden"><a href="{{ route('blog.best-spine-surgeons-mumbai-2026-editorial-guide') }}">Best Spine Surgeons Mumbai (2026 Editorial Guide)</a></li>
                                 <li class=""><a href="{{ route('testimonials') }}">Testimonials</a></li>
                                 <li class=""><a href="{{ route('faq') }}">Faq</a></li>
                                 <li class=""><a href="{{ route('contact') }}">Contact Us</a></li>
