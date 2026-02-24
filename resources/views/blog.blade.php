@@ -34,6 +34,31 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
         <div class="row justify-content-center">
 
             <!-- latest blogs start -->
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('top-spine-surgeons-mumbai-2026-editorial-guide') }}">
+                        <img src="{{ asset('/resources/assets/img/blog/top_spine_ surgeons _mumbai (2026 editorial guide) 600x600.webp') }}" alt="Best Spine Surgeons Mumbai (2026 Editorial Guide)">
+                        <h1>
+                            Top Spine Surgeons Mumbai (2026 Editorial Guide)
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('top-spine-surgeons-in-india-2026-editorial-guide') }}">
+                        <img src="{{ asset('/resources/assets/img/blog/top_spine_ surgeons _india (2026 editorial guide) 600x600.webp') }}" alt="Best Spine Surgeons Mumbai (2026 Editorial Guide)">
+                        <h1>
+                            Top Spine Surgeons India (2026 Editorial Guide)
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+
+
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">

@@ -963,7 +963,7 @@ Route::get('spinal-fusion-MIS-TLIF-spinal-decompression', function () {
     return view('blog.spinal-fusion-MIS-TLIF-spinal-decompression');
 })->name('spinal-fusion-MIS-TLIF-spinal-decompression');
 
-// latest blogs
+
 
 // latest-blog
 Route::get('transforming-lives-with-minimally-invasive-spine-surgery-in-mumbai', function () {
@@ -987,3 +987,11 @@ Route::get('/advanced-spine-care-mumbai-dr-vishal-kundnani', function () {
 Route::get('/best-spine-surgeons-in-india-2026-expert-guide', function () {
     return view('blog.best-spine-surgeons-in-india-2026-expert-guide');
 })->name('blog.best-spine-surgeons-in-india-2026-expert-guide');
+
+Route::get('/top-spine-surgeons-in-india-2026-editorial-guide', function () {
+    return view('top-spine-surgeons-in-india-2026-editorial-guide');
+})->name('top-spine-surgeons-in-india-2026-editorial-guide');
+
+Route::get('/top-spine-surgeons-mumbai-2026-editorial-guide', function () {
+    return view('top-spine-surgeons-mumbai-2026-editorial-guide');
+})->name('top-spine-surgeons-mumbai-2026-editorial-guide');
