@@ -8,7 +8,6 @@ in Mumbai. Expert advice and updates on spine health.@endsection
 Clinic Mumbai, Micro Endoscopic Spine Surgery Doctor Mumbai, Spine Disease Doctor Mumbai, Spine Surgery Specialist
 Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Treatment Mumbai')
 
-</script>
 @extends('layouts.default')
 @section('content')
 

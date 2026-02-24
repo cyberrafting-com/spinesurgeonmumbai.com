@@ -1,3 +1,5 @@
+@extends('layouts.default')
+
 @php($title = "Best Spine Surgeons in Mumbai (2026 Guide)")
 
 @section('meta_desc')
@@ -46,6 +48,78 @@ Explore leading spine surgeons in Mumbai (2026 editorial guide) covering minimal
     }
 </script>
 
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalBusiness",
+        "name": "Spine Clinic Mumbai",
+        "image": "{{ asset('resources/assets/img/logo.png') }}",
+        "url": "https://www.spineclinicmumbai.com",
+        "telephone": "+91 9619100123",
+        "email": "spineclinicmumbai@gmail.com",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Room 8/9, OPD block, Ground Floor, Bandra Reclamation Rd, Bandra West",
+            "addressLocality": "Mumbai",
+            "addressRegion": "Maharashtra",
+            "postalCode": "400050",
+            "addressCountry": "IN"
+        },
+        "sameAs": [
+            "https://www.facebook.com/spineclinicmumbai",
+            "https://www.instagram.com/spineclinicmumbai",
+            "https://www.linkedin.com/company/spineclinicmumbai"
+        ],
+        "description": "Dr. Vishal Kundnani is one of the best spine surgeons in Mumbai, India, specializing in advanced spinal treatments and minimally invasive spine surgery.",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91 9619100123",
+            "contactType": "Customer Service",
+            "areaServed": "IN",
+            "availableLanguage": "English, Hindi, Marathi"
+        },
+        "doctor": {
+            "@type": "Physician",
+            "name": "Dr. Vishal Kundnani",
+            "specialty": "Orthopedic Surgery",
+            "affiliation": "Lilavati Hospital & Bombay Hospital",
+            "medicalCredential": ["MS (Ortho)", "FASSI", "FNUS", "FNAMS"],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Room 8/9, OPD block, Ground Floor, Bandra Reclamation Rd, Bandra West",
+                "addressLocality": "Mumbai",
+                "addressRegion": "Maharashtra",
+                "postalCode": "400050",
+                "addressCountry": "IN"
+            },
+            "telephone": "+91 9619100123",
+            "email": "spineclinicmumbai@gmail.com",
+            "url": "https://www.spineclinicmumbai.com/dr-vishal-kundnani",
+            "description": "Dr. Vishal Kundnani is a leading spine surgeon in Mumbai, using advanced 3D printed implants and minimally invasive techniques for precision spine surgery."
+        },
+        "patientCare": {
+            "@type": "MedicalTreatment",
+            "name": "Minimally Invasive Spine Surgery",
+            "treatment": [
+                "Scoliosis Correction",
+                "Spinal Stenosis",
+                "Complex Spine Reconstruction",
+                "Cervical Spine Procedures",
+                "Endoscopic Spine Surgery"
+            ]
+        },
+        "services": [{
+            "@type": "Service",
+            "serviceType": "Minimally Invasive Spine Surgery",
+            "provider": {
+                "@type": "Organization",
+                "name": "Spine Clinic Mumbai"
+            },
+            "areaServed": "Mumbai",
+            "url": "https://www.spineclinicmumbai.com/services"
+        }]
+    }
+</script>
 
 <script type="application/ld+json">
     {
@@ -130,8 +204,6 @@ Explore leading spine surgeons in Mumbai (2026 editorial guide) covering minimal
     }
 </script>
 @endsection
-
-@extends('layouts.default')
 
 @section('content')
 <section class="">

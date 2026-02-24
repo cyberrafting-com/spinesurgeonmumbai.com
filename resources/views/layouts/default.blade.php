@@ -8,6 +8,7 @@
 
 
     @include('includes.head')
+    @yield('schema')
 </head>
 
 <body>
