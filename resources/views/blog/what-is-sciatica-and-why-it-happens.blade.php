@@ -108,6 +108,17 @@ What is sciatica? Learn why sciatica happens, common symptoms, treatment options
                             <p>Pain that starts in the lower back and travels down the leg can be alarming.</p>
                             <p>Many patients describe it as sharp, burning, or electric-like pain.</p>
                             <p>This type of pain is commonly called sciatica, and understanding its cause helps reduce fear and guide proper treatment.</p>
+
+                            <div class="gallery1 video-card">
+                                <iframe width="100%" height="450"
+                                    src="https://www.youtube.com/embed/zBnFEebk1jc" title="YouTube video player"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen></iframe>
+                                <h1>Understanding Sciatica: Causes, Symptoms, and Treatment Options | Dr. Sarthak Kadakia</h1>
+                            </div>
+                            <div class="modern-divider"></div>
+
                         </div>
                     </div>
 

@@ -179,6 +179,17 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                             <li style="list-style-type: disc; padding: 5px 0;">Lack of exercise</li>
                         </ul>
                         <p>Weak support leads to repeated strain and pain.</p>
+
+                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                            <iframe width="100%" height="550"
+                                src="https://www.youtube.com/embed/0cMg-Yu4LlE" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <h1 style="color: #ffffff; text-align: center;">The BEST Sleeping Position for Spine Health | Dr. Vishal Kundnani</h1>
+                        </div>
+                        <div class="modern-divider"></div>
+
                     </div>
 
                     <div class="sec-blog-design pt-5">

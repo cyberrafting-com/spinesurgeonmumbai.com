@@ -11,67 +11,65 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
 
 @section('schema')
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
     {
-      "@type": "MedicalBusiness",
-      "name": "Dr. Vishal Kundnani - Spine Surgery Success Stories",
-      "description": "Read real-life spine surgery success stories from patients treated by Dr. Vishal Kundnani in Mumbai. Discover minimally invasive spine surgery, sciatica treatments, scoliosis correction, spinal fusion, and advanced care.",
-      "url": "https://www.spinesurgeonmumbai.com/spine-surgery-success-stories",
-      "telephone": "+919619100123",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Lilavati Hospital, Breach Candy Hospital, Saifee Hospital, Bombay Hospital",
-        "addressLocality": "Mumbai",
-        "addressRegion": "Maharashtra",
-        "postalCode": "400001",
-        "addressCountry": "IN"
-      },
-      "sameAs": [
-        "https://www.facebook.com/spineclinicmumbai",
-        "https://www.linkedin.com/in/dr-vishal-kundnani-654676b",
-        "https://www.instagram.com/spinespecialistvishal"
-      ],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+919619100123",
-        "contactType": "Customer Service",
-        "areaServed": "IN",
-        "availableLanguage": "English"
-      }
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is minimally invasive spine surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Minimally invasive spine surgery uses smaller incisions and specialized instruments to treat spine problems while causing minimal damage to muscles and tissues, resulting in faster recovery."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can scoliosis be corrected with surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. Advanced scoliosis correction surgery can significantly improve spinal alignment, reduce pain, and restore posture in both adolescents and adults."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is non-surgical treatment effective for sciatica?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. Many patients with sciatica improve with personalised non-surgical care including physiotherapy, posture correction, medications, and activity modification."
-          }
-        }
-      ]
+        "@context": "https://schema.org",
+        "@graph": [{
+                "@type": "MedicalBusiness",
+                "name": "Dr. Vishal Kundnani - Spine Surgery Success Stories",
+                "description": "Read real-life spine surgery success stories from patients treated by Dr. Vishal Kundnani in Mumbai. Discover minimally invasive spine surgery, sciatica treatments, scoliosis correction, spinal fusion, and advanced care.",
+                "url": "https://www.spinesurgeonmumbai.com/spine-surgery-success-stories",
+                "telephone": "+919619100123",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Lilavati Hospital, Breach Candy Hospital, Saifee Hospital, Bombay Hospital",
+                    "addressLocality": "Mumbai",
+                    "addressRegion": "Maharashtra",
+                    "postalCode": "400001",
+                    "addressCountry": "IN"
+                },
+                "sameAs": [
+                    "https://www.facebook.com/spineclinicmumbai",
+                    "https://www.linkedin.com/in/dr-vishal-kundnani-654676b",
+                    "https://www.instagram.com/spinespecialistvishal"
+                ],
+                "contactPoint": {
+                    "@type": "ContactPoint",
+                    "telephone": "+919619100123",
+                    "contactType": "Customer Service",
+                    "areaServed": "IN",
+                    "availableLanguage": "English"
+                }
+            },
+            {
+                "@type": "FAQPage",
+                "mainEntity": [{
+                        "@type": "Question",
+                        "name": "What is minimally invasive spine surgery?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Minimally invasive spine surgery uses smaller incisions and specialized instruments to treat spine problems while causing minimal damage to muscles and tissues, resulting in faster recovery."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Can scoliosis be corrected with surgery?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Yes. Advanced scoliosis correction surgery can significantly improve spinal alignment, reduce pain, and restore posture in both adolescents and adults."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Is non-surgical treatment effective for sciatica?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Yes. Many patients with sciatica improve with personalised non-surgical care including physiotherapy, posture correction, medications, and activity modification."
+                        }
+                    }
+                ]
+            }
+        ]
     }
-  ]
-}
 </script>
 @endsection
 
@@ -109,12 +107,23 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
                     <div class="sec-blog-design pt-5">
                         <h1>Spine Surgery Success Stories</h1>
 
-             
+
 
                         <img class="blog-hero-img" src="https://s3.ap-south-1.amazonaws.com/cdn1.cr/spinesurgeon-mumbai/blog/spine-surgery-success-stories-img.webp" alt="Spine Surgery Success Stories">
                         <p>
                             Discover real-life success stories of patients treated by Dr. Vishal Kundnani in Mumbai. From minimally invasive spine surgery to <a href="{{ route('scoliosis') }}">scoliosis correction</a>, <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a> relief, and complex spinal fusions, these stories highlight expert care, advanced technology, and life-changing results.
                         </p>
+
+                        <div class="gallery1 video-card">
+                            <iframe width="100%" height="450"
+                                src="https://www.youtube.com/embed/Jrw5w5cEysI?si=rd2GcxE1tnQxubDC" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <h1>A woman who blazed the trail for many- Patient's success story at SPINE CLINIC Mumbai</h1>
+                        </div>
+                        <div class="modern-divider"></div>
+
                     </div>
 
                     <!-- Stories -->
