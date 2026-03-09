@@ -142,7 +142,7 @@
                                                 Sacralisation</a></li>
                                         <li><a href="{{ route('neck-pain-we-treat') }}">Neck Pain</a></li>
                                         <li><a href="{{ route('osteoporosis') }}">Osteoporosis</a></li>
-                                        <li><a href="{{ route('what-is-sciatica-and-why-it-happens') }}">Sciatica</a></li>
+                                        <li><a href="{{ route('sciatica') }}">Sciatica</a></li>
                                         <li><a href="{{ route('scoliosis') }}">Scoliosis</a></li>
                                         <li><a href="{{ route('what-is-a-slipped-disc-herniated-disc') }}">Slip Disc</a></li>
                                         <li><a href="{{ route('spinal-stenosis-we-treat') }}">Spinal Stenosis</a></li>
