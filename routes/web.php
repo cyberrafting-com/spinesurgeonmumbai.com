@@ -995,3 +995,25 @@ Route::get('/top-spine-surgeons-in-india-2026-editorial-guide', function () {
 Route::get('/top-spine-surgeons-mumbai-2026-editorial-guide', function () {
     return view('top-spine-surgeons-mumbai-2026-editorial-guide');
 })->name('top-spine-surgeons-mumbai-2026-editorial-guide');
+
+Route::get('/dr-vishal-kundnani-spine-specialist-mumbai', function () {
+    return view('blog.dr-vishal-kundnani-spine-specialist-mumbai');
+})->name('dr-vishal-kundnani-spine-specialist-mumbai');
+
+Route::get('/best-laser-spine-surgeon-in-mumbai', function () {
+    return view('blog.best-laser-spine-surgeon-in-mumbai');
+})->name('best-laser-spine-surgeon-in-mumbai');
+
+
+Route::get('/mobile-phone-neck-syndrome', function () {
+    return view('blog.mobile-phone-neck-syndrome');
+})->name('mobile-phone-neck-syndrome');
+
+
+Route::get('/spinal-degeneration-prevention', function () {
+    return view('blog.spinal-degeneration-prevention');
+})->name('spinal-degeneration-prevention');
+
+
+
+
