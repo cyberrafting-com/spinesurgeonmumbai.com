@@ -17,7 +17,7 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
                         <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
-                        <p class="bold-text">Dedicated spine surgeon in Mumbai.</p>
+                        <p class="bold-text">Dedicated <a href="{{ route('laser-spine-surgery-is-it-safe-and-effective') }}">laser spine surgeon in Mumbai</a>.</p>
                         <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
                         <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
@@ -30,13 +30,13 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
                             <div class="sec-blog-design pt-5">
                                 <h1><b>Dr. Vishal’s Approach to Ethical Spine Care</b></h1>
                                 <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/Spine_Treatment_Cost_In_India.jpg') }}" alt="Dr. Vishal’s Approach to Ethical Spine Care">
-                                <p>In today’s rapidly advancing medical landscape, patients often feel overwhelmed by complex diagnoses and treatment recommendations. When it comes to spine health, trust and transparency become even more critical. <a href="{{ route('dr-vishal-kundnani-spine-specialist-mumbai') }}">Ethical spine care in India</a> is gaining attention as patients increasingly seek doctors who prioritize honesty, clarity, and long-term well-being over unnecessary procedures.</p>
-                                <p><a href="{{ route('dr-vishal-kundnani-spine-specialist-mumbai') }}">Dr. Vishal Kundnani spine specialist</a> practices patient-centered treatment and follows ethical medical standards. He is a spine specialist who uses advanced medical knowledge to provide medical care according to his ethical principles.</p>
+                                <p>In today’s rapidly advancing medical landscape, patients often feel overwhelmed by complex diagnoses and treatment recommendations. When it comes to spine health, trust and transparency become even more critical. <a href="{{ route('dr-vishals-approach-to-ethical-spine-care') }}">Ethical spine care in India</a> is gaining attention as patients increasingly seek doctors who prioritize honesty, clarity, and long-term well-being over unnecessary procedures.</p>
+                                <p><a href="{{ route('dr-vishals-approach-to-ethical-spine-care') }}">Dr. Vishal Kundnani spine specialist</a> practices patient-centered treatment and follows ethical medical standards. He is a spine specialist who uses advanced medical knowledge to provide medical care according to his ethical principles.</p>
                             </div>
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                             <h2><b>The Foundation of <a href="{{ route('dr-vishal-kundnani-spine-specialist-mumbai') }}">Patient First Spine Treatment</a></b></h2>
+                             <h2><b>The Foundation of <a href="{{ route('dr-vishals-approach-to-ethical-spine-care') }}">Patient First Spine Treatment</a></b></h2>
                              <p>Dr. Vishal, the <a href="{{ route('best-spine-surgeon-mumbai') }}">honest spine surgeon in Mumbai</a> establishes spine treatment procedures that put patient needs above all other factors. The process requires medical professionals to make decisions based on what will help the patient instead of following current trends or business demands.</p>
                             <p>Spinal disorders can range from simple muscular strain to complex disc prolapse or deformities. The method starts with:</p>
                             <ul>

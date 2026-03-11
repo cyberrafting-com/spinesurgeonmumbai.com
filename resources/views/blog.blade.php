@@ -36,7 +36,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             <!-- latest blogs start -->
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
-                    <a href="{{ route('spinal-degeneration-prevention') }}">
+                    <a href="{{ route('daily-habits-to-slow-down-spinal-degeneration') }}">
                         <img src="{{ asset('/resources/assets/img/blog/spinal-degeneration-prevention.png') }}" alt="Daily Habits to Slow Down Spinal Degeneration">
                         <h1>
                             Daily Habits to Slow Down Spinal Degeneration
@@ -47,7 +47,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
-                    <a href="{{ route('mobile-phone-neck-syndrome') }}">
+                    <a href="{{ route('mobile-phone-neck-syndrome-a-modern-day-spine-issue') }}">
                         <img src="{{ asset('/resources/assets/img/blog/mobile-phone-neck-syndrome.jpg') }}" alt="Mobile Phone Neck Syndrome: A Modern-Day Spine Issue">
                         <h1>
                             Mobile Phone Neck Syndrome: A Modern-Day Spine Issue
@@ -59,7 +59,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
-                    <a href="{{ route('best-laser-spine-surgeon-in-mumbai') }}">
+                    <a href="{{ route('laser-spine-surgery-is-it-safe-and-effective') }}">
                         <img src="{{ asset('/resources/assets/img/blog/Laser-spine-surgery-in-India.png') }}" alt="Laser Spine Surgery: Is It Safe and Effective?">
                         <h1>
                             Laser Spine Surgery: Is It Safe and Effective?
@@ -72,7 +72,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
 
                 <div class="gallery">
-                    <a href="{{ route('dr-vishal-kundnani-spine-specialist-mumbai') }}">
+                    <a href="{{ route('dr-vishals-approach-to-ethical-spine-care') }}">
                         <img src="{{ asset('/resources/assets/img/blog/Spine_Treatment_Cost_In_India.jpg') }}" alt="Dr. Vishal’s Approach to Ethical Spine Care" style="filter: brightness(1.2);">
                         <h1>
                             Dr. Vishal’s Approach to Ethical Spine Care

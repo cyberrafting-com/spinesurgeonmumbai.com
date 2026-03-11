@@ -996,23 +996,38 @@ Route::get('/top-spine-surgeons-mumbai-2026-editorial-guide', function () {
     return view('top-spine-surgeons-mumbai-2026-editorial-guide');
 })->name('top-spine-surgeons-mumbai-2026-editorial-guide');
 
+Route::get('/dr-vishals-approach-to-ethical-spine-care', function () {
+    return view('blog.dr-vishals-approach-to-ethical-spine-care');
+})->name('dr-vishals-approach-to-ethical-spine-care');
+
 Route::get('/dr-vishal-kundnani-spine-specialist-mumbai', function () {
-    return view('blog.dr-vishal-kundnani-spine-specialist-mumbai');
-})->name('dr-vishal-kundnani-spine-specialist-mumbai');
+    return redirect()->route('dr-vishals-approach-to-ethical-spine-care');
+});
+
+Route::get('/laser-spine-surgery-is-it-safe-and-effective', function () {
+    return view('blog.laser-spine-surgery-is-it-safe-and-effective');
+})->name('laser-spine-surgery-is-it-safe-and-effective');
 
 Route::get('/best-laser-spine-surgeon-in-mumbai', function () {
-    return view('blog.best-laser-spine-surgeon-in-mumbai');
-})->name('best-laser-spine-surgeon-in-mumbai');
+    return redirect()->route('laser-spine-surgery-is-it-safe-and-effective');
+});
 
+
+Route::get('/mobile-phone-neck-syndrome-a-modern-day-spine-issue', function () {
+    return view('blog.mobile-phone-neck-syndrome-a-modern-day-spine-issue');
+})->name('mobile-phone-neck-syndrome-a-modern-day-spine-issue');
 
 Route::get('/mobile-phone-neck-syndrome', function () {
-    return view('blog.mobile-phone-neck-syndrome');
-})->name('mobile-phone-neck-syndrome');
+    return redirect()->route('mobile-phone-neck-syndrome-a-modern-day-spine-issue');
+});
 
+Route::get('/daily-habits-to-slow-down-spinal-degeneration', function () {
+    return view('blog.daily-habits-to-slow-down-spinal-degeneration');
+})->name('daily-habits-to-slow-down-spinal-degeneration');
 
 Route::get('/spinal-degeneration-prevention', function () {
-    return view('blog.spinal-degeneration-prevention');
-})->name('spinal-degeneration-prevention');
+    return redirect()->route('daily-habits-to-slow-down-spinal-degeneration');
+});
 
 
 

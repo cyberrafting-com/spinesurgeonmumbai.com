@@ -36,13 +36,13 @@ Mobile phone neck syndrome is rising due to excessive smartphone use. Learn abou
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <h2><b><a href="{{ route('mobile-phone-neck-syndrome') }}">What Is Mobile Phone Neck Syndrome?</a></b></h2>
+                            <h2><b><a href="{{ route('mobile-phone-neck-syndrome-a-modern-day-spine-issue') }}">What Is Mobile Phone Neck Syndrome?</a></b></h2>
                             <p>The stress injury known as mobile phone neck syndrome occurs when people maintain head-bending positions during extended periods of smartphone, tablet, or laptop use. The human head weighs around 4–5 kg in a neutral position. The cervical spine experiences increased pressure, which reaches 20–25 kg when the head tilts forward at a 45–60-degree angle.</p>
                             <p>People who experience repeated physical strain through their daily activities will eventually face muscle fatigue, ligament stress, and disc compression, which leads to <a href="{{ route('neck-pain') }}">cervical spine pain Mumbai</a>. The healthcare system in Mumbai has started to identify this condition as a common diagnosis among young adult patients.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <h2><b>Common <a href="{{ route('mobile-phone-neck-syndrome') }}">Tech Neck Symptoms and Treatment</a> Needs</b></h2>
+                            <h2><b>Common <a href="{{ route('mobile-phone-neck-syndrome-a-modern-day-spine-issue') }}">Tech Neck Symptoms and Treatment</a> Needs</b></h2>
                             <p>Early detection of tech neck symptoms, together with their treatment methods, enables people to avoid developing permanent physical harm. Some common signs include:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Persistent neck stiffness</li>
@@ -57,7 +57,7 @@ Mobile phone neck syndrome is rising due to excessive smartphone use. Learn abou
 
                         <div class="sec-blog-design pt-5">
                             <h2><b>Why IT Professionals Are at Higher Risk</b></h2>
-                            <p><a href="{{ route('mobile-phone-neck-syndrome') }}">Spine care for IT professionals</a> increasingly requires <a href="{{ route('home') }}">spine care solutions</a> because their work patterns put them at risk for back problems. The combination of extended work hours and inadequate ergonomic conditions, together with constant screen time, leads to an increased likelihood of developing spinal degeneration and neck discomfort. The work habits of professionals in Mumbai lead them to spend time at desks while they also use their phones throughout the evening which results in excessive stress on their necks.</p>
+                            <p><a href="{{ route('mobile-phone-neck-syndrome-a-modern-day-spine-issue') }}">Spine care for IT professionals</a> increasingly requires <a href="{{ route('home') }}">spine care solutions</a> because their work patterns put them at risk for back problems. The combination of extended work hours and inadequate ergonomic conditions, together with constant screen time, leads to an increased likelihood of developing spinal degeneration and neck discomfort. The work habits of professionals in Mumbai lead them to spend time at desks while they also use their phones throughout the evening which results in excessive stress on their necks.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

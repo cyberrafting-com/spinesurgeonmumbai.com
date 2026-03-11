@@ -17,7 +17,7 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
                         <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
-                        <p class="bold-text">Dedicated <a href="{{ route('best-laser-spine-surgeon-in-mumbai') }}">laser spine surgeon in Mumbai</a>.</p>
+                        <p class="bold-text">Dedicated <a href="{{ route('laser-spine-surgery-is-it-safe-and-effective') }}">laser spine surgeon in Mumbai</a>.</p>
                         <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
                         <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
@@ -54,7 +54,7 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
                                 <li style="list-style-type: disc; padding: 5px 0;">The surprisingly low rate of bleeding and complications</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">The precision helps in the important selection of only those tissues that are destroyed without affecting surrounding structures.</li>
                             </ul>
-                            <p>The right choice of <a href="{{ route('best-laser-spine-surgeon-in-mumbai') }}">best laser spine surgeon in Mumbai</a> should help the patient achieve the very best in the assessment of the case, pre- and post-management, and the best surgical outcome. Full, anticipatory research is perhaps more helpful in unearthing possible candidates for surgery and prevention of risks.</p>
+                            <p>The right choice of <a href="{{ route('laser-spine-surgery-is-it-safe-and-effective') }}">best laser spine surgeon in Mumbai</a> should help the patient achieve the very best in the assessment of the case, pre- and post-management, and the best surgical outcome. Full, anticipatory research is perhaps more helpful in unearthing possible candidates for surgery and prevention of risks.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -78,7 +78,7 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
                                 <li style="list-style-type: disc; padding: 5px 0;"><b>Fewer complications and troubles:</b> This type of surgery cuts down on complications like infections and blood loss by big margins.</li>
                             </ul>
                             <p><a href="{{ route('herniated-disc') }}">Laser surgery for herniated disc Mumbai</a>, which will be used to treat patients looking for spinal activation with a high degree of efficiency with a minimalistic recovery period.</p>
-                            <p>A consultation with <a href="{{ route('dr-vishal-kundnani-spine-specialist-mumbai') }}">Dr. Vishal Kundnani spine specialist</a>, helps determine the most appropriate treatment and ensures personalized care.</p>
+                            <p>A consultation with <a href="{{ route('dr-vishals-approach-to-ethical-spine-care') }}">Dr. Vishal Kundnani spine specialist</a>, helps determine the most appropriate treatment and ensures personalized care.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

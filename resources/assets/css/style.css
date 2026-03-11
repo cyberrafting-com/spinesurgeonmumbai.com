@@ -311,6 +311,10 @@ body {
     width: 19%;
 }
 
+.frt_apt li:nth-child(3) {
+    width: 22%;
+}
+
 .frt_apt li img {
     width: 100%;
 }
