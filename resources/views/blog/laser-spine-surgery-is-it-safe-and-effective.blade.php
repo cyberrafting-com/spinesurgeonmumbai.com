@@ -48,6 +48,9 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
 
                         <div class="sec-blog-design pt-5">
                             <h2><b>Is Laser Spine Surgery Safe?</b></h2>
+                            <div class="text-center mb-4">
+                                <img src="{{ asset('resources/assets/img/blog/Is-Laser-Spine-Surgery-Safe.png') }}" class="img-responsive" alt="Is Laser Spine Surgery Safe?" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                            </div>
                             <p>The safety of any surgical procedure is paramount, as I am sure of my studies and of my medical experiences, that laser spine surgery is perfectly safe in the hands of a trained, practiced spine surgeon. Some advantages are</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Minimized risk of infection, which cannot be said for 'open' surgery</li>
@@ -69,6 +72,9 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
 
                         <div class="sec-blog-design pt-5">
                             <h2><b>Merits of Less-Invasive Laser Surgery</b></h2>
+                            <div class="text-center mb-4">
+                                <img src="{{ asset('resources/assets/img/blog/Merits-of-Less-Invasive-Laser-Surgery.png') }}" class="img-responsive" alt="Merits of Less-Invasive Laser Surgery" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                            </div>
                             <p>In practice, there are multiple advantages of <a href="{{ route('slip-disc') }}">laser treatment for slip disc</a> or a herniated disc:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;"><b>Streamlined surgery:</b> With laser treatment, the surgeon can specify which parts of the disc need to be worked on, while the surrounding area is left untouched.</li>

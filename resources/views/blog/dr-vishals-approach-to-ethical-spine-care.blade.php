@@ -50,6 +50,9 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
 
                         <div class="sec-blog-design pt-5">
                              <h2><b><a href="{{ route('contact') }}">Transparent Spine Surgery Consultation</a></b></h2>
+                             <div class="text-center mb-4">
+                                <img src="{{ asset('resources/assets/img/blog/Transparent-Spine-Surgery-Consultation.png') }}" class="img-responsive" alt="Transparent Spine Surgery Consultation" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                             </div>
                              <p>One of the biggest concerns patients have is whether the surgery is necessary. A <a href="{{ route('contact') }}">transparent spine surgery consultation</a> must involve direct and honest communication addressing the following issues:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">The specific nature of the problem</li>
@@ -75,7 +78,10 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <h2>Concentrate on Non-Surgical Spine Care Options</h2>
+                            <h2><b>Concentrate on Non-Surgical Spine Care Options</b></h2>
+                            <div class="text-center mb-4">
+                                <img src="{{ asset('resources/assets/img/blog/Concentrate-on-Non-Surgical-Spine-Care-Options.png') }}" class="img-responsive" alt="Concentrate on Non-Surgical Spine Care Options" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                            </div>
                              <p>Most spine problems heal up significantly with non-surgical care. The <a href="{{ route('physiotherapy-in-spine') }}">non surgical spine care options</a> include:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Physiotherapy</li>
@@ -101,7 +107,7 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <h2>Why Honesty Matters in Spine Treatment</h2>
+                            <h2><b>Why Honesty Matters in Spine Treatment</b></h2>
                             <p>A spine surgeon in Mumbai with good faith knows that an operation of the spine can change the quality of life for a patient in any way. Things that constitute ethical care include:</p>
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;">Avoiding over-treatment</li>
@@ -113,7 +119,10 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
                         </div>
 
                         <div class="sec-blog-design pt-5">
-                            <h2>Long-Term Relationship Over Short-Term Gains</h2>
+                            <h2><b>Long-Term Relationship Over Short-Term Gains</b></h2>
+                            <div class="text-center mb-4">
+                                <img src="{{ asset('resources/assets/img/blog/Long-Term-Relationship-Over-Short-Term-Gains.png') }}" class="img-responsive" alt="Long-Term Relationship Over Short-Term Gains" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                            </div>
                             <p>Most often, spine health calls for long-term monitoring, continuing physiotherapies, and lifestyle correction therapies.</p>
                             <p>A patient-centric ethic facilitates:</p>
                             <ul>
