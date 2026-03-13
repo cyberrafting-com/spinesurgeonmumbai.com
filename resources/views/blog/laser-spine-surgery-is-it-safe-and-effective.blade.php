@@ -29,7 +29,7 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1><b>Laser Spine Surgery: Is It Safe and Effective?</b></h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/Laser-spine-surgery-in-India.png') }}" alt="Laser Spine Surgery: Is It Safe and Effective?">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/Laser-Spine-Surgery-in-India.png') }}" alt="Laser Spine Surgery: Is It Safe and Effective?">
 
                                 <p>Several medical conditions, like herniated discs and severe spinal pain, affect millions of people all over the world. Conventional spine surgeries, while effective, usually involve large incisions, a prolonged time of recovery, and some possible risks of complications. It is only in the last decade that <a href="{{ route('laser-spine-surgery-india') }}">laser surgery on the spine in India</a> has proven to emerge as an alternative that is minimally invasive and allows the patient a better, quicker, and more precise ending. But the question is, is laser surgery on the spine safe, and how effective is it in various spinal conditions?</p>
                             </div>
@@ -49,7 +49,7 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
                         <div class="sec-blog-design pt-5">
                             <h2><b>Is Laser Spine Surgery Safe?</b></h2>
                             <div class="text-center mb-4">
-                                <img src="{{ asset('resources/assets/img/blog/Is-Laser-Spine-Surgery-Safe.png') }}" class="img-responsive" alt="Is Laser Spine Surgery Safe?" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                                <img src="{{ asset('resources/assets/img/blog/Is-Laser-Spine-Surgery-Safe.jpg') }}" class="img-responsive" alt="Is Laser Spine Surgery Safe?" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
                             </div>
                             <p>The safety of any surgical procedure is paramount, as I am sure of my studies and of my medical experiences, that laser spine surgery is perfectly safe in the hands of a trained, practiced spine surgeon. Some advantages are</p>
                             <ul>
@@ -73,7 +73,7 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
                         <div class="sec-blog-design pt-5">
                             <h2><b>Merits of Less-Invasive Laser Surgery</b></h2>
                             <div class="text-center mb-4">
-                                <img src="{{ asset('resources/assets/img/blog/Merits-of-Less-Invasive-Laser-Surgery.png') }}" class="img-responsive" alt="Merits of Less-Invasive Laser Surgery" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                                <img src="{{ asset('resources/assets/img/blog/Merits-of-Less-Invasive-Laser-Surgery.png') }}" class="img-responsive" alt="Merits of Less-Invasive Laser Surgery" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
                             </div>
                             <p>In practice, there are multiple advantages of <a href="{{ route('slip-disc') }}">laser treatment for slip disc</a> or a herniated disc:</p>
                             <ul>

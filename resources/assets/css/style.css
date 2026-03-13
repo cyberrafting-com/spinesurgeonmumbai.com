@@ -4129,7 +4129,7 @@ img.gal-img {
 
 .blog-profile-details img {
     padding-top: -28px;
-    padding-bottom: 20px !important;
+    /* padding-bottom: 20px !important; */
 }
 
 .blog-profile a img {
