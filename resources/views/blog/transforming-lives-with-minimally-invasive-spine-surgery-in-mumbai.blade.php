@@ -101,12 +101,12 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
       <!-- Doctor Profile -->
       <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
         <div class="blog-profile">
-          <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+          <img id="blog-profile-img" src="{{ asset('/resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
           <h3>Dr. Vishal Kundnani</h3>
           <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
           <p class="bold-text">Leading spine surgeon using advanced 3D printed implants and minimally invasive techniques for precision spine surgery.</p>
-          <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-          <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+          <a href="tel:+919619100123"><img src="{{ asset('/resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
+          <a href="{{ route('contact') }}"><img src="{{ asset('/resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
         </div>
       </div>
 
@@ -161,7 +161,7 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
           <!-- Non-Surgical Care -->
           <div class="sec-blog-design pt-5">
             <div class="text-center mb-4">
-              <img src="{{ asset('resources/assets/img/blog/Non-Surgical-Spine-Care.png') }}" class="img-responsive" alt="Non-Surgical Spine Care" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+              <img src="{{ asset('/resources/assets/img/blog/Non-Surgical-Spine-Care.png') }}" class="img-responsive" alt="Non-Surgical Spine Care" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
             </div>
             <h2>Non-Surgical Spine Care</h2>
             <ul class="icon-bullet-list">
@@ -190,7 +190,7 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
           <!-- Diagnosis & Treatment -->
           <div class="sec-blog-design pt-5">
             <div class="text-center mb-4">
-              <img src="{{ asset('resources/assets/img/blog/Diagnosis-&-Treatment-Options.png') }}" class="img-responsive" alt="Diagnosis & Treatment Options" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+              <img src="{{ asset('/resources/assets/img/blog/Diagnosis-&-Treatment-Options.png') }}" class="img-responsive" alt="Diagnosis & Treatment Options" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
             </div>
             <h2>Diagnosis & Treatment Options</h2>
             <h3>Diagnosis</h3>

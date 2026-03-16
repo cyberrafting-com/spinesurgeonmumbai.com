@@ -132,12 +132,12 @@ Advanced spine care in Mumbai by Dr Vishal Kundnani with minimally invasive, rob
       <!-- Doctor Profile -->
       <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
         <div class="blog-profile">
-          <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+          <img id="blog-profile-img" src="{{ asset('/resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
           <h3>Dr. Vishal Kundnani</h3>
           <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
           <p class="bold-text">Leading spine surgeon using advanced 3D printed implants and minimally invasive techniques for precision spine surgery.</p>
-          <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-          <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+          <a href="tel:+919619100123"><img src="{{ asset('/resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
+          <a href="{{ route('contact') }}"><img src="{{ asset('/resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
         </div>
       </div>
 
@@ -172,7 +172,7 @@ Advanced spine care in Mumbai by Dr Vishal Kundnani with minimally invasive, rob
               <li>Robotic & Navigation-Guided Surgery: Unmatched accuracy in complex spinal reconstructions.</li>
             </ul>
             <div class="text-center mb-4">
-              <img src="{{ asset('resources/assets/img/blog/Understanding-Spine-Problems-Causes-&-Early-Warning-Signs.png') }}" class="img-responsive" alt="Understanding Spine Problems: Causes & Early Warning Signs" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+              <img src="{{ asset('/resources/assets/img/blog/Understanding-Spine-Problems-Causes-&-Early-Warning-Signs.png') }}" class="img-responsive" alt="Understanding Spine Problems: Causes & Early Warning Signs" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
             </div>
             <h3>Early Warning Signs:</h3>
             <ul class="icon-bullet-list">
@@ -214,7 +214,7 @@ Advanced spine care in Mumbai by Dr Vishal Kundnani with minimally invasive, rob
           <div class="sec-blog-design pt-5">
             <h2>Modern Surgical Innovations in Spine Care</h2>
             <div class="text-center mb-4">
-              <img src="{{ asset('resources/assets/img/blog/Modern-Surgical-Innovations-in-Spine-Care.png') }}" class="img-responsive" alt="Modern Surgical Innovations in Spine Care" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+              <img src="{{ asset('/resources/assets/img/blog/Modern-Surgical-Innovations-in-Spine-Care.png') }}" class="img-responsive" alt="Modern Surgical Innovations in Spine Care" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
             </div>
             <h3>1. Minimally Invasive Spine Surgery (MISS)</h3>
             <p>Small incisions, reduced muscle damage, minimal blood loss, and faster recovery make MISS a preferred approach for many spine conditions.</p>

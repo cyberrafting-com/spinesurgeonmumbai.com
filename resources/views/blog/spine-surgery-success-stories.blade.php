@@ -81,7 +81,7 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
             <!-- Doctor Profile Left -->
             <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                 <div class="blog-profile text-center">
-                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-fluid rounded-circle mb-3">
+                    <img src="{{ asset('/resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-fluid rounded-circle mb-3">
                     <h3>Dr. Vishal Kundnani</h3>
                     <span>MS (Ortho) FASSI, FNUS, FNAMS</span><br>
                     <p class="bold-text mt-2">
@@ -91,10 +91,10 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
                         <a href="{{ route('spinal-fusion') }}">spinal fusion</a>, and complex spine deformities.
                     </p>
                     <a href="tel:+919619100123" class="d-block mb-2">
-                        <img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal" class="img-fluid">
+                        <img src="{{ asset('/resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal" class="img-fluid">
                     </a>
                     <a href="{{ route('contact') }}" class="d-block">
-                        <img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-fluid">
+                        <img src="{{ asset('/resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-fluid">
                     </a>
                 </div>
             </div>
@@ -132,7 +132,7 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
                         <div class="mb-5">
                             <h2>Story 1 – Lumbar Decompression & Fusion (MIS)</h2>
                             <!-- <div class="text-center mb-4">
-                                <img src="{{ asset('resources/assets/img/blog/Lumbar-Decompression-&-Fusion-(MIS).png') }}" class="img-responsive" alt="Lumbar Decompression & Fusion (MIS)" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+                                <img src="{{ asset('/resources/assets/img/blog/Lumbar-Decompression-&-Fusion-(MIS).png') }}" class="img-responsive" alt="Lumbar Decompression & Fusion (MIS)" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
                             </div> -->
                             <p><strong>Patient Profile:</strong> Mr. Ramesh Sharma, 52-year-old corporate professional, Mumbai.</p>
                             <p>
