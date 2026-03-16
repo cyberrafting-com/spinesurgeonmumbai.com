@@ -171,6 +171,9 @@ Advanced spine care in Mumbai by Dr Vishal Kundnani with minimally invasive, rob
               <li><a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}">Endoscopic Spine Surgery</a>: Ultra-precise techniques for herniated discs and spinal stenosis.</li>
               <li>Robotic & Navigation-Guided Surgery: Unmatched accuracy in complex spinal reconstructions.</li>
             </ul>
+            <div class="text-center mb-4">
+              <img src="{{ asset('resources/assets/img/blog/Understanding-Spine-Problems-Causes-&-Early-Warning-Signs.png') }}" class="img-responsive" alt="Understanding Spine Problems: Causes & Early Warning Signs" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+            </div>
             <h3>Early Warning Signs:</h3>
             <ul class="icon-bullet-list">
               <li>Pain lasting more than 4–6 weeks</li>
@@ -210,6 +213,9 @@ Advanced spine care in Mumbai by Dr Vishal Kundnani with minimally invasive, rob
 
           <div class="sec-blog-design pt-5">
             <h2>Modern Surgical Innovations in Spine Care</h2>
+            <div class="text-center mb-4">
+              <img src="{{ asset('resources/assets/img/blog/Modern-Surgical-Innovations-in-Spine-Care.png') }}" class="img-responsive" alt="Modern Surgical Innovations in Spine Care" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+            </div>
             <h3>1. Minimally Invasive Spine Surgery (MISS)</h3>
             <p>Small incisions, reduced muscle damage, minimal blood loss, and faster recovery make MISS a preferred approach for many spine conditions.</p>
             <h3>2. Endoscopic Spine Surgery</h3>

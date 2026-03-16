@@ -160,6 +160,9 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
 
           <!-- Non-Surgical Care -->
           <div class="sec-blog-design pt-5">
+            <div class="text-center mb-4">
+              <img src="{{ asset('resources/assets/img/blog/Non-Surgical-Spine-Care.png') }}" class="img-responsive" alt="Non-Surgical Spine Care" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+            </div>
             <h2>Non-Surgical Spine Care</h2>
             <ul class="icon-bullet-list">
               <li>Guided <a href="{{ route('physiotherapy-in-spine') }}">physiotherapy</a> for postural pain</li>
@@ -186,6 +189,9 @@ Expert spine care in Mumbai with Dr. Vishal Kundnani at Bombay & Lilavati Hospit
 
           <!-- Diagnosis & Treatment -->
           <div class="sec-blog-design pt-5">
+            <div class="text-center mb-4">
+              <img src="{{ asset('resources/assets/img/blog/Diagnosis-&-Treatment-Options.png') }}" class="img-responsive" alt="Diagnosis & Treatment Options" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+            </div>
             <h2>Diagnosis & Treatment Options</h2>
             <h3>Diagnosis</h3>
             <ul class="icon-bullet-list">

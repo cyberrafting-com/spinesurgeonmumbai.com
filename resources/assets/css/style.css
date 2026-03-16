@@ -3940,13 +3940,16 @@ Gallery
 .gallery1 h1 {
     font-size: 18px;
     color: #fff;
-    line-height: 30px;
+    line-height: 24px;
     background: #1b6aaa;
     padding: 10px 5px;
     text-align: center;
     font-family: "Playfair Display", serif;
     margin: 0px;
-    height: 85px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .gallery2 h1 {

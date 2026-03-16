@@ -67,48 +67,29 @@ Mumbai')
     <div class="container">
 
         <div class="row">
-
-            <div class="col-lg-4 col-mg-4 col-sm-6">
-                <div class="gallery1">
-                    <iframe width="100%" height="200"
-                        src="https://www.youtube.com/embed/zBnFEebk1jc" title="YouTube video player"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowfullscreen></iframe>
-                    <h1>Understanding Sciatica: Causes, Symptoms, and Treatment Options | Dr. Sarthak Kadakia</h1>
-                </div>
-            </div>
-            <div class="col-lg-4 col-mg-4 col-sm-6">
-                <div class="gallery1">
-                    <iframe width="100%" height="200"
-                        src="https://www.youtube.com/embed/Jrw5w5cEysI?si=rd2GcxE1tnQxubDC" title="YouTube video player"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowfullscreen></iframe>
-                    <h1>A woman who blazed the trail for many- Patient's success story at SPINE CLINIC Mumbai</h1>
-                </div>
-            </div>
-            <div class="col-lg-4 col-mg-4 col-sm-6">
-                <div class="gallery1">
-                    <iframe width="100%" height="200"
-                        src="https://www.youtube.com/embed/a9G1aO-8R0s?si=94Se7BVDcTrWfqqv" title="YouTube video player"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowfullscreen></iframe>
-                    <h1>Know your Spine webinar by Champ Care. Dr Saijyot Raut</h1>
-                </div>
-            </div>
-        </div>
-        <div class="row">
             <div class="col-lg-12">
-                <div class="modern-divider"></div>
-            </div>
-        </div>
-
-        <div class="row" style="margin-bottom: 30px;">
-            <div class="col-lg-12">
-                <div class="drtoafndrbs">
+                <!-- <div class="drtoafndrbs">
                     <h2 class="video-section-title">Educational Shorts</h2>
+                </div> -->
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
+                        src="https://youtube.com/embed/no3RqdJ_sdo?si=IRbDJCnWqZDv-vLL" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Debunking Myths About Spine Surgery | Dr. Vishal Kundnani</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
+                        src="https://youtube.com/embed/Ai0VCfxYL40?si=fL5-M-46mpAPsxE9" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>When Should You See a Spine Surgeon? | Back Pain & Neck Pain Treatment Explained</h1>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6">
@@ -139,6 +120,74 @@ Mumbai')
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe>
                     <h1>The BEST Sleeping Position for Spine Health | Dr. Vishal Kundnani</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="modern-divider"></div>
+            </div>
+        </div>
+
+        <div class="row">
+             <div class="col-lg-4 col-mg-4 col-sm-6">
+                <div class="gallery1">
+                    <iframe width="100%" height="200"
+                        src="https://www.youtube.com/embed/2jgF1q24q58?si=EOtnB622lHFJ6WxP" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Spondylolisthesis</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-mg-4 col-sm-6">
+                <div class="gallery1">
+                    <iframe width="100%" height="200"
+                        src="https://www.youtube.com/embed/O-gAz_a9D6c?si=nU_rXoypVdA55BQn" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>How Neck Pain Begins</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-mg-4 col-sm-6">
+                <div class="gallery1">
+                    <iframe width="100%" height="200"
+                        src="https://www.youtube.com/embed/otwjzLsBOSM?si=CTdGJpFu2JtsxJK3" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>𝗖𝗲𝗻𝘁𝗿𝗮𝗹 𝗜𝗻𝗱𝗶𝗮'𝘀 𝗟𝗮𝗿𝗴𝗲𝘀𝘁 Spine and Orthopaedic 𝗙𝗿𝗲𝗲 𝗛𝗲𝗮𝗹𝘁𝗵 𝗖𝗮𝗺𝗽 | Dr. Vishal Kundnani</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-mg-4 col-sm-6">
+                <div class="gallery1">
+                    <iframe width="100%" height="200"
+                        src="https://www.youtube.com/embed/zBnFEebk1jc" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Understanding Sciatica: Causes, Symptoms, and Treatment Options | Dr. Sarthak Kadakia</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-mg-4 col-sm-6">
+                <div class="gallery1">
+                    <iframe width="100%" height="200"
+                        src="https://www.youtube.com/embed/Jrw5w5cEysI?si=rd2GcxE1tnQxubDC" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>A woman who blazed the trail for many- Patient's success story at SPINE CLINIC Mumbai</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-mg-4 col-sm-6">
+                <div class="gallery1">
+                    <iframe width="100%" height="200"
+                        src="https://www.youtube.com/embed/a9G1aO-8R0s?si=94Se7BVDcTrWfqqv" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Know your Spine webinar by Champ Care. Dr Saijyot Raut</h1>
                 </div>
             </div>
         </div>

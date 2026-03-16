@@ -131,6 +131,9 @@ Read real-life spine surgery success stories from patients treated by Dr. Vishal
                         <!-- Story 1 -->
                         <div class="mb-5">
                             <h2>Story 1 – Lumbar Decompression & Fusion (MIS)</h2>
+                            <!-- <div class="text-center mb-4">
+                                <img src="{{ asset('resources/assets/img/blog/Lumbar-Decompression-&-Fusion-(MIS).png') }}" class="img-responsive" alt="Lumbar Decompression & Fusion (MIS)" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+                            </div> -->
                             <p><strong>Patient Profile:</strong> Mr. Ramesh Sharma, 52-year-old corporate professional, Mumbai.</p>
                             <p>
                                 "For over two years, I had been living with constant lower back pain and sharp, shooting pain down my right leg. Sitting at work, driving, and even sleeping became unbearable. I tried medications, physiotherapy, and rest, but nothing brought lasting relief. The pain affected my productivity and my mood, leaving me frustrated and hopeless."
