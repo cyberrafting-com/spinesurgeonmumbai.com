@@ -152,6 +152,9 @@ Relieve back pain, sciatica, and spinal deformities with Dr. Vishal Kundnani at 
                                 <li style="list-style-type: disc; padding: 5px 0;"><b>Advanced surgical correction:</b> Scoliosis and multi-level spinal deformity correction</li>
                                 <li style="list-style-type: disc; padding: 5px 0;"><b>Personalised rehabilitation:</b> Post-op physiotherapy and follow-ups</li>
                             </ul>
+                            <div class="text-center mb-4">
+                                <img src="{{ asset('/resources/assets/img/blog/Understanding-Spine-Conditions.png') }}" class="img-responsive" alt="Understanding Spine Conditions" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+                            </div>
                         </div>
 
                         <div class="sec-blog-design pt-5">

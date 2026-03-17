@@ -89,12 +89,12 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
 
             <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                 <div class="blog-profile">
-                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                    <img src="{{ asset('/resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
                     <h3>Dr. Vishal Kundnani</h3>
                     <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                     <p class="bold-text">Dedicated <a href="{{ route('back-pain') }}">back pain</a> specialist and spine surgeon in Mumbai.</p>
-                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                    <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                    <a href="tel:+919619100123"><img src="{{ asset('/resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
+                    <a href="{{ route('contact') }}"><img src="{{ asset('/resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
                 </div>
             </div>
 
@@ -140,6 +140,9 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
 
                     <div class="sec-blog-design pt-5">
                         <h2>Common Causes of Lower Back Pain</h2>
+                        <div class="text-center mb-4">
+                            <img src="{{ asset('/resources/assets/img/blog/Common-Causes-of-Lower-Back-Pain.png') }}" class="img-responsive" alt="Common Causes of Lower Back Pain" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 75%;">
+                        </div>
 
                         <p><b>1. Muscle Strain or Ligament Sprain</b></p>
                         <ul>

@@ -72,6 +72,16 @@ Mumbai')
                     <h2 class="video-section-title">Educational Shorts</h2>
                 </div> -->
             </div>
+               <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
+                        src="https://youtube.com/embed/tQlIAg3Ojwo?si=TaxALE6F7w-He2PP" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Is spine surgery necessary? Learn about the right treatment and timely diagnosis</h1>
+                </div>
+            </div>
             <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
