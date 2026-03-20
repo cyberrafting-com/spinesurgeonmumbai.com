@@ -71,8 +71,18 @@ Mumbai')
                 <!-- <div class="drtoafndrbs">
                     <h2 class="video-section-title">Educational Shorts</h2>
                 </div> -->
+                </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
+                        src="https://youtube.com/embed/4SQwabtwpM4?si=uyWqU1IUg2X4tzg8" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>When to Visit a Spine Specialist for Back & Neck Pain | Warning Signs | Dr. Vishal Kundnani</h1>
+                </div>
             </div>
-               <div class="col-lg-4 col-md-4 col-sm-6">
+            <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
                         src="https://youtube.com/embed/tQlIAg3Ojwo?si=TaxALE6F7w-He2PP" title="YouTube video player"
