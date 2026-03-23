@@ -141,6 +141,15 @@ Back pain warning signs explained by Dr. Vishal Kundnani – consult India's bes
                                 <img class="blog-hero-img" src="{{ asset('resources\assets\img\blog\back-pain-warning-signs.png') }}" alt="Back Pain Warning Signs – When to See a Spine Surgeon">
                                 <p>Back pain is common, but certain symptoms may indicate a serious spine problem requiring immediate medical attention. Persistent or severe pain, numbness, weakness, or bladder/bowel issues can signal <a href="{{ route('spinal-stenosis-treatment-mumbai') }}">spinal nerve compression</a>, <a href="{{ route('herniated-disc') }}">disc herniation</a>, <a href="{{ route('spinal-stenosis-treatment-mumbai') }}">stenosis</a>, infection, or even <a href="{{ route('osteoporosis-spine-fractures-india') }}">fractures</a>.</p>
                                 <p>Early evaluation prevents complications, ensures accurate diagnosis, and leads to timely treatment that protects long-term spinal health. <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>—one of India's leading spine surgeons—offers comprehensive evaluation and both non-surgical and <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive solutions</a> for advanced spine conditions.</p>
+
+                                <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                                    <iframe width="100%" height="550"
+                                        src="https://youtube.com/embed/4SQwabtwpM4?si=uyWqU1IUg2X4tzg8" title="YouTube video player"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                        allowfullscreen></iframe>
+                                    <h1 style="color: #ffffff; text-align: center;">When to Visit a Spine Specialist for Back & Neck Pain | Warning Signs | Dr. Vishal Kundnani</h1>
+                                </div>
                             </div>
                         </div>
 

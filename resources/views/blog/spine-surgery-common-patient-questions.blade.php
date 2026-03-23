@@ -117,6 +117,15 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                             Here are 20 of the most searched spine surgery questions,
                             answered simply and honestly by spine specialists. For a comprehensive list of conditions we treat, please visit our <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">conditions page</a>.
                         </p>
+
+                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                            <iframe width="100%" height="550"
+                                src="https://youtube.com/embed/tQlIAg3Ojwo?si=TaxALE6F7w-He2PP" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <h1 style="color: #ffffff; text-align: center;">Is spine surgery necessary? Learn about the right treatment and timely diagnosis</h1>
+                        </div>
                     </div>
 
                     <!-- FAQ -->
