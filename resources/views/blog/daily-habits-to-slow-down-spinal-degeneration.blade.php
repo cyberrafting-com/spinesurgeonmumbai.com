@@ -96,6 +96,15 @@ Discover effective daily habits for spine health to slow spinal degeneration, pr
                                 <li style="list-style-type: disc; padding: 5px 0;">With respect to the spine prevention from cumulative stress and to put it in layman's terms, no spinal degeneration.</li>
                             </ul>
 
+                            <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                                <iframe width="100%" height="550"
+                                    src="https://youtube.com/embed/tJPuhHIMbT4?si=b3khWOfvFDrPp0ZN" title="YouTube video player"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen></iframe>
+                                <h1 style="color: #ffffff; text-align: center;">Standing Desk Benefits for Spine Health: Tips from Spine Surgeon | Dr. Vishal Kundnani</h1>
+                            </div>
+
                             <h3 class="pt-3"><b>7. Include Supportive Shoes</b></h3>
                             <div class="text-center mb-4">
                                 <img src="{{ asset('resources/assets/img/blog/7.-Include-Supportive -Shoes.png') }}" class="img-responsive" alt="7. Include Supportive Shoes" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
