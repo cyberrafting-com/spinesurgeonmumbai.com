@@ -104,6 +104,15 @@ Discover the truth about scoliosis with expert insights that debunk common myths
                             </div>
                         </div>
 
+                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                            <iframe width="100%" height="550"
+                                src="https://youtube.com/embed/G-bhafey_5Y?si=7Xe8Y0soESAISHu9" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <h1 style="color: #ffffff; text-align: center;">Spine Surgery Myths & Facts in Hindi | रीढ़ की हड्डी की सर्जरी से जुड़े मिथक | Dr Vishal Kundnani</h1>
+                        </div>
+
                         <div class="sec-blog-design pt-5">
                             <h2>Myth 1: Scoliosis is Caused by Poor Posture</h2>
                             <p>If someone has been told that bad posture causes scoliosis, they have been misled.</p>
