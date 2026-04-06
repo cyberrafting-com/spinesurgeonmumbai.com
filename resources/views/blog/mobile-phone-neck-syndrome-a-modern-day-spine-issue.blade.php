@@ -101,6 +101,15 @@ Mobile phone neck syndrome is rising due to excessive smartphone use. Learn abou
                             <p>Minimally invasive spine surgery in locations with disc prolapse or nerve compression is sometimes required in critical cases. India has now become an eminent choice for <a href="{{ route('spondylosis') }}">cervical spondylosis treatment India</a> among its patients for its excellent technology and highly skilled manpower. Mumbai has <a href="{{ route('advanced-spine-surgery-mumbai-dr-vishal-kundnani') }}">advanced spine care</a> setups such as hospitals that combine surgical as well as non-surgical care.</p>
                         </div>
 
+                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                            <iframe width="100%" height="550"
+                                src="https://youtube.com/embed/ZOo2j_uxiMs?si=snJbEd1a3gKY1Boa" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <h1 style="color: #ffffff; text-align: center;">Desk Job Exercises for Spine Health | ડેસ્ક જૉબ માટે સ્પાઇન અને પોસ્ટર વ્યાયામ | Dr. Aditi Tanna</h1>
+                        </div>
+
                         <div class="sec-blog-design pt-5">
                             <h2><b>Conclusion</b></h2>
                             <p>It has grown from a minor discomfort to a major spinal health issue of the digital age. Recognizing the early signs of tech neck and its therapy is paramount in providing care to avoid and prevent complications such as cervical spondylosis and the accompanying nerve root pain.</p>

@@ -75,6 +75,16 @@ Mumbai')
             <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
+                        src="https://youtube.com/embed/ZOo2j_uxiMs?si=snJbEd1a3gKY1Boa" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Desk Job Exercises for Spine Health | ડેસ્ક જૉબ માટે સ્પાઇન અને પોસ્ટર વ્યાયામ | Dr. Aditi Tanna</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
                         src="https://youtube.com/embed/G-bhafey_5Y?si=7Xe8Y0soESAISHu9" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
