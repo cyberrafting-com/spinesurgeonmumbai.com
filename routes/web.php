@@ -1029,6 +1029,11 @@ Route::get('/spinal-degeneration-prevention', function () {
     return redirect()->route('daily-habits-to-slow-down-spinal-degeneration');
 });
 
+Route::get('/desk-job-exercises-for-spine-health', function () {
+    return view('blog.Desk-Job-Exercises-for-Spine-Health');
+})->name('desk-job-exercises-for-spine-health');
+
+
 
 
 

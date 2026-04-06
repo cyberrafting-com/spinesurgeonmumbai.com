@@ -31,7 +31,7 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
                                 <h1><b>Laser Spine Surgery: Is It Safe and Effective?</b></h1>
                                 <img class="blog-hero-img" src="{{ asset('/resources/assets/img/blog/Laser-spine-surgery-in-India.png') }}" alt="Laser Spine Surgery: Is It Safe and Effective?">
 
-                                <p>Several medical conditions, like herniated discs and severe spinal pain, affect millions of people all over the world. Conventional spine surgeries, while effective, usually involve large incisions, a prolonged time of recovery, and some possible risks of complications. It is only in the last decade that <a href="{{ route('laser-spine-surgery-india') }}">laser surgery on the spine in India</a> has proven to emerge as an alternative that is minimally invasive and allows the patient a better, quicker, and more precise ending. But the question is, is laser surgery on the spine safe, and how effective is it in various spinal conditions?</p>
+                                <p>Several medical conditions, like <a href="{{ route('herniated-disc') }}">herniated discs</a> and severe <a href="{{ route('back-pain') }}">spinal pain</a>, affect millions of people all over the world. Conventional spine surgeries, while effective, usually involve large incisions, a prolonged time of recovery, and some possible risks of complications. It is only in the last decade that <a href="{{ route('laser-spine-surgery-india') }}">laser surgery on the spine in India</a> has proven to emerge as an alternative that is minimally invasive and allows the patient a better, quicker, and more precise ending. But the question is, is laser surgery on the spine safe, and how effective is it in various spinal conditions?</p>
                             </div>
                         </div>
 
@@ -67,7 +67,7 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
                                 <li style="list-style-type: disc; padding: 5px 0;">Improved mobility and greater flexibility</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Rapid Return to Regular Activities</li>
                             </ul>
-                            <p>Laser spine surgery provides faster recovery time compared to conventional surgery. Traditional surgery requires many months or even weeks of rehabilitation before the patient can resume his/her activities. With laser spine surgery, patients are able to start ambulating and getting back to their normal living in a shorter timeframe. It was a boon to all those patients who had to take painkillers regularly or undergo prolonged physiotherapy on account of slipped disc/herniated disc.</p>
+                            <p>Laser spine surgery provides faster recovery time compared to conventional surgery. Traditional surgery requires many months or even weeks of rehabilitation before the patient can resume his/her activities. With laser spine surgery, patients are able to start ambulating and getting back to their normal living in a shorter timeframe. It was a boon to all those patients who had to take painkillers regularly or undergo prolonged <a href="{{ route('physiotherapy-in-spine') }}">physiotherapy</a> on account of <a href="{{ route('slip-disc') }}">slipped disc</a>/herniated disc.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -94,7 +94,7 @@ Learn about laser spine surgery in India, its safety, effectiveness, and benefit
                                 <li style="list-style-type: disc; padding: 5px 0;">Begin slowly with small amounts of activity.</li>
                                 <li style="list-style-type: disc; padding: 5px 0;">Avoid heavy lifting or strenuous activities during the initial recovery period.</li>
                             </ul>
-                            <p>Following these guidelines allows patients to minimize the risk of surgical complications and the long-term health of their spine.</p>
+                            <p>Following these guidelines allows patients to minimize the risk of <a href="{{ route('is-spine-surgery-safe-india') }}">surgical complications</a> and the long-term health of their spine.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">

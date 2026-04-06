@@ -36,6 +36,18 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
             <!-- latest blogs start -->
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('desk-job-exercises-for-spine-health') }}">
+                        <img src="{{ asset('/resources/assets/img/blog/Desk-Job-Exercises-for-Spine-Health.png') }}" alt="Desk Job Exercises for Spine Health">
+                        <h1>
+                            Desk Job Exercises for Spine Health
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+
+                <div class="gallery">
                     <a href="{{ route('daily-habits-to-slow-down-spinal-degeneration') }}">
                         <img src="{{ asset('/resources/assets/img/blog/spinal-degeneration-prevention.png') }}" alt="Daily Habits to Slow Down Spinal Degeneration">
                         <h1>
