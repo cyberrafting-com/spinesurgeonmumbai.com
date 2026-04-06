@@ -29,8 +29,8 @@ Spending long hours at a desk can take a toll on your spine. Learn simple desk j
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1><b>Desk Job Exercises for Spine Health</b></h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/Desk-Job-Exercises-for-Spine-Health.png') }}" alt="Desk Job Exercises for Spine Health">
-                                <p>Spending long hours at a desk can take a toll on your spine, especially when you have to sit for extended periods. This can lead to poor posture, <a href="{{ route('back-pain') }}">back pain</a>, and other spine-related issues. However, incorporating simple <a href="{{ route('exercises') }}">exercises</a> into your daily routine can help alleviate discomfort, improve posture, and maintain spine health.</p>
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/Desk-Job-Exercises-for-Spine-Health.png') }}" alt="Desk Job Exercises for Spine Health" style="max-height: 500px; width: auto; margin: 0 auto;">
+                                <p>Spending long hours at a desk can take a toll on your spine, especially when you have to sit for extended periods. This can lead to poor posture, <a href="{{ route('back-pain') }}">back pain</a>, and other spine-related issues. However, incorporating simple exercises into your daily routine can help alleviate discomfort, improve posture, and maintain spine health.</p>
                             </div>
                         </div>
 
@@ -55,7 +55,7 @@ Spending long hours at a desk can take a toll on your spine. Learn simple desk j
                             <p>Sit upright and place your hands on your knees. Inhale and arch your back (Cow), then exhale and round your back (Cat). Repeat this stretch 5-10 times to help improve spinal flexibility and reduce <a href="{{ route('back-pain') }}">lower back stiffness</a>.</p>
 
                             <h3 class="pt-3"><b>Seated Forward Bend</b></h3>
-                            <p>While seated, extend your legs straight out in front of you, keeping your feet flat. Slowly hinge at the hips and reach your hands toward your feet. Hold for 15-30 seconds. This stretch helps to elongate the spine and release tension in the <a href="{{ route('back-pain') }}">lower back</a> and hamstrings.</p>
+                            <p>While seated, extend your legs straight out in front of you, keeping your feet flat. Slowly hinge at the hips and reach your hands toward your feet. Hold for 15-30 seconds. This stretch helps to elongate the spine and release tension in the lower back and hamstrings.</p>
 
                             <h3 class="pt-3"><b>Chair Squats</b></h3>
                             <p>Stand in front of your chair with your feet shoulder-width apart. Slowly lower your body, as though you were going to sit down, but stop just before you reach the chair. Hold for a few seconds, then return to a standing position. This <a href="{{ route('exercises') }}">exercise</a> helps strengthen the legs and support the spine.</p>
@@ -64,7 +64,7 @@ Spending long hours at a desk can take a toll on your spine. Learn simple desk j
                             <p>Spending time typing or using a mouse can cause wrist strain. Stretch your wrists and fingers by extending your arm in front of you and gently pulling back on your fingers with the other hand. Hold for 15-30 seconds on each hand.</p>
 
                             <h3 class="pt-3"><b>Pelvic Tilts</b></h3>
-                            <p>While seated, place your feet flat on the floor and gently tilt your pelvis forward and backward. This small movement can help activate the <a href="{{ route('back-pain') }}">lower back</a> and <a href="{{ route('patient-education') }}">improve posture</a>.</p>
+                            <p>While seated, place your feet flat on the floor and gently tilt your pelvis forward and backward. This small movement can help activate the lower back and <a href="{{ route('patient-education') }}">improve posture</a>.</p>
                         </div>
 
                         <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
@@ -81,18 +81,18 @@ Spending long hours at a desk can take a toll on your spine. Learn simple desk j
                             <ul>
                                 <li style="list-style-type: disc; padding: 5px 0;"><b>Proper Desk Setup:</b> Ensure that your desk, chair, and computer are set up to promote good posture. Your screen should be at eye level, your shoulders should be relaxed, and your knees should be at a 90-degree angle when sitting.</li>
                                 <li style="list-style-type: disc; padding: 5px 0;"><b>Take Frequent Breaks:</b> Stand up, walk around, and stretch every 30 to 60 minutes to reduce the strain on your spine.</li>
-                                <li style="list-style-type: disc; padding: 5px 0;"><b>Strengthen Core Muscles:</b> Incorporate core-strengthening <a href="{{ route('exercises') }}">exercises</a> into your routine to support your spine and improve posture.</li>
+                                <li style="list-style-type: disc; padding: 5px 0;"><b>Strengthen Core Muscles:</b> Incorporate core-strengthening exercises into your routine to support your spine and improve posture.</li>
                             </ul>
                         </div>
 
                         <div class="sec-blog-design pt-5">
                             <h2><b>When to Seek Professional Help</b></h2>
-                            <p>If you’re experiencing chronic back pain, neck pain, or discomfort despite doing exercises, it might be time to consult a spine specialist. Conditions like <a href="{{ route('herniated-disc') }}">herniated discs</a>, <a href="{{ route('sciatica') }}">sciatica</a>, or <a href="{{ route('degenerative-disc-disease') }}">degenerative disc disease</a> may require medical attention.</p>
+                            <p>If you’re experiencing chronic back pain, neck pain, or discomfort despite doing exercises, it might be time to consult a spine specialist. Conditions like herniated discs, <a href="{{ route('sciatica') }}">sciatica</a>, or <a href="{{ route('degenerative-disc-disease') }}">degenerative disc disease</a> may require medical attention.</p>
                         </div>
 
                         <div class="sec-blog-design pt-5">
                             <h2><b>Consult Dr. Vishal Kundnani for Spine Health</b></h2>
-                            <p>If you’re experiencing persistent <a href="{{ route('back-pain') }}">back</a> or <a href="{{ route('neck-pain') }}">neck pain</a> and need expert advice, consider consulting <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, a leading <a href="{{ route('minimal-invasive-spine-surgery') }}">Minimal Invasive Spine Surgery</a> Specialist. Dr. Kundnani specializes in Cervical Spine and <a href="{{ route('scoliosis') }}">Scoliosis Surgery</a>, <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}">Microendoscopic Spine Surgery</a>, and is the Director & Head of Spine Surgery at the Center of Excellence in Spine Surgery, Lilavati Hospital, Bandra, Mumbai.</p>
+                            <p>If you’re experiencing persistent back or <a href="{{ route('neck-pain') }}">neck pain</a> and need expert advice, consider consulting <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, a leading <a href="{{ route('minimal-invasive-spine-surgery') }}">Minimal Invasive Spine Surgery</a> Specialist. Dr. Kundnani specializes in Cervical Spine and <a href="{{ route('scoliosis') }}">Scoliosis Surgery</a>, <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}">Microendoscopic Spine Surgery</a>, and is the Director & Head of Spine Surgery at the Center of Excellence in Spine Surgery, Lilavati Hospital, Bandra, Mumbai.</p>
                         </div>
 
                     </div>
