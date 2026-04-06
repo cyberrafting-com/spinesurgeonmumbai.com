@@ -41,6 +41,15 @@ Spending long hours at a desk can take a toll on your spine. Learn simple desk j
 
                         <div class="sec-blog-design pt-5">
                             <h2><b>Essential Desk Job Exercises for Spine Health</b></h2>
+
+                            <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                                <iframe width="100%" height="550"
+                                    src="https://youtube.com/embed/ZOo2j_uxiMs" title="YouTube video player"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen></iframe>
+                                <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Exercises for Spine Health: Tips from Dr. Vishal Kundnani</h1>
+                            </div>
                             
                             <h3 class="pt-3"><b>Seated Spinal Twist</b></h3>
                             <p>Sit up straight in your chair with your feet flat on the ground. Slowly twist your upper body to the right while keeping your hips forward. Hold for 15-30 seconds and then repeat on the left side. This stretch helps increase spinal mobility and reduces stiffness.</p>
@@ -67,14 +76,6 @@ Spending long hours at a desk can take a toll on your spine. Learn simple desk j
                             <p>While seated, place your feet flat on the floor and gently tilt your pelvis forward and backward. This small movement can help activate the lower back and <a href="{{ route('patient-education') }}">improve posture</a>.</p>
                         </div>
 
-                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
-                            <iframe width="100%" height="550"
-                                src="https://youtube.com/embed/ZOo2j_uxiMs" title="YouTube video player"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
-                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Exercises for Spine Health: Tips from Dr. Vishal Kundnani</h1>
-                        </div>
 
                         <div class="sec-blog-design pt-5">
                             <h2><b>Tips for Maintaining Spine Health at Your Desk</b></h2>
