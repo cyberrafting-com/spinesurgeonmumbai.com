@@ -71,11 +71,11 @@ Mumbai')
                 <!-- <div class="drtoafndrbs">
                     <h2 class="video-section-title">Educational Shorts</h2>
                 </div> -->
-                </div>
+            </div>
             <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
-                        src="https://youtube.com/embed/ZOo2j_uxiMs?si=snJbEd1a3gKY1Boa" title="YouTube video player"
+                        src="https://youtube.com/embed/ZOo2j_uxiMs?si=tbm-IOt8a7E61v3V" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe>
