@@ -84,6 +84,15 @@ Spending long hours at a desk can take a toll on your spine. Learn simple desk j
                                 <li style="list-style-type: disc; padding: 5px 0;"><b>Take Frequent Breaks:</b> Stand up, walk around, and stretch every 30 to 60 minutes to reduce the strain on your spine.</li>
                                 <li style="list-style-type: disc; padding: 5px 0;"><b>Strengthen Core Muscles:</b> Incorporate core-strengthening exercises into your routine to support your spine and improve posture.</li>
                             </ul>
+
+                            <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                                <iframe width="100%" height="550"
+                                    src="https://youtube.com/embed/Wmn4UTE0dO4?si=dDt1P6d_f4RgtH80" title="YouTube video player"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen></iframe>
+                                <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Benefits of Standing Desks for Spine Health: Tips from Spine Surgeon | Dr. Vishal Kundnani</h1>
+                            </div>
                         </div>
 
                         <div class="sec-blog-design pt-5">

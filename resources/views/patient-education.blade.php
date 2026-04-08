@@ -75,6 +75,16 @@ Mumbai')
             <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
+                        src="https://youtube.com/embed/Wmn4UTE0dO4?si=dDt1P6d_f4RgtH80" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Benefits of Standing Desks for Spine Health: Tips from Spine Surgeon | Dr. Vishal Kundnani</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
                         src="https://youtube.com/embed/ZOo2j_uxiMs?si=tbm-IOt8a7E61v3V" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
