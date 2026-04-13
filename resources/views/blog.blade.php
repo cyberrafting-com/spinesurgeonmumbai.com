@@ -33,6 +33,17 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
     <div class="container">
         <div class="row justify-content-center">
 
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ route('correct-sitting-posture-tips-back-neck-pain') }}">
+                        <img src="{{ asset('/resources/assets/img/blog/correct-sitting-posture-tips-back-neck-pain.png') }}" alt="Prevent Back & Neck Pain with Correct Sitting Posture">
+                        <h1>
+                            How to Prevent Back & Neck Pain: Correct Sitting Posture Tips
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
             <!-- latest blogs start -->
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">

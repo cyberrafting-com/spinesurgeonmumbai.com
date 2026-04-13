@@ -1032,8 +1032,7 @@ Route::get('/spinal-degeneration-prevention', function () {
 Route::get('/desk-job-exercises-for-spine-health', function () {
     return view('blog.Desk-Job-Exercises-for-Spine-Health');
 })->name('desk-job-exercises-for-spine-health');
-
-
-
-
+Route::get('/correct-sitting-posture-tips-back-neck-pain', function () {
+    return view('blog.correct-sitting-posture-tips-back-neck-pain');
+})->name('correct-sitting-posture-tips-back-neck-pain');
 
