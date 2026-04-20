@@ -35,6 +35,17 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('when-to-visit-spine-specialist-back-neck-pain-warning-signs') }}">
+                        <img src="{{ asset('/resources/assets/img/blog/when-to-visit-spine-specialist-back-neck-pain-warning-signs.png') }}" alt="When to Visit a Spine Specialist for Back & Neck Pain | Warning Signs">
+                        <h1>
+                            When to Visit a Spine Specialist for Back & Neck Pain | Warning Signs
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('correct-sitting-posture-tips-back-neck-pain') }}">
                         <img src="{{ asset('/resources/assets/img/blog/correct-sitting-posture-tips-back-neck-pain.png') }}" alt="Prevent Back & Neck Pain with Correct Sitting Posture">
                         <h1>

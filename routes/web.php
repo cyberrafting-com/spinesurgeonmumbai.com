@@ -1036,3 +1036,7 @@ Route::get('/correct-sitting-posture-tips-back-neck-pain', function () {
     return view('blog.correct-sitting-posture-tips-back-neck-pain');
 })->name('correct-sitting-posture-tips-back-neck-pain');
 
+Route::get('/when-to-visit-spine-specialist-back-neck-pain-warning-signs', function () {
+    return view('blog.when-to-visit-spine-specialist-back-neck-pain-warning-signs');
+})->name('when-to-visit-spine-specialist-back-neck-pain-warning-signs');
+
