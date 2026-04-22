@@ -72,6 +72,17 @@ Mumbai')
                     <h2 class="video-section-title">Educational Shorts</h2>
                 </div> -->
             </div>
+           
+              <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
+                        src="https://www.youtube.com/embed/IqZCj4Br1x4?si=GfgiT0_sWkmm3rpC" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>4 Simple Exercises for Back Pain Relief | Dr. Aditi Tanna, Spine Clinic Mumbai</h1>
+                </div>
+            </div>
             <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"

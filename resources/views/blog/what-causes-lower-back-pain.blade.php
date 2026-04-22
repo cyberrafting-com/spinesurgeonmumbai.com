@@ -191,6 +191,15 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                                 allowfullscreen></iframe>
                             <h1 style="color: #ffffff; text-align: center;">The BEST Sleeping Position for Spine Health | Dr. Vishal Kundnani</h1>
                         </div>
+
+                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                            <iframe width="100%" height="550"
+                                src="https://www.youtube.com/embed/IqZCj4Br1x4?si=GfgiT0_sWkmm3rpC" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <h1 style="color: #ffffff; text-align: center;">4 Simple Exercises for Back Pain Relief | Dr. Aditi Tanna, Spine Clinic Mumbai</h1>
+                        </div>
                         <div class="modern-divider"></div>
 
                     </div>
