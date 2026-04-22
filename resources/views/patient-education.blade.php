@@ -72,8 +72,27 @@ Mumbai')
                     <h2 class="video-section-title">Educational Shorts</h2>
                 </div> -->
             </div>
-           
-              <div class="col-lg-4 col-md-4 col-sm-6">
+             <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
+                        src="https://www.youtube.com/embed/cPXuPppgf90?si=nDDp39oiCYOHHKIw" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Essential Neck Pain Exercises for Relief & Posture Correction | Dr. Aditi Tanna</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
+                        src="https://www.youtube.com/embed/bdq7JQOn6mY?si=rtZukmrRh39xk-yh" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
                         src="https://www.youtube.com/embed/IqZCj4Br1x4?si=GfgiT0_sWkmm3rpC" title="YouTube video player"

@@ -160,6 +160,15 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                         </ul>
                         <p>Poor posture puts continuous stress on spinal muscles and discs.</p>
 
+                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                            <iframe width="100%" height="550"
+                                src="https://www.youtube.com/embed/cPXuPppgf90?si=nDDp39oiCYOHHKIw" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <h1 style="color: #ffffff; text-align: center;">Essential Neck Pain Exercises for Relief & Posture Correction | Dr. Aditi Tanna</h1>
+                        </div>
+
                         <p><b>3. Slipped Disc (<a href="{{ route('herniated-disc') }}">Herniated Disc</a>)</b></p>
                         <ul>
                             <li style="list-style-type: disc; padding: 5px 0;">The spinal disc bulges out</li>
@@ -244,6 +253,16 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                             <li style="list-style-type: disc; padding: 5px 0;">Rest and activity modification</li>
                             <li style="list-style-type: disc; padding: 5px 0;">Pain-relief medications</li>
                             <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('physiotherapy-in-spine') }}">Physiotherapy</a></li>
+
+                            <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                                <iframe width="100%" height="550"
+                                    src="https://www.youtube.com/embed/bdq7JQOn6mY?si=rtZukmrRh39xk-yh" title="YouTube video player"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen></iframe>
+                                <h1 style="color: #ffffff; text-align: center;">How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani</h1>
+                            </div>
+
                             <li style="list-style-type: disc; padding: 5px 0;">Posture correction</li>
                         </ul>
                         <p><b>Advanced Treatment (If Needed)</b></p>
