@@ -33,13 +33,27 @@ Know the warning signs of back & neck pain that need expert care. Consult Dr. Vi
 
                                 <p><a href="{{ route('back-pain') }}">Back</a> and <a href="{{ route('neck-pain') }}">neck pain</a> are among the most common health complaints today, especially with sedentary lifestyles and long screen hours. While occasional discomfort can be managed with rest and simple exercises, persistent or severe pain should not be ignored. Knowing when to consult a <a href="{{ route('best-spine-surgeon-mumbai') }}">spine specialist</a> can help prevent serious complications and ensure timely treatment.</p>
                                 
-                                <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
-                                    <iframe width="100%" height="550"
-                                        src="https://www.youtube.com/embed/4SQwabtwpM4" title="YouTube video player"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        allowfullscreen></iframe>
-                                    <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Warning Signs of Spine Issues: Tips from Dr. Vishal Kundnani</h1>
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px;">
+                                            <iframe width="100%" height="550"
+                                                src="https://www.youtube.com/embed/4SQwabtwpM4" title="YouTube video player"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                allowfullscreen></iframe>
+                                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Warning Signs of Spine Issues: Tips from Dr. Vishal Kundnani</h1>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px;">
+                                            <iframe width="100%" height="550"
+                                                src="https://www.youtube.com/embed/fnMmYJVTtOQ?si=hacHPun3JnQOAm7D" title="YouTube video player"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                allowfullscreen></iframe>
+                                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">How to Identify Warning Signs of Back and Neck Pain (In Hindi) | Dr. Vishal Kundnani</h1>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
