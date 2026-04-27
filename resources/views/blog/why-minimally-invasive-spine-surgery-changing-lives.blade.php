@@ -58,7 +58,7 @@ Discover how minimally invasive spine surgery in Mumbai delivers precise care, f
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
-                            <h1 style="color: #ffffff; text-align: center;">When Should You Consider Spine Surgery? | Spine Pain Explained | Dr. Vishal Kundnani</h1>
+                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">When Should You Consider Spine Surgery? | Spine Pain Explained | Dr. Vishal Kundnani</h1>
                         </div>
                         <div class="modern-divider"></div>
 

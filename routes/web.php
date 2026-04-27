@@ -635,6 +635,9 @@ Route::get('/best-spine-surgeons-mumbai-2026-editorial-guide', function () {
     return view('blog.best-spine-surgeons-mumbai-2026-editorial-guide');
 })->name('blog.best-spine-surgeons-mumbai-2026-editorial-guide');
 
+Route::get('neck-pain-exercises-relief', function () {
+    return view('blog.Essential-Neck-Pain-Exercises-for-Relief&Posture-Correction–Spine-Clinic-Mumbai');
+})->name('neck-pain-exercises-relief');
 
 // marathi service pages start
 

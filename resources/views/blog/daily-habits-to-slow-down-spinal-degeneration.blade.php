@@ -102,7 +102,7 @@ Discover effective daily habits for spine health to slow spinal degeneration, pr
                                     frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                     allowfullscreen></iframe>
-                                <h1 style="color: #ffffff; text-align: center;">Standing Desk Benefits for Spine Health: Tips from Spine Surgeon | Dr. Vishal Kundnani</h1>
+                                <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Standing Desk Benefits for Spine Health: Tips from Spine Surgeon | Dr. Vishal Kundnani</h1>
                             </div>
 
                             <h3 class="pt-3"><b>7. Include Supportive Shoes</b></h3>

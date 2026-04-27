@@ -124,7 +124,7 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
-                            <h1 style="color: #ffffff; text-align: center;">Is spine surgery necessary? Learn about the right treatment and timely diagnosis</h1>
+                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Is spine surgery necessary? Learn about the right treatment and timely diagnosis</h1>
                         </div>
                     </div>
 

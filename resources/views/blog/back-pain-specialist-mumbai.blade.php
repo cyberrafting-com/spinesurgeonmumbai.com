@@ -170,7 +170,7 @@ Severe back pain? Consult Dr. Vishal Kundnani, leading back pain specialist & sp
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
-              <h1 style="color: #ffffff; text-align: center;">Spine Exercises and Tips for Back Health | Dr. Vishal Kundnani</h1>
+              <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Spine Exercises and Tips for Back Health | Dr. Vishal Kundnani</h1>
             </div>
             <div class="modern-divider"></div>
 

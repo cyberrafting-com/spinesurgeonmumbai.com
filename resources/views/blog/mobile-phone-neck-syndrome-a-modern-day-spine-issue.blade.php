@@ -107,7 +107,7 @@ Mobile phone neck syndrome is rising due to excessive smartphone use. Learn abou
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
-                            <h1 style="color: #ffffff; text-align: center;">Desk Job Exercises for Spine Health | ડેસ્ક જૉબ માટે સ્પાઇન અને પોસ્ટર વ્યાયામ | Dr. Aditi Tanna</h1>
+                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Desk Job Exercises for Spine Health | ડેસ્ક જૉબ માટે સ્પાઇન અને પોસ્ટર વ્યાયામ | Dr. Aditi Tanna</h1>
                         </div>
 
                         <div class="sec-blog-design pt-5">

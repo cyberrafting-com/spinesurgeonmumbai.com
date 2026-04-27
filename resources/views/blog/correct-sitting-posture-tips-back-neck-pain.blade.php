@@ -39,6 +39,7 @@ Learn correct sitting posture tips to prevent back and neck pain. Improve spine 
                                         frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         allowfullscreen></iframe>
+                                    <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">How to Prevent Back & Neck Pain: Correct Sitting Posture Tips</h1>
                                 </div>
                             </div>
                         </div>

@@ -110,7 +110,7 @@ Discover the truth about scoliosis with expert insights that debunk common myths
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
-                            <h1 style="color: #ffffff; text-align: center;">Spine Surgery Myths & Facts in Hindi | रीढ़ की हड्डी की सर्जरी से जुड़े मिथक | Dr Vishal Kundnani</h1>
+                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Spine Surgery Myths & Facts in Hindi | रीढ़ की हड्डी की सर्जरी से जुड़े मिथक | Dr Vishal Kundnani</h1>
                         </div>
 
                         <div class="sec-blog-design pt-5">

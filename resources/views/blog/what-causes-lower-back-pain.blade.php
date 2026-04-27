@@ -166,7 +166,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
-                            <h1 style="color: #ffffff; text-align: center;">Essential Neck Pain Exercises for Relief & Posture Correction | Dr. Aditi Tanna</h1>
+                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Essential Neck Pain Exercises for Relief & Posture Correction | Dr. Aditi Tanna</h1>
                         </div>
 
                         <p><b>3. Slipped Disc (<a href="{{ route('herniated-disc') }}">Herniated Disc</a>)</b></p>
@@ -198,7 +198,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
-                            <h1 style="color: #ffffff; text-align: center;">The BEST Sleeping Position for Spine Health | Dr. Vishal Kundnani</h1>
+                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">The BEST Sleeping Position for Spine Health | Dr. Vishal Kundnani</h1>
                         </div>
 
                         <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
@@ -207,7 +207,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
-                            <h1 style="color: #ffffff; text-align: center;">4 Simple Exercises for Back Pain Relief | Dr. Aditi Tanna, Spine Clinic Mumbai</h1>
+                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">4 Simple Exercises for Back Pain Relief | Dr. Aditi Tanna, Spine Clinic Mumbai</h1>
                         </div>
                         <div class="modern-divider"></div>
 
@@ -260,7 +260,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                                     frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                     allowfullscreen></iframe>
-                                <h1 style="color: #ffffff; text-align: center;">How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani</h1>
+                                <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani</h1>
                             </div>
 
                             <li style="list-style-type: disc; padding: 5px 0;">Posture correction</li>

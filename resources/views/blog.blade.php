@@ -35,6 +35,17 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('neck-pain-exercises-relief') }}">
+                        <img src="{{ asset('/resources/assets/img/blog/Essential-Neck-Pain-Exercises-for-Relief&Posture-Correction–Spine-Clinic-Mumbai.png') }}" alt="Essential Neck Pain Exercises for Relief & Posture Correction – Spine Clinic Mumbai">
+                        <h1>
+                            Essential Neck Pain Exercises for Relief & Posture Correction – Spine Clinic Mumbai
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('when-to-visit-spine-specialist-back-neck-pain-warning-signs') }}">
                         <img src="{{ asset('/resources/assets/img/blog/when-to-visit-spine-specialist-back-neck-pain-warning-signs.png') }}" alt="When to Visit a Spine Specialist for Back & Neck Pain | Warning Signs">
                         <h1>
