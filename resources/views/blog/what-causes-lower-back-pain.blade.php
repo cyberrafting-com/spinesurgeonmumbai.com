@@ -160,14 +160,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                         </ul>
                         <p>Poor posture puts continuous stress on spinal muscles and discs.</p>
 
-                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
-                            <iframe width="100%" height="550"
-                                src="https://www.youtube.com/embed/cPXuPppgf90?si=nDDp39oiCYOHHKIw" title="YouTube video player"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
-                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Essential Neck Pain Exercises for Relief & Posture Correction | Dr. Aditi Tanna</h1>
-                        </div>
+
 
                         <p><b>3. Slipped Disc (<a href="{{ route('herniated-disc') }}">Herniated Disc</a>)</b></p>
                         <ul>
@@ -192,23 +185,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                         </ul>
                         <p>Weak support leads to repeated strain and pain.</p>
 
-                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
-                            <iframe width="100%" height="550"
-                                src="https://www.youtube.com/embed/0cMg-Yu4LlE" title="YouTube video player"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
-                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">The BEST Sleeping Position for Spine Health | Dr. Vishal Kundnani</h1>
-                        </div>
 
-                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
-                            <iframe width="100%" height="550"
-                                src="https://www.youtube.com/embed/IqZCj4Br1x4?si=GfgiT0_sWkmm3rpC" title="YouTube video player"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
-                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">4 Simple Exercises for Back Pain Relief | Dr. Aditi Tanna, Spine Clinic Mumbai</h1>
-                        </div>
                         <div class="modern-divider"></div>
 
                     </div>
@@ -254,14 +231,7 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                             <li style="list-style-type: disc; padding: 5px 0;">Pain-relief medications</li>
                             <li style="list-style-type: disc; padding: 5px 0;"><a href="{{ route('physiotherapy-in-spine') }}">Physiotherapy</a></li>
 
-                            <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
-                                <iframe width="100%" height="550"
-                                    src="https://www.youtube.com/embed/bdq7JQOn6mY?si=rtZukmrRh39xk-yh" title="YouTube video player"
-                                    frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                    allowfullscreen></iframe>
-                                <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani</h1>
-                            </div>
+
 
                             <li style="list-style-type: disc; padding: 5px 0;">Posture correction</li>
                         </ul>
@@ -283,6 +253,39 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                             <li style="list-style-type: disc; padding: 5px 0;">Maintaining healthy weight</li>
                             <li style="list-style-type: disc; padding: 5px 0;">Correct sitting and sleeping posture</li>
                         </ul>
+
+                        <div class="row" style="margin-top: 30px;">
+                            <div class="col-lg-4 col-md-6 col-sm-12">
+                                <div class="gallery1 shorts-card">
+                                    <iframe width="100%" height="550" src="https://www.youtube.com/embed/cPXuPppgf90?si=nDDp39oiCYOHHKIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                    <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Essential Neck Pain Exercises for Relief & Posture Correction | Dr. Aditi Tanna</h1>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-12">
+                                <div class="gallery1 shorts-card">
+                                    <iframe width="100%" height="550" src="https://www.youtube.com/embed/0cMg-Yu4LlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                    <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">The BEST Sleeping Position for Spine Health | Dr. Vishal Kundnani</h1>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-12">
+                                <div class="gallery1 shorts-card">
+                                    <iframe width="100%" height="550" src="https://www.youtube.com/embed/IqZCj4Br1x4?si=GfgiT0_sWkmm3rpC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                    <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">4 Simple Exercises for Back Pain Relief | Dr. Aditi Tanna, Spine Clinic Mumbai</h1>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-12">
+                                <div class="gallery1 shorts-card">
+                                    <iframe width="100%" height="550" src="https://www.youtube.com/embed/bdq7JQOn6mY?si=rtZukmrRh39xk-yh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                    <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani</h1>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-12">
+                                <div class="gallery1 shorts-card">
+                                    <iframe width="100%" height="550" src="https://www.youtube.com/embed/HMmZ1cAdsm4?si=IWklU38y8u5mFowY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                    <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Effective Exercises to Reduce Back Pain in Gujarati| Dr. Aditi Tanna</h1>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                     <div class="sec-blog-design pt-5">
