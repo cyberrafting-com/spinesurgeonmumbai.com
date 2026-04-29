@@ -639,6 +639,10 @@ Route::get('neck-pain-exercises-relief', function () {
     return view('blog.Essential-Neck-Pain-Exercises-for-Relief&Posture-Correction–Spine-Clinic-Mumbai');
 })->name('neck-pain-exercises-relief');
 
+Route::get('spine-anatomy-cervical-thoracic-lumbar-vertebrae-explained', function () {
+    return view('blog.spine-anatomy-cervical-thoracic-lumbar-vertebrae-explained');
+})->name('spine-anatomy-cervical-thoracic-lumbar-vertebrae-explained');
+
 // marathi service pages start
 
 
