@@ -66,6 +66,14 @@ Learn correct sitting posture tips to prevent back and neck pain. Improve spine 
 
                             <h3 class="pt-3"><b>3. Use Proper Chair Support</b></h3>
                             <p>Choose a chair with good lumbar (lower back) support to reduce strain on your spine.</p>
+                            <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                                <iframe width="100%" height="550"
+                                    src="https://youtube.com/embed/b1VYl3IIMhw?si=kLuHTHC6IKY4zZun" title="YouTube video player"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen></iframe>
+                                <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">How to Choose the Best Chair for Back Support | Dr. Vishal Kundnani, Spine Specialist</h1>
+                            </div>
 
                             <h3 class="pt-3"><b>4. Keep Your Feet Flat on the Ground</b></h3>
                             <p>Your feet should rest flat on the floor to maintain proper body alignment.</p>

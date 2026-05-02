@@ -72,7 +72,17 @@ Mumbai')
                     <h2 class="video-section-title">Educational Shorts</h2>
                 </div> -->
             </div>
-               <div class="col-lg-4 col-md-4 col-sm-6">
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
+                        src="https://youtube.com/embed/b1VYl3IIMhw?si=kLuHTHC6IKY4zZun" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>How to Choose the Best Chair for Back Support | Dr. Vishal Kundnani, Spine Specialist</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
                         src="https://www.youtube.com/embed/HMmZ1cAdsm4?si=IWklU38y8u5mFowY" title="YouTube video player"
