@@ -257,6 +257,12 @@ What causes lower back pain? Learn common reasons, symptoms, treatment options, 
                         <div class="row" style="margin-top: 30px;">
                             <div class="col-lg-4 col-md-6 col-sm-12">
                                 <div class="gallery1 shorts-card">
+                                    <iframe width="100%" height="550" src="https://www.youtube.com/embed/JcvVsJfWVb0?si=e_1EeYArJL_KO2qJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                    <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">4 Effective Exercises to Relieve Back Pain in Hindi| Dr. Aditi Tanna</h1>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-12">
+                                <div class="gallery1 shorts-card">
                                     <iframe width="100%" height="550" src="https://www.youtube.com/embed/cPXuPppgf90?si=nDDp39oiCYOHHKIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                     <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Essential Neck Pain Exercises for Relief & Posture Correction | Dr. Aditi Tanna</h1>
                                 </div>

@@ -75,6 +75,16 @@ Mumbai')
             <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
+                        src=" https://www.youtube.com/embed/JcvVsJfWVb0?si=e_1EeYArJL_KO2qJ" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>4 Effective Exercises to Relieve Back Pain in Hindi| Dr. Aditi Tanna</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
                         src="https://www.youtube.com/embed/svh2yBC9-cc?si=JhFQFCkOPkdwXRpF" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
