@@ -75,6 +75,16 @@ Mumbai')
             <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
+                        src="https://www.youtube.com/embed/svh2yBC9-cc?si=JhFQFCkOPkdwXRpF" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Simple Desk Job Exercises for Neck Pain Relief and Healthy Posture | Dr. Aditi Tanna</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
                         src="https://youtube.com/embed/b1VYl3IIMhw?si=kLuHTHC6IKY4zZun" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

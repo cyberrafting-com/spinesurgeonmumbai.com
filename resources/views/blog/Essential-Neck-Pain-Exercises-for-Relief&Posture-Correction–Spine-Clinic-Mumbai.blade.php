@@ -35,13 +35,27 @@ Discover essential neck pain exercises that can relieve discomfort and improve p
                                 <p><a href="{{ route('neck-pain') }}">Neck pain</a> is a common ailment that affects people of all ages and lifestyles. Whether it's due to poor posture, stress, or long hours spent in front of a screen, neck pain can be a significant discomfort. Fortunately, with the right exercises and techniques, you can alleviate pain and improve posture.</p>
                                 <p>At Spine Clinic Mumbai, we emphasize the importance of regular neck pain exercises and posture correction techniques to reduce strain and enhance your quality of life.</p>
                                 
-                                <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
-                                    <iframe width="100%" height="550"
-                                        src="https://www.youtube.com/embed/cPXuPppgf90" title="YouTube video player"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        allowfullscreen></iframe>
-                                    <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Essential Neck Pain Exercises: Tips from Dr. Vishal Kundnani</h1>
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px;">
+                                            <iframe width="100%" height="550"
+                                                src="https://www.youtube.com/embed/svh2yBC9-cc?si=JhFQFCkOPkdwXRpF" title="YouTube video player"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                allowfullscreen></iframe>
+                                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Simple Desk Job Exercises for Neck Pain Relief and Healthy Posture | Dr. Aditi Tanna</h1>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px;">
+                                            <iframe width="100%" height="550"
+                                                src="https://www.youtube.com/embed/cPXuPppgf90" title="YouTube video player"
+                                                frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                allowfullscreen></iframe>
+                                            <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Essential Neck Pain Exercises for Relief & Posture Correction | Dr. Aditi Tanna</h1>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>

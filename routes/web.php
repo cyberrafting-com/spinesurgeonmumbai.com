@@ -643,6 +643,10 @@ Route::get('spine-anatomy-cervical-thoracic-lumbar-vertebrae-explained', functio
     return view('blog.spine-anatomy-cervical-thoracic-lumbar-vertebrae-explained');
 })->name('spine-anatomy-cervical-thoracic-lumbar-vertebrae-explained');
 
+Route::get('l4-l5-l5-s1-disc-problem-patient-guide', function () {
+    return view('blog.l4-l5-l5-s1-disc-problem-patient-guide');
+})->name('l4-l5-l5-s1-disc-problem-patient-guide');
+
 // marathi service pages start
 
 
