@@ -75,7 +75,17 @@ Mumbai')
             <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
-                        src=" https://www.youtube.com/embed/JcvVsJfWVb0?si=e_1EeYArJL_KO2qJ" title="YouTube video player"
+                        src="https://www.youtube.com/embed/PCckh__fY34?si=7DvYbbaGBjlZ8OEu" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Why Physiotherapy & Exercise Are Key for Back & Neck Pain Relief (In Hindi) | Dr. Vishal Kundnani</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
+                        src="https://www.youtube.com/embed/JcvVsJfWVb0?si=e_1EeYArJL_KO2qJ" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe>
