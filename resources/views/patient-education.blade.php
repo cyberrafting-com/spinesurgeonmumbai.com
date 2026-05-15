@@ -75,6 +75,16 @@ Mumbai')
             <div class="col-lg-4 col-md-4 col-sm-6">
                 <div class="gallery1 shorts-card">
                     <iframe width="100%" height="550"
+                        src="https://www.youtube.com/embed/wHBX8szfVBQ?si=c1bEQgCy90wOioqU" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+                    <h1>Best Ergonomic Chair to Prevent Back Pain (in Hindi) | Dr. Vishal Kundnani</h1>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="gallery1 shorts-card">
+                    <iframe width="100%" height="550"
                         src="https://www.youtube.com/embed/PCckh__fY34?si=7DvYbbaGBjlZ8OEu" title="YouTube video player"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

@@ -68,6 +68,14 @@ Learn correct sitting posture tips to prevent back and neck pain. Improve spine 
                             <p>Choose a chair with good lumbar (lower back) support to reduce strain on your spine.</p>
                             <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
                                 <iframe width="100%" height="550"
+                                    src="https://www.youtube.com/embed/wHBX8szfVBQ?si=c1bEQgCy90wOioqU" title="YouTube video player"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen></iframe>
+                                <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Best Ergonomic Chair to Prevent Back Pain (in Hindi) | Dr. Vishal Kundnani</h1>
+                            </div>
+                            <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
+                                <iframe width="100%" height="550"
                                     src="https://youtube.com/embed/b1VYl3IIMhw?si=kLuHTHC6IKY4zZun" title="YouTube video player"
                                     frameborder="0"
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
