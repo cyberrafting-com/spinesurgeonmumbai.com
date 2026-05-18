@@ -35,6 +35,17 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('exercises-physiotherapy-relieving-back-neck-pain') }}">
+                        <img src="{{ asset('resources/assets/img/blog/exercises-physiotherapy-relieving-back-neck-pain.png') }}" alt="How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani">
+                        <h1>
+                            How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('l4-l5-l5-s1-disc-problem-patient-guide') }}">
                         <img src="{{ asset('/resources/assets/img/blog/l4-l5-l5-s1-disc-problem-patient-guide.png') }}" alt="What Is L4-L5 or L5-S1 Disc Problem? A Patient-Friendly Guide">
                         <h1>

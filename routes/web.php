@@ -1051,3 +1051,8 @@ Route::get('/when-to-visit-spine-specialist-back-neck-pain-warning-signs', funct
     return view('blog.when-to-visit-spine-specialist-back-neck-pain-warning-signs');
 })->name('when-to-visit-spine-specialist-back-neck-pain-warning-signs');
 
+Route::get('/blog/exercises-physiotherapy-relieving-back-neck-pain', function () {
+    return view('blog.exercises-physiotherapy-relieving-back-neck-pain');
+})->name('exercises-physiotherapy-relieving-back-neck-pain');
+
+
