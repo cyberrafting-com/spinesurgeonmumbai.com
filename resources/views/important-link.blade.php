@@ -34,30 +34,23 @@
             <div class="row">
                 <div class="cliclskil1 mt-3">
                     <div class="col-lg-8 col-md-8 col-sm-8">
-                        <h1>IMPORTANT LINK</h1>
-                        <ul>   
-                            <li><a href="{{ route('best-spine-doctor-in-bandra') }}">Best Spine Doctor In Bandra</a></li>
-
-                            <li><a href="{{ route('best-spine-specialist-in-bandra') }}">Best Spine Specialist In Bandra</a></li>
-
-                            <li><a href="{{ route('best-spine-surgeon-in-bandra') }}">Best Spine Surgeon In Bandra</a></li>
-
-                            <li><a href="{{ route('best-back-pain-doctor-in-bandra') }}">Best Back Pain Doctor In Bandra</a></li>
-
-                            <li><a href="{{ route('best-neck-pain-doctor-in-bandra') }}">Best Neck Pain Doctor In Bandra</a></li>
-
-                            <li><a href="{{ route('best-slip-disc-doctor-in-bandra') }}">Best Slip Disc Doctor In Bandra</a></li>
-                            
-                            <li><a href="{{ route('best-spine-surgeon-mumbai') }}">Best Spine Surgeon in Mumbai</a></li>
-                            
-                            <li><a href="{{ route('best-spine-surgeons-mumbai') }}">Best Spine Surgeons in Mumbai</a></li>
-                            
-                            <li><a href="{{ route('best-spine-surgeons-in-india') }}">Best Spine Surgeons in India</a></li>
-                            
-                            <li><a href="{{ route('top-10-spine-doctors-India') }}">Top 10 Spine Doctors in India</a></li>
-                            
-                            <li><a href="{{ route('top-spine-surgeons-india') }}">Top Spine Surgeons in India</a></li>
-                        </ul>
+                        <div class="important-links-container">
+                            <h1 class="important-links-title">IMPORTANT LINK</h1>
+                            <ul class="important-links-list">   
+                                <li><a href="{{ route('best-spine-doctor-in-bandra') }}">Best Spine Doctor In Bandra</a></li>
+                                <li><a href="{{ route('best-spine-specialist-in-bandra') }}">Best Spine Specialist In Bandra</a></li>
+                                <li><a href="{{ route('best-spine-surgeon-in-bandra') }}">Best Spine Surgeon In Bandra</a></li>
+                                <li><a href="{{ route('best-back-pain-doctor-in-bandra') }}">Best Back Pain Doctor In Bandra</a></li>
+                                <li><a href="{{ route('best-neck-pain-doctor-in-bandra') }}">Best Neck Pain Doctor In Bandra</a></li>
+                                <li><a href="{{ route('best-slip-disc-doctor-in-bandra') }}">Best Slip Disc Doctor In Bandra</a></li>
+                                <li><a href="{{ route('best-spine-surgeon-mumbai') }}">Best Spine Surgeon in Mumbai</a></li>
+                                <li><a href="{{ route('best-spine-surgeons-mumbai') }}">Best Spine Surgeons in Mumbai</a></li>
+                                <li><a href="{{ route('best-spine-surgeons-in-india') }}">Best Spine Surgeons in India</a></li>
+                                <li><a href="{{ route('top-10-spine-doctors-India') }}">Top 10 Spine Doctors in India</a></li>
+                                <li><a href="{{ route('top-spine-surgeons-india') }}">Top Spine Surgeons in India</a></li>
+                                <li><a href="{{ route('spine-specialist-south-mumbai') }}">Spine Specialist in South Mumbai</a></li>
+                            </ul>
+                        </div>
                     </div>
                     
                     <div class="col-lg-4 col-md-4 col-sm-4">
