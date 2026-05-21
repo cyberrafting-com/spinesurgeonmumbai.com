@@ -1055,4 +1055,8 @@ Route::get('/blog/exercises-physiotherapy-relieving-back-neck-pain', function ()
     return view('blog.exercises-physiotherapy-relieving-back-neck-pain');
 })->name('exercises-physiotherapy-relieving-back-neck-pain');
 
+Route::get('/spine-specialist-south-mumbai', function () {
+    return view('spine-specialist-south-mumbai');
+})->name('spine-specialist-south-mumbai');
+
 
