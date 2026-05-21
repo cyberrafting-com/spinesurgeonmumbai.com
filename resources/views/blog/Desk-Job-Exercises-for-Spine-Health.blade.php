@@ -42,13 +42,27 @@ Spending long hours at a desk can take a toll on your spine. Learn simple desk j
                         <div class="sec-blog-design pt-5">
                             <h2><b>Essential Desk Job Exercises for Spine Health</b></h2>
 
-                            <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px; max-width: 400px; margin-left: auto; margin-right: auto;">
-                                <iframe width="100%" height="550"
-                                    src="https://youtube.com/embed/ZOo2j_uxiMs" title="YouTube video player"
-                                    frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                    allowfullscreen></iframe>
-                                <h1 style="font-size: 18px; color: #ffffff; text-align: center; padding: 10px;">Exercises for Spine Health: Tips from Dr. Vishal Kundnani</h1>
+                            <div class="row">
+                                <div class="col-md-6 col-sm-12">
+                                    <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px;">
+                                        <iframe width="100%" height="500"
+                                            src="https://www.youtube.com/embed/rKNND9d5XCk?si=yH1ngFXJRof_nX3a" title="YouTube video player"
+                                            frameborder="0"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                            allowfullscreen></iframe>
+                                        <h1 style="font-size: 16px; color: #ffffff; text-align: center; padding: 10px;">Best Desk Job Exercises for Neck Pain &amp; Posture Correction (In Hindi) | Dr. Aditi Tanna</h1>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12">
+                                    <div class="gallery1 shorts-card" style="margin-top: 20px; margin-bottom: 20px;">
+                                        <iframe width="100%" height="500"
+                                            src="https://youtube.com/embed/ZOo2j_uxiMs" title="YouTube video player"
+                                            frameborder="0"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                            allowfullscreen></iframe>
+                                        <h1 style="font-size: 16px; color: #ffffff; text-align: center; padding: 10px;">Exercises for Spine Health: Tips from Dr. Vishal Kundnani</h1>
+                                    </div>
+                                </div>
                             </div>
                             
                             <h3 class="pt-3"><b>Seated Spinal Twist</b></h3>
