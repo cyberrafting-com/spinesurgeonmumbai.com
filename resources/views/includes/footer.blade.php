@@ -269,87 +269,89 @@
  </div>-->
 
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
-<script src="{{ asset('resources/assets/js/custom.js') }}"></script>
-<script src="{{ asset('resources/assets/js/before_after.js') }}"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" defer></script>
+<script src="{{ asset('resources/assets/js/custom.js') }}" defer></script>
+<script src="{{ asset('resources/assets/js/before_after.js') }}" defer></script>
 <script>
+document.addEventListener("DOMContentLoaded", function() {
     wow = new WOW(
-
         {
-
             boxClass: 'wow', // default
-
             animateClass: 'animated', // default
-
             offset: 0, // default
-
             mobile: false, // default
-
             live: true // default
-
         }
-
     )
-
     wow.init();
+});
 </script>
 <script>
-    $('.beforeAfter').beforeAfter({
-        movable: true,
-        clickMove: true,
-        position: 50,
-        separatorColor: '#fafafa',
-        bulletColor: '#fafafa',
-        onMoveStart: function(e) {
-            console.log(event.target);
-        },
-        onMoving: function() {
-            console.log(event.target);
-        },
-        onMoveEnd: function() {
-            console.log(event.target);
-        },
-    });
+document.addEventListener("DOMContentLoaded", function() {
+    if ($('.beforeAfter').length) {
+        $('.beforeAfter').beforeAfter({
+            movable: true,
+            clickMove: true,
+            position: 50,
+            separatorColor: '#fafafa',
+            bulletColor: '#fafafa',
+            onMoveStart: function(e) {
+                console.log(event.target);
+            },
+            onMoving: function() {
+                console.log(event.target);
+            },
+            onMoveEnd: function() {
+                console.log(event.target);
+            },
+        });
+    }
+});
 </script>
 
 <script>
-    grecaptcha.ready(function() {
-        grecaptcha.execute('6LdCAjYpAAAAAKeQ3VQOJnTDr5CJRekY8rM-Hgy0', {
-            action: ''
-        }).then(function(token) {
-            console.log(token);
-            document.getElementById("g-token").value = token;
+document.addEventListener("DOMContentLoaded", function() {
+    if (typeof grecaptcha !== 'undefined') {
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6LdCAjYpAAAAAKeQ3VQOJnTDr5CJRekY8rM-Hgy0', {
+                action: ''
+            }).then(function(token) {
+                console.log(token);
+                if (document.getElementById("g-token")) {
+                    document.getElementById("g-token").value = token;
+                }
+            });
         });
-    });
+    }
+});
 </script>
 <script>
     function myFunction() {
         var x = document.getElementById("myTopnav");
-        if (x.className === "topnav") {
+        if (x && x.className === "topnav") {
             x.className += " responsive";
-        } else {
+        } else if (x) {
             x.className = "topnav";
         }
     }
 </script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.14/js/lightgallery-all.min.js"></script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.14/js/lightgallery-all.min.js" defer></script>
 
 <script>
-    $(document).ready(() => {
+document.addEventListener("DOMContentLoaded", function() {
+    if ($("#lightgallery").length) {
         $("#lightgallery").lightGallery({
             pager: true
         });
-    });
+    }
+});
 </script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js">
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" defer>
 </script>
-
-
 
 <script>
     function openLocation(evt, locationName) {
@@ -368,7 +370,8 @@
         }
 
         // Show the current tab and add active class to the button
-        document.getElementById(locationName).style.display = "block";
+        var locEl = document.getElementById(locationName);
+        if (locEl) locEl.style.display = "block";
         evt.currentTarget.className += " active";
     }
 </script>

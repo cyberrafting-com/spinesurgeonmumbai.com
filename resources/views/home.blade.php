@@ -21,10 +21,10 @@ Treatment Mumbai')
 <div class="banner-wrap col-lg-12 col-md-12 col-sm-12 col-xs-12">
     <div class="banner-slider">
         <div class="banner-slide">
-            <img src="{{ asset('resources/assets/img/1.jpg') }}" loading="lazy"
+            <img src="{{ asset('resources/assets/img/1.jpg') }}" fetchpriority="high"
                 class="img-responsive hidden-xs hidden-sm"
                 alt="State-of-the-art Minimal Invasive Spine Surgery Center in Mumbai" />
-            <img src="{{ asset('resources/assets/img/1.jpg') }}" loading="lazy"
+            <img src="{{ asset('resources/assets/img/1.jpg') }}" fetchpriority="high"
                 class="img-responsive hidden-lg hidden-md"
                 alt="Center for Minimal Invasive Spine Surgery Mobile Banner" />
         </div>

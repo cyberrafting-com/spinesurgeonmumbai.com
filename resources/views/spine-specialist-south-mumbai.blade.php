@@ -82,7 +82,7 @@
                     <div class="col-lg-8 col-md-8 col-sm-8">
                         <div class="spine-modern-wrapper">
                             
-                            <h1 class="main-page-title">Spine Specialist in South Mumbai | Advanced Evaluation and Management of Back Pain, Sciatica and Complex Spine Disorders at Bombay Hospital</h1>
+                            <h1 class="main-page-title">Spine Specialist in South Mumbai | Advanced Evaluation and Management of <a href="{{ route('back-pain-we-treat') }}">Back Pain</a>, <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">Sciatica</a> and Complex Spine Disorders at Bombay Hospital</h1>
                             <div class="bandra-img">
                                 <img src="{{ asset('resources/assets/img/blog/spine-specialist-in-south-mumbai.png') }}" alt="Spine Specialist South Mumbai">
                             </div>
@@ -110,7 +110,7 @@
                                 <ul class="symptom-grid">
                                     <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Persistent lower <a href="{{ route('back-pain-we-treat') }}">back pain</a></li>
                                     <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain extending into the leg</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Neck pain associated with arm symptoms</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet"><a href="{{ route('neck-pain-we-treat') }}">Neck pain</a> associated with arm symptoms</li>
                                     <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Numbness or tingling</li>
                                     <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Progressive weakness</li>
                                     <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Walking difficulty</li>
@@ -118,7 +118,7 @@
                                     <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Reduced endurance</li>
                                     <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Symptoms affecting sleep or work performance</li>
                                 </ul>
-                                <p class="mt-3">Patients searching for a back pain specialist South Mumbai, neck pain specialist Churchgate, spine surgeon South Mumbai, or spine specialist Bombay Hospital are frequently seeking evaluation for symptoms that have persisted despite initial treatment.</p>
+                                <p class="mt-3">Patients searching for a <a href="{{ route('back-pain-we-treat') }}">back pain</a> specialist South Mumbai, <a href="{{ route('neck-pain-we-treat') }}">neck pain</a> specialist Churchgate, spine surgeon South Mumbai, or spine specialist Bombay Hospital are frequently seeking evaluation for symptoms that have persisted despite initial treatment.</p>
                             </div>
 
                             <!-- Section 3: Conditions Grid -->
@@ -128,10 +128,10 @@
                                 <div class="condition-grid">
                                     <!-- Lumbar Disc Disorders and Sciatica Card -->
                                     <div class="condition-card card_">
-                                        <h3>Lumbar Disc Disorders and Sciatica</h3>
+                                        <h3>Lumbar Disc Disorders and <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">Sciatica</a></h3>
                                         <p class="mt-1">Disc-related conditions can sometimes produce:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lower back pain</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lower <a href="{{ route('back-pain-we-treat') }}">back pain</a></li>
                                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Radiating leg pain</li>
                                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Tingling</li>
                                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Weakness</li>
@@ -163,7 +163,7 @@
 
                                     <!-- Lumbar Canal Stenosis in Elderly Patients Card -->
                                     <div class="condition-card card_">
-                                        <h3>Lumbar Canal Stenosis in Elderly Patients</h3>
+                                        <h3><a href="{{ route('spinal-stenosis-we-treat') }}">Lumbar Canal Stenosis</a> in Elderly Patients</h3>
                                         <p class="mt-1">Degenerative narrowing of spinal canals can produce:</p>
                                         <ul class="condition-symptoms-list">
                                             <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">walking limitation</li>

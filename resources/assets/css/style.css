@@ -6105,14 +6105,25 @@ img.gal-img {
 }
 
 .condition-symptoms-list li {
-    font-size: 0.88rem;
-    color: #475569;
-    padding: 0;
-    border-radius: 0;
-    display: flex;
+    font-size: 0.85rem;
+    color: #15803d;
+    background: #ffffff;
+    padding: 6px 14px;
+    border-radius: 50px;
+    display: inline-flex;
     align-items: center;
     font-weight: 600;
-    transition: var(--transition);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid #dcfce7;
+    margin: 2px 0;
+}
+
+.condition-symptoms-list li:hover {
+    background: #ffffff;
+    border-color: #cee9ff;
+    color: #020202;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(22, 101, 52, 0.08);
 }
 
 .condition-symptoms-list li img {
@@ -6120,17 +6131,18 @@ img.gal-img {
 }
 
 .condition-symptoms-list li::before {
-    display: none;
+    content: "\f058";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    color: #e3978d;
+    margin-right: 8px;
+    font-size: 14px;
+    display: inline-block;
+    flex-shrink: 0;
 }
 
 .condition-symptoms-list li:not(:last-child)::after {
-    content: '';
-    display: inline-block;
-    width: 2px;
-    height: 15px;
-    background-color: #ff726fa1;
-    margin-left: 12px;
-    align-self: center;
+    display: none;
 }
 
 
@@ -6723,6 +6735,11 @@ ul.treatment-list {
     transform: translateX(6px);
 }
 
+a:focus {
+    outline: none;
+
+}
+
 @media (max-width: 768px) {
     .important-links-container {
         padding: 24px 20px;
@@ -6738,7 +6755,7 @@ ul.treatment-list {
     }
 
     .important-links-list li a {
-        font-size: 1.02rem;
+        font-size: 1.65rem;
     }
 }
 
@@ -6929,4 +6946,32 @@ ul.treatment-list {
 
 .bandra-timeline-item:hover .bandra-timeline-title {
     color: #0c72c5;
+}
+
+/* Premium custom unique styles for doctor page spine list alignment */
+.bandra-spine-custom-list {
+    list-style-type: none !important;
+    padding-left: 0 !important;
+    margin-top: 15px !important;
+    margin-bottom: 25px !important;
+}
+
+.bandra-spine-custom-item {
+    position: relative !important;
+    padding-left: 32px !important;
+    margin-bottom: 14px !important;
+    list-style: none !important;
+    line-height: 1.75 !important;
+    display: block !important;
+}
+
+.bandra-spine-custom-icon {
+    position: absolute !important;
+    left: 0 !important;
+    top: 4px !important;
+    width: 18px !important;
+    height: 18px !important;
+    object-fit: contain !important;
+    margin: 0 !important;
+    display: inline-block !important;
 }
