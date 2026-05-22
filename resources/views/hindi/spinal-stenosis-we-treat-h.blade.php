@@ -145,27 +145,27 @@
                             alt="डॉ. विशाल कुंदनानी द्वारा मुंबई में स्पाइनल स्टेनोसिस के कारण"
                             class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">प्राथमिक
                                 / विकासात्मक स्पाइनल स्टेनोसिस- जिसका मतलब है कि आपके पास यह जन्म से था, हालांकि लक्षण जीवन के बाद के हिस्से में दिखाई देते हैं। यह विरासत में मिली स्टेनोसिस का एक रूप है जिसे शॉर्ट पेडिकल सिंड्रोम कहा जाता है। ये रोगी मध्य जीवन में लक्षण विकसित करने के लिए अधिक प्रवण होते हैं। प्राथमिक स्पाइनल स्टेनोसिस आम नहीं है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दूसरी
                                 श्रेणी सबसे आम है और घिसाव और टूट-फूट या अध:पतन प्रक्रिया के कारण होती है। यह कैनाल के लिगामेंट्स में अपक्षयी परिवर्तनों या रीढ़ की किसी बीमारी या चोट के कारण होता है। स्पाइनल स्टेनोसिस का सबसे आम प्रत्यक्ष कारण रीढ़ का ऑस्टियोआर्थराइटिस है जो डिस्क और फेसेट जोड़ों में अपक्षयी परिवर्तनों के साथ है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बुढ़ापा
                                 : सामान्य उम्र से संबंधित अपक्षयी प्रक्रिया के एक हिस्से के रूप में।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">जीवनशैली
                                 : तनाव और भावनात्मक तनाव, खराब मुद्रा - लंबे समय तक खड़े रहना या गलत तरीके से बैठना—स्पाइनल स्टेनोसिस का कारण बन सकता है, भारी शारीरिक काम, उठाना या जबरदस्ती आंदोलन, झुकना, या अजीब स्थिति वास्तव में आपकी पीठ को नुकसान पहुंचा सकती है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चोटें
                                 और दुर्घटनाएं : मांसपेशी, लिगामेंट, या नरम ऊतक में चोट स्पाइनल स्टेनोसिस का कारण बन सकती है। गिरने या कार दुर्घटना में स्पाइनल हड्डी में फ्रैक्चर भी एक सामान्य कारण है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मोटापा
                                 : अधिक वजन होने से पीठ पर दबाव और तनाव पड़ता है, विशेष रूप से कमर पर। अधिक वजन ले जाने से अन्य स्वास्थ्य स्थितियों जैसे ऑस्टियोपोरोसिस (कमजोर हड्डियां), ऑस्टियोआर्थराइटिस (जोड़ों का दर्द), रुमेटीइड आर्थराइटिस (एक ऑटोइम्यून बीमारी), डिजेनेरेटिव डिस्क रोग (ऊपर बुढ़ापा अनुभाग में वर्णित), स्पाइनल स्टेनोसिस, और स्पोंडिलोलिस्थीसिस बढ़ जाती हैं।</li>
@@ -173,35 +173,35 @@
 
                         <h1>विशिष्ट स्थितियां द्वितीयक स्टेनोसिस के साथ उपस्थित हो सकती हैं</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बड़ी
                                 स्लिप डिस्क</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फेसेटल
                                 आर्थराइटिस</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पोंडिलोसिस
                             </li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">प्राथमिक
                                 स्पाइनल ट्यूमर</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
                                 मेटास्टैटिक ट्यूमर</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">संक्रमण
                             </li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तपेदिक
                             </li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
                                 फ्रैक्चर</li>
@@ -215,19 +215,19 @@
                             alt="डॉ. विशाल कुंदनानी द्वारा मुंबई में स्पाइनल स्टेनोसिस के लक्षण"
                             class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">न्यूरोजेनिक
                                 क्लॉडिकेशन – लंबे समय तक खड़े रहने या चलने के दौरान पैरों में दर्द या ऐंठन। असुविधा आमतौर पर तब कम हो जाती है जब आप आगे झुकते हैं या बैठते हैं, लेकिन जब आप सीधे खड़े होते हैं तो वापस आ जाती है। चलने पर दिखाई देने वाले और जब आप आगे झुकते हैं तो कम होने वाले लक्षण लम्बर स्पाइनल स्टेनोसिस के विशिष्ट हैं। इस प्रकार के दर्द को न्यूरोजेनिक क्लॉडिकेशन कहा जाता है। इस स्थिति वाले रोगी सीधे चलने की तुलना में ऊपर की ओर चलना या सीढ़ियां चढ़ना अधिक आरामदायक पा सकते हैं।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पेशाब
                                 की बढ़ी हुई आवृत्ति या</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पेशाब
                                 की तात्कालिकता</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मूत्र
                                 को नियंत्रित करने में असमर्थता।</li>
@@ -238,59 +238,59 @@
 
                         <h1>सर्वाइकल स्पाइनल स्टेनोसिस:</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्दन
                                 (सर्वाइकल स्पाइन) में स्पाइनल स्टेनोसिस हो सकता है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्दन
                                 दर्द।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कंधों
                                 का दर्द।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चक्कर
                                 आना, घबराहट।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हाथ
                                 का दर्द।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्दन
                                 के पिछले हिस्से में दर्द।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बांह
                                 में दर्द।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चलने
                                 में कठिनाई।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चलने
                                 के दौरान असंतुलन।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हाथों
                                 में सुन्नता।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हाथ
                                 के सूक्ष्म कार्यों में कठिनाई जैसे गिलास पकड़ना, हस्ताक्षर बदलना आदि।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सिरदर्द।
                             </li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सुन्नता,
                                 या मांसपेशियों की कमजोरी।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">संतुलन
                                 का नुकसान, जो अनाड़ीपन या गिरने की प्रवृत्ति का कारण बन सकता है।</li>

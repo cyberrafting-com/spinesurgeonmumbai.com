@@ -1055,8 +1055,17 @@ Route::get('/blog/exercises-physiotherapy-relieving-back-neck-pain', function ()
     return view('blog.exercises-physiotherapy-relieving-back-neck-pain');
 })->name('exercises-physiotherapy-relieving-back-neck-pain');
 
+Route::get('/blog/spine-specialist-south-mumbai', function () {
+    return view('blog.spine-specialist-south-mumbai');
+})->name('blog.spine-specialist-south-mumbai');
+
 Route::get('/spine-specialist-south-mumbai', function () {
     return view('spine-specialist-south-mumbai');
 })->name('spine-specialist-south-mumbai');
+
+Route::get('/blog/spine-doctor-south-mumbai-bombay-hospital', function () {
+    return view('blog.spine-doctor-south-mumbai-bombay-hospital');
+})->name('blog.spine-doctor-south-mumbai-bombay-hospital');
+
 
 

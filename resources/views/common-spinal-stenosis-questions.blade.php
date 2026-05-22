@@ -120,7 +120,7 @@ care and solutions in Mumbai for spine health.@endsection
                     <div class="col-lg-8 col-md-8 col-sm-8">
                         <h1>What Is Lumbar Spinal Stenosis?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                 stenosis, then, is a narrowing of spinal canal- area where spinal cord and nerves travels
@@ -129,7 +129,7 @@ care and solutions in Mumbai for spine health.@endsection
                         </ul>
                         <h1>What's causes Lumbar spinal stenosis?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                 stenosis is either due to degeneration, disease or injury to the spine. A most common cause
@@ -142,21 +142,21 @@ care and solutions in Mumbai for spine health.@endsection
                         <h1>What are some non-surgical ways to deal with Lumbar spinal stenosis?</h1>
                         <p><b>Non-surgical treatment options for spinal stenosis:</b></p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physiotherapy
                                 in consultation with your spine specilaist or spine doctor is the recommended therapy with
                                 exercises to strengthen the muscles around your spine.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">NSAIDs
                                 (non-steroidal anti-inflammatory drugs) in consultation with spine specialist that will help
                                 reduce the inflammation and pain.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physical
                                 therapy – Back extension exercises and abdominal exercises</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Epidural
                                 steroid injection in spine given by spine doctor or spine specialist decrease the
@@ -168,12 +168,12 @@ care and solutions in Mumbai for spine health.@endsection
                         <p>Spine surgery for spinal stenosis by your spinal surgeon is better than non-surgical options if –
                         </p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Severe
                                 back pain, Buttock pain disabling, Leg pain, leg numbness, and tingling legs which prevent
                                 normal lifestyle.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Loss
                                 of sensation/ motor strength/ progressive weakness in legs or loss of sensation in bowel and
@@ -182,11 +182,11 @@ care and solutions in Mumbai for spine health.@endsection
                         <h1>What kinds of surgery are used for spinal stenosis?</h1>
                         <p>Spinal stenosis surgery or Lumbar Spinal Stenosis surgery by spine specialist comprise of –</p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Decompression:
                                 Freeing the nerve from external compression in Spine.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Stabilization:
                                 Prevention of painful movement by spinal implant insertion and putting graft for fusion.
@@ -194,7 +194,7 @@ care and solutions in Mumbai for spine health.@endsection
                         </ul>
                         <h1>Is Spinal Surgery for Spinal Stenosis Safe ?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes.
                                 Spinal Surgery for Spinal Stenosis is done with Minimally Invasive Spine Surgery technique
@@ -203,7 +203,7 @@ care and solutions in Mumbai for spine health.@endsection
                         </ul>
                         <h1>How fast is the recovery after spinal surgery ?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Recovery
                                 after Microscopic spine surgery and endoscopic spine surgery for slip disc and spinal
@@ -212,7 +212,7 @@ care and solutions in Mumbai for spine health.@endsection
                         </ul>
                         <h1>Which surgery is safe – Open or Minimal Invasive spine surgery ?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Both
                                 surgeries are safe for spinal stenosis and Slip Disc. Minimal Invasive Spine Surgery has
@@ -221,7 +221,7 @@ care and solutions in Mumbai for spine health.@endsection
                         </ul>
                         <h1>Is BED REST after spinal surgery /spine surgery required?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">NO.
                                 After Spine surgery for spinal stenosis surgery, No bed rest is required. It is recommended
@@ -230,7 +230,7 @@ care and solutions in Mumbai for spine health.@endsection
                         </ul>
                         <h1>Who is the Best Spine Surgeon in Mumbai for Lumbar Spinal Stenosis ?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Vishal Kundnani is one of the best Spine surgeons for Lumbar Spinal Stenosis Surgery and is

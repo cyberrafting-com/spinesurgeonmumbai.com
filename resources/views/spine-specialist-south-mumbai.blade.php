@@ -82,9 +82,9 @@
                     <div class="col-lg-8 col-md-8 col-sm-8">
                         <div class="spine-modern-wrapper">
                             
-                            <h1 class="main-page-title">Spine Specialist in South Mumbai | Advanced Evaluation and Management of Back Pain, Sciatica and Complex Spine Disorders at Bombay Hospital</h1>
+                            <h1 class="main-page-title">Spine Specialist in South Mumbai | Advanced Evaluation and Management of <a href="{{ route('back-pain-we-treat') }}">Back Pain</a>, <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">Sciatica</a> and Complex Spine Disorders at Bombay Hospital</h1>
                             <div class="bandra-img">
-                                <img src="{{ asset('resources/assets/img/blog/spine-specialist-in-south-mumbai.png') }}" alt="Spine Specialist South Mumbai">
+                                <img src="{{ asset('resources/assets/img/blog/spine-specialist-in-south-mumbai.webp') }}" alt="Spine Specialist South Mumbai">
                             </div>
 
                             <!-- Section 1: Introduction -->
@@ -94,11 +94,11 @@
                                 <p>Patients from South Mumbai including Marine Lines, Churchgate, Peddar Road, Malabar Hill, Breach Candy, Cuffe Parade, Nariman Point and Colaba frequently seek consultation not only for recent pain episodes, but also for longstanding symptoms, recurrent problems and situations where prior treatment has provided incomplete relief.</p>
                                 <p>Many individuals seeking specialist evaluation have already undergone imaging, physiotherapy, medications or previous consultations and are often trying to understand:</p>
                                 <ul class="symptom-grid">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Why does the pain keep returning?</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Is the problem arising from the spine?</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Is surgery necessary?</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Can treatment be individualized?</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Are there alternatives to surgery?</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Why does the pain keep returning?</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Is the problem arising from the spine?</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Is surgery necessary?</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Can treatment be individualized?</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Are there alternatives to surgery?</li>
                                 </ul>
                                 <p class="mt-3">The objective of spine evaluation is often not simply symptom relief, but understanding the underlying diagnosis and preserving long-term function, mobility and quality of life.</p>
                             </div>
@@ -108,17 +108,17 @@
                                 <h2 class="section-heading"><i class="fa-solid fa-triangle-exclamation"></i> Symptoms That May Benefit From Specialist Assessment</h2>
                                 <p class="mt-2">While occasional discomfort is common, some symptoms warrant more detailed evaluation:</p>
                                 <ul class="symptom-grid">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Persistent lower <a href="{{ route('back-pain-we-treat') }}">back pain</a></li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain extending into the leg</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Neck pain associated with arm symptoms</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Numbness or tingling</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Progressive weakness</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Walking difficulty</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Balance changes</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Reduced endurance</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Symptoms affecting sleep or work performance</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Persistent lower <a href="{{ route('back-pain-we-treat') }}">back pain</a></li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain extending into the leg</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet"><a href="{{ route('neck-pain-we-treat') }}">Neck pain</a> associated with arm symptoms</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Numbness or tingling</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Progressive weakness</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Walking difficulty</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Balance changes</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Reduced endurance</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Symptoms affecting sleep or work performance</li>
                                 </ul>
-                                <p class="mt-3">Patients searching for a back pain specialist South Mumbai, neck pain specialist Churchgate, spine surgeon South Mumbai, or spine specialist Bombay Hospital are frequently seeking evaluation for symptoms that have persisted despite initial treatment.</p>
+                                <p class="mt-3">Patients searching for a <a href="{{ route('back-pain-we-treat') }}">back pain</a> specialist South Mumbai, <a href="{{ route('neck-pain-we-treat') }}">neck pain</a> specialist Churchgate, spine surgeon South Mumbai, or spine specialist Bombay Hospital are frequently seeking evaluation for symptoms that have persisted despite initial treatment.</p>
                             </div>
 
                             <!-- Section 3: Conditions Grid -->
@@ -128,14 +128,14 @@
                                 <div class="condition-grid">
                                     <!-- Lumbar Disc Disorders and Sciatica Card -->
                                     <div class="condition-card card_">
-                                        <h3>Lumbar Disc Disorders and Sciatica</h3>
+                                        <h3>Lumbar Disc Disorders and <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">Sciatica</a></h3>
                                         <p class="mt-1">Disc-related conditions can sometimes produce:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lower back pain</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Radiating leg pain</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Tingling</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Weakness</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Functional limitation</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lower <a href="{{ route('back-pain-we-treat') }}">back pain</a></li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Radiating leg pain</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Tingling</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Weakness</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Functional limitation</li>
                                         </ul>
                                         <p class="mt-2 text-muted-sub">Many patients ask:</p>
                                         <p class="text-muted-sub"><strong>"Can <a href="{{ route('what-is-sciatica-and-why-it-happens') }}">sciatica</a> improve without surgery?"</strong></p>
@@ -147,29 +147,29 @@
                                         <h3>Cervical Spine Conditions</h3>
                                         <p class="mt-1">Neck disorders may affect:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">posture</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">work productivity</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">sleep</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">upper limb function</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">posture</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">work productivity</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">sleep</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">upper limb function</li>
                                         </ul>
                                         <p class="mt-2">Symptoms can include:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet"><a href="{{ route('neck-pain-we-treat') }}">neck pain</a></li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">arm pain</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">hand numbness</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">weakness</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet"><a href="{{ route('neck-pain-we-treat') }}">neck pain</a></li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">arm pain</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">hand numbness</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">weakness</li>
                                         </ul>
                                     </div>
 
                                     <!-- Lumbar Canal Stenosis in Elderly Patients Card -->
                                     <div class="condition-card card_">
-                                        <h3>Lumbar Canal Stenosis in Elderly Patients</h3>
+                                        <h3><a href="{{ route('spinal-stenosis-we-treat') }}">Lumbar Canal Stenosis</a> in Elderly Patients</h3>
                                         <p class="mt-1">Degenerative narrowing of spinal canals can produce:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">walking limitation</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">leg heaviness</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">reduced endurance</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">difficulty with prolonged standing</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">walking limitation</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">leg heaviness</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">reduced endurance</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">difficulty with prolonged standing</li>
                                         </ul>
                                         <p class="mt-2 text-muted-sub">This is particularly common in older adults.</p>
                                     </div>
@@ -179,12 +179,12 @@
                                         <h3>Complex Spine Problems</h3>
                                         <p class="mt-1">Specialist evaluation may also involve:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet"><a href="{{ route('scoliosis') }}">scoliosis</a></li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">spinal deformity</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">revision surgery</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">spine fractures</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">spinal infections</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">cervical and lumbar degenerative disorders</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet"><a href="{{ route('scoliosis') }}">scoliosis</a></li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">spinal deformity</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">revision surgery</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">spine fractures</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">spinal infections</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">cervical and lumbar degenerative disorders</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -196,12 +196,12 @@
                                 <p class="mt-2">One of the most frequent concerns patients express is whether consultation automatically leads to surgery.</p>
                                 <p class="mt-2">In reality, management frequently includes:</p>
                                 <ul class="treatment-list">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">targeted rehabilitation</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">activity modification</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">medication optimization</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">image-guided procedures</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">structured non-operative care</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">minimally invasive procedures where appropriate</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">targeted rehabilitation</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">activity modification</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">medication optimization</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">image-guided procedures</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">structured non-operative care</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">minimally invasive procedures where appropriate</li>
                                 </ul>
                                 <p class="mt-3">When surgery becomes necessary, contemporary approaches may involve precision-focused techniques designed around pathology and patient goals.</p>
                             </div>
@@ -211,11 +211,11 @@
                                 <h2 class="section-heading"><i class="fa-solid fa-circle-info"></i> Second Opinions and Complex Decision Making</h2>
                                 <p class="mt-2">Patients frequently seek additional evaluation for:</p>
                                 <ul class="symptom-grid">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">persistent symptoms despite treatment</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">differing medical opinions</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">uncertainty regarding surgery</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">recurrent symptoms after previous procedures</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">complex imaging findings</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">persistent symptoms despite treatment</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">differing medical opinions</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">uncertainty regarding surgery</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">recurrent symptoms after previous procedures</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">complex imaging findings</li>
                                 </ul>
                                 <p class="mt-3">Second opinions can sometimes help clarify diagnosis, treatment priorities and expected outcomes.</p>
                             </div>
@@ -227,7 +227,7 @@
                                 <div class="meet-doctor-grid">
                                     <div class="meet-doctor-sidebar">
                                         <div class="meet-doctor-img-wrapper">
-                                            <img src="{{ asset('resources/assets/img/dr-vishal-kundnani-spine-surgeon-mumbai.png') }}" alt="Dr. Vishal Kundnani" class="meet-doctor-img">
+                                            <img src="{{ asset('resources/assets/img/dr-vishal-kundnani-spine-surgeon-mumbai.webp') }}" alt="Dr. Vishal Kundnani" class="meet-doctor-img">
                                             <div class="meet-doctor-badge">Spine Specialist</div>
                                         </div>
                                     </div>

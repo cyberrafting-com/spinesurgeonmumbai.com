@@ -21,12 +21,12 @@
 
             <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                 <div class="blog-profile">
-                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                     <h3>Dr. Vishal Kundnani</h3>
                     <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                     <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="book btn"></a>
-                    <a href="contact.php"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book btn" class="img-responsive"></a>
+                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="book btn"></a>
+                    <a href="contact.php"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book btn" class="img-responsive"></a>
                 </div>
             </div>
 
@@ -44,7 +44,7 @@
                             </p>
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
-                            <img src="{{ asset('resources/assets/img/blog/robotic-spine-surgery-with-dr-vishal-kundnani-mumbai.jpg') }}">
+                            <img src="{{ asset('resources/assets/img/blog/robotic-spine-surgery-with-dr-vishal-kundnani-mumbai.webp') }}">
                         </div>
                     </div>
                     <div class="sec-blog-design pt-5">
@@ -52,25 +52,25 @@
                     </div>
 
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Pioneer in Robotic & Navigation-Guided Surgery:</strong> Dr. Kundnani integrates
                             advanced robotic systems to ensure surgical accuracy and enhanced safety.</p>
                     </div>
 
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Minimally Invasive Spine Surgery Specialist:</strong> Expert in micro endoscopic
                             techniques that result in smaller incisions and faster recovery.</p>
                     </div>
 
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>International Training:</strong> Trained in world-class centers across the UK,
                             Singapore, Japan, Australia, Malaysia, and Korea.</p>
                     </div>
 
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Leadership Roles:</strong> Director & Head of Spine Surgery at CESS, Lilavati
                             Hospital, and Mumbai Institute of Spine Surgery at Bombay Hospital.</p>
                     </div>
@@ -82,23 +82,23 @@
                     </div>
 
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Herniated Discs</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Spinal Stenosis</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Scoliosis</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Degenerative Disc Disease</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Spondylolisthesis</strong></p>
                     </div>
 

@@ -38,12 +38,12 @@
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">Internationally renowned spine surgeon practicing across Mumbai, Delhi, Hyderabad, and Raipur.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="call button"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book button" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="call button"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book button" class="img-responsive"></a>
                     </div>
                 </div>
                 <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
@@ -55,33 +55,33 @@
                                 <p>Dr. Vishal Kundnani is widely recognized as one of the best spine surgeons in India, providing advanced treatment for spinal disorders using minimally invasive and robotic techniques. He consults across major cities like Mumbai, Delhi, Hyderabad, and Raipur, offering hope and healing to patients with complex spinal issues.</p>
                             </div>
                             <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
-                                <img src="{{ asset('resources/assets/img/blog/best-spine-surgeon-india.jpg') }}" alt="Best Spine Surgeon India">
+                                <img src="{{ asset('resources/assets/img/blog/best-spine-surgeon-india.webp') }}" alt="Best Spine Surgeon India">
                             </div>
                         </div>
 
                         <div class="sec-blog-design pt-5">
                             <h3>Why Choose Dr. Vishal Kundnani?</h3>
                         </div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Trusted spine specialist with 15+ years of experience</p></div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Expert in minimally invasive and robotic spine surgeries</p></div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Consulting across top hospitals in Mumbai, Delhi, Hyderabad & Raipur</p></div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Highly rated by patients and medical peers</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Trusted spine specialist with 15+ years of experience</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Expert in minimally invasive and robotic spine surgeries</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Consulting across top hospitals in Mumbai, Delhi, Hyderabad & Raipur</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Highly rated by patients and medical peers</p></div>
 
                         <div class="sec-blog-design pt-5">
                             <h3>Specialized Treatments Offered</h3>
                         </div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Slip Disc / Herniated Disc</p></div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Sciatica & Nerve Compression</p></div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Spinal Deformities & Scoliosis</p></div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Spinal Tumors & Fractures</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Slip Disc / Herniated Disc</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Sciatica & Nerve Compression</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Spinal Deformities & Scoliosis</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Spinal Tumors & Fractures</p></div>
 
                         <div class="sec-blog-design pt-5">
                             <h3>Top Hospitals Where Dr. Kundnani Consults</h3>
                         </div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Mumbai – Fortis Hospital, Spine Clinic</p></div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Delhi – Apollo Hospitals</p></div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Hyderabad – CARE Hospitals</p></div>
-                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt=""><p>Raipur – Ramkrishna Care Hospitals</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Mumbai – Fortis Hospital, Spine Clinic</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Delhi – Apollo Hospitals</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Hyderabad – CARE Hospitals</p></div>
+                        <div class="cat-service-inner pt-5"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt=""><p>Raipur – Ramkrishna Care Hospitals</p></div>
 
                         <div class="sec-blog-design pt-5">
                             <h3>Frequently Asked Questions</h3>

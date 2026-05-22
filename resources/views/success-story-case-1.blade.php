@@ -14,17 +14,17 @@
         <div class="container sec-service-procedure-1">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12 pt-5 service_sec">
-                    <img src="{{ asset('resources/assets/img/blog/10.jpg') }}" alt="">
+                    <img src="{{ asset('resources/assets/img/blog/10.webp') }}" alt="">
                 </div>
                 <div class="col-lg-6 col-md-6 col-12 pt-5">
                     <p>Scoliosis patient operated by Dr Vishal Kundnani 12 years ago – now a Judicial Academy pass out in
                         Rajasthan.</p>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>RJS. Proud to have treated me</strong></p>
                     </div>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Siddhartha</strong></p>
                     </div>
                 </div>

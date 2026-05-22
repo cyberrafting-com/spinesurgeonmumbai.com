@@ -133,7 +133,7 @@
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
@@ -144,7 +144,7 @@
                                                     स्पॉन्डिलोलिस्थेसिस (एक हाड दुसऱ्यावर सरकणे ज्यामुळे नसांचा दाब होतो आणि
                                                     मागचे दुखणे, पायात दुखणे, नितंबात दुखणे, चालताना पायात सुन्नपणा येतो)
                                                     आणि स्पाइनल स्टेनोसिस (अधोगतीमुळे स्पाइनमधील नसांचा दाब).</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनमधील
@@ -155,7 +155,7 @@
                                                     काढतो आणि डिस्क जागेत हाडाचा ग्राफ्ट ठेवतो. हे नंतर स्पाइनल पेडिकल
                                                     इम्प्लांट्स (टायटॅनियम स्पाइनल इम्प्लांट्स) आणि डिस्क जागेत केजेससह पूरक
                                                     केले जाते. या प्रक्रियेला स्पाइनल फ्यूजन सर्जरी म्हणतात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस,
@@ -163,7 +163,7 @@
                                                     ट्युमर यांमुळे स्पाइनल अस्थिरतेसाठी सामान्यतः केली जाते. लंबर स्पाइन
                                                     किंवा थोरॅसिक स्पाइनमधील समीप भाग रोगासाठी स्पाइनल फ्यूजन केली जाते.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
@@ -197,7 +197,7 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लंबर
@@ -206,7 +206,7 @@
                                                 प्रकरणांमध्ये स्पाइनल फ्यूजन आवश्यक नसते. जेव्हा स्पाइनल स्टेनोसिससह
                                                 अस्थिरता असते - जेव्हा कशेरुकांमधील नसांच्या दाबाव्यतिरिक्त वेदनादायक
                                                 गतिशीलता असते तेव्हा रुग्णांमध्ये स्पाइनल फ्यूजन आवश्यक असते.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">शल्यक्रियेचा
@@ -237,7 +237,7 @@
                                 aria-labelledby="headingThree">
                                 <div class="panel-body">
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">होय.
@@ -246,7 +246,7 @@
                                             स्पाइनल इम्प्लांट, स्पाइन स्क्रू प्लेट, स्पाइनमध्ये स्क्रू प्लेट प्रशिक्षित
                                             स्पाइन सर्जनांकडून नियंत्रणात घातले जाते तेव्हा त्यांना कोणतीही समस्या निर्माण
                                             होत नाही.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सुरक्षा
@@ -277,7 +277,7 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनमधील
@@ -288,14 +288,14 @@
                                                 डिस्क जागेत हाडाचा ग्राफ्ट ठेवतो. हे नंतर स्पाइनल पेडिकल इम्प्लांट्स
                                                 (टायटॅनियम स्पाइनल इम्प्लांट्स) आणि डिस्क जागेत केजेससह पूरक केले जाते. या
                                                 प्रक्रियेला स्पाइनल फ्यूजन सर्जरी म्हणतात.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
                                                 फ्यूजन सर्जरीला डिकंप्रेशन सर्जरी नंतर स्पाइनमध्ये स्पाइनल इम्प्लांट (पेडिकल
                                                 स्क्रू आणि प्लेट्स आणि केजेस) ठेवणे/घालणे आवश्यक आहे. स्पाइनल इम्प्लांट्स ही
                                                 अत्यंत सुरक्षित प्रक्रिया आहे. ही अत्यंत सुरक्षित प्रक्रिया आहे.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सुरक्षा
@@ -305,11 +305,11 @@
                                         </ul>
                                         <div class="col-lg-4">
                                             <img class="serv_img1 mt-2"
-                                                src="{{ asset('resources/assets/img/capture4.png') }}">
+                                                src="{{ asset('resources/assets/img/capture4.webp') }}">
                                         </div>
                                         <div class="col-lg-8">
                                             <img class="serv_img1 mt-2"
-                                                src="{{ asset('resources/assets/img/capture5.png') }}">
+                                                src="{{ asset('resources/assets/img/capture5.webp') }}">
                                         </div>
                                         <div class="clearfix"></div>
                                         <p class="mt-2">डॉ. विशाल कुंदनानी - नेव्हिगेशन स्पाइन सर्जरीमध्ये प्रशिक्षण
@@ -338,7 +338,7 @@
                                     <div class="cliclskil1">
 
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
@@ -380,7 +380,7 @@
                                             होतो आणि वेदना होते आणि स्पाइन अस्थिर आणि वेदनादायक होते - मागचे दुखणे, नितंबात
                                             दुखणे, पायात दुखणे, हालचाल आणि चालताना पायात सुन्नपणा</p>
                                         <img class="serv_img mt-2"
-                                            src="{{ asset('resources/assets/img/capture6.png') }}">
+                                            src="{{ asset('resources/assets/img/capture6.webp') }}">
 
                                     </div>
                                 </div>
@@ -401,7 +401,7 @@
                                     <div class="cliclskil1">
 
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सरकलेल्या
@@ -409,18 +409,18 @@
                                                 केलेल्या स्पाइनल फ्यूजन सर्जरीला स्पॉन्डिलोलिस्थेसिससाठी स्पाइनल फ्यूजन
                                                 म्हणतात. हे विशेषतः अशा प्रकरणांमध्ये उपयुक्त आहे जेथे एक किंवा अधिक कशेरुक
                                                 पुढे सरकले आहेत -</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस:
                                                 एक कशेरुक दुसऱ्याच्या तुलनेत पुढे सरकणे.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिससाठी
                                                 स्पाइनल फ्यूजन सर्जरी ओपन पारंपरिक तंत्रज्ञानात किंवा किमान आक्रमक स्पाइनल
                                                 फ्यूजन सर्जरीसह केली जाऊ शकते.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">किमान
@@ -435,11 +435,11 @@
                                         </ul>
                                         <div class="col-lg-5">
                                             <img class="serv_img1 mt-2"
-                                                src="{{ asset('resources/assets/img/capture7.png') }}">
+                                                src="{{ asset('resources/assets/img/capture7.webp') }}">
                                         </div>
                                         <div class="col-lg-7">
                                             <img class="serv_img1 mt-2"
-                                                src="{{ asset('resources/assets/img/capture8.png') }}">
+                                                src="{{ asset('resources/assets/img/capture8.webp') }}">
                                         </div>
                                         <div class="clearfix"></div>
                                         <p class="mt-2">डॉ. विशाल कुंदनानी - मुंबईतील सर्वोत्तम स्पाइन सर्जनांपैकी एक,
@@ -470,24 +470,24 @@
                                             तुम्हाला दिलेल्या सर्जरीसह सर्व उपायांचे फायदे आणि तोटे याबद्दल अधिक जाणून घ्या.
                                         </p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">शल्यक्रिया
                                                 नियोजित केल्यानंतर, तुमच्या रुग्णालयातील मुक्कामाची योजना करा आणि डॉक्टरांसह
                                                 डिस्चार्ज योजनेबद्दल चर्चा करा</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">निरोगी
                                                 रोगप्रतिकारक प्रणालीसाठी चांगले पोषण राखा</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">संतुलित
                                                 आहार घ्या आणि तुमच्या शल्यक्रियेपूर्वीच्या आठवड्यांमध्ये तुमच्या
                                                 डॉक्टरांच्या सल्ल्यानुसार विटामिन पूरक घ्या.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमकुवत
@@ -496,18 +496,18 @@
                                                 सुरू करावा याबद्दल तुमच्या डॉक्टरांशी बोला. शल्यक्रियात्मक फिटनेस
                                                 मिळविण्यासाठी तुमच्या सर्जनांच्या सल्ल्यानुसार तुमच्या फुफ्फुस आणि हृदयाची
                                                 तपासणी करा.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मागचे
                                                 दुखणे वजन कमी करणे किंवा वजन राखणे हे आव्हानात्मक बनवू शकते. जर तुम्ही जास्त
                                                 वजनाचे असाल तर तुमच्या शल्यक्रियेपूर्वी वजन कमी करणे चांगले आहे.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वाढत्या
                                                 पुनर्प्राप्ती आणि जखम भरून येण्यास प्रतिबंध करण्यासाठी धूम्रपान सोडा</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वेदना
@@ -543,42 +543,42 @@
                                             आठवड्यांत कामावर परत येऊ शकतो तथापि संपर्क खेळ सामान्यतः 6-10 आठवडे टाळले जातात.
                                         </p>
                                         <img class="serv_img mt-2"
-                                            src="{{ asset('resources/assets/img/capture9.png') }}">
+                                            src="{{ asset('resources/assets/img/capture9.webp') }}">
                                         <p class="mt-2"><b>एखाद्याने अनुसरण केले पाहिजे:-</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तुमच्या
                                                 डॉक्टरांच्या उपचार योजनेचे अनुसरण करा</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">योग्यरित्या
                                                 बसा आणि उभे रहा आणि मुद्रा राखा</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">योग्यरित्या
                                                 उचलणे शिका</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">नियमित
                                                 व्यायाम करा (कमी प्रभाव असलेले एरोबिक व्यायाम विशेषतः चांगले आहे, परंतु
                                                 प्रथम तुमच्या डॉक्टरांशी तपासा)</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">निरोगी
                                                 शरीराचे वजन मिळवा आणि राखा</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">निरोगी
                                                 अन्न खा (संतुलित, कमी चरबी असलेला आहार जो फळे आणि भाज्यांनी समृद्ध आहे) आणि
                                                 पुरेसे कॅल्शियम घ्या</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">धूम्रपान

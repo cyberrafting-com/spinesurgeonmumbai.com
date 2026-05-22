@@ -118,12 +118,12 @@ Spine surgery safety with neuromonitoring by Dr. Vishal Kundnani – India’s t
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Leading spine surgeon integrating neuromonitoring, robotics, and minimally invasive techniques for safer spine surgery.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -133,7 +133,7 @@ Spine surgery safety with neuromonitoring by Dr. Vishal Kundnani – India’s t
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Ensuring Safety in Spine Surgery: The Role of Neuromonitoring</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/neuromonitoring.png') }}" alt="Ensuring Safety in Spine Surgery: The Role of Neuromonitoring">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/neuromonitoring.webp') }}" alt="Ensuring Safety in Spine Surgery: The Role of Neuromonitoring">
                                 <p>Spine surgery requires exceptional precision, as even minor disruptions to spinal nerves can affect movement, sensation, or organ function. <a href="{{ route('neuromonitoring-spine-surgery') }}">Intraoperative Neuromonitoring (IONM)</a> plays a critical role in enhancing surgical safety by continuously monitoring nerve and spinal cord function throughout the procedure.</p>
                                 <p>IONM provides real-time feedback to the surgical team, allowing immediate response to any changes that may indicate potential nerve compromise. This technology is especially essential during scoliosis correction, cervical spine surgery, revision surgeries, and complex deformity procedures.</p>
                                 <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> integrates advanced neuromonitoring systems into all major spine surgeries to ensure maximum safety, accuracy, and optimal patient outcomes.</p>

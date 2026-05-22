@@ -14,12 +14,12 @@ Learn correct sitting posture tips to prevent back and neck pain. Improve spine 
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Dedicated <a href="{{ route('laser-spine-surgery-is-it-safe-and-effective') }}">laser spine surgeon in Mumbai</a>.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -29,7 +29,7 @@ Learn correct sitting posture tips to prevent back and neck pain. Improve spine 
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1><b>How to Prevent Back & Neck Pain: Correct Sitting Posture Tips</b></h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/correct-sitting-posture-tips-back-neck-pain.png') }}" alt="How to Prevent Back & Neck Pain: Correct Sitting Posture Tips">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/correct-sitting-posture-tips-back-neck-pain.webp') }}" alt="How to Prevent Back & Neck Pain: Correct Sitting Posture Tips">
                                 <h2 class="pt-3"><b>Introduction</b></h2>
                                 <p>In today’s digital lifestyle, sitting for long hours has become unavoidable. Whether you work from home or in an office, poor sitting posture can gradually lead to <a href="{{ route('back-pain') }}">back pain</a> and <a href="{{ route('neck-pain') }}">neck pain</a>. The good news is that simple posture corrections can help prevent these issues and keep your spine healthy.</p>
                                 <p>Watch this quick expert video for easy posture tips:</p>

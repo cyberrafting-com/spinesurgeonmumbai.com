@@ -40,19 +40,19 @@
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">Leading spine surgeon in India with expertise in safe, modern spine procedures.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="call button"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book button" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="call button"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book button" class="img-responsive"></a>
                     </div>
                 </div>
 
                 <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
                     <div class="blog-profile-details">
                         <h1>Is Spine Surgery Safe in India? Here's What You Need to Know</h1>
-                        <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/is-spine-surgery-safe-india.jpeg') }}" alt="Is Spine Surgery Safe in India">
+                        <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/is-spine-surgery-safe-india.webp') }}" alt="Is Spine Surgery Safe in India">
 
                         <p>If you've been told you need spine surgery and are worried about safety, you're not alone. 
                             Many patients share similar concerns. 

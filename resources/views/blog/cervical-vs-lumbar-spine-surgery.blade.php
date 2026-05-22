@@ -107,12 +107,12 @@ Cervical vs lumbar spine surgery explained by Dr. Vishal Kundnani – minimally 
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Director & Head of Spine Services at Lilavati & Bombay Hospitals.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -122,7 +122,7 @@ Cervical vs lumbar spine surgery explained by Dr. Vishal Kundnani – minimally 
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Cervical vs Lumbar Spine Surgery – What Patients Must Know</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/cervical-vs-lumbar-spine-surgery.png') }}" alt="Cervical vs Lumbar Spine Surgery">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/cervical-vs-lumbar-spine-surgery.webp') }}" alt="Cervical vs Lumbar Spine Surgery">
                                 <p>Cervical and lumbar spine surgeries address different regions of the spine—each with unique symptoms, surgical approaches, and recovery expectations. Understanding these differences helps patients make informed decisions and plan their treatment journey.</p>
                                 <p><a href="{{ route('cervical-spine-surgery-mumbai') }}">Cervical spine surgery</a> treats conditions affecting the neck, such as disc herniation, nerve compression, or cervical spondylosis.</p>
                                 <p><a href="{{ route('back-pain') }}">Lumbar spine surgery</a> addresses lower back conditions like herniated discs, spinal stenosis, and sciatica.</p>

@@ -19,12 +19,12 @@
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">One of India's leading spine surgeons with years of expertise and excellence.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -37,7 +37,7 @@
                                     class="miss-logo">
                             </div>
                             <p>When it comes to expert spine care in India, the <a href="{{ route('about-mumbai-institute-of-spine-surgery') }}" target="_blank"><strong>Mumbai Institute of Spine Surgery (M.I.S.S)</strong></a> has emerged as a national leader. Based in Mumbai, M.I.S.S is widely recognized for offering advanced and personalized treatment for spine-related conditions through a network of top hospitals including Bombay Hospital, Lilavati Hospital, Breach Candy Hospital, and Criticare Hospital.</p>
-                            <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/best-spine-surgery.jpg') }}" alt="Best Spine Surgery Hospital in India at MISS by Dr. Vishal Kundnani in Mumbai">
+                            <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/best-spine-surgery.webp') }}" alt="Best Spine Surgery Hospital in India at MISS by Dr. Vishal Kundnani in Mumbai">
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -49,31 +49,31 @@
                         </div>
 
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Slip Disc Surgery</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Spinal Decompression and Discectomy</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Spinal Fusion and Fixation</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Endoscopic and Microendoscopic Spine Surgery</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Robotic Spine Surgery</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Cervical Spine Surgery</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Scoliosis and Deformity Correction</p>
                         </div>
 

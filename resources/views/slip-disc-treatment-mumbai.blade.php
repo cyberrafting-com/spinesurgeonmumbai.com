@@ -51,12 +51,12 @@
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="book btn"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book btn" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="book btn"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book btn" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -66,7 +66,7 @@
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                             <h1>Slip Disc Treatment in Mumbai – Without Surgery & With Surgery Options</h1>
-                            <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/slip-disc-treatment-mumbai-blog-img.png') }}" alt="Slip Disc Treatment in Mumbai – Dr. Vishal Kundnani">
+                            <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/slip-disc-treatment-mumbai-blog-img.webp') }}" alt="Slip Disc Treatment in Mumbai – Dr. Vishal Kundnani">
                                 <p>A slip disc is a painful condition that affects many individuals. It happens when one of the discs in your spine bulges or ruptures, pressing on nerves and causing severe back and leg pain. If left untreated, a slip disc can lead to chronic pain and mobility issues. This blog will guide you through the treatment options available for slip discs, including both non-surgical and surgical solutions, with expert advice from Dr. Vishal Kundnani, one of the best spine surgeons in Mumbai.</p>
                             </div>
                         </div>

@@ -71,8 +71,8 @@
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
                         <a data-fancybox="gallery"
-                            href="{{ asset('resources/assets/img/gallery/d/dr-vishal-with-neeraj-chopra.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/dr-vishal-with-neeraj-chopra.jpg') }}"
+                            href="{{ asset('resources/assets/img/gallery/d/dr-vishal-with-neeraj-chopra.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/dr-vishal-with-neeraj-chopra.webp') }}"
                                 alt="" class="gal-img">
                         </a>
                         <div class="icon">
@@ -81,8 +81,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/10.png') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/10.png') }}" alt="" class="gal-img">
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/10.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/10.webp') }}" alt="" class="gal-img">
                         </a>
                         <div class="icon">
                         </div>
@@ -90,8 +90,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/5.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/5.jpg') }}" alt="" class="gal-img">
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/5.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/5.webp') }}" alt="" class="gal-img">
                         </a>
                         <div class="icon">
                         </div>
@@ -99,8 +99,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/7.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/7.jpg') }}" alt="" class="gal-img">
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/7.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/7.webp') }}" alt="" class="gal-img">
                         </a>
                         <div class="icon">
                         </div>
@@ -108,8 +108,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/1.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/1.jpg') }}" alt="" class="gal-img">
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/1.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/1.webp') }}" alt="" class="gal-img">
                         </a>
                         <div class="icon">
                         </div>
@@ -117,8 +117,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/2.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/2.jpg') }}" alt="" class="gal-img">
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/2.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/2.webp') }}" alt="" class="gal-img">
                         </a>
                         <div class="icon">
                         </div>
@@ -126,8 +126,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/3.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/3.jpg') }}" alt="" class="gal-img">
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/3.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/3.webp') }}" alt="" class="gal-img">
                         </a>
                         <div class="icon">
                         </div>
@@ -135,8 +135,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/4.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/4.jpg') }}" alt="" class="gal-img">
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/4.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/4.webp') }}" alt="" class="gal-img">
                         </a>
                         <div class="icon">
                         </div>
@@ -144,8 +144,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/5.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/5.jpg') }}" alt="" class="gal-img">
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/5.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/5.webp') }}" alt="" class="gal-img">
                         </a>
                         <div class="icon">
                         </div>
@@ -153,8 +153,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/6.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/6.jpg') }}" alt="" class="gal-img">
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/6.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/6.webp') }}" alt="" class="gal-img">
                         </a>
                         <div class="icon">
                         </div>
@@ -162,8 +162,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/7.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/7.jpg') }}" alt="" class="gal-img">
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/7.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/7.webp') }}" alt="" class="gal-img">
                         </a>
                         <div class="icon">
                         </div>
@@ -171,8 +171,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/8.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/8.jpg') }}" alt=""
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/8.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/8.webp') }}" alt=""
                                 class="gal-img">
                         </a>
                         <div class="icon">
@@ -181,8 +181,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <div class="single-gallery-item">
-                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/9.jpg') }}">
-                            <img src="{{ asset('resources/assets/img/gallery/d/9.jpg') }}" alt=""
+                        <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/9.webp') }}">
+                            <img src="{{ asset('resources/assets/img/gallery/d/9.webp') }}" alt=""
                                 class="gal-img">
                         </a>
                         <div class="icon">

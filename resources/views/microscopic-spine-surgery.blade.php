@@ -16,13 +16,13 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">Trusted expert in microscopic, endoscopic, and robotic spine surgery in
                             India.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment"
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment"
                                 class="img-responsive mt-2"></a>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
                 <div class="col-lg-9 col-md-8 col-sm-12">
                     <div class="blog-profile-details">
                         <h1>Microscopic Spine Surgery – Precision and Safety Combined</h1>
-                        <img src="{{ asset('resources/assets/img/blog/microscopic-spine-surgery.jpg') }}" alt="Microscopic Spine Surgery"
+                        <img src="{{ asset('resources/assets/img/blog/microscopic-spine-surgery.webp') }}" alt="Microscopic Spine Surgery"
                             class="img-responsive mb-4">
 
                         <p><strong>Microscopic spine surgery</strong> is another advanced technique used for treating

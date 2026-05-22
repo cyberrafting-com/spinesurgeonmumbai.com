@@ -68,25 +68,25 @@
                     <div class="col-lg-8 col-md-8 col-sm-8">
                         <h1>Case History –</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">41
                                 yr / M ,
                                 Executive , Office job</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Active
                                 life
                                 style with Low Back Pain and Leg pain</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sciatica
                                 pain – Leg Pain Travelling to Calf and Back of Thigh with Numbness in whole leg</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Difficulty
                                 in walking due to LEG PAIN</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Cannot
                                 sit
@@ -94,18 +94,18 @@
                         </ul>
                         <h1>Diagnosis –</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Meet
                                 a
                                 spine specialist in Mumbai</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">After
                                 clinical examination, a X-Ray of spine and MRI scan of spine investigation was advised and
                                 diagnosis is
                                 made with correlation of clinical and MRI scan findings.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SLIP
                                 DISC
@@ -117,32 +117,32 @@
                         </ul>
                         <h1>Plan of Surgery –</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Microscopic
                                 minimal invasive surgery for Slip Disc</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Endoscopic
                                 Surgery for Slip Disc</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Microendoscopic
                                 Surgery for slip disc</li>
                         </ul>
                         <h1>Surgery Performed –</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal
                                 invasive surgery for SLIP DISC is extremely safe and efficient with no risks.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
                                 SPINE SURGERY with discectomy, decompression surgery done by Dr. Vishal Kundnani in the best
                                 spine
                                 center in country Spine Clinic Mumbai using minimally invasive spine surgery.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Vishal
@@ -151,7 +151,7 @@
                                 for spine specialist. Dr. Vishal Kundnani is the best spine Minimal invasive spine
                                 specialist in Mumbai
                                 and best Minimal Invasive spinal Surgeon in Goregaon, Malad and Kandiwali.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Microscopic
                                 technique of spine surgery for slip disc was performed by Spine specialist Dr. Vishal
@@ -165,28 +165,28 @@
                             in Mumbai – Dr. Vishal Kundnani at Best spine center – Spine Clinic Mumbai.</p>
 
                         <div class="col-lg-6 col-md-6 col-sm-6 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l5.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l5.webp') }}">
                             <h1>L5-S1 slip disc on left side</h1>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l5-1.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l5-1.webp') }}">
                             <h1>L5-S1 slip disc on left side</h1>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l6.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l6.webp') }}">
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l6-1.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l6-1.webp') }}">
                         </div>
                         <div class="clearfix"></div>
                         <p class="mt-2">Tubular Microendoscopic spine surgery done with small incision in spine using
                             microscope by Dr.
                             Vishal Kundnani</p>
                         <div class="col-lg-6 col-md-6 col-sm-6 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l7.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l7.webp') }}">
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l7-1.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l7-1.webp') }}">
                         </div>
                         <div class="clearfix"></div>
                         <p class="mt-2">Slip disc surgery done with minimal invasive spine surgery technique by Dr.
@@ -206,27 +206,27 @@
                             Malad, Kandiwali.</p>
                         <h1>Case Study of –</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal
                                 Invasive Spine Surgery for slip disc</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIS
                                 DISC SURGERY FOR SLIP DISC</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                 Surgery for Slip disc</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                 surgery for Herniated disc</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                 Surgery for Disc Bulge</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Endoscopic
                                 spine surgery (with tubular retractors)</li>

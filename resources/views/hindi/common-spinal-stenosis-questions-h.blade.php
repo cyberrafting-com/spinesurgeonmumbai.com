@@ -116,7 +116,7 @@
                     <div class="col-lg-8 col-md-8 col-sm-8">
                         <h1>लम्बर स्पाइनल स्टेनोसिस क्या है?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
                                 स्टेनोसिस, तब, स्पाइनल कैनाल के क्षेत्र का संकीर्ण होना है- जहां स्पाइनल कॉर्ड और नसें
@@ -125,7 +125,7 @@
                         </ul>
                         <h1>लम्बर स्पाइनल स्टेनोसिस का कारण क्या है?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
                                 स्टेनोसिस या तो रीढ़ के अध:पतन, रोग या चोट के कारण होता है। स्पाइनल स्टेनोसिस का सबसे
@@ -139,21 +139,21 @@
                         <h1>लम्बर स्पाइनल स्टेनोसिस से निपटने के कुछ गैर-सर्जिकल तरीके क्या हैं?</h1>
                         <p><b>स्पाइनल स्टेनोसिस के लिए गैर-सर्जिकल उपचार विकल्प:</b></p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आपके
                                 स्पाइन स्पेशलिस्ट या स्पाइन डॉक्टर के परामर्श से फिजियोथेरेपी अनुशंसित चिकित्सा है जिसमें
                                 आपकी रीढ़ के आसपास की मांसपेशियों को मजबूत करने के लिए व्यायाम शामिल हैं।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइन
                                 स्पेशलिस्ट के परामर्श से NSAIDs (नॉन-स्टेरॉइडल एंटी-इंफ्लेमेटरी ड्रग्स) जो सूजन और
                                 दर्द को कम करने में मदद करेंगे।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फिजिकल
                                 थेरेपी – बैक एक्सटेंशन व्यायाम और एब्डॉमिनल व्यायाम</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइन
                                 डॉक्टर या स्पाइन स्पेशलिस्ट द्वारा दिए गए रीढ़ में एपिड्यूरल स्टेरॉइड इंजेक्शन नर्व
@@ -163,12 +163,12 @@
                         <h1>क्या मुझे लम्बर स्पाइनल स्टेनोसिस के लिए सर्जरी की आवश्यकता होगी?</h1>
                         <p>यदि निम्नलिखित स्थितियां हैं तो आपके स्पाइनल सर्जन द्वारा स्पाइनल स्टेनोसिस के लिए स्पाइन सर्जरी गैर-सर्जिकल विकल्पों से बेहतर है –</p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गंभीर
                                 बैक पेन, नितंब दर्द अक्षम करने वाला, लेग पेन, लेग सुन्नता, और झुनझुनी पैर जो सामान्य
                                 जीवनशैली को रोकते हैं।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पैरों
                                 में संवेदना/मोटर ताकत/प्रगतिशील कमजोरी की हानि या मल और मूत्राशय में संवेदना की हानि।</li>
@@ -176,11 +176,11 @@
                         <h1>स्पाइनल स्टेनोसिस के लिए किस प्रकार की सर्जरी का उपयोग किया जाता है?</h1>
                         <p>स्पाइन स्पेशलिस्ट द्वारा स्पाइनल स्टेनोसिस सर्जरी या लम्बर स्पाइनल स्टेनोसिस सर्जरी में शामिल हैं –</p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">डिकंप्रेशन:
                                 रीढ़ में बाहरी संपीड़न से नर्व को मुक्त करना।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्थिरीकरण:
                                 स्पाइनल इम्प्लांट इंसर्शन और फ्यूजन के लिए ग्राफ्ट लगाकर दर्दनाक गति की रोकथाम।
@@ -188,7 +188,7 @@
                         </ul>
                         <h1>क्या स्पाइनल स्टेनोसिस के लिए स्पाइन सर्जरी सुरक्षित है?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हाँ।
                                 स्पाइनल स्टेनोसिस के लिए स्पाइन सर्जरी मिनिमली इनवेसिव स्पाइन सर्जरी तकनीक का उपयोग
@@ -198,7 +198,7 @@
                         </ul>
                         <h1>स्पाइन सर्जरी के बाद रिकवरी कितनी तेज है?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप
                                 डिस्क और स्पाइनल स्टेनोसिस के लिए स्पाइन सर्जरी के लिए माइक्रोस्कोपिक स्पाइन सर्जरी और
@@ -208,7 +208,7 @@
                         </ul>
                         <h1>कौन सी सर्जरी सुरक्षित है – ओपन या मिनिमल इनवेसिव स्पाइन सर्जरी?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दोनों
                                 सर्जरी स्पाइनल स्टेनोसिस और स्लिप डिस्क के लिए सुरक्षित हैं। मिनिमल इनवेसिव स्पाइन सर्जरी
@@ -217,7 +217,7 @@
                         </ul>
                         <h1>क्या स्पाइन सर्जरी/स्पाइन सर्जरी के बाद बेड रेस्ट आवश्यक है?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">नहीं।
                                 स्पाइनल स्टेनोसिस सर्जरी के लिए स्पाइन सर्जरी के बाद, बेड रेस्ट आवश्यक नहीं है। यह अनुशंसा
@@ -226,7 +226,7 @@
                         </ul>
                         <h1>लम्बर स्पाइनल स्टेनोसिस के लिए मुंबई में सर्वश्रेष्ठ स्पाइन सर्जन कौन है?</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">डॉ.
                                 विशाल कुंडनानी लम्बर स्पाइनल स्टेनोसिस सर्जरी के लिए सर्वश्रेष्ठ स्पाइन सर्जनों में से एक हैं और

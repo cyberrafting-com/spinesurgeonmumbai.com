@@ -128,12 +128,12 @@ Meet Dr. Vishal Kundnani – best scoliosis surgeon in Mumbai & India providing 
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Leading scoliosis surgeon providing expert deformity correction and minimally invasive spine care.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -143,7 +143,7 @@ Meet Dr. Vishal Kundnani – best scoliosis surgeon in Mumbai & India providing 
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Best Scoliosis Surgeon in Mumbai & India – Dr. Vishal Kundnani</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/scoliosis-specialist-india.png') }}" alt="Best Scoliosis Surgeon in Mumbai & India">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/scoliosis-specialist-india.webp') }}" alt="Best Scoliosis Surgeon in Mumbai & India">
                                 <p><a href="{{ route('scoliosis') }}">Scoliosis</a> is a complex spinal deformity that affects both children and adults. It causes abnormal curvature of the spine, often leading to posture imbalance, back pain, cosmetic concerns, and in severe cases, breathing difficulties. Early diagnosis and proper management are essential to prevent progression and long-term complications.</p>
                                 <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> is widely regarded as one of the best scoliosis surgeons in Mumbai and India, known for his expertise in <a href="{{ route('minimally-invasive-scoliosis-surgery-faster-recovery') }}">minimally invasive deformity correction</a>, robotic-assisted scoliosis surgery, and personalized treatment planning. With extensive experience across thousands of cases, he offers world-class outcomes using the latest techniques and technology.</p>
                                 <!-- <p>Patients across India—including Mumbai, Pune, Delhi, Nashik, Nagpur, Indore, Jaipur, and international regions—trust his expertise for safe, effective, and successful scoliosis correction.</p> -->

@@ -81,84 +81,84 @@ symptoms, prevention, and treatment options for better spine health.@endsection
         <div class="container sec-service-procedure-1">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12 text-center pt-5">
-                    <img src="{{ asset('resources/assets/img/blog/4.jpg') }}">
+                    <img src="{{ asset('resources/assets/img/blog/4.webp') }}">
                 </div>
                 <div class="col-lg-12 col-md-12 col-12 pt-5">
                     <h2 class="services-heading-h2">Sciatica</h2>
                     <h3>Definition</h3>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Pain radiating from back to buttock to back of thigh to calf is sciatica</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Pain in sciatic neeve region / dermatome is sciatica</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Leg pain from buttock to calf</p>
                     </div>
                     <h2 class="services-heading-h2">Causes</h2>
                     <h3>Multiple causes can create sciatica</h3>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>SPINAL CAUSES ( Common )</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Slip Disc / herniated disc / disc bulge one of commonest commonest cause -pain and paresthesiae
                             in dermatomal pattern</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Nerve compression due to Degenerative facet arthritis /canal stenosis or some progressive disease
                             like infection / TB / Tumor can present as sciatica. – In disease related sciatica the pain is
                             not activity related and is usually present even at rest.</p>
                     </div>
                     <h3>EXTRASPINAL CAUSES (Not uncommon)</h3>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Sacroillitis – one of the common causes usually missed in diagnosis</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Hip pathologies – AVN, hip OA</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Peripheral neuropathy</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Visceral and vascular insufficiency</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Reffered pain</p>
                     </div>
                     <p>Most of these may mimic like sciatica as pain is in same location but cause is extraspinal.</p>
                     <h2 class="services-heading-h2">THUMB RULE For Management</h2>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Always examine and take detailed history to rule out exact cause and differentiate spinal vs
                             extraspinal cause of sciatica</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>History taking and clinical examination is the best mode to establish near confirmed diagnosis
                         </p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Conservative treatment with medication and physiotherapy under supervision – usually helps in
                             degenrative pathology with no neurology deficit</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Surgery may be required in small subset of patients progressive symptoms with neurology</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>MICROENDOSCOPIC SURGERY – MINIMAL INVASIVE SPINE SURGERY – is extremely safe simple and
                             predictive with promising results and least bed rest/ hospital stay</p>
                     </div>

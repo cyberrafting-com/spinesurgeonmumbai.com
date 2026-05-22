@@ -98,23 +98,23 @@ slip disc, and more, including cost of surgery.@endsection
                     <h2 class="services-heading-h2">Criteria to Evaluate the Best Spine Surgeons in India</h2>
                     <p>Choosing the best spine surgeon involves several factors:</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>1. Qualifications and Certifications:</strong>Look for specialists with advanced degrees
                             and training, ideally in neurosurgery or orthopedic surgery, with further specialization in
                             spine surgery.</p>
                     </div>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>2. Experience and Specialization:</strong>Consider the surgeon's experience with specific
                             spine conditions or procedures.</p>
                     </div>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>3. Patient Testimonials and Reviews:</strong>Patient feedback can provide insights into a
                             surgeon's success rates and bedside manner.</p>
                     </div>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>4. Hospital Affiliations:</strong>Top surgeons are often affiliated with renowned
                             hospitals or medical centers.</p>
                     </div>
@@ -142,23 +142,23 @@ slip disc, and more, including cost of surgery.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Vishal Kundnani – Leading Spine Specialist in Mumbai</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Qualifications:</strong>MBBS, DNB (Orthopedics), MS (Orthopedics)</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Hospital Affiliation:</strong>Lilavati Hospital & Research Centre, Mumbai
                                         </p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Website:</strong><a href="https://spineclinicmumbai.com"
                                                 target="_blank">https://spinesurgeonmumbai.com,
                                                 https://spineclinicmumbai.com</a></p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Contact:</strong><a href="tel:919619100123">+91-9619100123 ||
                                                 +91-9619200123 || +91-9619300123</a></p>
                                     </div>
@@ -213,21 +213,21 @@ slip disc, and more, including cost of surgery.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-sajan-k-hegde-blog-profile.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/dr-sajan-k-hegde-blog-profile.webp') }}"
                                     alt="" class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Sajan Hegde – Chennai's Top Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopedics), MCh (Orthopedics)</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Hospital Affiliation:</strong>Apollo Hospitals, Chennai</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Website:</strong><a href="www.apollohospitals.com"
                                                 target="_blank">www.apollohospitals.com</a></p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Contact:</strong><a href="tel:+914428293333">+914428293333</a></p>
                                     </div>
                                     <p class="pt-5">Dr. Hegde is a senior consultant spine surgeon known for his work in
@@ -244,25 +244,25 @@ slip disc, and more, including cost of surgery.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-hitesh-garg-blog-profile.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/dr-hitesh-garg-blog-profile.webp') }}"
                                     alt="" class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Hitesh Garg – Recognized Spine Surgeon in Gurgaon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopedics), Fellowship in Spine
                                             Surgery (USA)</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Hospital Affiliation:</strong>Artemis Hospital, Gurgaon</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Website:</strong><a href="https://www.artemishospitals.com/"
                                                 target="_blank">www.artemishospitals.com</a></p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Contact:</strong><a href="tel:+911244511111">+91 124 4511 111</a></p>
                                     </div>
@@ -280,26 +280,26 @@ slip disc, and more, including cost of surgery.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-arvind-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-arvind-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Arvind Kulkarni – Renowned Spine Surgeon in Mumbai</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopedics), Fellowship in Spine
                                             Surgery (Germany)</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Hospital Affiliation:</strong>Bombay Hospital & Medical Research Centre,
                                             Mumbai</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Website:</strong><a href="https://www.bombayhospital.com/"
                                                 target="_blank">https://www.bombayhospital.com/</a></p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Contact:</strong><a href="tel:+91 22 22067676">+91 22 22067676</a></p>
                                     </div>
@@ -317,26 +317,26 @@ slip disc, and more, including cost of surgery.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr_abhay_nene-blog-profile.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/dr_abhay_nene-blog-profile.webp') }}"
                                     alt="" class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Abhay Nene – Expert in Spine and Orthopedic Surgery in Mumbai</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopedics), Fellowship in Spine
                                             Surgery (USA)</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Hospital Affiliation:</strong>Gleneagles Hospital, Mumbai</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Website:</strong><a
                                                 href="https://www.gleneagleshospitals.co.in/doctors/abhay-nene?hospital=165"
                                                 target="_blank">www.gleneagleshospitals.co.in</a></p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Contact:</strong><a href="tel:+919892101234">+91-9892101234</a></p>
                                     </div>
@@ -359,37 +359,37 @@ slip disc, and more, including cost of surgery.@endsection
                     <h2 class="services-heading-h2">Different Types of Spine Surgeries Performed by Indian Surgeons</h2>
                     <p>Indian spine surgeons are adept at various procedures, including:</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Spinal Fusion:</strong>Joining two or more vertebrae to stabilize the spine.</p>
                     </div>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Laminectomy:</strong>Removal of a part of the vertebra to relieve pressure on the spinal
                             cord.</p>
                     </div>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Discectomy:</strong>Removal of a herniated disc causing nerve pain.</p>
                     </div>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Minimally Invasive Surgeries:</strong>Techniques involving smaller incisions, less pain,
                             and faster recovery.</p>
                     </div>
                     <h2 class="services-heading-h2">Benefits of Seeking Spine Treatment in India</h2>
                     <p>India has become a popular destination for spine treatment due to several factors:</p>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Cost-Effective Treatment:</strong>Compared to the U.S. or Europe, spine surgeries in
                             India are often significantly more affordable.</p>
                     </div>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Expert Care:</strong>Surgeons in India are highly qualified and often trained
                             internationally.</p>
                     </div>
                     <div class="cat-service-inner">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>World-Class Facilities:</strong>Many hospitals in India are equipped with
                             state-of-the-art technology for spine care.</p>
                     </div>

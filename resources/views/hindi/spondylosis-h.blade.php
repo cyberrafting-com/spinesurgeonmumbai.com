@@ -141,35 +141,35 @@
                         <h1>स्पोंडिलोसिस में सामान्य लक्षण क्या हैं?</h1>
                         <h1>गर्दन (सर्वाइकल स्पाइन)</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दर्द
                                 जो आता और जाता है</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दर्द
                                 जो आपके कंधों, हाथों, हाथों या उंगलियों में फैलता है</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बिस्तर
                                 से उठने के बाद सुबह गर्दन या कंधे की कठोरता या गति की सीमित सीमा</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्दन
                                 या कंधे की कोमलता या सुन्नता</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आपकी
                                 गर्दन, कंधों, हाथों, हाथों या उंगलियों में कमजोरी या झुनझुनी</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आपके
                                 सिर के पीछे सिरदर्द</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">संतुलन
                                 का नुकसान</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">निगलने
                                 में कठिनाई (यह दुर्लभ है, लेकिन यदि स्पाइनल कॉर्ड संपीड़ित है तो यह हो सकता है।)</li>
@@ -177,31 +177,31 @@
 
                         <h1>कमर (लम्बर स्पाइन)</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दर्द
                                 जो आता और जाता है</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बिस्तर
                                 से उठने के बाद सुबह कमर की कठोरता</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दर्द
                                 जो आराम या व्यायाम के बाद कम हो जाता है</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमर
                                 की कोमलता या सुन्नता</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">साइटिका
                                 (हल्के से तीव्र पैर दर्द)</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमर,
                                 पैरों या पैरों में कमजोरी, सुन्नता, या झुनझुनी</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चलने
                                 में कठिनाई</li>
@@ -212,19 +212,19 @@
                         <h1>स्पोंडिलोसिस का कारण क्या है?</h1>
                         <p>गर्दन दर्द की एटियोलॉजी/कारण बहुकारकीय है, एक या दूसरे के मात्रात्मक प्रभाव को साबित/अस्वीकार करने के लिए कोई सबूत नहीं है। गर्दन दर्द के जोखिम कारक हो सकते हैं:</p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बुढ़ापा:
                                 सामान्य उम्र से संबंधित अपक्षयी प्रक्रिया के एक हिस्से के रूप में।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">जीवनशैली:
                                 तनाव और भावनात्मक तनाव, खराब मुद्रा - लंबे समय तक खड़े रहना या गलत तरीके से बैठना—गर्दन दर्द का कारण बन सकता है, भारी शारीरिक काम, उठाना या जबरदस्ती आंदोलन, झुकना, या अजीब स्थिति वास्तव में आपकी गर्दन को नुकसान पहुंचा सकती है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चोटें
                                 और दुर्घटनाएं: मांसपेशी, लिगामेंट, या नरम ऊतक में चोट गर्दन दर्द का कारण बन सकती है। गिरने या कार दुर्घटना में स्पाइनल हड्डी में फ्रैक्चर भी एक सामान्य कारण है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मोटापा:
                                 कमजोर पेट की मांसपेशियों के साथ अक्सर रीढ़ के संतुलन को बाधित करता है, जिससे आपकी गर्दन को असहज रूप से क्षतिपूर्ति करने के लिए झुकना पड़ता है।</li>
@@ -238,23 +238,23 @@
                         </p>
                         <p><b>हालांकि, कुछ परिदृश्यों में सर्जरी आवश्यक है:</b></p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आपको
                                 आंत्र या मूत्राशय की शिथिलता है। यह दुर्लभ है, लेकिन स्पाइनल कॉर्ड संपीड़न के साथ यह हो सकता है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आपको
                                 स्पाइनल स्टेनोसिस है, और आपके डॉक्टर को लगता है कि सर्जरी इसका इलाज करने का सबसे अच्छा तरीका है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आप
                                 अन्य न्यूरोलॉजिक शिथिलता का अनुभव कर रहे हैं, जैसे गंभीर हाथ या पैर की कमजोरी, सुन्नता, या झुनझुनी।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आपकी
                                 रीढ़ अस्थिर है। जैसे-जैसे स्पोंडिलोसिस आपकी रीढ़ के हिस्सों को प्रभावित करता है, विशेष रूप से आपके फेसेट जोड़ों (वे जोड़ जो रीढ़ की गतिविधियों को नियंत्रित करने में मदद करते हैं)</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आपकी
                                 रीढ़ स्पाइनल अस्थिरता विकसित कर सकती है। एक अस्थिर रीढ़ आपको न्यूरोलॉजिकल समस्याओं के विकास के लिए अधिक जोखिम में डालती है।</li>

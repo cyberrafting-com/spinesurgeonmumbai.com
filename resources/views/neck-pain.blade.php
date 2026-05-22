@@ -142,12 +142,12 @@ and solutions in Mumbai for effective relief.@endsection
                                             <p>Similar to <a href="{{route('back-pain')}}">back pain conditions</a>, the risk factors
                                                 for neck pain can be:</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Aging:
                                                     as a part of the normal age-related degenerative process.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Life
@@ -155,7 +155,7 @@ and solutions in Mumbai for effective relief.@endsection
                                                     periods of time or sitting incorrectly—can cause neck pain , heavy
                                                     physical work, lifting or forceful move-ment, bending, or awkward
                                                     positions can really hurt your back.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Injuries
@@ -163,7 +163,7 @@ and solutions in Mumbai for effective relief.@endsection
                                                     neck pain .Fracture in spinal bone in a fall or a car accident also is a
                                                     common cause. If you have osteoporosis, a condition that weakens your
                                                     bones, you're much more prone to fracturing a bone.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Obesity:
@@ -176,52 +176,52 @@ and solutions in Mumbai for effective relief.@endsection
                                             </ul>
                                             <p>Neck pain is also caused by a specific spinal conditions like :</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Slip
                                                     disc/ Disc Bulge /Bulged Disc</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                     stenosis / Lumbar Spinal Stenosis</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Facet
                                                     arthritis /Arthritis in spine</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spondylosis
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Primary
                                                     spinal tumours</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                     Metastatic tumours</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spine
                                                     Infections</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spine
                                                     Tuberculosis / SPINE TB</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                     Fracture</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Metabolic
@@ -261,7 +261,7 @@ and solutions in Mumbai for effective relief.@endsection
                                                 generators for movement. Ligaments are the strong, flexible bands of fibrous
                                                 tissue that link the bones together.</p>
 
-                                            <img class="serv_img" src="{{ asset('resources/assets/img/Capture.png') }}">
+                                            <img class="serv_img" src="{{ asset('resources/assets/img/Capture.webp') }}">
                                         </div>
                                     </div>
                                 </div>
@@ -283,57 +283,57 @@ and solutions in Mumbai for effective relief.@endsection
                                             depend on what is causing pain and where it is affecting your spine. The common
                                             complaints as-sociated with neck pain are –</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Stiff
                                                 neck, Stiffness in neck , Stiffness in Neck , Stiff neck</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Morning
                                                 stiffness</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle
                                                 Spasms</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Arm
                                                 Pain / Shoulder pain</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Difficulty
                                                 in moving neck , forward bending</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Neck
                                                 pain with prolonged sitting or constant working</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Neck
                                                 pain with moving neck</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Neck
                                                 pain with bending</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Neck
                                                 pain with Difficulty in walking</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Neck
                                                 pain in lying down.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Associated
@@ -373,37 +373,37 @@ and solutions in Mumbai for effective relief.@endsection
                                                 seek immediate attention if you have back pain with any of the following
                                                 emergency signs (RED FLAGS) –</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pain
                                                     is getting significantly worse.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pain
                                                     affects every day activities.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Severe
                                                     symptoms.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Associated
                                                     Fever or constitutional symptoms.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Shoulder
                                                     pain or arm pain and weakness or numbness.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Arm
                                                     or hand weakness, tingling, or numbness.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Loss
@@ -435,32 +435,32 @@ and solutions in Mumbai for effective relief.@endsection
                                                 duration of symptoms.</p>
                                             <p><b>They may comprise one or many:-</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Drugs
                                                     & Medications.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physical
                                                     Therapy.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                     Bracing.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                     Injections.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spine
                                                     surgery.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physiotherapy
@@ -491,25 +491,25 @@ and solutions in Mumbai for effective relief.@endsection
                                         <div class="cliclskil1">
 
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Acetaminophen:
                                                     Your doctor may call this an analgesic, but most of us refer to
                                                     acetaminophen me-dications as painkillers.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">NSAIDs
                                                     (non-steroidal anti-inflammatory drugs): Reduce swelling (or
                                                     inflammation) while relieving your pain.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle
                                                     Relaxants: If you have chronic back pain caused by muscle spasms, you
                                                     may need a muscle relaxant, which will help stop the spasms.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Anti-depressants:
@@ -517,7 +517,7 @@ and solutions in Mumbai for effective relief.@endsection
                                                     for treating pain because they block pain messages on their way to the
                                                     brain. They can also help increase your body's production of endorphins,
                                                     a natural pain killer.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Opioids:
@@ -526,14 +526,14 @@ and solutions in Mumbai for effective relief.@endsection
                                             </ul>
                                             <p><b>Medication Warning:-</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">As
                                                     with all medications, you must follow your doctor's advice precisely.
                                                     Never mix over-the-counter and prescribed drugs without consulting your
                                                     doctor.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No
@@ -564,7 +564,7 @@ and solutions in Mumbai for effective relief.@endsection
                                             <p>Most patients with Neck pain respond well to non-surgical treatments (such as
                                                 medication) –</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Indications
@@ -605,14 +605,14 @@ and solutions in Mumbai for effective relief.@endsection
                                                 stability, core strengthening.</p>
                                             <p><b>Passive Treatments:-</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Deep
                                                     Tissue Massage: Deep tissue massage relieves deep muscle tension and
                                                     spasms, which develop to prevent muscle motion at the affected area.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot
@@ -620,12 +620,12 @@ and solutions in Mumbai for effective relief.@endsection
                                                     benefits, and your physical therapist may alternate between them to get
                                                     the best results. This reduces inflammation, muscle spasms, and pain.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hydrotherapy:
                                                     gently relieves pain and relaxes muscles.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS
@@ -637,7 +637,7 @@ and solutions in Mumbai for effective relief.@endsection
                                                     your body's production of endorphins, your natural pain killers. The
                                                     TENS equipment your physical therapist uses is larger than the "at home"
                                                     use machine.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ultrasound:
@@ -645,7 +645,7 @@ and solutions in Mumbai for effective relief.@endsection
                                                     cramping, swelling, stiffness, and pain. It does this by sending sound
                                                     waves deep into your muscle tissues, creating a gentle heat that
                                                     enhances circulation and healing.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Traction:
@@ -655,12 +655,12 @@ and solutions in Mumbai for effective relief.@endsection
                                             </ul>
                                             <p><b>ActiveTreatments:-</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Help
                                                     to reduce recurrent pain but will also benefit your overall health.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core
@@ -669,14 +669,14 @@ and solutions in Mumbai for effective relief.@endsection
                                                     muscles support your spine. When your core muscles are weak, it puts
                                                     extra pressure on your back muscles. Your physical therapist may teach
                                                     you to core stabilizing exercises to strengthen your back.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Flexibility:
                                                     Learning proper stretching and flexibility techniques will prepare you
                                                     for aerobic and strength exercises. Flexibility helps your body move
                                                     easier by warding off stiffness.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle-strengthening:
@@ -715,7 +715,7 @@ and solutions in Mumbai for effective relief.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Neck
@@ -744,37 +744,37 @@ and solutions in Mumbai for effective relief.@endsection
                                         <div class="cliclskil1">
                                             <p><b>Causes of neck pain include:</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Abnormalities
                                                     in the bone or joints</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Slip
                                                     disc /Disc bulge /Herniated disc</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Trauma
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Poor
                                                     posture</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Degenerative
                                                     diseases</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Tumors
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle
@@ -805,37 +805,37 @@ and solutions in Mumbai for effective relief.@endsection
                                                 a mobile joint tends to be more susceptible to injury. Shoulder pain can
                                                 stem from one or more of the following causes:</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pinched
                                                     nerves (also called radiculopathy)</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Slip
                                                     disc in Neck</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Strains
                                                     from overexertion</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Tendonitis
                                                     from overuse</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dislocation
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Collar
                                                     or upper arm bone fractures</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Frozen
@@ -864,26 +864,26 @@ and solutions in Mumbai for effective relief.@endsection
                                         <div class="cliclskil1">
 
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">X-rays:
                                                     Plain X-rays can reveal narrowing of the space between two spinal bones,
                                                     arthritis-like diseases, tumors, slipped discs, narrowing of the spinal
                                                     canal, fractures, and instability of the spinal column.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MRI:
                                                     Magnetic resonance imaging is a noninvasive procedure that can reveal
                                                     the detail of neural (nerve-related) elements, as well as problems with
                                                     the tendons and ligaments.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Myelography/CT
                                                     scanning: This is sometimes used as an alternative to MRI.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Electrodiagnostic
@@ -913,7 +913,7 @@ and solutions in Mumbai for effective relief.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The

@@ -58,13 +58,13 @@ treatment options from the best spine surgeons in Mumbai and Bandra.@endsection
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Internationally trained and awarded spine surgeon in Mumbai.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}"
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}"
                                 alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}"
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}"
                                 alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
@@ -78,7 +78,7 @@ treatment options from the best spine surgeons in Mumbai and Bandra.@endsection
                                 basically the pushing out of the soft inner portion of the spinal disc through a tiny tear
                                 in the outer layer. Such a condition causes pressure on the nearby nerves, which in turn
                                 causes pain, numbness, or weakness in the back, legs, or arms.</p>
-                            <img src="{{ asset('resources/assets/img/slip disc.jpg') }}" alt="Slip Disc Anatomy"
+                            <img src="{{ asset('resources/assets/img/slip disc.webp') }}" alt="Slip Disc Anatomy"
                                 class="img-responsive">
                         </div>
 
@@ -88,31 +88,31 @@ treatment options from the best spine surgeons in Mumbai and Bandra.@endsection
                         </div>
 
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Age related wear and tear</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Lifting heavy objects improperly</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Sudden movements or injuries</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Poor postures</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Obesity</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Smoking</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Lack of exercise</p>
                         </div>
 
@@ -132,19 +132,19 @@ treatment options from the best spine surgeons in Mumbai and Bandra.@endsection
                         </div>
 
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>X-ray</strong> to see bone alignment</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>MRI scan</strong> to view soft tissue and disc condition</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>CT scan</strong> to get more detail</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Nerve conduction studies</strong> to understand how the nerves function</p>
                         </div>
 
@@ -159,20 +159,20 @@ treatment options from the best spine surgeons in Mumbai and Bandra.@endsection
                                 <h4>1. Non-Surgical Treatment</h4>
 
                                 <div class="cat-service-inner pt-3">
-                                    <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                    <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                     <p><strong>Rest and Activities Modification:</strong> Never lift or twist. Short-term
                                         rest, followed by some gentle movement, will help your recovery.</p>
                                 </div>
 
                                 <div class="cat-service-inner pt-3">
-                                    <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                    <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                     <p><strong>Medications For Pain:</strong> As prescribed by the doctor, you can take
                                         painkillers available over the counter, anti-inflammatory agents, and muscle
                                         relaxants.</p>
                                 </div>
 
                                 <div class="cat-service-inner pt-3">
-                                    <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                    <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                     <p><strong>Physiotherapy:</strong> The dietician will supervise the exercises to
                                         strengthen the back and improve posture.</p>
                                 </div>
@@ -202,19 +202,19 @@ treatment options from the best spine surgeons in Mumbai and Bandra.@endsection
 
                                 <div class="advantages-list">
                                     <div class="cat-service-inner pt-3">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p>Less pain after surgery</p>
                                     </div>
                                     <div class="cat-service-inner pt-3">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p>Smaller scar</p>
                                     </div>
                                     <div class="cat-service-inner pt-3">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p>Shorter hospital stay</p>
                                     </div>
                                     <div class="cat-service-inner pt-3">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p>Faster recovery</p>
                                     </div>
                                 </div>
@@ -233,19 +233,19 @@ treatment options from the best spine surgeons in Mumbai and Bandra.@endsection
                         </div>
 
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Experience in particularly spine surgeries</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>The success rate of treatments</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Modern techniques such as endoscopic surgery</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Patient testimonials and hospital facilities</p>
                         </div>
 

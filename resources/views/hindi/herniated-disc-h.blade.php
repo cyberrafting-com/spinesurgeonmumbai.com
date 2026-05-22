@@ -76,10 +76,10 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">रीढ़ 33 कशेरुकाओं से बनी है। हर दो कशेरुकाओं के बीच कुशन जैसी डिस्क होती है जो झटके सोखती है और गतिशीलता में मदद करती है। डिस्क बाहरी मजबूत रिंग (Annulus) और अंदर जेल जैसे पदार्थ (Nucleus) से बनती है।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">डिस्क का पदार्थ बाहर निकलकर स्पाइनल कैनाल में नसों पर दबाव डालता है तो कमर/नितंब/पैर में दर्द, सुन्नपन, चलने में कठिनाई होती है (सायटिका)।</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">रीढ़ 33 कशेरुकाओं से बनी है। हर दो कशेरुकाओं के बीच कुशन जैसी डिस्क होती है जो झटके सोखती है और गतिशीलता में मदद करती है। डिस्क बाहरी मजबूत रिंग (Annulus) और अंदर जेल जैसे पदार्थ (Nucleus) से बनती है।</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">डिस्क का पदार्थ बाहर निकलकर स्पाइनल कैनाल में नसों पर दबाव डालता है तो कमर/नितंब/पैर में दर्द, सुन्नपन, चलने में कठिनाई होती है (सायटिका)।</li>
                                         </ul>
-                                        <img class="serv_img" src="{{ asset('resources/assets/img/Capture.png') }}">
+                                        <img class="serv_img" src="{{ asset('resources/assets/img/Capture.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -113,8 +113,8 @@
                             <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                 <div class="panel-body">
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल स्टेनोसिस/स्लिप डिस्क से नस दबने पर कमर से पैर तक जाने वाला दर्द और सुन्नपन—इसे सायटिका कहते हैं।</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइन क्लिनिक मुंबई और गोरेगांव में अनुभवी स्पाइन विशेषज्ञों की टीम द्वारा इसका उपचार उपलब्ध है।</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल स्टेनोसिस/स्लिप डिस्क से नस दबने पर कमर से पैर तक जाने वाला दर्द और सुन्नपन—इसे सायटिका कहते हैं।</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइन क्लिनिक मुंबई और गोरेगांव में अनुभवी स्पाइन विशेषज्ञों की टीम द्वारा इसका उपचार उपलब्ध है।</li>
                                     </ul>
                                 </div>
                             </div>
@@ -132,10 +132,10 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">डिस्क डीजनरेशन → डिस्क बुल्ज/प्रोलैप्स → एक्सट्रूज़न → सीक्वेस्ट्रेशन (न्यूक्लियस का बाहर आना)।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">खराब पोस्टर, कमज़ोर मांसपेशियाँ, अचानक वजन उठाना/मुड़ना, चोट/आघात, उम्र-संबंधी बदलाव प्रमुख कारण हैं।</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">डिस्क डीजनरेशन → डिस्क बुल्ज/प्रोलैप्स → एक्सट्रूज़न → सीक्वेस्ट्रेशन (न्यूक्लियस का बाहर आना)।</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">खराब पोस्टर, कमज़ोर मांसपेशियाँ, अचानक वजन उठाना/मुड़ना, चोट/आघात, उम्र-संबंधी बदलाव प्रमुख कारण हैं।</li>
                                         </ul>
-                                        <img class="serv_img mt-3" src="{{ asset('resources/assets/img/capture2.png') }}">
+                                        <img class="serv_img mt-3" src="{{ asset('resources/assets/img/capture2.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -153,10 +153,10 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कभी मंद, कभी तेज कमर दर्द; पीठ जकड़ना/लॉक होना; सुबह जकड़न; पैर में दर्द/सुन्नपन/झनझनाहट; चलने में कठिनाई।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्दन की डिस्क होने पर बाँह/हाथ में फैलता दर्द (रैडिक्यूलोपैथी)।
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कभी मंद, कभी तेज कमर दर्द; पीठ जकड़ना/लॉक होना; सुबह जकड़न; पैर में दर्द/सुन्नपन/झनझनाहट; चलने में कठिनाई।</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्दन की डिस्क होने पर बाँह/हाथ में फैलता दर्द (रैडिक्यूलोपैथी)।
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दुर्लभ पर गंभीर: आंत्र/मूत्र नियंत्रण में कमी (कौडा इक्वाइना), पैर में कमजोरी/फुट-ड्रॉप—आपातकालीन सर्जरी आवश्यक।</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दुर्लभ पर गंभीर: आंत्र/मूत्र नियंत्रण में कमी (कौडा इक्वाइना), पैर में कमजोरी/फुट-ड्रॉप—आपातकालीन सर्जरी आवश्यक।</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -175,9 +175,9 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइन विशेषज्ञ द्वारा क्लिनिकल जाँच, एक्स-रे और MRI—डिस्क की ग्रेडिंग/नस पर दबाव जानने के लिए।</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइन विशेषज्ञ द्वारा क्लिनिकल जाँच, एक्स-रे और MRI—डिस्क की ग्रेडिंग/नस पर दबाव जानने के लिए।</li>
                                         </ul>
-                                        <img class="serv_img mt-3" src="{{ asset('resources/assets/img/capture3.png') }}">
+                                        <img class="serv_img mt-3" src="{{ asset('resources/assets/img/capture3.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -212,9 +212,9 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दवाइयाँ – NSAIDs/मसल रिलैक्सेंट/आदि</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्म सेंक/ठंडी सिकाई</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फिजियोथेरेपी (TENS, अल्ट्रासाउंड, हाइड्रोथेरेपी सहित)</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दवाइयाँ – NSAIDs/मसल रिलैक्सेंट/आदि</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्म सेंक/ठंडी सिकाई</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फिजियोथेरेपी (TENS, अल्ट्रासाउंड, हाइड्रोथेरेपी सहित)</li>
                                         </ul>
                                         <p>उपचार शुरू करने से पहले स्पाइन विशेषज्ञ से परामर्श आवश्यक है।</p>
                                     </div>
@@ -253,7 +253,7 @@
                                         <p>माइक्रोएंडोस्कोपिक डिस्केक्टॉमी/MIS डिस्क सर्जरी—छोटे चीरे, कम दर्द, बिना बेड रेस्ट के जल्दी वापसी।
                                         </p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">24–48 घंटों में डिस्चार्ज, 2 हफ्तों में सामान्य कार्यों में वापसी (डॉक्टर की सलाह अनुसार)।</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">24–48 घंटों में डिस्चार्ज, 2 हफ्तों में सामान्य कार्यों में वापसी (डॉक्टर की सलाह अनुसार)।</li>
                                         </ul>
                                     </div>
                                 </div>

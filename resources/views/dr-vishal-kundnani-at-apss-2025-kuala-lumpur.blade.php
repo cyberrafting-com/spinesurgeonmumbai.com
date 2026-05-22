@@ -95,13 +95,13 @@ plenary lectures on minimally invasive spine surgery and spinal deformity correc
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/blog1.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/blog1.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Internationally trained and awarded spine surgeon in Mumbai.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}"
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}"
                                 alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}"
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}"
                                 alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
@@ -116,7 +116,7 @@ plenary lectures on minimally invasive spine surgery and spinal deformity correc
                                 surgeons from across the region. This international conference brings together the most
                                 accomplished spine specialists to share knowledge, research, and innovations in spine
                                 surgery.</p>
-                            <img src="{{ asset('resources/assets/img/blog1.jpg') }}" alt="APSS 2025 Kuala Lumpur Conference"
+                            <img src="{{ asset('resources/assets/img/blog1.webp') }}" alt="APSS 2025 Kuala Lumpur Conference"
                                 class="img-responsive">
                         </div>
 
@@ -134,15 +134,15 @@ plenary lectures on minimally invasive spine surgery and spinal deformity correc
 
                         <div class="gallery-grid">
                             <div class="gallery-item">
-                                <img src="{{ asset('resources/assets/img/gallery/f/2.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/gallery/f/2.webp') }}"
                                     alt="Dr. Kundnani delivering lecture at APSS 2025">
                             </div>
                             <div class="gallery-item">
-                                <img src="{{ asset('resources/assets/img/gallery/f/3.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/gallery/f/3.webp') }}"
                                     alt="APSS 2025 Conference presentations">
                             </div>
                             <div class="gallery-item">
-                                <img src="{{ asset('resources/assets/img/gallery/f/4.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/gallery/f/4.webp') }}"
                                     alt="International spine surgery collaboration">
                             </div>
                         </div>
@@ -169,11 +169,11 @@ plenary lectures on minimally invasive spine surgery and spinal deformity correc
 
                         <div class="gallery-grid">
                             <div class="gallery-item">
-                                <img src="{{ asset('resources/assets/img/gallery/f/5.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/gallery/f/5.webp') }}"
                                     alt="APSS Fellowship program discussions">
                             </div>
                             <div class="gallery-item">
-                                <img src="{{ asset('resources/assets/img/gallery/f/6.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/gallery/f/6.webp') }}"
                                     alt="International spine surgery collaboration">
                             </div>
                         </div>
@@ -189,22 +189,22 @@ plenary lectures on minimally invasive spine surgery and spinal deformity correc
                         <div class="highlight-box">
                             <h4>Key Achievements at APSS 2025</h4>
                             <div class="cat-service-inner pt-3">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Invited Faculty:</strong> Delivered plenary lectures on advanced spine surgery
                                     techniques</p>
                             </div>
                             <div class="cat-service-inner pt-3">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Research Presentations:</strong> Team's clinical research received widespread
                                     appreciation</p>
                             </div>
                             <div class="cat-service-inner pt-3">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Leadership Recognition:</strong> Honored for contributions as Chairman of APSS
                                     Online Education Committee</p>
                             </div>
                             <div class="cat-service-inner pt-3">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Global Impact:</strong> Moderated APSS Fellowship Programs promoting
                                     international collaboration</p>
                             </div>
@@ -212,15 +212,15 @@ plenary lectures on minimally invasive spine surgery and spinal deformity correc
 
                         <div class="gallery-grid">
                             <div class="gallery-item">
-                                <img src="{{ asset('resources/assets/img/gallery/f/7.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/gallery/f/7.webp') }}"
                                     alt="Recognition ceremony at APSS 2025">
                             </div>
                             <div class="gallery-item">
-                                <img src="{{ asset('resources/assets/img/gallery/f/8.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/gallery/f/8.webp') }}"
                                     alt="International spine surgery network">
                             </div>
                             <div class="gallery-item">
-                                <img src="{{ asset('resources/assets/img/gallery/f/9.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/gallery/f/9.webp') }}"
                                     alt="APSS 2025 networking and collaboration">
                             </div>
                         </div>
@@ -230,23 +230,23 @@ plenary lectures on minimally invasive spine surgery and spinal deformity correc
                         </div>
 
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Minimally Invasive Spine Surgery:</strong> Latest techniques and innovations in <a
                                     href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}">micro-endoscopic
                                     procedures</a></p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Cervical Spine Disorders:</strong> Advanced treatment approaches for complex neck
                                 conditions</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Spinal Deformity Correction:</strong> Innovative techniques for <a
                                     href="{{ route('scoliosis') }}">scoliosis</a> and complex spinal deformities</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Patient Outcomes:</strong> Clinical research on improved surgical results and
                                 recovery</p>
                         </div>
@@ -267,7 +267,7 @@ plenary lectures on minimally invasive spine surgery and spinal deformity correc
                         </div>
 
                         <div class="gallery-item" style="text-align: center; margin: 30px 0;">
-                            <img src="{{ asset('resources/assets/img/gallery/f/10.jpg') }}"
+                            <img src="{{ asset('resources/assets/img/gallery/f/10.webp') }}"
                                 alt="APSS 2025 group photo with international spine surgeons"
                                 style="max-width: 600px; width: 100%; height: auto;">
                         </div>

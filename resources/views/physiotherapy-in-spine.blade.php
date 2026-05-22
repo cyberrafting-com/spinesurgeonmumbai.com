@@ -147,28 +147,28 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                             and severity of symptoms in consultation with your spine surgeon / spinal
                                             surgeon the options available for slip disc treatment are:-</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Medicines
                                                 – NSAIDS/ Muscle relaxant / Pregabalin / TCA,S /non opiod analgesics.
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot
                                                 fomentation.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Cold
                                                 sponging.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physical
                                                 therapy.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SWD
                                             </li>
@@ -200,7 +200,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes.
                                                 Physiotherapy has a major role in Slip Disc, Lumbar spinal stenosis,
@@ -232,14 +232,14 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 aria-labelledby="headingThree">
                                 <div class="panel-body">
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physiotherapy
                                             has a major role in spinal slip disc treatment. It teaches how to condition
                                             your body to prevent further injury and help in the recovery of the painful
                                             episode. There are a variety of physical therapy techniques. Passive and
                                             active treatments.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Passive
                                             treatments relax your body and include deep tissue massage, hot and cold
@@ -252,22 +252,22 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                     </p>
                                     <p><b>Passive Treatments:</b></p>
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Deep
                                             Tissue Massage: Deep tissue massage relieves deep muscle tension and spasms,
                                             which develop to prevent muscle motion at the affected area.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot
                                             and Cold Therapy: Both hot and cold therapies offer their own set of
                                             benefits, and your physical therapist may alternate between them to get the
                                             best results. This reduces inflammation, muscle spasms, and pain.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hydrotherapy/Aquatherapy:
                                             gently relieves pain and relaxes muscles.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS
                                             (transcutaneous electrical nerve stimulation): uses electrical current to
@@ -277,14 +277,14 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                             intensities of electrical current. TENS may increase your body's production
                                             of endorphins, your natural pain killers. The TENS equipment your physical
                                             therapist uses is larger than the "at home" use machine.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ultrasound
                                             for spine: By increasing blood circulation, an ultrasound helps reduce
                                             muscle cramping, swelling, stiffness, and pain. It does this by sending
                                             sound waves deep into your muscle tissues, creating a gentle heat that
                                             enhances circulation and healing.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lumbar
                                             Traction: reduce the effects of gravity on the spine. The intent is to
@@ -296,25 +296,25 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                     <p>Exercises should not be done without proper supervision of physiotherapists and
                                         in consultation with spinal specialist and spine doctor.</p>
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core
                                             stability: Many people don't realize how important a strong core is to their
                                             spinal health. Your core (abdominal) muscles help your back muscles support
                                             your spine.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pilates:
                                             When your core muscles are weak, it puts extra pressure on your back
                                             muscles. Your physical therapist may teach you to core stabilizing exercises
                                             to strengthen your back.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Flexibility:
                                             Learning proper stretching and flexibility techniques will prepare you for
                                             aerobic and strength exercises. Flexibility helps your body move easier by
                                             warding off stiffness.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle
                                             strengthening: Strong muscles are a great support system for your spine and
@@ -354,20 +354,20 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                             and when to stop physiotherapy. Most patients respond well to non-surgical
                                             treatments. However one should stop once.</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No
                                                 response to non-surgical treatments or pain increase in less than 3
                                                 weeks.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Progressive
                                                 pain, numbness, and tingling in the arms or legs.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Loss
                                                 of power sensation in your arms or legs.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Loss
                                                 bowel or bladder control.</li>
@@ -420,13 +420,13 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                         <p><b>Exercises should not be done without proper supervision of
                                                 physiotherapists and in consultation with spinal specialist.</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To
                                                 mobilize the spinal segment and to correct the postural distortion, to
                                                 strengthen the extensor muscles of the back and the muscles of the
                                                 shoulder blades and to develop the pectoral muscles.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">How
                                                 to do it : Always, if possible, on a hard surface, with a thin carpet.
@@ -435,41 +435,41 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                         <p><b>Note : Please Do all the movements as slow as possible!</b></p>
                                         <p><b>Exercises Options:</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lying
                                                 on back, face upwards.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lying
                                                 on the side.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lying
                                                 face downwards.</li>
                                         </ul>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex1.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex1.webp') }}">
                                             <h1>Back Care - Precautions For Back Pain</h1>
                                         </div>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex2.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex2.webp') }}">
                                             <h1>Neck Care - Precautions For Neck Pain</h1>
                                         </div>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex3.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex3.webp') }}">
                                             <h1>Neck Pain Exercises</h1>
                                         </div>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex4.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex4.webp') }}">
                                             <h1>Spine Strengthening Excercise</h1>
                                         </div>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex5.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex5.webp') }}">
                                             <h1>Spinal Mobilising Exercises</h1>
                                         </div>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex6.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex6.webp') }}">
                                             <h1>Spinal Trunk Control and Stability Exercises</h1>
                                         </div>
                                     </div>

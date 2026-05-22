@@ -85,7 +85,7 @@ at Spine Surgeons in Mumbai. Practical tips for relief and maintaining spine hea
         <div class="container sec-service-procedure-1">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12 text-center pt-5">
-                    <img src="{{ asset('resources/assets/img/blog/2.jpg') }}">
+                    <img src="{{ asset('resources/assets/img/blog/2.webp') }}">
                 </div>
                 <div class="col-lg-12 col-md-12 col-12 pt-5">
                     <h1 class="services-head-h1 services-heading-h1">Scoliosis</h1>
@@ -94,19 +94,19 @@ at Spine Surgeons in Mumbai. Practical tips for relief and maintaining spine hea
                     <p>2. Etiology -Idiopathic scoliosis in Young Adolescent female ( 8-15 years) present with back Hump</p>
                     <p>3. Other causes</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Congenital scoliosis(bony malformation)</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Syndromic scoliosis</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Neuromuscular Scoliosis among kids</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>degenrative scoliosis among adults.</p>
                     </div>
                     <h2 class="services-heading-h2">Correct diagnosis & etiology shall be ascertained at earliest</h2>
@@ -115,19 +115,19 @@ at Spine Surgeons in Mumbai. Practical tips for relief and maintaining spine hea
                     <p>5. Proper X ray and MRI are primary investigations in scoliosis patients</p>
                     <p>6. Investigations in Scoliosis involve</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>X ray Full spine PA view standing (not AP view)</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>X Ray Full spine standing Lateral View</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>X ray full spine PA views Bending films left and right</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>MRI screening whole spine with dedicated study of affected spine ( only if pain or sensorimotor
                             involvement )</p>
                     </div>

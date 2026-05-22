@@ -14,7 +14,7 @@
         <div class="container sec-service-procedure-1">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12 text-center pt-5">
-                    <img src="{{ asset('resources/assets/img/blog/12.jpg') }}" alt="">
+                    <img src="{{ asset('resources/assets/img/blog/12.webp') }}" alt="">
                 </div>
             </div>
         </div>

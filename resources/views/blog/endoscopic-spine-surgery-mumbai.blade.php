@@ -99,12 +99,12 @@ Endoscopic spine surgery in Mumbai by Dr. Vishal Kundnani – minimally invasive
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Director & Head of Spine Services at Lilavati & Bombay Hospitals.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -114,7 +114,7 @@ Endoscopic spine surgery in Mumbai by Dr. Vishal Kundnani – minimally invasive
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Endoscopic Spine Surgery in Mumbai – Benefits & Success Rate</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/endoscopic-spine-surgery.png') }}" alt="Endoscopic Spine Surgery in Mumbai">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/endoscopic-spine-surgery.webp') }}" alt="Endoscopic Spine Surgery in Mumbai">
                                 <p><a href="{{ route('endoscopic-spine-surgery-mumbai') }}">Endoscopic spine surgery</a> is one of the most advanced <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive techniques</a> used to treat <a href="{{ route('herniated-disc') }}">herniated discs</a>, <a href="{{ route('spinal-stenosis') }}">spinal stenosis</a>, and nerve compression. Through a tiny incision, a high-definition camera and specialized instruments allow surgeons to access the damaged area with minimal muscle disruption.</p>
                                 <p>This modern technique offers less pain, faster recovery, smaller scars, and quicker return to routine activities compared to traditional open surgery. With robotic navigation and precision imaging, endoscopic procedures deliver excellent long-term outcomes and a high success rate.</p>
                                 <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, a leading expert in endoscopic spine surgery, provides advanced, safe, and effective treatments across Mumbai's top hospitals.</p>

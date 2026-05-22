@@ -15,7 +15,7 @@
         <div class="container sec-service-procedure-1">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12 pt-5 service_sec">
-                    <img src="{{ asset('resources/assets/img/blog/8.jpg') }}" alt="">
+                    <img src="{{ asset('resources/assets/img/blog/8.webp') }}" alt="">
                 </div>
                 <div class="col-lg-6 col-md-6 col-12 pt-5 service_sec">
                     <p>Complex Early onset SCOLIOSIS in a 5 year old girl.

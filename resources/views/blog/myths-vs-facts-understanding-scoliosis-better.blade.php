@@ -83,12 +83,12 @@ Discover the truth about scoliosis with expert insights that debunk common myths
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Trusted scoliosis surgeon and spine specialist in Mumbai.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -98,7 +98,7 @@ Discover the truth about scoliosis with expert insights that debunk common myths
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Myths vs Facts: Understanding Scoliosis Better</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/myth-fact-scoliosis-img.jpg') }}" alt="Myths vs Facts Scoliosis">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/myth-fact-scoliosis-img.webp') }}" alt="Myths vs Facts Scoliosis">
                                 <p>It is perhaps one of the more commonly misunderstood spine diseases. In actuality, while scoliosis may occur at any age, this disorder is more often a childhood and adolescent affliction. Misinformation breeds unjustified fears or delayed treatment should that begin in the first place.</p>
                                 <p>Have allegedly preached the same old song: different parents and patients should have the possibility to escape it and come to an appreciation of the truth surrounding scoliosis, its symptoms, and modern-day treatment options, which include treatment through <b> scoliosis surgery in Mumbai </b>and non-surgical scoliosis treatments.</p>
                             </div>

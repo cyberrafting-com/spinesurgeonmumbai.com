@@ -150,7 +150,7 @@
                                         <div class="cliclskil1">
                                             <ul>
                                                 <li>
-                                                    <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                    <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -188,12 +188,12 @@
                                         <div class="cliclskil1">
                                             <p><b>खालच्या पाठदुखीसाठी धोका असलेल्या कारणांमध्ये हे समाविष्ट आहे:</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वय:
                                                     हे वयाच्या सामान्य जर्जर होण्याच्या प्रक्रियेद्वारे होतं.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">जीवनशैली:
@@ -201,7 +201,7 @@
                                                     पद्धतीने बसणे - या सर्व गोष्टी पाठदुखीला कारणीभूत होऊ शकतात, तसेच
                                                     अत्यधिक शारीरिक काम, उचलणे, ताकद वापरून हालचाल करणे, वाकणे, किंवा अजीब
                                                     वागणूक देखील पाठदुखीला कारणीभूत ठरू शकतात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चोट
@@ -209,7 +209,7 @@
                                                     कारणीभूत होऊ शकते. पाठीच्या हाडांचा फ्रॅक्चर किंवा कार अपघातामुळे होणारा
                                                     अपघात देखील सामान्य कारण आहे. जर तुम्हाला ऑस्टियोपोरोसिस (हाडांची
                                                     कमकुवतता) असेल तर हाड तुटण्याची शक्यता जास्त असते.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मोटापा:
@@ -221,52 +221,52 @@
                                             </ul>
                                             <p><b>पाठदुखी विशिष्ट पाठीच्या समस्यांमुळे देखील होऊ शकते:</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप
                                                     डिस्क / डिस्क बुळा / बुळलेल्या डिस्क.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
                                                     स्टेनोसिस / लंबर स्पाइनल स्टेनोसिस.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फॅसेट
                                                     आर्थ्रायटिस / पाठीतील आर्थ्रायटिस.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉंडायलोसिस.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">प्राथमिक
                                                     पाठीचे ट्यूमर्स.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल
                                                     मेटास्टेटिक ट्यूमर्स.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पाठीच्या
                                                     संक्रमण.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पाठीचा
                                                     तपेदिक / स्पाइन TB.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पाठीचा
                                                     फ्रॅक्चर.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मेटाबॉलिक
@@ -303,7 +303,7 @@
                                             स्नायू, लिगामेंट्स आणि रक्तवाहिन्याही असतात. स्नायू म्हणजे शारीरिक हालचालींसाठी
                                             ऊर्जा निर्माण करणारे ऊतक. लिगामेंट्स म्हणजे हाडांना जोडणारे मजबूत, लवचिक बंध.
                                         </p>
-                                        <img class="serv_img" src="{{ asset('resources/assets/img/Capture.png') }}">
+                                        <img class="serv_img" src="{{ asset('resources/assets/img/Capture.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -325,52 +325,52 @@
                                                 नैसर्गिक प्रक्रिया हे काय कारणीभूत आहे आणि ते कुठे प्रभाव पाडते यावर अवलंबून
                                                 असते. पाठदुखीशी संबंधित सामान्य तक्रारी म्हणजे –</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गाठलेला
                                                     गळा, गळ्यातील कडकपणा, गळ्यातील कठोरता.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सकाळचा
                                                     कडकपणा.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्नायूंचे
                                                     संकोचन.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पाय
                                                     दुखणे.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पुढे
                                                     वाकताना पाठीमध्ये वेदना.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दीर्घकाळ
                                                     बसल्यावर किंवा कायम काम केल्यावर पाठदुखी.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गळ्याशी
                                                     संबंधित पाठदुखी.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वाकताना
                                                     पाठदुखी.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पायांमध्ये
                                                     वेदना.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लघवी
@@ -411,37 +411,37 @@
                                                 कोणत्याही आपत्कालीन चिन्हांसह (RED FLAGS) पाठीच्या दुखापतीसाठी त्वरित लक्ष
                                                 द्यावे:</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     वेदना लक्षणीयपणे वाढत आहे.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     वेदना दररोजच्या कामात अडथळा आणत आहे.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     तीव्र लक्षणे.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     उच्चांक ताप आणि सामान्य लक्षणे.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     खांद्याच्या दुखापतीसह किंवा हातात दुखापत आणि कमजोरी किंवा झंझावतपण.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     हात आणि खांद्यामधील कमजोरी, झंझावतपण किंवा झंझावतपण.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -474,32 +474,32 @@
                                             <p><b>आमच्या <a href="{{ route('home') }}">मुंबईतील अत्याधुनिक स्पाइन
                                                         केंद्रात</a>, आम्ही खालील व्यापक उपचार पर्याय प्रदान करतो:</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     औषधे आणि औषधांचा वापर.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     शारीरिक थेरपी.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     पाठीचे ब्रेसिंग.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     पाठीसाठी इंजेक्शन्स.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     पाठीचे शस्त्रक्रिया.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -529,26 +529,26 @@
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     ऍसिटामिनोफेन: तुमचा डॉक्टर याला ऍनाल्जेसिक म्हणू शकतो, पण आम्ही बहुतेक
                                                     वेळा ऍसिटामिनोफेन औषधे वेदनाशामक म्हणून ओळखतो.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     एनएसएआयडी (नॉन-स्टेरॉइडल अँटी-इन्फ्लेमेटरी ड्रग्स): सूज कमी करते (किंवा
                                                     सूज) आणि वेदना कमी करते.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     मसल रिलॅक्संट्स: जर तुमच्याकडे मसल स्पॅझममुळे दीर्घकालीन पाठीचा दुखापत
                                                     असेल तर तुम्हाला मसल रिलॅक्संट्सची आवश्यकता असू शकते, जे स्पॅझम थांबवू
                                                     शकतात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -556,7 +556,7 @@
                                                     कमी करण्यासाठी प्रभावी औषधे असू शकतात कारण ते वेदना संदेशांना
                                                     मेंदूपर्यंत पोहोचण्यापासून अडवतात. ते तुमच्या शरीरातील एंडोर्फिन्सचे
                                                     उत्पादन देखील वाढवू शकतात, जे एक नैसर्गिक वेदना निवारक आहे.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -566,14 +566,14 @@
                                             </ul>
                                             <h3>औषधाचा इशारा:</h3>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     सर्व औषधांसोबत, तुम्हाला तुमच्या डॉक्टरांच्या सल्ल्याचे अचूक पालन करणे
                                                     आवश्यक आहे. तुमच्या डॉक्टरांचा सल्ला न घेता ओव्हर-द-काउंटर आणि
                                                     प्रिस्क्राइब केलेली औषधे कधीही एकत्र करू नका.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -606,7 +606,7 @@
                                             <p>पाठीच्या दुखापतीचे बहुतेक रुग्ण नॉन-सर्जिकल उपचार (जसे की औषधे) यावर चांगला
                                                 प्रतिसाद देतात –</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -647,26 +647,26 @@
                                                 स्ट्रेंथनिंग यांचा समावेश आहे.</p>
                                             <p><b>पॅसिव्ह उपचार:-</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     डीप टिशू मसाज: डीप टिशू मसाज जाड स्नायूंच्या ताण आणि स्पॅझम्सला आराम
                                                     देतो, ज्यामुळे प्रभावित क्षेत्रातील स्नायू हलविणे टळते.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     गरम आणि थंड उपचार: गरम आणि थंड उपचारांचा प्रत्येकाचा एक फायदेशीर संच
                                                     असतो, आणि तुमचा फिजिकल थेरपिस्ट त्यांना चांगले परिणाम मिळवण्यासाठी एकत्र
                                                     वापरू शकतो. हे सूज, स्नायूंचे स्पॅझम, आणि वेदना कमी करतो.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     हायड्रोथेरपी: हायड्रोथेरपी वेदना आरामदायकपणे कमी करते आणि स्नायू
                                                     आरामदायक करतो.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -674,7 +674,7 @@
                                                     चालणी वापरून स्नायूंना उत्तेजित करतो आणि स्नायूंच्या स्पॅझम्सला कमी
                                                     करतो, तसेच शरीरातील नैसर्गिक वेदना निवारक, एंडोर्फिन्सच्या मुक्तीला
                                                     उत्तेजन देतो.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -682,7 +682,7 @@
                                                     कठोरपणा, आणि वेदना कमी करण्यात मदत करतो. हे ध्वनी लहरींना तुमच्या
                                                     स्नायूंच्या ऊतीत गुळगुळीतपणे पाठवते, ज्यामुळे रक्ताभिसरण आणि उपचार
                                                     सुधारतात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -692,13 +692,13 @@
                                             </ul>
                                             <p><b>ॲक्टिव्ह उपचार:-</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     पुन्हा दुखापतीला कमी करण्यासाठी मदत करतो, परंतु तुमच्या एकंदर
                                                     आरोग्यासाठीही फायदेशीर आहे.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -708,14 +708,14 @@
                                                     जेव्हा तुमचे कोअर स्नायू कमजोर असतात, तेव्हा ते तुमच्या पाठीच्या
                                                     स्नायूंवर अतिरिक्त दबाव आणते. तुमचा फिजिकल थेरपिस्ट तुम्हाला कोअर
                                                     स्थिरता वाढवण्यासाठी व्यायाम शिकवू शकतो.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     लवचिकता: योग्य स्ट्रेचिंग आणि लवचिकता तंत्र शिकणे तुम्हाला एरोबिक आणि
                                                     स्ट्रेंथ व्यायामांसाठी तयार करेल. लवचिकता तुमच्या शरीराला जास्त चांगले
                                                     हलवण्यासाठी मदत करते आणि कठोरपणा टाळतो.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -755,7 +755,7 @@
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -786,37 +786,37 @@
                                         <div class="cliclskil1">
                                             <p>पाठीच्या दुखापतीचे कारणे खालील प्रमाणे आहेत:</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     हाडे किंवा सांध्यांमध्ये असामान्यता.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     स्लिप डिस्क / डिस्क बुळग / हर्नियेटेड डिस्क.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     ट्रॉमा.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     चुकीची पोस्चर.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     विकारजनक रोग.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     ट्युमर.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -845,27 +845,27 @@
                                         <div class="cliclskil1">
                                             <p>पायांच्या वेदना खालील कारणांमुळे होऊ शकतात:</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     दाबलेले स्नायू (रॅडिक्युलोपॅथी म्हणून ओळखले जाते)</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     पाठीतील स्लिप डिस्क</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     जास्त कष्ट केल्यामुळे स्नायूंचा ताण</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     ओव्हरयूजमुळे टेंडनायटिस</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -893,27 +893,27 @@
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     एक्स-रे: साधे एक्स-रे पाठीच्या हाडांमधील अंतर कमी होणे, संधिवातासारखे
                                                     रोग, ट्युमर, स्लिप डिस्क, पाठीचा कॅनाल संकुचित होणे, फ्रॅक्चर आणि
                                                     पाठीच्या कणाचे अस्थिरता दाखवू शकतात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     MRI: मॅग्नेटिक रेजोनन्स इमेजिंग हा एक नॉन-इव्हेझिव्ह प्रक्रिया आहे जी
                                                     न्यूरल (स्नायू-संबंधी) घटकांचे तपशील, तसेच टेंडन्स आणि लिगामेंट्ससंबंधी
                                                     समस्यांचे निदान करू शकते.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     मायलोग्राफी / CT स्कॅनिंग: हा कधी कधी MRI च्या पर्यायी म्हणून वापरला
                                                     जातो.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -943,7 +943,7 @@
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -981,20 +981,20 @@
 
                                 <h3>मुंबईतील आमच्या स्पाइन सर्जरी केंद्राची निवड का करावी?</h3>
                                 <ul>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated" data-wow-iteration="infinite"
                                             alt="pic">मुंबईतील अत्याधुनिक स्पाइन सर्जरी सुविधाएं</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">कमी
                                         आक्रमक स्पाइन सर्जरी तंत्रज्ञान</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated" data-wow-iteration="infinite"
                                             alt="pic">मुंबईतील सर्वोत्तम स्पाइन सर्जन कडून सर्वसमावेशक स्पाइन देखभाल
                                     </li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated" data-wow-iteration="infinite"
                                             alt="pic">पाठीच्या दुखापतींच्या सर्व प्रकारांसाठी अत्याधुनिक उपचार</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated" data-wow-iteration="infinite"
                                             alt="pic">प्रत्येक रुग्णासाठी वैयक्तिकृत स्पाइन उपचार योजना</li>
                                 </ul>
@@ -1011,19 +1011,19 @@
                                 <div class="spine-expertise mt-3">
                                     <h4>तज्ञता क्षेत्रे:</h4>
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated" data-wow-iteration="infinite"
                                                 alt="pic">जटिल स्पाइन सर्जरी</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated" data-wow-iteration="infinite"
                                                 alt="pic">कमी आक्रमक स्पाइन प्रक्रिया</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated" data-wow-iteration="infinite"
                                                 alt="pic">गर्दन आणि पाठीच्या खालच्या भागातील उपचार</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated" data-wow-iteration="infinite"
                                                 alt="pic">स्पाइन विकृतीचे सुधारणा</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated" data-wow-iteration="infinite"
                                                 alt="pic">उत्तम पाठीच्या वेदना व्यवस्थापन</li>
                                     </ul>

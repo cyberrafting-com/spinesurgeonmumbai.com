@@ -80,19 +80,19 @@ for advanced treatments and expert care for spine disorders.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Vishal Kundnani – Spine Clinic Mumbai</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopaedics), Fellowship in Spine
                                             Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Experience:</strong>15+ years</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Affiliation:</strong>Spine Clinic Mumbai</p>
                                     </div>
                                     <p class="pt-5">Dr. Vishal Kundnani is regarded as one of Mumbai's foremost spine
@@ -104,13 +104,13 @@ for advanced treatments and expert care for spine disorders.@endsection
                                         patients achieve optimal recovery and long-term results.</p>
                                     <h3>Key Specializations:</h3>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p>Minimally Invasive Spine Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p>Spinal Deformity Correction</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p>Degenerative Spine Disorder Treatment</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p>Complex Spinal Reconstructions</p>
                                     </div>
                                     <h3>Why Choose Dr. Vishal Kundnani?</h3>
@@ -128,19 +128,19 @@ for advanced treatments and expert care for spine disorders.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr_abhay_nene-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr_abhay_nene-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Abhay Nene – Consultant Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopaedics), DNB (Orthopaedics),
                                             Fellowship in Spine Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Experience:</strong>20+ years</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Affiliation:</strong>Dr. Nene's Spine Clinic, Mumbai</p>
                                     </div>
                                     <p class="pt-5">Dr. Abhay Nene is a leading spine surgeon with extensive experience in
@@ -159,19 +159,19 @@ for advanced treatments and expert care for spine disorders.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr_shekhar_bhojraj-blog-profile.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/dr_shekhar_bhojraj-blog-profile.webp') }}"
                                     alt="" class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Shekhar Bhojraj – Consultant Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopaedics), DNB (Orthopaedics),
                                             Fellowship in Spine Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Experience:</strong>30+ years</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Affiliation:</strong>Breach Candy Hospital, Mumbai</p>
                                     </div>
                                     <p class="pt-5">Dr. Shekhar Bhojraj is a senior spine specialist with a wealth of
@@ -190,19 +190,19 @@ for advanced treatments and expert care for spine disorders.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-mihir-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-mihir-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Mihir Bapat – Consultant Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopaedics), Fellowship in Spine
                                             Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Experience:</strong>15+ years</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                         <p><strong>Affiliation:</strong>Kokilaben Dhirubhai Ambani Hospital, Mumbai</p>
                                     </div>
                                     <p class="pt-5"></p>
@@ -216,21 +216,21 @@ for advanced treatments and expert care for spine disorders.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-arvind-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-arvind-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Arvind G. Kulkarni – Consultant Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopaedics), DNB (Orthopaedics),
                                             Fellowship in Spine Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Experience:</strong>25+ years</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Affiliation:</strong>Lilavati Hospital, Mumbai</p>
                                     </div>
@@ -250,21 +250,21 @@ for advanced treatments and expert care for spine disorders.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr_shailesh_hadgaonkar-blog-profile.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/dr_shailesh_hadgaonkar-blog-profile.webp') }}"
                                     alt="" class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Shailesh Hadgaonkar – Consultant Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopaedics), Fellowship in Spine
                                             Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Experience:</strong>20+ years</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Affiliation:</strong>Jaslok Hospital, Mumbai</p>
                                     </div>
@@ -283,21 +283,21 @@ for advanced treatments and expert care for spine disorders.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr_gautam_zaveri-blog-profile.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/dr_gautam_zaveri-blog-profile.webp') }}"
                                     alt="" class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Gautam Zaveri – Consultant Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopaedics), Fellowship in Spine
                                             Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Experience:</strong>20+ years</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Affiliation:</strong>Zaveri Spine Care Centre, Mumbai</p>
                                     </div>
@@ -315,21 +315,21 @@ for advanced treatments and expert care for spine disorders.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-ketan-khurjekar-blog-profile.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/dr-ketan-khurjekar-blog-profile.webp') }}"
                                     alt="" class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Ketan Khurjekar – Consultant Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopaedics), Fellowship in Spine
                                             Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Experience:</strong>18+ years</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Affiliation:</strong>Saifee Hospital, Mumbai</p>
                                     </div>
@@ -347,21 +347,21 @@ for advanced treatments and expert care for spine disorders.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-sandeep-sonawane-blog-profile.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/dr-sandeep-sonawane-blog-profile.webp') }}"
                                     alt="" class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Sandeep Sonawane – Consultant Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopaedics), Fellowship in Spine
                                             Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Experience:</strong>10+ years</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Affiliation:</strong>Hiranandani Hospital, Mumbai</p>
                                     </div>
@@ -379,21 +379,21 @@ for advanced treatments and expert care for spine disorders.@endsection
                         class="service-procedure-box service-procedure-box-1 service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-ajay-chugh-blog-profile.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/dr-ajay-chugh-blog-profile.webp') }}"
                                     alt="" class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
                                 <div class="info">
                                     <h2>Dr. Ajay Chugh – Consultant Spine Surgeon</h2>
                                     <div class="cat-service-inner cat-service-inner-1">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Qualifications:</strong>MBBS, MS (Orthopaedics), Fellowship in Spine
                                             Surgery</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Experience:</strong>15+ years</p>
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             alt="">
                                         <p><strong>Affiliation:</strong>Fortis Hospital, Mumbai</p>
                                     </div>

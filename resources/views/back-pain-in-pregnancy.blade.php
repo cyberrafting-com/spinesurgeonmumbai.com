@@ -162,32 +162,32 @@
                         </div>
 
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Weight
                                 gain : During a healthy pregnancy, women typically gain between 25 and 35 pounds. The spine
                                 has to support that weight. That can cause lower back pain. The weight of the growing baby
                                 and uterus also puts pressure on the blood vessels and nerves in the pelvis and back.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Posture
                                 changes : Pregnancy shifts your center of gravity. As a result, you may gradually — even
                                 without noticing — begin to adjust your posture and the way you move. This may result in
                                 back pain or strain.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hormone
                                 changes : During pregnancy, your body makes a hormone called relaxin that allows ligaments
                                 in the pelvic area to relax and the joints to become looser in preparation for the birth
                                 process. The same hormone can cause ligaments that support the spine to loosen, leading to
                                 instability and pain.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle
                                 separation : As the uterus expands, two parallel sheets of muscles (the rectal abdominis
                                 muscles), which run from the rib cage to the pubic bone, may separate along the center seam.
                                 This separation may worsen back pain.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Stress
                                 : Emotional stress can cause muscle tension in the back, which may be felt as back pain or

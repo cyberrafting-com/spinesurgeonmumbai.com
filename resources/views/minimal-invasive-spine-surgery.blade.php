@@ -160,10 +160,10 @@
                             surgeons</a> in minimally invasive techniques, having performed over 5000 successful
                         surgeries.</p>
                     <div class="col-lg-6 mt-2">
-                        <img class="serv_img1" src="{{ asset('resources/assets/img/capture15.png') }}">
+                        <img class="serv_img1" src="{{ asset('resources/assets/img/capture15.webp') }}">
                     </div>
                     <div class="col-lg-6 mt-2">
-                        <img class="serv_img1" src="{{ asset('resources/assets/img/capture16.png') }}">
+                        <img class="serv_img1" src="{{ asset('resources/assets/img/capture16.webp') }}">
                     </div>
                     <div class="clearfix"></div>
                     <div class="cliclskil1 mt-2">
@@ -191,53 +191,53 @@
                                     spine.</p>
                             </div>
                             <div class="col-lg-4">
-                                <img class="serv_img1" src="{{ asset('resources/assets/img/capture17.png') }}">
+                                <img class="serv_img1" src="{{ asset('resources/assets/img/capture17.webp') }}">
                             </div>
                         </div>
                         <p><b>Advantages</b></p>
                         <div class="row">
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                             data-wow-iteration="infinite" alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Smaller                             incisions < 2 cms
                                     </li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Less
                                             blood loss</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No
                                             post operation pain</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Better
                                             cosmesis</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Shorter
                                             hospitalisation</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Early
                                             recovery and return to work</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No
                                             need of bed rest after surgery</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Less
                                             infection rates</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No
                                             long term morbidity</li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
-                                <img class="serv_img1" src="{{ asset('resources/assets/img/capture18.png') }}">
+                                <img class="serv_img1" src="{{ asset('resources/assets/img/capture18.webp') }}">
                             </div>
                         </div>
 
@@ -245,12 +245,12 @@
                             <div class="col-lg-6">
                                 <p><b>Limitations</b></p>
                                 <ul>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                             data-wow-iteration="infinite" alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Limited
                                         applicability not suited for cases like high grade spondylolisthesis, severe
                                         stenosis, multilevel pathology etc.</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                             data-wow-iteration="infinite" alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Resource
                                         Intensive and costly.</li>
@@ -259,15 +259,15 @@
                             <div class="col-lg-6">
                                 <p><b>Post Operative Protocol</b></p>
                                 <ul>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                             data-wow-iteration="infinite" alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day
                                         0- surgery</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                             data-wow-iteration="infinite" alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day
                                         1 post op Mobilization out of bed</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                             data-wow-iteration="infinite" alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Day
                                         2 Post op – Discharge with rehabilitation and physiotherapy program + 'do's
@@ -319,35 +319,35 @@
                         </div>
                         <h3>Minimal Invasive Spine Surgery Gallery –</h3>
                         <ul class="mt-1">
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                     data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SLIP
                                 DISC</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                     data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SPINAL
                                 STENOSIS</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                     data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">LUMBAR
                                 SPINAL STENOSIS</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                     data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SPONDYLOLISTHESIS
                             </li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                     data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
                                 DISCECTOMY SURGERY</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                     data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
                                 DECOMPRESSION SURGERY</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                     data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
                                 SPINAL FUSION</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                     data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MIS
                                 TLIF – MINIMAL INVASIVE TRANSFORMAINAL INTERBODY FUSION.</li>

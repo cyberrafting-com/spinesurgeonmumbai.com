@@ -96,9 +96,9 @@
                         <div class="content-section">
                             <h2><b>स्कोलियोसिस के लक्षण</b></h2>
                             <ul style="list-style: none; padding-left: 0;">
-                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">कंधों/कमर की असमानता, एक कंधा अधिक उठा हुआ</div></li>
-                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">एक ओर झुकाव, लंबे समय तक बैठने/खड़े रहने पर थकान</div></li>
-                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">झुकने पर एक तरफ पसलियों का उभरा हुआ दिखना (रिब हंप)</div></li>
+                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">कंधों/कमर की असमानता, एक कंधा अधिक उठा हुआ</div></li>
+                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">एक ओर झुकाव, लंबे समय तक बैठने/खड़े रहने पर थकान</div></li>
+                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">झुकने पर एक तरफ पसलियों का उभरा हुआ दिखना (रिब हंप)</div></li>
                             </ul>
                         </div>
 
@@ -106,19 +106,19 @@
                             <h3><b>उपचार विकल्प</b></h3>
                             <h3>ऑब्ज़र्वेशन</h3>
                             <ul style="list-style: none; padding-left: 0;">
-                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">माइल्ड कर्व (<20°) और बिना लक्षण के मामले</div></li>
+                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">माइल्ड कर्व (<20°) और बिना लक्षण के मामले</div></li>
                             </ul>
                             <h3>ब्रेसिंग</h3>
                             <ul style="list-style: none; padding-left: 0;">
-                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">बच्चों/किशोरों में 20°–40° कर्व की प्रगति रोकने हेतु</div></li>
+                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">बच्चों/किशोरों में 20°–40° कर्व की प्रगति रोकने हेतु</div></li>
                             </ul>
                             <h3>फिजियोथेरेपी</h3>
                             <ul style="list-style: none; padding-left: 0;">
-                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">पोश्चर, मांसपेशी शक्ति और लचीलापन सुधार</div></li>
+                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">पोश्चर, मांसपेशी शक्ति और लचीलापन सुधार</div></li>
                             </ul>
                             <h3>सर्जिकल उपचार</h3>
                             <ul style="list-style: none; padding-left: 0;">
-                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">गंभीर कर्व (>40°–50°) या प्रगति पर सर्जरी; स्पाइनल फ्यूजन आम</div></li>
+                                <li class="list-item-container"><div class="list-item-icon"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"></div><div class="list-item-text">गंभीर कर्व (>40°–50°) या प्रगति पर सर्जरी; स्पाइनल फ्यूजन आम</div></li>
                             </ul>
                         </div>
 

@@ -81,13 +81,13 @@
                         <h2>साइटिका के लक्षण</h2>
                         <p>आम लक्षण:</p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लोअर बैक से नीचे की ओर फैलता दर्द</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बैठने पर बढ़ता नितंब/पैर का दर्द</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हिप दर्द, चलने में दिक्कत</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पैर में जलन/झनझनाहट</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमजोरी/सुन्नपन, पैर/पैर के पंजे में कमजोरी</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">एक तरफ लगातार नितंब दर्द</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">खड़े होने पर तेज झटका जैसा दर्द</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लोअर बैक से नीचे की ओर फैलता दर्द</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बैठने पर बढ़ता नितंब/पैर का दर्द</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हिप दर्द, चलने में दिक्कत</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पैर में जलन/झनझनाहट</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमजोरी/सुन्नपन, पैर/पैर के पंजे में कमजोरी</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">एक तरफ लगातार नितंब दर्द</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">खड़े होने पर तेज झटका जैसा दर्द</li>
                         </ul>
 
                         <img src="{{ asset('resources/assets/images/symptoms-sciatica-treatment.jpg') }}" alt="साइटिका के लक्षण - डॉ. विशाल कुंदनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
@@ -95,11 +95,11 @@
                         <h2>साइटिका के कारण</h2>
                         <p>साइटिका निम्न स्पाइनल/मांसपेशीय स्थितियों से ट्रिगर हो सकता है:</p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लंबर स्पाइनल स्टेनोसिस — स्पाइनल कैनाल का संकरा होना</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">डिजेनेरेटिव डिस्क डिजीज — डिस्क का घिसना</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस — एक कशेरुका का दूसरे पर आगे खिसकना</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्भावस्था — सायटिक नर्व पर दबाव</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पीठ/नितंब की मांसपेशियों में स्पाज्म</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लंबर स्पाइनल स्टेनोसिस — स्पाइनल कैनाल का संकरा होना</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">डिजेनेरेटिव डिस्क डिजीज — डिस्क का घिसना</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस — एक कशेरुका का दूसरे पर आगे खिसकना</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्भावस्था — सायटिक नर्व पर दबाव</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पीठ/नितंब की मांसपेशियों में स्पाज्म</li>
                         </ul>
 
                         <img src="{{ asset('resources/assets/images/causes-of-sciatica.jpg') }}" alt="साइटिका के कारण - डॉ. विशाल कुंदनानी" class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
@@ -124,21 +124,21 @@
 
                         <h2>क्यों चुनें डॉ. विशाल कुंदनानी?</h2>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">अंतरराष्ट्रीय स्तर पर मान्य स्पाइन सर्जन</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">मिनिमली इनवेसिव/एंडोस्कोपिक स्पाइन सर्जरी विशेषज्ञता</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">रोगी-केंद्रित, व्यक्तिगत उपचार योजना</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">एडवांस्ड डायग्नोस्टिक तकनीक</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">अंतरराष्ट्रीय स्तर पर मान्य स्पाइन सर्जन</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">मिनिमली इनवेसिव/एंडोस्कोपिक स्पाइन सर्जरी विशेषज्ञता</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">रोगी-केंद्रित, व्यक्तिगत उपचार योजना</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">एडवांस्ड डायग्नोस्टिक तकनीक</li>
                         </ul>
 
                         <h2>त्वरित तथ्य</h2>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">लोअर बैक दर्द → सायटिक नर्व कम्प्रेशन संकेत</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">बैठने पर बढ़ता दर्द → साइटिका का सामान्य संकेत</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">हिप दर्द → नर्व इरिटेशन का विस्तार</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">पैर में झनझनाहट/जलन → नर्व इन्वॉल्वमेंट का संकेत</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">पैर की कमजोरी/सुन्नपन → उन्नत नर्व प्रेशर</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">एक तरफ नितंब दर्द → साइटिका का विशिष्ट लक्षण</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">खड़े होते समय झटके जैसा दर्द → सायटिक नर्व संकट</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">लोअर बैक दर्द → सायटिक नर्व कम्प्रेशन संकेत</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">बैठने पर बढ़ता दर्द → साइटिका का सामान्य संकेत</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">हिप दर्द → नर्व इरिटेशन का विस्तार</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">पैर में झनझनाहट/जलन → नर्व इन्वॉल्वमेंट का संकेत</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">पैर की कमजोरी/सुन्नपन → उन्नत नर्व प्रेशर</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">एक तरफ नितंब दर्द → साइटिका का विशिष्ट लक्षण</li>
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic">खड़े होते समय झटके जैसा दर्द → सायटिक नर्व संकट</li>
                         </ul>
 
                         <p class="mt-4"><strong>📍 साइटिका से राहत के लिए मिलें</strong><br>

@@ -21,12 +21,12 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">India's most trusted spine surgeon, expert in minimally invasive spine surgery.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="#"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="#"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
                     </div>
                 </div>
 
@@ -35,7 +35,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h1>3D Printed Implants: Transforming Spine Surgery with Precision and Personalization</h1>
-                            <img src="{{ asset('resources/assets/img/blog/3d-printed-implants.png') }}" alt="3D Printed Implants Spine Surgery Mumbai" class="img-responsive mb-4">
+                            <img src="{{ asset('resources/assets/img/blog/3d-printed-implants.webp') }}" alt="3D Printed Implants Spine Surgery Mumbai" class="img-responsive mb-4">
 
                             <p>While 3D-printed implants stand at the forefront of this emerging innovation, these few years have seen tremendous developments in <strong><a href="#">affordable endoscopic spine surgery Mumbai</a></strong>. Being able to create the patient-specific implants in an enhanced fashion, this invention indeed offers much more precision and personalization during <strong><a href="#">minimal invasive spine surgery</a></strong>.</p>
 
@@ -51,22 +51,22 @@
                             <h2>Benefits of 3D Printed Implants in <strong>Best Endoscopic Spine Surgery in Mumbai</strong></h2>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>The Very Fine Surgical Precisions:</strong> The custom implants often undergo certain modifications intraoperatively to fit their patient's anatomy. Given that 3D-printed implants are designed from start to finish to meet exact specifications, these modifications are minimized.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Time-Efficient Interventions:</strong> The anticipation of intervening challenges made possible by the surgical team prior to operations during the design stage, as well as improved stratagems, further advantage the reduction of hospital time and exposure to anesthetics.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Improved Outcome:</strong> Because of the custom-made nature of the implants, they fit well with the neighboring bones, thus speeding up recovery time and limiting the chances of implant rejection.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Cost-Effective:</strong> There is some cost incurred while designing and printing the implant, but these are compensated for through the lessening of surgical complications and hence the short prolongation of hospital stays, which comes as a relief first for the patient and for the healthcare provider second.</p>
                             </div>
                         </div>
@@ -86,12 +86,12 @@
                             <p>For those in need of spinal care, Mumbai presents several advantages:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Highly Skilled Surgeons:</strong> The city has a vast platter of <strong><a href="#">top endoscopic spine surgeon in Mumbai</a></strong>, well-equipped in advanced spinal procedures.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Top Technology:</strong> Hospitals in Mumbai ensure best care with the latest technologies</p>
                             </div>
                         </div>

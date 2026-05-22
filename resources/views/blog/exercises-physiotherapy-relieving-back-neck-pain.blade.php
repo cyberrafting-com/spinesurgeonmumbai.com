@@ -41,12 +41,12 @@ Learn how exercises and physiotherapy can relieve back and neck pain. Dr. Vishal
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Dedicated <a href="{{ route('laser-spine-surgery-is-it-safe-and-effective') }}">laser spine surgeon in Mumbai</a>.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -56,7 +56,7 @@ Learn how exercises and physiotherapy can relieve back and neck pain. Dr. Vishal
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1><b>How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani</b></h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/exercises-physiotherapy-relieving-back-neck-pain.png') }}" alt="How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/exercises-physiotherapy-relieving-back-neck-pain.webp') }}" alt="How Exercises & Physiotherapy Help in Relieving Back and Neck Pain | Dr. Vishal Kundnani">
                                 <h2 class="pt-3"><b>Introduction</b></h2>
                                 <p>Back and neck pain are common conditions that affect many individuals, often leading to discomfort and hindering daily activities. However, one of the most effective ways to manage and alleviate this pain is through targeted <a href="{{ route('exercises') }}">exercises</a> and <a href="{{ route('physiotherapy-in-spine') }}">physiotherapy</a>. In this blog, Dr. Vishal Kundnani, Consultant Spine Surgeon at Spine Clinic Mumbai, explains the crucial role that physiotherapy and strengthening exercises play in treating back and neck pain.</p>
                             </div>

@@ -16,12 +16,12 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">India's leading spine surgeon offering expert care across multiple cities.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="call button"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book appointment" class="img-responsive mt-2"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="call button"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book appointment" class="img-responsive mt-2"></a>
                     </div>
                 </div>
 
@@ -29,7 +29,7 @@
                 <div class="col-lg-9 col-md-8 col-sm-12">
                     <div class="blog-profile-details">
                         <h1>Best Spine Surgeon in Mumbai, Delhi, Hyderabad, Raipur – Dr. Vishal Kundnani</h1>
-                        <img src="{{ asset('resources/assets/img/blog/best-spine-surgeon-mumbai-delhi-hyderabad-raipur-drvishaKundnani.jpg') }}" alt="Best Spine Surgeon in Mumbai, Delhi, Hyderabad, Raipur – Dr. Vishal Kundnani" class="img-responsive mb-4">
+                        <img src="{{ asset('resources/assets/img/blog/best-spine-surgeon-mumbai-delhi-hyderabad-raipur-drvishaKundnani.webp') }}" alt="Best Spine Surgeon in Mumbai, Delhi, Hyderabad, Raipur – Dr. Vishal Kundnani" class="img-responsive mb-4">
 
                         <p class="mt-4">When it comes to choosing the <b>best spine surgeon</b>, patients across India look for trust, expertise, and a proven track record. Whether you're in <strong>Mumbai</strong>, <strong>Delhi</strong>, <strong>Hyderabad</strong>, <strong>Bangalore</strong>, <strong>Raipur</strong>, <strong>Jaipur</strong>, <strong>Indore</strong>, or <strong>Jodhpur</strong>, one name stands out — <strong>Dr. Vishal Kundnani</strong>.</p>
 

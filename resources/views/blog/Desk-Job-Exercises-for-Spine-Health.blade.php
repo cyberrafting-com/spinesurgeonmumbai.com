@@ -14,12 +14,12 @@ Spending long hours at a desk can take a toll on your spine. Learn simple desk j
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Dedicated <a href="{{ route('laser-spine-surgery-is-it-safe-and-effective') }}">laser spine surgeon in Mumbai</a>.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -29,7 +29,7 @@ Spending long hours at a desk can take a toll on your spine. Learn simple desk j
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1><b>Desk Job Exercises for Spine Health</b></h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/Desk-Job-Exercises-for-Spine-Health.png') }}" alt="Desk Job Exercises for Spine Health" style="max-height: 500px; width: auto; margin: 0 auto;">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/Desk-Job-Exercises-for-Spine-Health.webp') }}" alt="Desk Job Exercises for Spine Health" style="max-height: 500px; width: auto; margin: 0 auto;">
                                 <p>Spending long hours at a desk can take a toll on your spine, especially when you have to sit for extended periods. This can lead to poor posture, <a href="{{ route('back-pain') }}">back pain</a>, and other spine-related issues. However, incorporating simple exercises into your daily routine can help alleviate discomfort, improve posture, and maintain spine health.</p>
                             </div>
                         </div>

@@ -64,13 +64,13 @@ experience.@endsection
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}"
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}"
                                 alt="book btn"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}"
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}"
                                 alt="book btn" class="img-responsive"></a>
                     </div>
                 </div>
@@ -79,13 +79,13 @@ experience.@endsection
                         <div class="sec-blog-design pt-5">
                             <h1>Best Spine Surgeon in Mumbai</h1>
                             <div class="miss-logo-container">
-                                <img src="{{ asset('resources/assets/img/MISS_Logo.jpg') }}"
+                                <img src="{{ asset('resources/assets/img/MISS_Logo.webp') }}"
                                     alt="Mumbai Institute of Spine Surgery (MISS) Logo" class="miss-logo">
                             </div>
 
                             <p>Dr. Vishal Kundnani is one of the best spine surgeons in Mumbai with 27 years of surgical
                                 experience.</p>
-                            <img src="{{ asset('resources/assets/img/spine-surgeons-in-mumbai.jpg') }}" alt=""
+                            <img src="{{ asset('resources/assets/img/spine-surgeons-in-mumbai.webp') }}" alt=""
                                 class="img-responsive pt-5">
                         </div>
                         <div class="sec-blog-design pt-5">
@@ -142,48 +142,48 @@ experience.@endsection
                                 <div class="col-lg-4 col-md-6 col-12">
                                     <ul>
                                         <li><a href="{{ route('back-pain') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Back
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Back
                                                 Pain</a></li>
                                         <li><a href="{{ route('neck-pain') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Neck
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Neck
                                                 Pain</a></li>
                                         <li><a href="{{ route('herniated-disc') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Herniated
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Herniated
                                                 Disc</a></li>
                                         <li><a href="{{ route('spinal-fusion') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Spinal
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Spinal
                                                 Fusion</a></li>
                                         <li><a href="{{ route('spinal-stenosis') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Spinal
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Spinal
                                                 Stenosis</a></li>
                                         <li><a href="{{ route('spinal-injections') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Spinal
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Spinal
                                                 Injections</a></li>
                                         <li><a href="{{ route('spondylolisthesis') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Spondylolisthesis</a>
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Spondylolisthesis</a>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="col-lg-8 col-md-6 col-12">
                                     <ul>
                                         <li><a href="{{ route('physiotherapy-in-spine') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Physiotherapy
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Physiotherapy
                                                 In Spine</a>
                                         </li>
                                         <li><a href="{{ route('exercises') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Exercises</a>
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Exercises</a>
                                         </li>
                                         <li><a href="{{ route('minimal-invasive-spine-surgery') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Minimal
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Minimal
                                                 Invasive Spine
                                                 Surgery
                                                 – General</a></li>
                                         <li><a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Micro
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Micro
                                                 Endoscopic Minimal
                                                 Invasive Spine Surgery</a></li>
                                         <li><a href="{{ route('common-spinal-stenosis-questions') }}"><img
-                                                    src="{{ asset('resources/assets/img/founder_li_icon.png') }}">Common
+                                                    src="{{ asset('resources/assets/img/founder_li_icon.webp') }}">Common
                                                 Spinal Stenosis
                                                 Questions</a></li>
                                     </ul>
@@ -197,7 +197,7 @@ experience.@endsection
                                     <div class="process-item">
                                         <span class="count">V</span>
                                         <div class="icon">
-                                            <img src="{{ asset('resources/assets/img/google-symbol.png') }}"
+                                            <img src="{{ asset('resources/assets/img/google-symbol.webp') }}"
                                                 alt="">
                                         </div>
                                         <div class="content">
@@ -219,7 +219,7 @@ experience.@endsection
                                     <div class="process-item">
                                         <span class="count">M</span>
                                         <div class="icon">
-                                            <img src="{{ asset('resources/assets/img/google-symbol.png') }}"
+                                            <img src="{{ asset('resources/assets/img/google-symbol.webp') }}"
                                                 alt="">
                                         </div>
                                         <div class="content">

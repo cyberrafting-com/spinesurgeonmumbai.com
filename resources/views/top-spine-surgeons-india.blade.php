@@ -90,7 +90,7 @@ delivering high-quality care and innovative treatments for spine-related issues.
                     <div class="service-procedure-box service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
@@ -114,7 +114,7 @@ delivering high-quality care and innovative treatments for spine-related issues.
                     <div class="service-procedure-box service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-arvind-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-arvind-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
@@ -137,7 +137,7 @@ delivering high-quality care and innovative treatments for spine-related issues.
                     <div class="service-procedure-box service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-sajan-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-sajan-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
@@ -159,7 +159,7 @@ delivering high-quality care and innovative treatments for spine-related issues.
                     <div class="service-procedure-box service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-rajan-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-rajan-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
@@ -182,7 +182,7 @@ delivering high-quality care and innovative treatments for spine-related issues.
                     <div class="service-procedure-box service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-rathod-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-rathod-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
@@ -204,7 +204,7 @@ delivering high-quality care and innovative treatments for spine-related issues.
                     <div class="service-procedure-box service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-srivastava-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-srivastava-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
@@ -226,7 +226,7 @@ delivering high-quality care and innovative treatments for spine-related issues.
                     <div class="service-procedure-box service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-mihir-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-mihir-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">
@@ -248,7 +248,7 @@ delivering high-quality care and innovative treatments for spine-related issues.
                     <div class="service-procedure-box service-procedure-box-news service-procedure-box-casestudy">
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-12">
-                                <img src="{{ asset('resources/assets/img/dr-deepak-blog-profile.jpg') }}" alt=""
+                                <img src="{{ asset('resources/assets/img/dr-deepak-blog-profile.webp') }}" alt=""
                                     class="img-responsive">
                             </div>
                             <div class="col-lg-9 col-md-9 col-12 d-flex align-items-center" style="padding-left: unset;">

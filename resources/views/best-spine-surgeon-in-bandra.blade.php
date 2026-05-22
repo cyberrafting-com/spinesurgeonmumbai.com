@@ -122,7 +122,7 @@
                             <h1 class="main-page-title">Best Spine Surgeon in Bandra – Dr. Vishal Kundnani at Lilavati Hospital, Mumbai</h1>
                             
                             <div class="bandra-img">
-                                <img src="{{ asset('resources/assets/img/blog/best-spine-surgeon-in-bandra.png') }}" alt="Best Spine Surgeon in Bandra – Dr. Vishal Kundnani at Lilavati Hospital, Mumbai">
+                                <img src="{{ asset('resources/assets/img/blog/best-spine-surgeon-in-bandra.webp') }}" alt="Best Spine Surgeon in Bandra – Dr. Vishal Kundnani at Lilavati Hospital, Mumbai">
                             </div>
 
                             <!-- Introduction -->
@@ -137,12 +137,12 @@
                                 <p class="mt-2">Choosing the right spine specialist is essential for accurate diagnosis and successful recovery. Dr. Vishal Kundnani is known for his expertise in minimally invasive spine procedures, patient-focused care, and advanced spinal reconstruction techniques.</p>
                                 <p class="mt-3 font-weight-bold">Patients benefit from:</p>
                                 <ul class="treatment-list">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Expertise in minimally invasive and complex spine surgeries</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Advanced treatment for <a class="bandra-lead-text_" href="{{ route('back-pain') }}">back pain</a>, <a class="bandra-lead-text_" href="{{ route('slip-disc') }}">slipped discs</a>, <a class="bandra-lead-text_" href="{{ route('scoliosis') }}">scoliosis</a>, and spinal disorders</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Personalized treatment plans tailored to each patient</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Access to advanced imaging and diagnostic facilities at Lilavati Hospital</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Comprehensive rehabilitation and post-operative care</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Evidence-based approach focused on faster recovery and long-term spine health</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Expertise in minimally invasive and complex spine surgeries</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Advanced treatment for <a class="bandra-lead-text_" href="{{ route('back-pain') }}">back pain</a>, <a class="bandra-lead-text_" href="{{ route('slip-disc') }}">slipped discs</a>, <a class="bandra-lead-text_" href="{{ route('scoliosis') }}">scoliosis</a>, and spinal disorders</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Personalized treatment plans tailored to each patient</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Access to advanced imaging and diagnostic facilities at Lilavati Hospital</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Comprehensive rehabilitation and post-operative care</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Evidence-based approach focused on faster recovery and long-term spine health</li>
                                 </ul>
                                 <p class="mt-3">Dr. Kundnani combines surgical precision with compassionate care to deliver safe and effective spine treatment in Mumbai.</p>
                             </div>
@@ -154,7 +154,7 @@
                                 <div class="meet-doctor-grid">
                                     <div class="meet-doctor-sidebar">
                                         <div class="meet-doctor-img-wrapper">
-                                            <img src="{{ asset('resources/assets/img/dr-vishal-kundnani-spine-surgeon-mumbai.png') }}" alt="Dr. Vishal Kundnani" class="meet-doctor-img">
+                                            <img src="{{ asset('resources/assets/img/dr-vishal-kundnani-spine-surgeon-mumbai.webp') }}" alt="Dr. Vishal Kundnani" class="meet-doctor-img">
                                             <div class="meet-doctor-badge">Spine Specialist</div>
                                         </div>
                                     </div>
@@ -163,12 +163,12 @@
                                         <p class="meet-doctor-lead">Dr. Vishal Kundnani is a highly experienced spine surgeon specializing in the diagnosis and treatment of complex spinal conditions. He is widely recognized for treating:</p>
                                         
                                         <ul class="meet-doctor-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Herniated and slipped discs</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Chronic neck and back pain</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Scoliosis and spinal deformities</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spinal stenosis and degenerative spine disorders</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spine fractures and traumatic spinal injuries</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Cervical and lumbar spine conditions</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Herniated and slipped discs</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Chronic neck and back pain</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Scoliosis and spinal deformities</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spinal stenosis and degenerative spine disorders</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spine fractures and traumatic spinal injuries</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Cervical and lumbar spine conditions</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -189,10 +189,10 @@
                                     <div class="condition-card card_">
                                         <h3>Back Pain & Sciatica Treatment</h3>
                                         <ul class="treatment-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Non-surgical spine care</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Physiotherapy and rehabilitation</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain management injections</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lifestyle and posture correction</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Non-surgical spine care</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Physiotherapy and rehabilitation</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain management injections</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lifestyle and posture correction</li>
                                         </ul>
                                     </div>
 
@@ -200,9 +200,9 @@
                                     <div class="condition-card">
                                         <h3>Herniated Disc / Slipped Disc Treatment</h3>
                                         <ul class="treatment-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Microdiscectomy</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Endoscopic and minimally invasive discectomy</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lumbar decompression procedures</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Microdiscectomy</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Endoscopic and minimally invasive discectomy</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lumbar decompression procedures</li>
                                         </ul>
                                     </div>
 
@@ -210,9 +210,9 @@
                                     <div class="condition-card card_">
                                         <h3>Scoliosis & Spinal Deformity Correction</h3>
                                         <ul class="treatment-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Bracing and conservative management</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Corrective spine deformity surgery</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pediatric and adult scoliosis treatment</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Bracing and conservative management</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Corrective spine deformity surgery</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pediatric and adult scoliosis treatment</li>
                                         </ul>
                                     </div>
 
@@ -220,9 +220,9 @@
                                     <div class="condition-card">
                                         <h3>Spinal Stenosis & Degenerative Spine Disorders</h3>
                                         <ul class="treatment-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Laminectomy procedures</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spinal fusion surgery</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Advanced decompression techniques</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Laminectomy procedures</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spinal fusion surgery</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Advanced decompression techniques</li>
                                         </ul>
                                     </div>
 
@@ -230,9 +230,9 @@
                                     <div class="condition-card card_">
                                         <h3>Spine Fractures & Traumatic Spine Injuries</h3>
                                         <ul class="treatment-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spine stabilization procedures</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Reconstructive spinal surgery</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Post-trauma rehabilitation care</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spine stabilization procedures</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Reconstructive spinal surgery</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Post-trauma rehabilitation care</li>
                                         </ul>
                                     </div>
                                 </div>

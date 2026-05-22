@@ -152,19 +152,19 @@
                         </div>
 
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वजन वाढ : निरोगी गर्भावस्थेदरम्यान, महिला सहसा 25 ते 35 पाउंड वजन वाढवतात. कशेरुकाला ते वजन सहन करावे लागते. यामुळे खालच्या पाठीच्या वेदना होऊ शकतात. वाढत्या बाळाचे आणि गर्भाशयाचे वजन देखील श्रोणी आणि पाठीतील रक्तवाहिन्या आणि नसांवर दबाव आणते.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मुद्रा बदल : गर्भावस्था तुमच्या गुरुत्वाकर्षणाचे केंद्र बदलते. परिणामी, तुम्ही हळूहळू - नोटिस न करता देखील - तुमची मुद्रा आणि तुम्ही कसे हलता याचा समायोजन करण्यास सुरुवात करू शकता. यामुळे पाठीच्या वेदना किंवा ताण होऊ शकतो.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हार्मोन बदल : गर्भावस्थेदरम्यान, तुमचे शरीर रिलॅक्सिन नावाचे हार्मोन तयार करते जे श्रोणी क्षेत्रातील अस्थिबंधनांना शिथिल होण्यास अनुमती देते आणि जन्म प्रक्रियेसाठी सांध्यांना सैल होण्यास अनुमती देते. समान हार्मोन कशेरुकाला सहारा देणाऱ्या अस्थिबंधनांना शिथिल करू शकतो, ज्यामुळे अस्थिरता आणि वेदना होते.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्नायूंचे विभाजन : जसजसे गर्भाशय विस्तारतो, दोन समांतर स्नायूंच्या पत्र्यांना (रेक्टल अॅब्डोमिनिस स्नायू), जे फासळीपासून प्यूबिक हाडापर्यंत जातात, केंद्र सीमेसह विभाजित होऊ शकतात. हे विभाजन पाठीच्या वेदना वाढवू शकते.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">ताण : भावनिक ताण पाठीतील स्नायूंमध्ये ताण निर्माण करू शकतो, जो पाठीच्या वेदना किंवा पाठीच्या स्पॅसम म्हणून अनुभवला जाऊ शकतो. तुम्हाला आढळू शकते की तुमच्या गर्भावस्थेच्या ताणाच्या कालावधीत तुम्हाला पाठीच्या वेदनेत वाढ अनुभवते.</li>
                         </ul>
@@ -177,19 +177,19 @@
                         <h2>गर्भावस्थेत पाठीच्या वेदनांवर उपचार</h2>
                         <p>गर्भावस्थेत पाठीच्या वेदनांवर उपचारासाठी अनेक सुरक्षित पर्याय उपलब्ध आहेत:</p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">प्रसूतिपूर्व व्यायाम आणि शारीरिक चिकित्सा</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">योग्य मुद्रा आणि शरीर यांत्रिकी</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्भावस्था-सुरक्षित स्ट्रेच</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उष्णता/थंडी चिकित्सा</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्भावस्था सपोर्ट बेल्ट</li>
                         </ul>

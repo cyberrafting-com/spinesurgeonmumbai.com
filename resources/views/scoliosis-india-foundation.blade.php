@@ -74,19 +74,19 @@ Specialist Mumbai. Expert information and support. @endsection
                         <p>The purpose of SIF is to help the parents of children with scoliosis.</p>
                         <h3>These objectives are:</h3>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Screening
                                 & Identification of children with deformity</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Providing
                                 Information and guidance of parents</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Giving
                                 patients best modality of treatment- conservative/bracing/surgical</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Educating
                                 and spreading awareness about scoliosis</li>
@@ -108,7 +108,7 @@ Specialist Mumbai. Expert information and support. @endsection
                             <div class="col_inn">
                                 <h3>Our Vision</h3>
                                 <ul>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SIF's
@@ -121,7 +121,7 @@ Specialist Mumbai. Expert information and support. @endsection
                             <div class="col_inn">
                                 <h3>Our Mission</h3>
                                 <ul>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SIF
@@ -136,11 +136,11 @@ Specialist Mumbai. Expert information and support. @endsection
                             treatments now have come together with their skillsets and vision to provide and extend their
                             services to the needy.</p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr
                                 Vishal Kundnani</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr
                                 Ram Chaddha</li>
@@ -152,23 +152,23 @@ Specialist Mumbai. Expert information and support. @endsection
                         <p>Symptoms vary depending on the degree of scoliosis. Common symptoms associated with scoliosis
                             include:</p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">One
                                 shoulder blade that's higher than the other</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">One
                                 shoulder blade that sticks out more than the other</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Uneven
                                 hips</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Problems
                                 breathing because of reduced area in the chest for lungs to expand</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Back
                                 pain</li>
@@ -177,15 +177,15 @@ Specialist Mumbai. Expert information and support. @endsection
                         <p>Treatment depends on numerous factors — the degree of spine curvature being a major one your age.
                         </p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Whether
                                 you're likely to continue growing</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The
                                 amount and type of curvature</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The
                                 type of the scoliosis</li>

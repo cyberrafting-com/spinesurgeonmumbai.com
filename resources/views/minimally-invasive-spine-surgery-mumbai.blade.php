@@ -38,12 +38,12 @@
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="call button"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book button" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="call button"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book button" class="img-responsive"></a>
                     </div>
                 </div>
                 <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
@@ -55,56 +55,56 @@
                                 <p>Minimally Invasive Spine Surgery (MISS) uses small incisions and advanced technology to treat spinal conditions with less pain and quicker recovery. Dr. Vishal Kundnani offers this cutting-edge procedure for patients in Mumbai.</p>
                             </div>
                             <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
-                                <img src="{{ asset('resources/assets/img/blog/minimally-invasive-spine-surgery-mumbai.jpeg') }}" alt="spine surgery image">
+                                <img src="{{ asset('resources/assets/img/blog/minimally-invasive-spine-surgery-mumbai.webp') }}" alt="spine surgery image">
                             </div>
                         </div>
                         <div class="sec-blog-design pt-5">
                             <h3>Conditions Treated by Dr. Kundnani</h3>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Slip Disc / Herniated Disc</strong></p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Sciatica</strong></p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Spinal Stenosis</strong></p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Scoliosis & Spine Deformities</strong></p>
                         </div>
                         <div class="sec-blog-design pt-5">
                             <h3>Advantages of Minimally Invasive Spine Surgery</h3>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Less tissue damage and pain</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Faster recovery and less post-operative pain</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Reduced blood loss and lower risk of complications</p>
                         </div>
                         <div class="sec-blog-design pt-5">
                             <h3>Why Patients Prefer Dr. Vishal Kundnani</h3>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>15+ years of experience in spine surgery</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Specialist in endoscopic and robotic spine surgery</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p>Consults at top hospitals across India</p>
                         </div>
                         <div class="sec-blog-design pt-5">

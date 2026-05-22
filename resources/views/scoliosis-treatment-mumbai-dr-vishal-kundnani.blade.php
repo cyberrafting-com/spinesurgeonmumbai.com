@@ -65,12 +65,12 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">India's most trusted spine surgeon, expert in minimally invasive scoliosis surgery.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
                     </div>
                 </div>
 
@@ -79,7 +79,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h1>Scoliosis: What You Should Know and How It Can Be Treated</h1>
-                            <img src="{{ asset('resources/assets/img/blog/scoliosis-treatment-img.png') }}" alt="Scoliosis Treatment Mumbai" class="img-responsive mb-4">
+                            <img src="{{ asset('resources/assets/img/blog/scoliosis-treatment-img.webp') }}" alt="Scoliosis Treatment Mumbai" class="img-responsive mb-4">
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -106,22 +106,22 @@
                             <p>The treatment approach for scoliosis depends largely on the severity of the condition and the age of the patient. The primary goal of treatment is to prevent further progression of the curve and to manage any discomfort or symptoms.</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Observation:</strong> For mild scoliosis curves, observation may be recommended. Regular check-ups and imaging tests help monitor the condition and ensure the curve does not worsen.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Physiotherapy and Bracing:</strong> For moderate scoliosis, <a href="{{ route('physiotherapy-in-spine') }}">physical therapy</a> can help improve posture and flexibility, while bracing may be used to prevent the curve from worsening, especially in growing children and teenagers. Braces are custom-fitted and worn during the day to limit further spinal deformities.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Surgical Intervention:</strong> In cases where the curvature is severe or worsening, surgery may be recommended. The goal of scoliosis surgery is to correct the spine's curvature and prevent future health problems. Modern <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive techniques</a> allow for smaller incisions, reduced blood loss, and faster recovery times compared to traditional open surgery. These procedures are particularly beneficial for patients looking to avoid the long recovery times associated with traditional spinal surgery.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Robotic-Assisted Surgery:</strong> Advances in surgical techniques, including robotic-assisted navigation, offer even greater precision in scoliosis surgery. Robotic systems enable surgeons to create personalized treatment plans using 3D imaging and tailor the surgery to the patient's specific spinal structure, ensuring improved accuracy and better outcomes.</p>
                             </div>
                         </div>

@@ -65,7 +65,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12 text-center pt-5 service_sec">
                     <h1 class="services-head-h1 services-heading-h1"></h1>
-                    <img src="{{ asset('resources/assets/img/blog/14.jpg') }}" alt="">
+                    <img src="{{ asset('resources/assets/img/blog/14.webp') }}" alt="">
                 </div>
                 <div class="col-lg-12 col-md-12 col-12 pt-5">
                     <p>Qualities RESEARCH INC is pleased to present the annual listing of "BEST DOCS MUMBAI 2020." The

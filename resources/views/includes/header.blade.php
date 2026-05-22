@@ -10,7 +10,7 @@
                             data-aos-duration="1000">
                             <ul>
                                 <li class="logo hidden-xs"><a href="{{ route('home') }}"><img
-                                            src="{{ asset('resources/assets/img/logo.png') }}"></a></li>
+                                            src="{{ asset('resources/assets/img/logo.webp') }}"></a></li>
                             </ul>
                         </div>
 
@@ -18,19 +18,19 @@
                             <ul class="frt_apt">
 
                                 <li><a href="https://maps.app.goo.gl/oMFuPmruYruNtxZj8" target="_blank"><img
-                                            src="{{ asset('resources/assets/img/hosp1.png') }}"></a>
+                                            src="{{ asset('resources/assets/img/hosp1.webp') }}"></a>
                                 </li>
                                 <li><a href="https://maps.app.goo.gl/TibKTFfYJu5vEvLu6" target="_blank"><img
-                                            src="{{ asset('resources/assets/img/hosp2.png') }}"></a>
+                                            src="{{ asset('resources/assets/img/hosp2.webp') }}"></a>
                                 </li>
                                 <li><a href="https://maps.app.goo.gl/fPbJwfP7CjRbG3di9" target="_blank"><img
-                                            src="{{ asset('resources/assets/img/hosp3.png') }}"></a>
+                                            src="{{ asset('resources/assets/img/hosp3.webp') }}"></a>
                                 </li>
                                 <li><a href="https://maps.app.goo.gl/L9q391kQJ3KiywYi9" target="_blank"><img
-                                            src="{{ asset('resources/assets/img/hosp4.png') }}"></a>
+                                            src="{{ asset('resources/assets/img/hosp4.webp') }}"></a>
                                 </li>
                                 <li><a href="https://maps.app.goo.gl/n8Kpwd7sZp8mbEMMA" target="_blank"><img
-                                            src="{{ asset('resources/assets/img/hosp5.png') }}"></a>
+                                            src="{{ asset('resources/assets/img/hosp5.webp') }}"></a>
                                 </li>
 
                             </ul>
@@ -69,7 +69,7 @@
                             </button>
 
                             <a class="navbar-brand hidden-lg hidden-md hidden-sm col-sm-6 col-xs-9" href="#"><img
-                                    src="{{ asset('resources/assets/img/logo.jpg') }}" /></a>
+                                    src="{{ asset('resources/assets/img/logo.webp') }}" /></a>
 
                         </div>
                     </div>

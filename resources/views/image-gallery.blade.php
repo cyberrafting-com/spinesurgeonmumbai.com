@@ -60,7 +60,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                     <div class="gallery">
                         <a href="{{ route('happy-moments-smiling-patients') }}"><img
-                                src="{{ asset('resources/assets/img/gallery/a1.jpg') }}">
+                                src="{{ asset('resources/assets/img/gallery/a1.webp') }}">
                             <h1>Happy Moments</h1>
                         </a>
                     </div>
@@ -68,14 +68,14 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                     <div class="gallery">
                         <a href="{{ route('fellowship-awards') }}"><img
-                                src="{{ asset('resources/assets/img/gallery/b1.jpg') }}">
+                                src="{{ asset('resources/assets/img/gallery/b1.webp') }}">
                             <h1>Fellowship Awards</h1>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                     <div class="gallery">
-                        <a href="{{ route('photographs') }}"><img src="{{ asset('resources/assets/img/gallery/d1.jpg') }}">
+                        <a href="{{ route('photographs') }}"><img src="{{ asset('resources/assets/img/gallery/d1.webp') }}">
                             <h1>Photographs</h1>
                         </a>
                     </div>
@@ -83,7 +83,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                     <div class="gallery">
                         <a href="{{ route('mumbai-institute-of-spine-surgery') }}"><img
-                                src="{{ asset('resources/assets/img/gallery/c1.jpg') }}">
+                                src="{{ asset('resources/assets/img/gallery/c1.webp') }}">
                             <h1>Mumbai Institute of Spine Surgery</h1>
                         </a>
                     </div>
@@ -91,21 +91,21 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                     <div class="gallery">
                         <a href="{{ route('minimal-invasive-spine-surgeons-of-india-2019-chandigarh') }}"><img
-                                src="{{ asset('resources/assets/img/gallery/e1.jpg') }}">
+                                src="{{ asset('resources/assets/img/gallery/e1.webp') }}">
                             <h1>Minimal invasive spine surgeons of India, 2019 – Chandigarh</h1>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                     <div class="gallery">
-                        <a href="#"><img src="{{ asset('resources/assets/img/gallery/f1.jpg') }}">
+                        <a href="#"><img src="{{ asset('resources/assets/img/gallery/f1.webp') }}">
                             <h1>Executive Team of Minimal Invasive Spine Surgeons of India</h1>
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                     <div class="gallery">
-                        <a href="#"><img src="{{ asset('resources/assets/img/gallery/g1.jpg') }}">
+                        <a href="#"><img src="{{ asset('resources/assets/img/gallery/g1.webp') }}">
                             <h1>Wiroc – western india regional conference 2019 Mumbai</h1>
                         </a>
                     </div>

@@ -13,7 +13,7 @@
         <div class="container sec-service-procedure-1">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12 pt-5 service_sec">
-                    <img src="{{ asset('resources/assets/img/blog/7.jpg') }}" alt="">
+                    <img src="{{ asset('resources/assets/img/blog/7.webp') }}" alt="">
                 </div>
                 <div class="col-lg-6 col-md-6 col-12 pt-5 service_sec">
                     <p>Mr Sayeed. 78 year , Young Gentleman. Happy , spreading smiles after Minimal invasive Spine Surgery

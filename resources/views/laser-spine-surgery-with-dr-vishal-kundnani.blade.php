@@ -99,13 +99,13 @@ other spinal conditions, offering patients a safer and more effective alternativ
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}"
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}"
                                 alt="book btn"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}"
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}"
                                 alt="book btn" class="img-responsive"></a>
                     </div>
                 </div>
@@ -127,7 +127,7 @@ other spinal conditions, offering patients a safer and more effective alternativ
                             </div>
                             <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
                                 <img
-                                    src="{{ asset('resources/assets/img/blog/laser-spine-surgery-with-dr-vishal-kundnani.jpg') }}">
+                                    src="{{ asset('resources/assets/img/blog/laser-spine-surgery-with-dr-vishal-kundnani.webp') }}">
                             </div>
                         </div>
                         <div class="sec-blog-design pt-5">
@@ -135,27 +135,27 @@ other spinal conditions, offering patients a safer and more effective alternativ
                             <p>Laser spine surgery presents several key advantages over traditional spinal procedures:</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Minimally Invasive:</strong>Requires only small incisions, leading to faster healing
                                 and minimal scarring.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Reduced Pain:</strong>Less trauma to surrounding tissues results in significantly
                                 lower post-operative pain.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Faster Recovery:</strong>Patients can resume their normal activities much sooner
                                 compared to traditional spine surgery.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Lower Risk of Infection & Complications:</strong>The precise laser application
                                 minimizes risks associated with open surgery.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Preserves Healthy Tissues:</strong>Laser technology allows for selective removal of
                                 damaged tissue, ensuring only affected areas are treated.</p>
                         </div>
@@ -198,24 +198,24 @@ other spinal conditions, offering patients a safer and more effective alternativ
                             <p>Laser spine surgery is an ideal option for individuals experiencing:</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Chronic back or neck pain</strong>that hasn't responded to conventional treatments.
                             </p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Herniated discs</strong>causing nerve compression and radiating pain.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Spinal stenosis,</strong>leading to discomfort and mobility issues.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Degenerative disc disease</strong>causing persistent spinal discomfort.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Nerve-related conditions like sciatica</strong>requiring precise relief.</p>
                         </div>
                         <p>For those seeking a safer, less painful, and faster-healing alternative to traditional spinal
@@ -231,22 +231,22 @@ other spinal conditions, offering patients a safer and more effective alternativ
                             <h3>What Sets Dr. Vishal Kundnani Apart?</h3>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Expertise in Minimally Invasive Techniques:</strong>Years of experience in laser and
                                 minimally invasive spine procedures.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Advanced Technology:</strong>Utilizes cutting-edge laser technology for precision and
                                 enhanced patient outcomes.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Personalized Treatment Plans:</strong>Every patient receives a customized approach
                                 tailored to their condition.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Compassionate Patient Care:</strong>Focuses on pain relief, mobility improvement, and
                                 long-term spinal health.</p>
                         </div>

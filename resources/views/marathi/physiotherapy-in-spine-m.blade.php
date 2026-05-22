@@ -133,28 +133,28 @@
                                     <div class="cliclskil1">
                                         <p>सामान्यतः नॉन-सर्जिकल उपचाराचा प्रकार तुमच्या स्पाइन सर्जन / स्पाइनल सर्जन यांच्या सल्ल्यानुसार लक्षणांच्या कालावधी आणि तीव्रतेवर आधारित निर्णय घेतला जातो. स्लिप डिस्क उपचारासाठी उपलब्ध पर्याय आहेत:-</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">औषधे
                                                 – NSAIDS/ स्नायू आरामदायक / प्रेगाबालिन / TCA,S /नॉन ओपिओइड वेदनाशामक.
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गरम
                                                 फोमेंटेशन.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">थंड
                                                 स्पंजिंग.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फिजिकल
                                                 थेरपी.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SWD
                                             </li>
@@ -179,7 +179,7 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">होय.
                                                 स्लिप डिस्क, लंबर स्पाइनल स्टेनोसिस, स्पाइनल स्टेनोसिस उपचारात फिजिओथेरपीला एक प्रमुख भूमिका आहे. फिजिओथेरपी स्पाइन डॉक्टर आणि स्पाइनल तज्ञांच्या देखरेखीत केली पाहिजे कारण हे तुमच्या शरीराला पुढील जखम टाळण्यासाठी कसे स्थित करावे आणि वेदनादायक प्रकरणातून पुनर्प्राप्तीमध्ये कशी मदत करावी हे शिकवते. फिजिओथेरपी स्पाइन तज्ञांच्या देखरेखीत आणि मार्गदर्शनात घेतली पाहिजे.</li>
@@ -202,48 +202,48 @@
                                 aria-labelledby="headingThree">
                                 <div class="panel-body">
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल स्लिप डिस्क उपचारात फिजिओथेरपीला एक प्रमुख भूमिका आहे. हे तुमच्या शरीराला पुढील जखम टाळण्यासाठी कसे स्थित करावे आणि वेदनादायक प्रकरणातून पुनर्प्राप्तीमध्ये कशी मदत करावी हे शिकवते. विविध फिजिकल थेरपी तंत्रज्ञान आहेत. निष्क्रिय आणि सक्रिय उपचार.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">निष्क्रिय उपचार तुमच्या शरीराला आराम देतात आणि त्यामध्ये खोल ऊतक मसाज, गरम आणि थंड थेरपी, इलेक्ट्रिकल स्टिम्युलेशन (TENS), आणि हायड्रोथेरपी यांचा समावेश आहे. सक्रिय उपचारामध्ये सक्रिय स्ट्रेचिंग आणि मजबूतीकरण व्यायाम ट्रंक स्थिरता, कोर मजबूतीकरण यांचा समावेश आहे.</li>
                                     </ul>
                                     <p>व्यायाम किंवा फिजिकल उपचार फिजिओथेरपिस्टांच्या योग्य देखरेखीत आणि स्पाइनल तज्ञ आणि स्पाइन डॉक्टरांच्या सल्ल्यानुसार न करावे.</p>
                                     <p><b>निष्क्रिय उपचार:</b></p>
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">खोल ऊतक मसाज: खोल ऊतक मसाज खोल स्नायू तणाव आणि स्पॅसम्स दूर करते, जे प्रभावित क्षेत्रात स्नायू गती रोखण्यासाठी विकसित होतात.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गरम आणि थंड थेरपी: गरम आणि थंड दोन्ही थेरपी त्यांचे स्वतःचे फायदे देतात, आणि तुमचे फिजिकल थेरपिस्ट सर्वोत्तम परिणाम मिळविण्यासाठी त्यांच्यामध्ये बदल करू शकतात. हे सूज, स्नायू स्पॅसम्स, आणि वेदना कमी करते.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हायड्रोथेरपी/अक्वाथेरपी: हळूवारपणे वेदना दूर करते आणि स्नायूंना आराम देते.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS (ट्रान्सक्युटेनियस इलेक्ट्रिकल नर्व स्टिम्युलेशन): तुमच्या स्नायूंना उत्तेजित करण्यासाठी इलेक्ट्रिकल करंट वापरते आणि स्नायू स्पॅसम्स कमी करते आणि सामान्यतः एंडोर्फिन्सच्या स्रावाला ट्रिगर करते असे मानले जाते, जे तुमच्या शरीराचे नैसर्गिक वेदना नाशक आहेत. TENS मशीन व्हेरिएबल (परंतु सुरक्षित) इलेक्ट्रिकल करंटच्या तीव्रतेद्वारे तुमच्या स्नायूंना उत्तेजित करते. TENS तुमच्या शरीराच्या एंडोर्फिन्सच्या उत्पादन वाढवू शकते, तुमचे नैसर्गिक वेदना नाशक. तुमचा फिजिकल थेरपिस्ट वापरत असलेले TENS उपकरण "घरी" वापराच्या मशीनपेक्षा मोठे असते.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनसाठी अल्ट्रासाऊंड: रक्त प्रवाह वाढवून, अल्ट्रासाऊंड स्नायू क्रॅम्पिंग, सूज, कडकपणा, आणि वेदना कमी करण्यात मदत करते. हे तुमच्या स्नायू ऊतकांमध्ये खोल ध्वनी लहरी पाठवून, रक्त प्रवाह आणि उपचार सुधारणारी हळूवार उष्णता निर्माण करून करते.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लंबर ट्रॅक्शन: स्पाइनवर गुरुत्वाकर्षणाचे परिणाम कमी करते. हेतू डिस्क हर्निएशन कमी करणे आहे आणि सामान्यतः सर्वाइकल किंवा लंबर स्पाइनमध्ये केले जाते.</li>
                                     </ul>
                                     <p><b>सक्रिय उपचार: पुनरावृत्ती वेदना कमी करण्यात मदत करतात परंतु तुमच्या एकूण आरोग्याला देखील फायदा होईल.</b></p>
                                     <p>व्यायाम फिजिओथेरपिस्टांच्या योग्य देखरेखीत आणि स्पाइनल तज्ञ आणि स्पाइन डॉक्टरांच्या सल्ल्यानुसार न करावे.</p>
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कोर स्थिरता: बऱ्याच लोकांना समजत नाही की स्पाइनल आरोग्यासाठी मजबूत कोर किती महत्वाचे आहे. तुमचे कोर (उदर) स्नायू तुमच्या मागच्या स्नायूंना स्पाइनला आधार देण्यात मदत करतात.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पिलाटेस: जेव्हा तुमचे कोर स्नायू कमकुवत असतात, तेव्हा ते तुमच्या मागच्या स्नायूंवर अतिरिक्त दबाव टाकते. तुमचा फिजिकल थेरपिस्ट तुम्हाला मागच्या भागाला मजबूत करण्यासाठी कोर स्थिरीकरण व्यायाम शिकवू शकतो.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लवचिकता: योग्य स्ट्रेचिंग आणि लवचिकता तंत्रज्ञान शिकणे तुम्हाला एरोबिक आणि शक्ती व्यायामासाठी तयार करेल. लवचिकता कडकपणा टाळून तुमच्या शरीराला सहज हलवण्यात मदत करते.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्नायू मजबूतीकरण: मजबूत स्नायू तुमच्या स्पाइनसाठी एक चांगली आधार प्रणाली आहेत आणि वेदना आणि स्नायूंचे मजबूतीकरण चांगल्या प्रकारे हाताळतात जे तुमच्या मागच्या भागाला स्ट्रेच आणि मजबूतीकरणासह पेल्विक टिल्ट करू शकतात, जे तुम्हाला न्यूट्रल स्पाइन स्थिती शोधण्यात मदत करते.</li>
                                     </ul>
@@ -267,16 +267,16 @@
                                     <div class="cliclskil1">
                                         <p>फिजिओथेरपी मागचे दुखणे, पाय दुखणेसाठी स्पाइनल डॉक्टरांच्या सल्ल्यानुसार सुरू आणि थांबवली पाहिजे. स्पाइन तज्ञ फिजिओथेरपी कधी सुरू करावी आणि कधी थांबवावी हे ठरवतात. बहुतेक रुग्ण नॉन-सर्जिकल उपचारांना चांगले प्रतिसाद देतात. तथापि एकदा थांबवावे:-</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">नॉन-सर्जिकल उपचारांना कोणताही प्रतिसाद नाही किंवा 3 आठवड्यांपेक्षा कमी वेळात वेदना वाढते.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हात किंवा पायांमध्ये प्रगत वेदना, सुन्नपणा, आणि झिरझिरी.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तुमच्या हात किंवा पायांमध्ये शक्ती संवेदना गमावणे.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मलाशय किंवा मूत्राशय नियंत्रण गमावणे.</li>
                                         </ul>
@@ -318,48 +318,48 @@
                                     <div class="cliclskil1">
                                         <p><b>व्यायाम फिजिओथेरपिस्टांच्या योग्य देखरेखीत आणि स्पाइनल तज्ञांच्या सल्ल्यानुसार न करावे.</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल सेगमेंटला हलविण्यासाठी आणि पोस्चरल विकृती दुरुस्त करण्यासाठी, मागच्या भागाचे एक्सटेंसर स्नायू आणि खांद्याच्या ब्लेड्सचे स्नायू मजबूत करण्यासाठी आणि पेक्टोरल स्नायूंचा विकास करण्यासाठी.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कसे करावे: नेहमी, शक्य असल्यास, कडक पृष्ठभागावर, पातळ कार्पेटसह.</li>
                                         </ul>
                                         <p><b>टीप: कृपया सर्व हालचाली शक्य तितक्या हळूवारपणे करा!</b></p>
                                         <p><b>व्यायाम पर्याय:</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मागे झोपून, चेहरा वरच्या बाजूस.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बाजूला झोपून.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चेहरा खालच्या बाजूस झोपून.</li>
                                         </ul>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex1.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex1.webp') }}">
                                             <h1>मागच्या देखभाल - मागच्या दुखण्यासाठी सावधानता</h1>
                                         </div>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex2.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex2.webp') }}">
                                             <h1>मानेची देखभाल - मान दुखण्यासाठी सावधानता</h1>
                                         </div>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex3.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex3.webp') }}">
                                             <h1>मान दुखण्याचे व्यायाम</h1>
                                         </div>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex4.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex4.webp') }}">
                                             <h1>स्पाइन मजबूतीकरण व्यायाम</h1>
                                         </div>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex5.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex5.webp') }}">
                                             <h1>स्पाइनल मोबिलायझिंग व्यायाम</h1>
                                         </div>
                                         <div class="col-lg-6 mt-2">
-                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex6.png') }}">
+                                            <img class="serv_img1" src="{{ asset('resources/assets/img/ex6.webp') }}">
                                             <h1>स्पाइनल ट्रंक नियंत्रण आणि स्थिरता व्यायाम</h1>
                                         </div>
                                     </div>

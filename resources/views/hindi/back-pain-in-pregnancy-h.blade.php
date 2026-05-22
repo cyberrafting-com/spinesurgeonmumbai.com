@@ -160,27 +160,27 @@
                         </div>
 
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वजन
                                 बढ़ना: एक स्वस्थ गर्भावस्था के दौरान, महिलाएं आमतौर पर 25 से 35 पाउंड के बीच वजन बढ़ाती हैं। रीढ़
                                 को उस वजन का समर्थन करना पड़ता है। इससे लोअर बैक पेन हो सकता है। बढ़ते बच्चे और गर्भाशय का वजन भी श्रोणि और पीठ में रक्त वाहिकाओं और नसों पर दबाव डालता है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मुद्रा
                                 में बदलाव: गर्भावस्था आपके गुरुत्वाकर्षण के केंद्र को बदल देती है। परिणामस्वरूप, आप धीरे-धीरे — यहां तक कि
                                 बिना नोटिस किए — अपनी मुद्रा और आपके चलने के तरीके को समायोजित करना शुरू कर सकती हैं। इससे बैक पेन या तनाव हो सकता है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हार्मोन
                                 परिवर्तन: गर्भावस्था के दौरान, आपका शरीर रिलैक्सिन नामक एक हार्मोन बनाता है जो श्रोणि क्षेत्र में लिगामेंट्स को आराम करने और जन्म प्रक्रिया की तैयारी में जोड़ों को ढीला बनने की अनुमति देता है। वही हार्मोन रीढ़ का समर्थन करने वाले लिगामेंट्स को ढीला कर सकता है, जिससे अस्थिरता और दर्द होता है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मांसपेशी
                                 अलगाव: जैसे-जैसे गर्भाशय का विस्तार होता है, दो समानांतर मांसपेशी शीट्स (रेक्टल एब्डोमिनिस
                                 मांसपेशियां), जो पसलियों से प्यूबिक बोन तक चलती हैं, केंद्रीय सीम के साथ अलग हो सकती हैं।
                                 यह अलगाव बैक पेन को बढ़ा सकता है।</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तनाव
                                 : भावनात्मक तनाव पीठ में मांसपेशी तनाव का कारण बन सकता है, जिसे बैक पेन या

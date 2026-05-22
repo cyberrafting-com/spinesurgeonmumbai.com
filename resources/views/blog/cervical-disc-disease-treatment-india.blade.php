@@ -115,12 +115,12 @@ Cervical disc disease & neck pain treatment in India by Dr. Vishal Kundnani – 
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Leading cervical spine specialist providing minimally invasive spine care.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -130,7 +130,7 @@ Cervical disc disease & neck pain treatment in India by Dr. Vishal Kundnani – 
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Neck Pain & Cervical Disc Disease – Best Treatment in India</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/neck-pain2.jpg') }}" alt="Neck Pain & Cervical Disc Disease Treatment in India">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/neck-pain2.webp') }}" alt="Neck Pain & Cervical Disc Disease Treatment in India">
                                 <p>Neck pain is one of the most common spine-related problems affecting adults of all ages. It may result from <a href="{{ route('cervical-spine-surgery-mumbai') }}">cervical</a> disc degeneration, disc herniation, nerve compression, or age-related spinal changes. Symptoms often include stiffness, radiating arm pain, tingling, numbness, or weakness. Early evaluation helps identify the exact cause and prevents long-term complications.</p>
                                 <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, one of India's leading cervical spine specialists, offers advanced non-surgical and <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive treatments</a> for cervical disc disease and chronic neck pain. His expertise, combined with precision technology, ensures safe, effective, and long-lasting relief for patients across India.</p>
                             </div>

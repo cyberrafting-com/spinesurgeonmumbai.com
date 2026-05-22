@@ -100,13 +100,13 @@ minimal downtime.@endsection
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}"
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}"
                                 alt="book btn"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}"
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}"
                                 alt="book btn" class="img-responsive"></a>
                     </div>
                 </div>
@@ -129,7 +129,7 @@ minimal downtime.@endsection
                             </div>
                             <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
                                 <img
-                                    src="{{ asset('resources/assets/img/blog/keyhole-spine-surgery-with-dr-vishal-kundnani.jpg') }}">
+                                    src="{{ asset('resources/assets/img/blog/keyhole-spine-surgery-with-dr-vishal-kundnani.webp') }}">
                             </div>
                         </div>
                         <div class="sec-blog-design pt-5">
@@ -137,27 +137,27 @@ minimal downtime.@endsection
                             <p>Keyhole spine surgery provides numerous advantages over traditional spine procedures:</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Smaller Incisions:</strong>Reduces trauma to muscles and soft tissues surrounding the
                                 spine.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Less Post-Operative Pain:</strong>Minimal disruption to tissues leads to faster
                                 healing and lower discomfort.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Faster Recovery Time:</strong>Patients can resume their daily activities much sooner
                                 than with open surgery.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Lower Risk of Complications:</strong>Reduced risk of infections, excessive bleeding,
                                 and nerve damage.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Minimal Scarring:</strong>Ensures a more aesthetically favorable outcome.</p>
                         </div>
                         <div class="sec-blog-design pt-5">
@@ -202,27 +202,27 @@ minimal downtime.@endsection
                             <h3>What Sets Dr. Vishal Kundnani Apart?</h3>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Extensive Experience:</strong>Years of expertise in keyhole spine surgery and
                                 minimally invasive procedures.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Advanced Technology:</strong>Utilizes robotic-assisted techniques and endoscopic
                                 methods for precision.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Personalized Treatment Plans:</strong>Each patient receives a tailored approach based
                                 on their specific condition.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Commitment to Innovation:</strong>Continuously adopts the latest techniques to
                                 enhance patient outcomes.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Compassionate Patient Care:</strong>Focuses on education, comfort, and long-term
                                 spinal health.</p>
                         </div>

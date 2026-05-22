@@ -85,16 +85,16 @@ Spine Surgeons in Mumbai. Practical tips for relief and maintaining spine health
         <div class="container sec-service-procedure-1">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12 pt-5">
-                    <img src="{{ asset('resources/assets/img/blog/3.jpg') }}">
+                    <img src="{{ asset('resources/assets/img/blog/3.webp') }}">
                     <p>1. Pain around Neck / base of Head-Occiput/ trapezius to shoulders</p>
                     <p>2. common causes</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>"Posture / Muscle fatigue -constant dull aching pain/constant gaze in flexed position – advise –
                             posture correction and supervised Physiotherapy"</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>"Degenerative ( wear n tear ) changes -neck spasm -common – omanaged by simple pain management
                             and supervised physiotherapy"</p>
                     </div>
@@ -103,43 +103,43 @@ Spine Surgeons in Mumbai. Practical tips for relief and maintaining spine health
                         care</p>
                     <p>4. Causes of neck pain often requiring timely diagnosis and specialist opinion</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Slip Disc with nerve compression</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Cervical Myelopathy</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Facet arthritis progressive symptoms</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Cervical spine Tuberculosis</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>cervical Spine Tumors</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>cervical Spine metastasis</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>cervical Spine pyogenic infection</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>cervical Spine fracture or Whiplash</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Metabolic Causes</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>cervical Spinal Deformity.</p>
                     </div>
                     <p>5. Early diagnosis is paramount and can have promising result timely intervention</p>

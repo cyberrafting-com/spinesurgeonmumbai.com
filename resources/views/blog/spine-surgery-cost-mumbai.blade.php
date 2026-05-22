@@ -83,12 +83,12 @@ Understand spine surgery costs in Mumbai: factors affecting pricing, insurance c
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Expert spine surgeon providing affordable spine surgery in Mumbai.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -98,7 +98,7 @@ Understand spine surgery costs in Mumbai: factors affecting pricing, insurance c
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Spine Surgery Cost in Mumbai – What Patients Should Know</h1>
-                                <img src="{{ asset('resources/assets/img/blog/spine-surgery-cost-mumbai.png') }}" alt="Spine Surgery Cost in Mumbai">
+                                <img src="{{ asset('resources/assets/img/blog/spine-surgery-cost-mumbai.webp') }}" alt="Spine Surgery Cost in Mumbai">
                                 <p>Understanding the cost of spine surgery is crucial for patients and their families when making informed healthcare decisions. In Mumbai, spine surgery costs can vary significantly based on several factors. This guide provides comprehensive information about spine surgery pricing, what influences costs, and how to access affordable, world-class spine care with <a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>.</p>
                             </div>
                         </div>

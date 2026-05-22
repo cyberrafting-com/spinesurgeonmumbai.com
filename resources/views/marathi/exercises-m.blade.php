@@ -114,38 +114,38 @@ style="display:none;visibility:hidden"></iframe></noscript>
             <p><b>व्यायाम फिजिओथेरपिस्टांच्या योग्य देखरेखीत आणि स्पाइनल तज्ञ आणि तुमच्या स्पाइनल डॉक्टरांच्या सल्ल्यानुसार न करावे.</b></p>
             <div class="cliclskil1">
               <ul>
-                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल सेगमेंटला हलविण्यासाठी आणि पोस्चरल विकृती दुरुस्त करण्यासाठी, मागच्या भागाचे एक्सटेंसर स्नायू आणि खांद्याच्या ब्लेड्सचे स्नायू मजबूत करण्यासाठी आणि पेक्टोरल स्नायूंचा विकास करण्यासाठी.</li>
-                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कसे करावे: नेहमी, शक्य असल्यास, कडक पृष्ठभागावर, पातळ कार्पेटसह.</li>
+                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल सेगमेंटला हलविण्यासाठी आणि पोस्चरल विकृती दुरुस्त करण्यासाठी, मागच्या भागाचे एक्सटेंसर स्नायू आणि खांद्याच्या ब्लेड्सचे स्नायू मजबूत करण्यासाठी आणि पेक्टोरल स्नायूंचा विकास करण्यासाठी.</li>
+                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कसे करावे: नेहमी, शक्य असल्यास, कडक पृष्ठभागावर, पातळ कार्पेटसह.</li>
               </ul>
               <p class="mt-2"><b>टीप: कृपया सर्व हालचाली शक्य तितक्या हळूवारपणे करा!</b></p>
               <p><b>व्यायाम पर्याय:</b></p>
               <ul>
-                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मागे झोपून, चेहरा वरच्या बाजूस.</li>
-                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बाजूला झोपून.</li>
-                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चेहरा खालच्या बाजूस झोपून.</li>
+                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मागे झोपून, चेहरा वरच्या बाजूस.</li>
+                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बाजूला झोपून.</li>
+                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चेहरा खालच्या बाजूस झोपून.</li>
               </ul>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex1.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex1.webp') }}">
                 <h1>मागच्या देखभाल</h1>
               </div>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex2.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex2.webp') }}">
                 <h1>मानेची देखभाल</h1>
               </div>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex3.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex3.webp') }}">
                 <h1>मान दुखण्याचे व्यायाम</h1>
               </div>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex4.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex4.webp') }}">
                 <h1>स्पाइन मजबूतीकरण</h1>
               </div>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex5.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex5.webp') }}">
                 <h1>स्पाइनल मोबिलायझिंग व्यायाम</h1>
               </div>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex6.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex6.webp') }}">
                 <h1>स्पाइनल ट्रंक नियंत्रण आणि स्थिरता व्यायाम</h1>
               </div>
             </div>

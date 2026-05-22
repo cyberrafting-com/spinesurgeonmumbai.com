@@ -36,12 +36,12 @@ Discover how Dr. Vishal Kundnani is transforming spine surgery in India using sa
             <!-- Sidebar/Profile -->
             <div class="col-lg-3 col-md-4 col-sm-12">
                 <div class="blog-profile">
-                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                     <h3>Dr. Vishal Kundnani</h3>
                     <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                     <p class="bold-text">Best spine surgeon in India known for modern and safe spine care solutions.</p>
-                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="call button"></a>
-                    <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book appointment" class="img-responsive mt-2"></a>
+                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="call button"></a>
+                    <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book appointment" class="img-responsive mt-2"></a>
                 </div>
             </div>
 
@@ -49,7 +49,7 @@ Discover how Dr. Vishal Kundnani is transforming spine surgery in India using sa
             <div class="col-lg-9 col-md-8 col-sm-12">
                 <div class="blog-profile-details">
                     <h1>Spine Surgery – A Safe, Modern Solution by Dr. Vishal Kundnani</h1>
-                    <img src="{{ asset('resources/assets/img/blog/modern-spine-surgery.jpg') }}" alt="Modern Spine Surgery" class="img-responsive mb-4">
+                    <img src="{{ asset('resources/assets/img/blog/modern-spine-surgery.webp') }}" alt="Modern Spine Surgery" class="img-responsive mb-4">
 
                     <p>Spine surgery has undergone a revolutionary transformation in recent years, evolving from high-risk open procedures to safe, minimally invasive, and highly effective treatments.</p>
 

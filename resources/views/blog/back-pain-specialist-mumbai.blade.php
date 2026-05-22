@@ -121,12 +121,12 @@ Severe back pain? Consult Dr. Vishal Kundnani, leading back pain specialist & sp
 
       <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
         <div class="blog-profile">
-          <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+          <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
           <h3>Dr. Vishal Kundnani</h3>
           <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
           <p class="bold-text">Leading back pain specialist and spine surgeon in Mumbai.</p>
-          <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-          <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+          <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+          <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
         </div>
       </div>
 
@@ -136,7 +136,7 @@ Severe back pain? Consult Dr. Vishal Kundnani, leading back pain specialist & sp
           <div class="row">
             <div class="sec-blog-design pt-5">
               <h1>Back Pain Specialist in Mumbai – When to See a Spine Surgeon</h1>
-              <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/back-pain-specialist-mumbai-blog-img.png') }}" alt="Back Pain Specialist in Mumbai">
+              <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/back-pain-specialist-mumbai-blog-img.webp') }}" alt="Back Pain Specialist in Mumbai">
               <p>Chronic or severe back pain can significantly affect your quality of life. It may result from disc herniation, spinal stenosis, scoliosis, or degenerative spinal changes. While many patients find relief through physiotherapy, medications, or lifestyle changes, persistent pain or neurological symptoms like numbness, tingling, or leg weakness require consultation with a spine specialist.</p>
               <p>Early evaluation is essential to prevent the progression of spinal conditions and allows for personalized treatment planning. Dr. Vishal Kundnani, one of India’s leading back pain specialists and spine surgeons, offers advanced care in Mumbai using modern imaging, minimally invasive procedures, and navigation-assisted surgery.</p>
             </div>
