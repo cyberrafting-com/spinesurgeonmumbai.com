@@ -51,12 +51,12 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">India's most trusted spine surgeon, expert in minimally invasive scoliosis surgery.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
                     </div>
                 </div>
                 <!-- Main Content -->
@@ -64,7 +64,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h1>Understanding Scoliosis: Symptoms, Diagnosis, and Treatment</h1>
-                            <img class="blog-hero-img img-responsive mb-4" src="{{ asset('resources/assets/img/blog/scoliosis-symptoms-img.png') }}" alt="Understanding Scoliosis">
+                            <img class="blog-hero-img img-responsive mb-4" src="{{ asset('resources/assets/img/blog/scoliosis-symptoms-img.webp') }}" alt="Understanding Scoliosis">
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -78,27 +78,27 @@
                             <p>Some of the early signs of scoliosis may include:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Uneven shoulders or shoulder blades</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>One hip higher than the other</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Visible curve or tilt of the back</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><a href="{{ route('back-pain') }}">Back pain</a> or discomfort, especially after physical activity</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Fatigue or muscle weakness after prolonged activity</p>
                             </div>
                             
@@ -111,17 +111,17 @@
                             Scoliosis is typically classified into three categories based on the severity of the curve:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Mild Scoliosis (less than 25 degrees)</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Moderate Scoliosis (25–45 degrees)</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Severe Scoliosis (more than 45 degrees)</p>
                             </div>
                             
@@ -134,47 +134,47 @@
                             <p>The treatment plan for scoliosis depends on the severity of the condition and the age of the patient. Treatment options include:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Observation and Exercises:</strong> For mild scoliosis, doctors may recommend regular monitoring and exercises that help improve posture and strengthen the muscles supporting the spine. <a href="{{ route('physiotherapy-in-spine') }}">Physical therapy</a> can also help with flexibility and reduce pain.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Bracing:</strong> For moderate scoliosis, a brace may be recommended, especially if the patient is still growing. The brace helps prevent the curve from worsening and can be worn under clothing for most of the day.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Surgical Intervention:</strong> In more severe cases, or if the curve is progressing, surgery may be necessary to correct the spine's curvature. Traditional open surgery can be used, but modern advancements have led to the development of <a href="{{ route('minimal-invasive-spine-surgery') }}">minimally invasive scoliosis surgery</a>, which is less traumatic and offers a quicker recovery time.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Minimally Invasive Surgery:</strong> <a href="{{ route('micro-endoscopic-minimal-invasive-spine-surgery') }}">Minimally invasive surgery</a> uses smaller incisions and advanced imaging technology to correct the spinal curve with greater precision. This technique offers several benefits over traditional surgery, including:</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Faster recovery times</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Less pain and discomfort</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Smaller scars and less blood loss</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Reduced risk of complications</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Robotic-Assisted Surgery:</strong> Robotic systems allow for even greater precision in scoliosis surgery. Using 3D imaging and tailored implants, robotic-assisted surgery ensures optimal alignment of the spine, improving both safety and long-term outcomes.</p>
                             </div>
                         </div>

@@ -68,39 +68,39 @@
                     <div class="col-lg-8 col-md-8 col-sm-8">
                         <h1>Case History –</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">60
                                 yr / M,
                                 Officer in bank</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Complains
                                 of Low Back Pain and buttock pain and Leg pain during walking, heaviness in legs and
                                 numbness in legs
                                 while walking.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Difficulty
                                 in walking due to LEG PAIN , Heaviness in legs while walking</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Cannot
                                 walk for more than 10 mins (Claudication)</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Symptoms
                                 more than 1 year recently progressive in nature</li>
                         </ul>
                         <h1>Diagnosis –</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">X
                                 rays ,
                                 CT scan and MRI is often needed to reach a diagnosis in combination with clinical
                                 examination.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">In
                                 consultation with one friend who was operated for slip disc at Spine Clinic Mumbai byone of
@@ -108,7 +108,7 @@
                                 spine specialist in Mumbai – Dr. Vishal Kundnani ,Senior Spine surgeon Spine Clinic Mumbai
                                 met the
                                 Spinal Surgeon –Dr. Vishal Kundnani at his Spine Clinic Goregaon , Malad , Kandiwali.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">After
                                 clinical examination a X ray was done in bending position , Flexion and extension x ray
@@ -116,42 +116,42 @@
                                 slip of L4 bone over L5 bone resulting in nerve compression. MRI of spine is advised to
                                 arrive at
                                 diagnosis</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                 stenosis with spondylolisthesis (slip of one bone over another resulting in nerve
                                 compression) at L4-5
                                 diagnosed as the cause of leg pain AND difficulty in walking with heaviness and numbness in
                                 legs.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Advised
                                 physiotherapy and medical pain management – gave partial relief however affected walking due
                                 to leg pain
                                 and numbness and couldn't walk long distance.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Symptoms
                                 recurred and progressed every month resulting in reduced walking</li>
                         </ul>
                         <h1>Plan of Surgery (Minimal invasive spinal fusion for spondylolisthesis –MIS TLIF ) –</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Microscopic
                                 minimal invasive surgery</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Microendoscopic
                                 decompression surgery with MIS TLIF</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal
                                 invasive Spinal Fusion surgery</li>
                         </ul>
                         <h1>Surgery Performed –</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                 fusion surgery by Minimal invasive technique is called –MIS TLIF. (Minimal invasive Lumbar
@@ -159,12 +159,12 @@
                                 fusion surgery) Dr. Vishal Kundnani often performs navigation spine surgery and is best
                                 specialist in
                                 robotic spine surgery in Mumbai.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Microscopic
                                 technique of minimal spine surgery for spondylolisthesis is extremely safe and efficient.
                             </li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
                                 SPINE SUGRERY decompression and fusion surgery done with decompression of nerves and fusion
@@ -173,7 +173,7 @@
                                 Kundnani in
                                 thefinest spine center in country Spine Clinic Mumbaiusing Minimal invasive spine surgery.
                             </li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Microscopic
                                 technique of minimalspine surgery for Spinal Stenosis with spondylolisthesis (slip of bone
@@ -183,7 +183,7 @@
                                 instruments and patient recovered immediately and discharge from hospital the third day
                                 after surgery
                                 with quick return to work with no restriction to activity.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Benefits
                                 of Minimal invasive spine surgery in spinal fusion surgery are no pain, small incisions , no
@@ -196,26 +196,26 @@
                             spine specialist in Mumbai – Dr. Vishal Kundnani at Best spine center – Spine Clinic Mumbai.</p>
 
                         <div class="col-lg-6 col-md-6 col-sm-6 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l8.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l8.webp') }}">
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l8-1.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l8-1.webp') }}">
                         </div>
                         <div class="clearfix"></div>
                         <p class="mt-2">L4-5 Lumbar Spinal Stenosis nerve compression due to spondylolisthesis (slip of
                             one bone over
                             another ) with Lumbar Canal stenosis</p>
                         <div class="col-lg-3 col-md-3 col-sm-3 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l9.png') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l9.webp') }}">
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-3 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l9-1.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l9-1.webp') }}">
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-3 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l9-2.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l9-2.webp') }}">
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-3 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/l9-3.jpg') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/l9-3.webp') }}">
                         </div>
                         <div class="clearfix"></div>
                         <p class="mt-2">Tubular Micro endoscopic spine surgery (decompression and spinal fusion) MIS TLIF
@@ -230,7 +230,7 @@
                         <h1>Is spinal implant safe? Is screw plate in spine safe ? Is screw plate FUSION surgery safe? –
                         </h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes.
                                 The
@@ -239,14 +239,14 @@
                                 safe for the human body. When spinal implant, spine screw plate, screw plate in the spine is
                                 inserted in
                                 control by a trained spinal surgeon they don't create any problem.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To
                                 enhance
                                 safety Intraoperatively some Spinal surgeons use IITV (X-RAY ) and navigation and robotics
                                 in spine
                                 surgery to make sure surgery is safe for patients.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Vishal
@@ -262,23 +262,23 @@
                         </ul>
                         <h1>Case Study of –</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal
                                 Invasive Spine Surgery for Spondylolisthesis</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal
                                 invasive Spinal Fusion for Spondylolisthesis</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                 fusion surgery</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MIS
                                 TLIF</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal
                                 invasive spinal fusion surgery</li>

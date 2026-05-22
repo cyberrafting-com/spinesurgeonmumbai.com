@@ -20,12 +20,12 @@
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Internationally trained and awarded spine surgeon in Mumbai.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment"
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment"
                                 class="img-responsive"></a>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                                 advanced surgeries due to the reputation of doctors, economic treatment costs, and
                                 patient-friendly timelines. India's top spine surgeons offer affordable and quality care
                                 across multiple cities.</p>
-                            <img src="{{ asset('resources/assets/img/blog/spine-surgery.jpg') }}">
+                            <img src="{{ asset('resources/assets/img/blog/spine-surgery.webp') }}">
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -83,22 +83,22 @@
                         </div>
 
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Cost Savings:</strong> Spine surgeries in India are 50–70% more affordable
                                 compared to the US or Europe.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Expertise:</strong> Procedures by internationally trained surgeons like Dr.
                                 Kundnani, a pioneer in spine surgery in India.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Advanced Technology:</strong> Robotic and navigation-assisted surgeries,
                                 neuromonitoring, and full-endoscopic techniques ensure safety and precision.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Comprehensive Support:</strong> Full assistance with medical travel,
                                 consultations, aftercare, and rehabilitation.</p>
                         </div>

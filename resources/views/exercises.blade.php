@@ -114,38 +114,38 @@
             <p><b>Exercises should not be done without proper supervision of physiotherapists and in consultation with a spinal specialist and your spinal doctor.</b></p>
             <div class="cliclskil1">
               <ul>
-                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To mobilize the spinal segment and to correct the postural distortion, to strengthen the extensor muscles of the back and the muscles of the shoulder blades and to develop the pectoral muscles.</li>
-                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">How to do it : Always, if possible, on a hard surface, with a thin carpet.</li>
+                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To mobilize the spinal segment and to correct the postural distortion, to strengthen the extensor muscles of the back and the muscles of the shoulder blades and to develop the pectoral muscles.</li>
+                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">How to do it : Always, if possible, on a hard surface, with a thin carpet.</li>
               </ul>
               <p class="mt-2"><b>Note : Please Do all the movements as slow as possible!</b></p>
               <p><b>Exercises Options:</b></p>
               <ul>
-                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lying on back, face upwards.</li>
-                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lying on the side.</li>
-                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lying face downwards.</li>
+                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lying on back, face upwards.</li>
+                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lying on the side.</li>
+                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lying face downwards.</li>
               </ul>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex1.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex1.webp') }}">
                 <h1>Back Care</h1>
               </div>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex2.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex2.webp') }}">
                 <h1>Neck Care</h1>
               </div>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex3.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex3.webp') }}">
                 <h1>Neck Pain Exercises</h1>
               </div>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex4.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex4.webp') }}">
                 <h1>Spine Strengthening </h1>
               </div>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex5.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex5.webp') }}">
                 <h1>Spinal Mobilising Exercises</h1>
               </div>
               <div class="col-lg-6 mt-2">
-                <img class="serv_img1" src="{{ asset('resources/assets/img/ex6.png') }}">
+                <img class="serv_img1" src="{{ asset('resources/assets/img/ex6.webp') }}">
                 <h1>Spinal Trunk Control and Stability Exercises</h1>
               </div>
             </div>

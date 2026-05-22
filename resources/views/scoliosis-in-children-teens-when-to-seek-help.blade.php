@@ -64,12 +64,12 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">India's most trusted spine surgeon, expert in pediatric scoliosis surgery.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
                     </div>
                 </div>
 
@@ -78,7 +78,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h1>Scoliosis in Children and Teens: When to Seek Help</h1>
-                            <img class="blog-hero-img img-responsive mb-4" src="{{ asset('resources/assets/img/blog/scoliosis-in-child-img.png') }}" alt="Scoliosis in Children and Teens">
+                            <img class="blog-hero-img img-responsive mb-4" src="{{ asset('resources/assets/img/blog/scoliosis-in-child-img.webp') }}" alt="Scoliosis in Children and Teens">
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -92,22 +92,22 @@
                             <p>While scoliosis can develop silently, there are several signs to watch for in children and teens:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Uneven Shoulders:</strong> One shoulder may appear higher than the other.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Uneven Hips:</strong> One hip may be higher than the other, or one side of the body may stick out more than the other.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Leaning Posture:</strong> The child may appear to lean to one side, or their head may not align with their body.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong><a href="{{ route('back-pain') }}">Back Pain</a>:</strong> While not always present in mild cases, some children may experience back pain or discomfort as the curvature progresses.</p>
                             </div>
                             
@@ -120,17 +120,17 @@
                             The degree of curvature is measured in degrees, and scoliosis is classified as follows:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Mild Scoliosis:</strong> Curvature of less than 25 degrees</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Moderate Scoliosis:</strong> Curvature between 25 and 45 degrees</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Severe Scoliosis:</strong> Curvature greater than 45 degrees</p>
                             </div>
                             
@@ -143,27 +143,27 @@
                             <p>The treatment for scoliosis in children and teens depends on the severity of the curve and the child's age. Treatment options include:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Observation and Exercises:</strong> In mild cases, the doctor may recommend observation and regular follow-ups to monitor the condition. <a href="{{ route('physiotherapy-in-spine') }}">Physical therapy</a> may be used to strengthen the muscles around the spine and improve posture.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Bracing:</strong> For moderate scoliosis, especially if the child is still growing, a brace may be prescribed to prevent further progression of the curve. Braces are custom-fitted to the child and worn throughout the day, except during activities like bathing or swimming.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Surgical Intervention:</strong> In more severe cases or if the curvature is rapidly progressing, surgery may be required. The goal of surgery is to correct the spine's curvature and prevent future complications, such as breathing problems or postural deformities.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Minimally Invasive Surgery:</strong> This modern approach to scoliosis surgery involves smaller incisions, which results in faster recovery times, less pain, and minimal scarring. The surgery uses advanced imaging technology for greater precision.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Robotic-Assisted Surgery:</strong> With robotic-assisted navigation, surgeons can achieve even greater accuracy in correcting the spine. Using 3D imaging and custom 3D-printed implants, the surgery can be tailored to the individual needs of the child, ensuring optimal results and reduced risk of complications.</p>
                             </div>
                         </div>
@@ -173,22 +173,22 @@
                             <p>Minimally invasive scoliosis surgery offers significant advantages over traditional open surgery, especially for children and teens:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Smaller Incisions:</strong> The surgery is performed with small incisions, which leads to less trauma to the body.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Faster Recovery:</strong> Children typically experience quicker recovery times, allowing them to return to their normal activities sooner.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Reduced Pain:</strong> The minimally invasive technique reduces post-surgical pain, making the recovery process more comfortable.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Better Precision:</strong> Robotic-assisted navigation and advanced imaging allow for highly precise adjustments to the spine, leading to better long-term results.</p>
                             </div>
                         </div>
@@ -198,22 +198,22 @@
                             <p>Children and teens from across India, including Mumbai, Delhi, Pune, Nashik, Thane, Navi Mumbai, Raipur, Indore, Bhopal, and Jaipur, can receive world-class scoliosis care at leading hospitals such as:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Lilavati Hospital</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Bombay Hospital</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Breach Candy Hospital</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Saifee Hospital</p>
                             </div>
                             

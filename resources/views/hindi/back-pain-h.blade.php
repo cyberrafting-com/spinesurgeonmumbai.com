@@ -83,7 +83,7 @@
                                         <div class="cliclskil1">
                                             <ul>
                                                 <li>
-                                                    <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
+                                                    <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     पीठ/कंधे/गर्दन क्षेत्र में होने वाला दर्द कामकाज और जीवन की गुणवत्ता को प्रभावित कर सकता है। अनुमान है कि 85% लोग जीवन में कभी न कभी पीठ दर्द का अनुभव करते हैं।
                                                 </li>
                                             </ul>
@@ -108,17 +108,17 @@
                                         <div class="cliclskil1">
                                             <p><b>लो बैक पेन के जोखिम कारक:</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उम्र के साथ होने वाला डीजनरेशन (झीज)।</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">जीवनशैली: तनाव, गलत पोस्टर, लंबे समय तक खड़े रहना/गलत तरीके से बैठना, भारी वजन उठाना, अचानक मुड़ना।</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चोट/दुर्घटना: मांसपेशियों/लिगामेंट्स की चोट, स्पाइनल हड्डी का फ्रैक्चर, ऑस्टियोपोरोसिस में जोखिम अधिक।</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मोटापा: अतिरिक्त वजन से कमर पर अधिक दबाव।</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उम्र के साथ होने वाला डीजनरेशन (झीज)।</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">जीवनशैली: तनाव, गलत पोस्टर, लंबे समय तक खड़े रहना/गलत तरीके से बैठना, भारी वजन उठाना, अचानक मुड़ना।</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चोट/दुर्घटना: मांसपेशियों/लिगामेंट्स की चोट, स्पाइनल हड्डी का फ्रैक्चर, ऑस्टियोपोरोसिस में जोखिम अधिक।</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मोटापा: अतिरिक्त वजन से कमर पर अधिक दबाव।</li>
                                             </ul>
                                             <p><b>विशिष्ट स्पाइनल स्थितियाँ:</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क/डिस्क बुल्ज/हर्निएटेड डिस्क</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल स्टेनोसिस/लंबर स्पाइनल स्टेनोसिस</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फेसट आर्थराइटिस</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डायलोसिस, ट्यूमर, संक्रमण, टीबी, फ्रैक्चर, विटामिन D की कमी</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क/डिस्क बुल्ज/हर्निएटेड डिस्क</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल स्टेनोसिस/लंबर स्पाइनल स्टेनोसिस</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फेसट आर्थराइटिस</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डायलोसिस, ट्यूमर, संक्रमण, टीबी, फ्रैक्चर, विटामिन D की कमी</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -138,9 +138,9 @@
                                         <div class="cliclskil1">
                                             <p>दर्द का प्रकार, अवधि और सुधार—कारण और प्रभावित क्षेत्र पर निर्भर करता है। सामान्य शिकायतें:</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">जकड़न, सुबह उठने पर जकड़न, मांसपेशियों में ऐंठन</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पैर में दर्द/सुन्नपन/झनझनाहट, चलने में कठिनाई</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">झुकने/बैठने/लंबे समय तक बैठने पर दर्द बढ़ना</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">जकड़न, सुबह उठने पर जकड़न, मांसपेशियों में ऐंठन</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पैर में दर्द/सुन्नपन/झनझनाहट, चलने में कठिनाई</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">झुकने/बैठने/लंबे समय तक बैठने पर दर्द बढ़ना</li>
                                             </ul>
                                             <p>यदि पीठ दर्द के साथ कंधे/बांह में दर्द, सुन्नपन या कमजोरी हो तो स्पाइन विशेषज्ञ से मिलें।</p>
                                         </div>
@@ -161,8 +161,8 @@
                                         <div class="cliclskil1">
                                             <p>अधिकांश मरीज साधारण दर्द प्रबंधन से ठीक हो जाते हैं। लेकिन 3 हफ्ते से अधिक दर्द रहे या निम्न रेड फ्लैग हों तो तुरंत दिखाएँ:</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दर्द लगातार/तेजी से बढ़ना, रोज़मर्रा काम प्रभावित होना, तेज लक्षण</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बुखार, कंधे/बांह में दर्द/सुन्नपन/कमजोरी, आंत्र/मूत्र नियंत्रण में कमी</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दर्द लगातार/तेजी से बढ़ना, रोज़मर्रा काम प्रभावित होना, तेज लक्षण</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बुखार, कंधे/बांह में दर्द/सुन्नपन/कमजोरी, आंत्र/मूत्र नियंत्रण में कमी</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -183,12 +183,12 @@
                                             <p>लक्षणों की तीव्रता और अवधि के आधार पर उपचार तय किया जाता है।</p>
                                             <p><b>हमारे <a href="{{ route('home') }}">उन्नत स्पाइन सेंटर</a> में उपलब्ध विकल्प:</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दवाइयाँ</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फिजियोथेरेपी</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल ब्रेसिंग</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल इंजेक्शंस</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सर्जरी (आवश्यक होने पर)</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पीठ दर्द के लिए व्यायाम व फिजियो थेरेपी</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दवाइयाँ</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फिजियोथेरेपी</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल ब्रेसिंग</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल इंजेक्शंस</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सर्जरी (आवश्यक होने पर)</li>
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पीठ दर्द के लिए व्यायाम व फिजियो थेरेपी</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -203,10 +203,10 @@
                                 </div>
                                 <h3>क्यों चुनें हमारा स्पाइन सेंटर?</h3>
                                 <ul>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">आधुनिक सुविधाएँ</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">मिनिमली इनवेसिव सर्जरी तकनीक</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">समग्र स्पाइन केयर</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">व्यक्तिगत उपचार योजना</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">आधुनिक सुविधाएँ</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">मिनिमली इनवेसिव सर्जरी तकनीक</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">समग्र स्पाइन केयर</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="pic">व्यक्तिगत उपचार योजना</li>
                                 </ul>
                             </div>
                         </div>

@@ -14,12 +14,12 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Dedicated <a href="{{ route('laser-spine-surgery-is-it-safe-and-effective') }}">laser spine surgeon in Mumbai</a>.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -29,7 +29,7 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1><b>Dr. Vishal’s Approach to Ethical Spine Care</b></h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/Spine_Treatment_Cost_In_India.jpg') }}" alt="Dr. Vishal’s Approach to Ethical Spine Care">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/Spine_Treatment_Cost_In_India.webp') }}" alt="Dr. Vishal’s Approach to Ethical Spine Care">
                                 <p>In today’s rapidly advancing medical landscape, patients often feel overwhelmed by complex diagnoses and treatment recommendations. When it comes to spine health, trust and transparency become even more critical. <a href="{{ route('dr-vishals-approach-to-ethical-spine-care') }}">Ethical spine care in India</a> is gaining attention as patients increasingly seek doctors who prioritize honesty, clarity, and long-term well-being over unnecessary procedures.</p>
                                 <p><a href="{{ route('dr-vishals-approach-to-ethical-spine-care') }}">Dr. Vishal Kundnani spine specialist</a> practices patient-centered treatment and follows ethical medical standards. He is a spine specialist who uses advanced medical knowledge to provide medical care according to his ethical principles.</p>
                             </div>
@@ -51,7 +51,7 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
                         <div class="sec-blog-design pt-5">
                              <h2><b><a href="{{ route('contact') }}">Transparent Spine Surgery Consultation</a></b></h2>
                              <div class="text-center mb-4">
-                                <img src="{{ asset('resources/assets/img/blog/Transparent-Spine-Surgery-Consultation.png') }}" class="img-responsive" alt="Transparent Spine Surgery Consultation" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                                <img src="{{ asset('resources/assets/img/blog/Transparent-Spine-Surgery-Consultation.webp') }}" class="img-responsive" alt="Transparent Spine Surgery Consultation" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
                              </div>
                              <p>One of the biggest concerns patients have is whether the surgery is necessary. A <a href="{{ route('contact') }}">transparent spine surgery consultation</a> must involve direct and honest communication addressing the following issues:</p>
                             <ul>
@@ -80,7 +80,7 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
                         <div class="sec-blog-design pt-5">
                             <h2><b>Concentrate on Non-Surgical Spine Care Options</b></h2>
                             <div class="text-center mb-4">
-                                <img src="{{ asset('resources/assets/img/blog/Concentrate-on-Non-Surgical-Spine-Care-Options.png') }}" class="img-responsive" alt="Concentrate on Non-Surgical Spine Care Options" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                                <img src="{{ asset('resources/assets/img/blog/Concentrate-on-Non-Surgical-Spine-Care-Options.webp') }}" class="img-responsive" alt="Concentrate on Non-Surgical Spine Care Options" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
                             </div>
                              <p>Most spine problems heal up significantly with non-surgical care. The <a href="{{ route('physiotherapy-in-spine') }}">non surgical spine care options</a> include:</p>
                             <ul>
@@ -121,7 +121,7 @@ Discover Dr. Vishal’s approach to ethical spine care in India. Learn about pat
                         <div class="sec-blog-design pt-5">
                             <h2><b>Long-Term Relationship Over Short-Term Gains</b></h2>
                             <div class="text-center mb-4">
-                                <img src="{{ asset('resources/assets/img/blog/Long-Term-Relationship-Over-Short-Term-Gains.png') }}" class="img-responsive" alt="Long-Term Relationship Over Short-Term Gains" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                                <img src="{{ asset('resources/assets/img/blog/Long-Term-Relationship-Over-Short-Term-Gains.webp') }}" class="img-responsive" alt="Long-Term Relationship Over Short-Term Gains" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
                             </div>
                             <p>Most often, spine health calls for long-term monitoring, continuing physiotherapies, and lifestyle correction therapies.</p>
                             <p>A patient-centric ethic facilitates:</p>

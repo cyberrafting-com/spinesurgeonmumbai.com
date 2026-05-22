@@ -14,12 +14,12 @@ Mobile phone neck syndrome is rising due to excessive smartphone use. Learn abou
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Dedicated <a href="{{ route('laser-spine-surgery-is-it-safe-and-effective') }}">laser spine surgeon in Mumbai</a>.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -29,7 +29,7 @@ Mobile phone neck syndrome is rising due to excessive smartphone use. Learn abou
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1><b>Mobile Phone Neck Syndrome: A Modern-Day Spine Issue</b></h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/mobile-phone-neck-syndrome.jpg') }}" alt="Mobile Phone Neck Syndrome: A Modern-Day Spine Issue">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/mobile-phone-neck-syndrome.webp') }}" alt="Mobile Phone Neck Syndrome: A Modern-Day Spine Issue">
                                 <p>Smartphones now serve as permanent extensions of our hands in modern digital society. We dedicate multiple hours to screen time, which includes messaging and social media use along with work email access and entertainment activities. The forward head posture that people maintain while using mobile devices has created a new medical condition known as mobile phone neck syndrome which doctors commonly name "text neck."</p>
                                 <p><a href="{{ route('best-spine-surgeons-mumbai') }}">Mumbai spine specialists</a> have reported a substantial increase in neck pain due to smartphone use among their urban patient population.</p>
                             </div>
@@ -38,7 +38,7 @@ Mobile phone neck syndrome is rising due to excessive smartphone use. Learn abou
                         <div class="sec-blog-design pt-5">
                             <h2><b><a href="{{ route('mobile-phone-neck-syndrome-a-modern-day-spine-issue') }}">What Is Mobile Phone Neck Syndrome?</a></b></h2>
                             <div class="text-center mb-4">
-                                <img src="{{ asset('resources/assets/img/blog/What-Is-Mobile-Phone-Neck-Syndrome.png') }}" class="img-responsive" alt="What Is Mobile Phone Neck Syndrome?" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                                <img src="{{ asset('resources/assets/img/blog/What-Is-Mobile-Phone-Neck-Syndrome.webp') }}" class="img-responsive" alt="What Is Mobile Phone Neck Syndrome?" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
                             </div>
                             <p>The stress injury known as mobile phone neck syndrome occurs when people maintain head-bending positions during extended periods of smartphone, tablet, or laptop use. The human head weighs around 4–5 kg in a neutral position. The cervical spine experiences increased pressure, which reaches 20–25 kg when the head tilts forward at a 45–60-degree angle.</p>
                             <p>People who experience repeated physical strain through their daily activities will eventually face muscle fatigue, ligament stress, and disc compression, which leads to <a href="{{ route('neck-pain') }}">cervical spine pain Mumbai</a>. The healthcare system in Mumbai has started to identify this condition as a common diagnosis among young adult patients.</p>
@@ -66,7 +66,7 @@ Mobile phone neck syndrome is rising due to excessive smartphone use. Learn abou
                         <div class="sec-blog-design pt-5">
                             <h2><b>How Screen Time Impacts Your Cervical Spine</b></h2>
                             <div class="text-center mb-4">
-                                <img src="{{ asset('resources/assets/img/blog/How-Screen-Time-Impacts-Your-Cervical-Spine.png') }}" class="img-responsive" alt="How Screen Time Impacts Your Cervical Spine" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
+                                <img src="{{ asset('resources/assets/img/blog/How-Screen-Time-Impacts-Your-Cervical-Spine.webp') }}" class="img-responsive" alt="How Screen Time Impacts Your Cervical Spine" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); display: inline-block; margin: 10px 0; max-width: 100%;">
                             </div>
                             <p>The medical field now implements <a href="{{ route('neck-pain') }}">screen time neck pain relief</a> techniques for patients who experience neck discomfort due to excessive screen time. Prolonged forward head posture causes:</p>
                             <ul>

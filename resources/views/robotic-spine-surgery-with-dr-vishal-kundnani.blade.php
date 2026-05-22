@@ -99,13 +99,13 @@ robotic technology.@endsection
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}"
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}"
                                 alt="book btn"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}"
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}"
                                 alt="book btn" class="img-responsive"></a>
                     </div>
                 </div>
@@ -125,7 +125,7 @@ robotic technology.@endsection
                             </div>
                             <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
                                 <img
-                                    src="{{ asset('resources/assets/img/blog/robotic-spine-surgery-with-dr-vishal-kundnani.jpg') }}">
+                                    src="{{ asset('resources/assets/img/blog/robotic-spine-surgery-with-dr-vishal-kundnani.webp') }}">
                             </div>
                         </div>
                         <div class="sec-blog-design pt-5">
@@ -134,27 +134,27 @@ robotic technology.@endsection
                                 benefits, including:</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Unmatched Precision:</strong>Real-time imaging and robotic navigation allow for
                                 extremely accurate spinal corrections.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Minimally Invasive Approach:</strong>Smaller incisions mean reduced tissue damage,
                                 leading to quicker recovery.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Lower Risk of Complications:</strong>With robotic guidance, the chances of surgical
                                 errors are minimized.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Less Postoperative Pain:</strong>Patients experience significantly less discomfort
                                 compared to traditional spine surgeries.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Faster Return to Normal Activities:</strong>A minimally invasive approach allows for
                                 a quicker recovery process.</p>
                         </div>
@@ -189,21 +189,21 @@ robotic technology.@endsection
                             <p>This advanced procedure is ideal for individuals suffering from:</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Scoliosis:</strong>Patients requiring highly accurate spinal correction.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Spinal Trauma & Deformities:</strong>Those needing precise and safer surgical
                                 interventions.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Degenerative Spine Diseases:</strong>Including conditions like herniated discs and
                                 spinal stenosis.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Spinal Tumors & Infections:</strong>Patients requiring targeted treatments with
                                 minimal tissue damage.</p>
                         </div>
@@ -220,22 +220,22 @@ robotic technology.@endsection
                             <h3>Why Choose Dr. Vishal Kundnani?</h3>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Extensive Experience:</strong>Years of expertise in treating complex spinal
                                 disorders.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Advanced Technology:</strong>Utilizing robotic-assisted techniques for enhanced
                                 surgical outcomes.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Minimally Invasive Surgery:</strong>Faster healing and reduced surgical
                                 complications.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Personalized Patient Care:</strong>Each treatment plan is tailored to meet the unique
                                 needs of every patient.</p>
                         </div>

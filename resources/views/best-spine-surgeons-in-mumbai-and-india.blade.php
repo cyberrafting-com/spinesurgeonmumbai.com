@@ -70,13 +70,13 @@ conventional spine surgeries.@endsection
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}"
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}"
                                 alt="book btn"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}"
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}"
                                 alt="book btn" class="img-responsive"></a>
                     </div>
                 </div>
@@ -97,7 +97,7 @@ conventional spine surgeries.@endsection
                             </div>
                             <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
                                 <img
-                                    src="{{ asset('resources/assets/img/blog/best-spine-surgeons-in-mumbai-and-india.jpg') }}">
+                                    src="{{ asset('resources/assets/img/blog/best-spine-surgeons-in-mumbai-and-india.webp') }}">
                             </div>
                         </div>
                         <div class="sec-blog-design pt-5">
@@ -117,27 +117,27 @@ conventional spine surgeries.@endsection
                             <p>Dr. Kundnani specializes in treating a wide range of spinal conditions, including:</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Herniated Discs</strong>Using <b>laser spine surgery</b> for precise tissue removal.
                             </p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Spinal Stenosis</strong>Relieving nerve compression with minimally invasive
                                 techniques.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Degenerative Disc Disease</strong>Restoring mobility without extensive surgical
                                 intervention.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Scoliosis & Spinal Deformities</strong>Utilizing <b>robotic spine surgery</b> for
                                 accurate correction.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Vertebral Fractures</strong>Ensuring fast recovery with <b>endoscopic spine
                                     surgery.</b></p>
                         </div>
@@ -147,17 +147,17 @@ conventional spine surgeries.@endsection
                                 advancements, such as:</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Robotic Navigation Systems</strong>Enhancing surgical accuracy and reducing risks.
                             </p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Laser Spine Surgery</strong>Minimizing tissue damage and post-operative discomfort.
                             </p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Endoscopic Techniques</strong>Allowing for smaller incisions and faster healing.</p>
                         </div>
                         <div class="sec-blog-design pt-5">
@@ -171,27 +171,27 @@ conventional spine surgeries.@endsection
                             <h3>The Advantages of Choosing Dr. Vishal Kundnani</h3>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Minimally Invasive Procedures</strong>Less pain, minimal scarring, and faster
                                 recovery.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Precision Surgery with Robotic & Laser Assistance</strong>Reduced risks and enhanced
                                 outcomes.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Expertise in Complex Spinal Conditions</strong>Ability to treat a variety of spinal
                                 disorders.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Advanced Post-Operative Care</strong>Ensuring long-term success and mobility
                                 improvement.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Compassionate and Informed Patient Care</strong>Educating patients for better
                                 treatment decisions.</p>
                         </div>
@@ -207,17 +207,17 @@ conventional spine surgeries.@endsection
                             <h3>Why Patients Trust Dr. Vishal Kundnani?</h3>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Exceptional success rates</strong>with minimally invasive and robotic-assisted
                                 surgeries.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Patient-focused philosophy</strong>that ensures comfort, safety, and long-term spinal
                                 health.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Use of the latest technologies</strong>to provide world-class spine treatment in
                                 Mumbai and India.</p>
                         </div>

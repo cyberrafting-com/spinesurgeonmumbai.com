@@ -100,13 +100,13 @@ faster recovery times.@endsection
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}"
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}"
                                 alt="book btn"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}"
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}"
                                 alt="book btn" class="img-responsive"></a>
                     </div>
                 </div>
@@ -131,7 +131,7 @@ faster recovery times.@endsection
                             </div>
                             <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
                                 <img
-                                    src="{{ asset('resources/assets/img/blog/endoscopic-spine-surgery-with-dr-vishal-kundnani.jpg') }}">
+                                    src="{{ asset('resources/assets/img/blog/endoscopic-spine-surgery-with-dr-vishal-kundnani.webp') }}">
                             </div>
                         </div>
                         <div class="sec-blog-design pt-5">
@@ -140,27 +140,27 @@ faster recovery times.@endsection
                                 procedures:</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Minimally Invasive Approach:</strong>Small incisions lead to less muscle and tissue
                                 trauma.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Reduced Pain & Faster Recovery:</strong>Patients experience significantly less
                                 post-operative pain and can return to daily life sooner.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Enhanced Surgical Precision:</strong>The <b>endoscope provides a magnified view</b>,
                                 allowing for accurate and safe removal of damaged disc material.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Lower Risk of Complications:</strong>Minimal blood loss and a reduced risk of
                                 infections compared to traditional surgery.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Minimal Scarring:</strong>Small incisions result in a more aesthetically pleasing
                                 outcome.</p>
                         </div>
@@ -215,27 +215,27 @@ faster recovery times.@endsection
                             <h3>What Makes Dr. Vishal Kundnani the Best Choice?</h3>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Expertise in Endoscopic & Minimally Invasive Spine Surgery:</strong>Years of
                                 experience in treating complex spinal conditions.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Advanced Technology:</strong>Utilizing state-of-the-art endoscopic equipment for
                                 precision and enhanced outcomes.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Customized Patient Care:</strong>Each patient receives an individualized treatment
                                 plan tailored to their specific condition.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Commitment to Innovation:</strong>Constantly improving surgical techniques to deliver
                                 superior results.</p>
                         </div>
                         <div class="cat-service-inner pt-5">
-                            <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                            <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                             <p><strong>Compassionate Approach:</strong>Prioritizing patient well-being, comfort, and
                                 long-term recovery.</p>
                         </div>

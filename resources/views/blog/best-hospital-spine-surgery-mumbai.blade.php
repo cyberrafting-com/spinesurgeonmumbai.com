@@ -107,12 +107,12 @@ Looking for top spine surgery hospitals in Mumbai? Dr. Vishal Kundnani offers ad
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Director & Head of Spine Services at Lilavati & Bombay Hospitals.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -122,7 +122,7 @@ Looking for top spine surgery hospitals in Mumbai? Dr. Vishal Kundnani offers ad
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Best Hospital for Spine Surgery in Mumbai – Bombay Hospital & Lilavati Hospital</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/spine-surgery-international-patients-miss.jpg') }}" alt="Best Hospital for Spine Surgery in Mumbai">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/spine-surgery-international-patients-miss.webp') }}" alt="Best Hospital for Spine Surgery in Mumbai">
                                 <p>Choosing the right hospital for spine surgery is crucial—experienced surgeons, advanced technology, and comprehensive post-operative care significantly impact outcomes. Lilavati Hospital and Bombay Hospital are two of the most trusted centers for world-class spine surgery in Mumbai, offering cutting-edge treatments, modern infrastructure, and highly trained spine specialists.</p>
                                 <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, Director & Head of Spine Services at Lilavati & Bombay Hospitals, leads specialized teams delivering safe, precise, and advanced spine care to patients across India.</p>
                                 <p>Patients from Mumbai, Delhi, Pune, Nashik, Aurangabad, Thane, Navi Mumbai, Raipur, Indore, Bhopal, Jaipur, and international regions seek treatment under his expertise.</p>

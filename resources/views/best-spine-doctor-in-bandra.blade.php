@@ -98,24 +98,24 @@ spine-related conditions.@endsection
 
                         <h1>Some common symptoms include:</h1>
                         <ul class="bandra-spine-custom-list">
-                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated bandra-spine-custom-icon" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Back
                                 Pain: Persistent or recurring back pain is one of the primary indicators of a spine
                                 condition. This pain may range from dull and achy to sharp and shooting, and it can radiate
                                 to other parts of the body, such as the legs or arms.</li>
-                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated bandra-spine-custom-icon" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Neck
                                 Pain: Neck pain, often accompanied by stiffness and decreased range of motion, may indicate
                                 cervical spine issues, such as herniated discs or cervical spondylosis.</li>
-                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated bandra-spine-custom-icon" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Nerve
                                 Compression Symptoms: Conditions like spinal stenosis or herniated discs can compress spinal
                                 nerves, leading to symptoms such as tingling, numbness, or weakness in the arms or legs.
                                 This can sometimes result in sciatica, where the pain radiates down the leg.</li>
-                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated bandra-spine-custom-icon" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle
                                 Weakness: Progressive weakness in the muscles of the arms, legs, or torso may indicate
@@ -132,39 +132,39 @@ spine-related conditions.@endsection
 
                         <h1>Here are some common treatment options:</h1>
                         <ul class="bandra-spine-custom-list">
-                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated bandra-spine-custom-icon" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Conservative
                                 Measures: Many spine conditions can be effectively managed with conservative treatments,
                                 such as rest, physical therapy, and nonsteroidal anti-inflammatory drugs (NSAIDs) to reduce
                                 inflammation and pain.</li>
-                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated bandra-spine-custom-icon" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Medications:
                                 In addition to NSAIDs, other medications such as muscle relaxants, corticosteroids, or
                                 neuropathic pain medications may be prescribed to alleviate symptoms and improve function.
                             </li>
-                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated bandra-spine-custom-icon" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Interventional
                                 Procedures: For individuals who do not respond adequately to conservative treatments,
                                 interventional procedures such as epidural steroid injections, nerve blocks, or
                                 radiofrequency ablation may provide relief by targeting specific nerves or reducing
                                 inflammation.</li>
-                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated bandra-spine-custom-icon" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Surgery:
                                 In cases where conservative measures and interventional procedures fail to provide relief or
                                 if there is progressive neurological deficit, surgery may be necessary. Common surgical
                                 procedures for spine conditions include discectomy, laminectomy, spinal fusion, or
                                 artificial disc replacement.</li>
-                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated bandra-spine-custom-icon" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lifestyle
                                 Modifications: Adopting healthy lifestyle habits, such as maintaining a proper posture,
                                 engaging in regular exercise, quitting smoking, and managing weight, can help alleviate
                                 symptoms and prevent further spine problems.</li>
-                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li class="bandra-spine-custom-item"><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated bandra-spine-custom-icon" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Alternative
                                 Therapies: Some individuals find relief from spine conditions through alternative therapies

@@ -62,12 +62,12 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">India's most trusted spine surgeon, expert in minimally invasive scoliosis surgery.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
                     </div>
                 </div>
 
@@ -89,27 +89,27 @@
                             <h2>Benefits of Minimally Invasive Scoliosis Surgery</h2>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Smaller Incisions:</strong> The surgery uses small incisions, which reduce the trauma to the body and result in minimal scarring.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Less Pain and Faster Recovery:</strong> Patients experience significantly less post-operative pain and discomfort compared to traditional open surgery, leading to a quicker return to daily activities.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Shorter Hospital Stays:</strong> Because of the reduced surgical trauma, patients typically spend less time in the hospital and can resume their normal activities sooner.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Precision and Accuracy:</strong> The use of robotic-assisted navigation and 3D-tailored implants allows for highly accurate spinal alignment, ensuring better results and reducing the risk of complications.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Lower Risk of Complications:</strong> Minimally invasive techniques reduce the likelihood of infections, blood loss, and other post-surgical issues, leading to a safer procedure overall.</p>
                             </div>
                         </div>
@@ -126,17 +126,17 @@
                             <p>Before undergoing minimally invasive scoliosis surgery, a comprehensive evaluation is required. This evaluation includes:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>X-rays:</strong> To assess the degree of curvature and the health of the spine.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>MRI:</strong> To evaluate the spinal cord and nerves, ensuring there are no underlying issues that could affect the surgery.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Clinical Assessment:</strong> The doctor will assess the patient's overall health, age, and growth potential to determine the most suitable approach to surgery.</p>
                             </div>
                             
@@ -149,12 +149,12 @@
                             <p>Minimally invasive scoliosis surgery is suitable for a wide range of patients, including:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Adolescents:</strong> This approach is ideal for children and teenagers with scoliosis, as it minimizes the risk of complications while providing effective correction during the growth phase.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Adults:</strong> Adults with severe or degenerative scoliosis can also benefit from this technique, which offers a quicker recovery and reduced post-surgical pain.</p>
                             </div>
                             
@@ -167,22 +167,22 @@
                             <p>Patients in Mumbai and surrounding cities can access top-quality scoliosis treatment at renowned hospitals, including:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Lilavati Hospital</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Bombay Hospital</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Breach Candy Hospital</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Saifee Hospital</p>
                             </div>
                             

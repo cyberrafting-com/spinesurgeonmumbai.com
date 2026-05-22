@@ -14,47 +14,47 @@ Treatment Mumbai')
 @section('content')
 
 <div class="image-gal">
-    <img src="{{ asset('resources/assets/img/mobile-view-banner.jpg') }}"
+    <img src="{{ asset('resources/assets/img/mobile-view-banner.webp') }}"
         alt="Dr. Vishal Kundnani's Spine Surgeon Mumbai, Spine Clinic Website Banner" />
 </div>
 
 <div class="banner-wrap col-lg-12 col-md-12 col-sm-12 col-xs-12">
     <div class="banner-slider">
         <div class="banner-slide">
-            <img src="{{ asset('resources/assets/img/1.jpg') }}" fetchpriority="high"
+            <img src="{{ asset('resources/assets/img/1.webp') }}" fetchpriority="high"
                 class="img-responsive hidden-xs hidden-sm"
                 alt="State-of-the-art Minimal Invasive Spine Surgery Center in Mumbai" />
-            <img src="{{ asset('resources/assets/img/1.jpg') }}" fetchpriority="high"
+            <img src="{{ asset('resources/assets/img/1.webp') }}" fetchpriority="high"
                 class="img-responsive hidden-lg hidden-md"
                 alt="Center for Minimal Invasive Spine Surgery Mobile Banner" />
         </div>
 
         <div class="banner-slide">
-            <img src="{{ asset('resources/assets/img/2.jpg') }}" loading="lazy"
+            <img src="{{ asset('resources/assets/img/2.webp') }}" loading="lazy"
                 class="img-responsive hidden-xs hidden-sm" alt="Dr. Kundnani - Award-winning Spine Surgeon 2017-2024" />
-            <img src="{{ asset('resources/assets/img/2.jpg') }}" loading="lazy"
+            <img src="{{ asset('resources/assets/img/2.webp') }}" loading="lazy"
                 class="img-responsive hidden-lg hidden-md"
                 alt="Awarded Best Spine Surgeon in Mumbai for 2017 to 2024 - ESA Mobile Banner" />
         </div>
         <div class="banner-slide">
-            <img src="{{ asset('resources/assets/img/5.jpg') }}" loading="lazy"
+            <img src="{{ asset('resources/assets/img/5.webp') }}" loading="lazy"
                 class="img-responsive hidden-xs hidden-sm" alt="Success Story - Happy Patients" />
-            <img src="{{ asset('resources/assets/img/5.jpg') }}" loading="lazy"
+            <img src="{{ asset('resources/assets/img/5.webp') }}" loading="lazy"
                 class="img-responsive hidden-lg hidden-md" alt="Success Story - Happy Patients Mobile Banner" />
         </div>
         <div class="banner-slide">
-            <img src="{{ asset('resources/assets/img/6.jpg') }}" loading="lazy"
+            <img src="{{ asset('resources/assets/img/6.webp') }}" loading="lazy"
                 class="img-responsive hidden-xs hidden-sm"
                 alt="Cervical Spine Surgery by Dr. Vishal Kundnani - Surgical Intervention to Repair or Stabilize Neck Bones" />
-            <img src="{{ asset('resources/assets/img/6.jpg') }}" loading="lazy"
+            <img src="{{ asset('resources/assets/img/6.webp') }}" loading="lazy"
                 class="img-responsive hidden-lg hidden-md"
                 alt="Cervical Spine Surgery by Dr. Vishal Kundnani - Surgical Intervention to Repair or Stabilize Neck Bones Mobile Banner" />
         </div>
         <div class="banner-slide">
-            <img src="{{ asset('resources/assets/img/7.jpg') }}" loading="lazy"
+            <img src="{{ asset('resources/assets/img/7.webp') }}" loading="lazy"
                 class="img-responsive hidden-xs hidden-sm"
                 alt="Scoliosis - Dr. Vishal Kundnani - Spine of a Person with Scoliosis" />
-            <img src="{{ asset('resources/assets/img/7.jpg') }}" loading="lazy"
+            <img src="{{ asset('resources/assets/img/7.webp') }}" loading="lazy"
                 class="img-responsive hidden-lg hidden-md" alt="Scoliosis - Dr. Vishal Kundnani Mobile Banner" />
         </div>
     </div>
@@ -75,7 +75,7 @@ Treatment Mumbai')
         <div class="row">
             <div class="d_non1 drtoafndrbs dr_img col-lg-5 col-md-5 col-sm-5 col-xs-12">
 
-                <img class="d_non1" src="{{ asset('resources/assets/img/dr-vishal3.jpg') }}"
+                <img class="d_non1" src="{{ asset('resources/assets/img/dr-vishal3.webp') }}"
                     alt="Dr. Vishal Kundnani - Spine Surgeon Mumbai & Spine Surgery Specialist in Mumbai"
                     loading="lazy" />
             </div>
@@ -114,7 +114,7 @@ Treatment Mumbai')
             </div>
 
             <div class="drtoafndrbs dr_img col-lg-5 col-md-5 col-sm-5 col-xs-12">
-                <img class="d_non" src="{{ asset('resources/assets/img/dr-vishal.jpg') }}"
+                <img class="d_non" src="{{ asset('resources/assets/img/dr-vishal.webp') }}"
                     alt="Dr. Vishal Kundnani, Spine Surgery Specialist in mumbai performing minimally invasive spine surgery"
                     loading="lazy" />
                 <!--<img class="d_non1" src="img/dr-vishal3.jpg" alt="Best spine surgeon mumbai" loading="lazy" />-->
@@ -208,7 +208,7 @@ Treatment Mumbai')
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
                 <div class="service_sec">
                     <a href="{{ route('lumbar-spondylosis') }}"><img
-                            src="{{ asset('resources/assets/img/lumbar-spondylosis-treatment.jpg') }}" width="386px;"
+                            src="{{ asset('resources/assets/img/lumbar-spondylosis-treatment.webp') }}" width="386px;"
                             height="501px;" class="img-fluid des" alt=""></a>
                     <div class="ongslrcont">
                         <b>Lumbar Spondylosis</b>
@@ -220,7 +220,7 @@ Treatment Mumbai')
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
                 <div class="service_sec">
-                    <a href="#"><img src="{{ asset('resources/assets/img/Back-Pain-treatment.jpg') }}" width="386px;"
+                    <a href="#"><img src="{{ asset('resources/assets/img/Back-Pain-treatment.webp') }}" width="386px;"
                             height="501px;" class="img-fluid des" alt=""></a>
                     <div class="ongslrcont">
                         <b>Back Pain</b>
@@ -232,7 +232,7 @@ Treatment Mumbai')
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
                 <div class="service_sec">
-                    <a href="#"><img src="{{ asset('resources/assets/img/3.png') }}" width="386px;" height="501px;"
+                    <a href="#"><img src="{{ asset('resources/assets/img/3.webp') }}" width="386px;" height="501px;"
                             class="img-fluid des" alt=""></a>
                     <div class="ongslrcont">
                         <b>Scoliosis</b>
@@ -244,7 +244,7 @@ Treatment Mumbai')
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12">
                 <div class="service_sec">
-                    <a href="#"><img src="{{ asset('resources/assets/img/4.png') }}" width="386px;" height="501px;"
+                    <a href="#"><img src="{{ asset('resources/assets/img/4.webp') }}" width="386px;" height="501px;"
                             class="img-fluid des" alt=""></a>
                     <div class="ongslrcont">
                         <b>Minimal Invasive Spine Surgery</b>
@@ -261,7 +261,7 @@ Treatment Mumbai')
 </div>
 
 <div class="treatment-footer-bg">
-    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/treatment-footer-bg.png') }}"
+    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/treatment-footer-bg.webp') }}"
             alt="Schedule an Appointment with Dr. Vishal Kundnani Spine Surgeon  ad Spine Surgery Specialist Mumbai"></a>
 </div>
 
@@ -282,7 +282,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/1.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/1.webp') }}"
                                         alt="Acute Low Back Pain Treatment Icon">
                                 </div>
                             </div>
@@ -301,7 +301,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/2.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/2.webp') }}"
                                         alt="Ankylosing Spondylitis Treatment Icon">
                                 </div>
                             </div>
@@ -320,7 +320,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/3.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/3.webp') }}"
                                         alt="Back Pain Treatment Icon">
                                 </div>
                             </div>
@@ -339,7 +339,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/4.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/4.webp') }}"
                                         alt="Back Pain in Pregnancy Treatment Icon">
                                 </div>
                             </div>
@@ -358,7 +358,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/5.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/5.webp') }}"
                                         alt="Degenerative Disc Disease Treatment Icon">
                                 </div>
                             </div>
@@ -377,7 +377,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/6.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/6.webp') }}"
                                         alt="Facet Syndrome Treatment Icon">
                                 </div>
                             </div>
@@ -400,7 +400,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/7.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/7.webp') }}"
                                         alt="Failed Back Syndrome Treatment Icon">
                                 </div>
                             </div>
@@ -419,7 +419,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/8.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/8.webp') }}"
                                         alt="Kyphosis Treatment Icon">
                                 </div>
                             </div>
@@ -438,7 +438,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/9.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/9.webp') }}"
                                         alt="Lumbar Spondylosis Treatment Icon">
                                 </div>
                             </div>
@@ -457,7 +457,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/10.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/10.webp') }}"
                                         alt="Lumbarisation & Sacralisation Treatment Icon">
                                 </div>
                             </div>
@@ -477,7 +477,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/11.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/11.webp') }}"
                                         alt="Neck Pain Treatment Icon">
                                 </div>
                             </div>
@@ -496,7 +496,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/12.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/12.webp') }}"
                                         alt="Osteoporosis Treatment Icon">
                                 </div>
                             </div>
@@ -519,7 +519,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/13.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/13.webp') }}"
                                         alt="Sciatica Treatment Icon">
                                 </div>
                             </div>
@@ -538,7 +538,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/14.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/14.webp') }}"
                                         alt="Scoliosis Treatment Icon">
                                 </div>
                             </div>
@@ -557,7 +557,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/15.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/15.webp') }}"
                                         alt="Slip Disc Treatment Icon">
                                 </div>
                             </div>
@@ -576,7 +576,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/16.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/16.webp') }}"
                                         alt="Spinal Stenosis Treatment Icon">
                                 </div>
                             </div>
@@ -595,7 +595,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/17.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/17.webp') }}"
                                         alt="Spondylolysis & Spondylolisthesis Treatment Icon">
                                 </div>
                             </div>
@@ -615,7 +615,7 @@ Treatment Mumbai')
                         <div class="cmt-process-icon">
                             <div class="cmt-vc_icon_element cmt-vc_icon_element-outer cmt-vc_icon_element-align-left ">
                                 <div class="cmt-vc_icon_element-inner">
-                                    <img src="{{ asset('resources/assets/img/services/18.png') }}"
+                                    <img src="{{ asset('resources/assets/img/services/18.webp') }}"
                                         alt="Spondylosis Treatment Icon">
                                 </div>
                             </div>
@@ -646,8 +646,8 @@ Treatment Mumbai')
             <div class="col-lg-3 col-md-3">
                 <div class="single-gallery-item">
                     <a data-fancybox="gallery"
-                        href="{{ asset('resources/assets/img/gallery/d/dr-vishal-with-neeraj-chopra.jpg') }}">
-                        <img src="{{ asset('resources/assets/img/gallery/d/dr-vishal-with-neeraj-chopra.jpg') }}" alt=""
+                        href="{{ asset('resources/assets/img/gallery/d/dr-vishal-with-neeraj-chopra.webp') }}">
+                        <img src="{{ asset('resources/assets/img/gallery/d/dr-vishal-with-neeraj-chopra.webp') }}" alt=""
                             class="gal-img">
                     </a>
                     <div class="icon">
@@ -656,8 +656,8 @@ Treatment Mumbai')
             </div>
             <div class="col-lg-3 col-md-3">
                 <div class="single-gallery-item">
-                    <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/10.png') }}">
-                        <img src="{{ asset('resources/assets/img/gallery/d/10.png') }}" alt="" class="gal-img">
+                    <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/10.webp') }}">
+                        <img src="{{ asset('resources/assets/img/gallery/d/10.webp') }}" alt="" class="gal-img">
                     </a>
                     <div class="icon">
                     </div>
@@ -665,8 +665,8 @@ Treatment Mumbai')
             </div>
             <div class="col-lg-3 col-md-3">
                 <div class="single-gallery-item">
-                    <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/3.jpg') }}">
-                        <img src="{{ asset('resources/assets/img/gallery/d/3.jpg') }}" alt="" class="gal-img">
+                    <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/3.webp') }}">
+                        <img src="{{ asset('resources/assets/img/gallery/d/3.webp') }}" alt="" class="gal-img">
                     </a>
                     <div class="icon">
                     </div>
@@ -674,8 +674,8 @@ Treatment Mumbai')
             </div>
             <div class="col-lg-3 col-md-3">
                 <div class="single-gallery-item">
-                    <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/4.jpg') }}">
-                        <img src="{{ asset('resources/assets/img/gallery/d/4.jpg') }}" alt="" class="gal-img">
+                    <a data-fancybox="gallery" href="{{ asset('resources/assets/img/gallery/d/4.webp') }}">
+                        <img src="{{ asset('resources/assets/img/gallery/d/4.webp') }}" alt="" class="gal-img">
                     </a>
                     <div class="icon">
                     </div>
@@ -699,7 +699,7 @@ Treatment Mumbai')
 
             <div class="orclntstsbs">
                 <div class="pattern hidden-sm hidden-sm hidden-xs">
-                    <img src="{{ asset('resources/assets/img/stories_pattern.png') }}" alt="pic"
+                    <img src="{{ asset('resources/assets/img/stories_pattern.webp') }}" alt="pic"
                         class="wow pulse animated" data-wow-iteration="infinite" />
                 </div>
                 <h6>Dr. Vishal Kundnani</h6>
@@ -823,22 +823,22 @@ Treatment Mumbai')
                                 <h4 class="mb-3">Specialized Spine Treatments</h4>
                                 <ul class="list-unstyled">
                                     <li class="mb-3 d-flex align-items-center">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
                                         <span>Minimally Invasive Spine Surgery</span>
                                     </li>
                                     <li class="mb-3 d-flex align-items-center">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
                                         <span>Complex Spine Deformity Correction</span>
                                     </li>
                                     <li class="mb-3 d-flex align-items-center">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
                                         <span>Advanced Cervical Spine Procedures</span>
                                     </li>
                                     <li class="mb-3 d-flex align-items-center">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
                                         <span>Microsurgery for Disc Problems</span>
                                     </li>
@@ -851,27 +851,27 @@ Treatment Mumbai')
                                 <h4 class="mb-4">Why Choose Mumbai's Leading Spine Surgeon?</h4>
                                 <ul class="list-unstyled">
                                     <li class="mb-3 d-flex align-items-center">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
                                         <span>15+ Years of Specialized Experience</span>
                                     </li>
                                     <li class="mb-3 d-flex align-items-center">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
                                         <span>International Fellowship Training</span>
                                     </li>
                                     <li class="mb-3 d-flex align-items-center">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
                                         <span>State-of-the-art Surgical Facilities</span>
                                     </li>
                                     <li class="mb-3 d-flex align-items-center">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
                                         <span>Comprehensive Spine Care Approach</span>
                                     </li>
                                     <li class="mb-3 d-flex align-items-center">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated me-2" data-wow-iteration="infinite" alt="icon">
                                         <span>Proven Track Record of Success</span>
                                     </li>
@@ -892,19 +892,19 @@ Treatment Mumbai')
                                     <div class="col-lg-6 mb-4 mb-lg-0">
                                         <ul class="list-unstyled">
                                             <li class="mb-3 d-flex align-items-center">
-                                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated me-2" data-wow-iteration="infinite"
                                                     alt="icon">
                                                 <span>Robotic-Assisted Spine Surgery</span>
                                             </li>
                                             <li class="mb-3 d-flex align-items-center">
-                                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated me-2" data-wow-iteration="infinite"
                                                     alt="icon">
                                                 <span>Minimally Invasive Procedures</span>
                                             </li>
                                             <li class="mb-3 d-flex align-items-center">
-                                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated me-2" data-wow-iteration="infinite"
                                                     alt="icon">
                                                 <span>Advanced Diagnostic Services</span>
@@ -914,19 +914,19 @@ Treatment Mumbai')
                                     <div class="col-lg-6">
                                         <ul class="list-unstyled">
                                             <li class="mb-3 d-flex align-items-center">
-                                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated me-2" data-wow-iteration="infinite"
                                                     alt="icon">
                                                 <span>Personalized Treatment Plans</span>
                                             </li>
                                             <li class="mb-3 d-flex align-items-center">
-                                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated me-2" data-wow-iteration="infinite"
                                                     alt="icon">
                                                 <span>Comprehensive Rehabilitation</span>
                                             </li>
                                             <li class="mb-3 d-flex align-items-center">
-                                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated me-2" data-wow-iteration="infinite"
                                                     alt="icon">
                                                 <span>24/7 Patient Support</span>

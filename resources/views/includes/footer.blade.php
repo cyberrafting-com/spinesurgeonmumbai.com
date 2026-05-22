@@ -141,7 +141,7 @@
             <hr>
 
             <div class="ftrlogo mt-5">
-                <img src="{{ asset('resources/assets/img/logo.jpg') }}" alt="pic" />
+                <img src="{{ asset('resources/assets/img/logo.webp') }}" alt="pic" />
             </div>
             <ul class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <li class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
@@ -231,15 +231,15 @@
     <div class="container-fluid">
         <div class="row">
             <ul>
-                <li><a href="https://maps.app.goo.gl/Y4CVezqsqbrHitHu5" target="_blank"><img src="{{ asset('resources/assets/img/location.png') }}">
+                <li><a href="https://maps.app.goo.gl/Y4CVezqsqbrHitHu5" target="_blank"><img src="{{ asset('resources/assets/img/location.webp') }}">
                         <span>Spine Clinic, Bandra</span></a></li>
-                <li><a href="https://maps.app.goo.gl/LEEPWezrpQ9cNDvx7" target="_blank"><img src="{{ asset('resources/assets/img/location.png') }}">
+                <li><a href="https://maps.app.goo.gl/LEEPWezrpQ9cNDvx7" target="_blank"><img src="{{ asset('resources/assets/img/location.webp') }}">
                         <span>Spine Clinic, Churchgate</span></a></li>
-                <li><a href="https://maps.app.goo.gl/gC7niqpDZUNc4MLp6" target="_blank"><img src="{{ asset('resources/assets/img/location.png') }}">
+                <li><a href="https://maps.app.goo.gl/gC7niqpDZUNc4MLp6" target="_blank"><img src="{{ asset('resources/assets/img/location.webp') }}">
                         <span>Spine Clinic, Khar</span></a></li>
-                <li><a href="https://maps.app.goo.gl/1NMimVW7WTVquGqW6" target="_blank"><img src="{{ asset('resources/assets/img/location.png') }}">
+                <li><a href="https://maps.app.goo.gl/1NMimVW7WTVquGqW6" target="_blank"><img src="{{ asset('resources/assets/img/location.webp') }}">
                         <span>Spine Clinic, Malad</span></a></li>
-                <li><a href="https://maps.app.goo.gl/EJBWto1PwyH3c2498" target="_blank"><img src="{{ asset('resources/assets/img/location.png') }}">
+                <li><a href="https://maps.app.goo.gl/EJBWto1PwyH3c2498" target="_blank"><img src="{{ asset('resources/assets/img/location.webp') }}">
                         <span>Spine Clinic, Borivali</span></a></li>
 
             </ul>

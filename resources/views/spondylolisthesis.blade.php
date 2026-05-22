@@ -133,14 +133,14 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spondylolisthesis
                                                 – slipping of one vertebrae forward in relation to other, which makes
                                                 spine unstable and painful due to pinch of nerves causing pain – back
                                                 pain , buttock pain , leg pain , numbness in legs while movement and
                                                 walking.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spondylolisthesis
                                                 is a condition where the space for nerve roots in spinal column gets
@@ -149,7 +149,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 and nerve roots travel resulting in spinal cord and nerve roots getting
                                                 squeezed also known as "compression of nerve roots.</li>
                                         </ul>
-                                        <img class="serv_img mt-2" src="{{ asset('resources/assets/img/capture14.png') }}">
+                                        <img class="serv_img mt-2" src="{{ asset('resources/assets/img/capture14.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -170,34 +170,34 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
 
                                         <p>5 types of spondylolisthesis have been described in literature:-</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lytic
                                                 Spondylolisthesis</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Degenrative
                                                 spondylolisthesis</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pathological
                                                 spondylolisthesis</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Iatrogenic
                                                 spondylolisthesis</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Traumatic
                                                 spondylolisthesis</li>
                                         </ul>
                                         <p><b>However broacly they are described into two types –</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Developmental
                                                 / congenital / inherited variant</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Acquired
                                                 – DAEGENRATIION / TRAUMA/ INFECTION / FRACTURE</li>
@@ -219,14 +219,14 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 aria-labelledby="headingThree">
                                 <div class="panel-body">
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Back
                                             pain, Leg pain, buttock pain, pain in legs, Numbness in legs, Heaviness in
                                             legs, Imbalance in walking, Difficulty in walking, Weakness in legs, Calf
                                             cramps are the common symptoms of Spondylolisthesis in the lumbar spine. All
                                             these symptoms increase with walking and are called as CLAUDICATION.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spondylolisthesis
                                             in the low back (lumbar spine) can cause pain or cramp in legs during
@@ -258,7 +258,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spine
                                                 specialist may examine you clinically and may ask for investigations
@@ -267,7 +267,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 also suggest if surgery is really needed in view of ongoing compression
                                                 of nerves in the spinal canal.</li>
                                         </ul>
-                                        <img class="serv_img mt-2" src="{{ asset('resources/assets/img/capture14.png') }}">
+                                        <img class="serv_img mt-2" src="{{ asset('resources/assets/img/capture14.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -287,14 +287,14 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                     <div class="cliclskil1">
 
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No.
                                                 Surgery is not the only option of treatment in Spondylolisthesis.
                                                 Surgery is required in a select group of patients with severe symptoms
                                                 affecting daily living. Non-surgical treatment helps in most patients
                                                 significantly.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Nonsurgical
                                                 treatment options to treat Spondylolisthesis include physiotherapy,
@@ -303,7 +303,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 Spondylolisthesisone of the best spine specialist in India is Dr. Vishal
                                                 Kundnani, Mumbai who manages these problems with a scientific approach.
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">These
                                                 options of non-surgical management of slip disc are available at Spine
@@ -336,32 +336,32 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                             severity of symptoms in consultation with your spine surgeon / spinal
                                             surgeon the options available are</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Medicines
                                                 – NSAIDS/ Muscle relaxant / Pregabalin / TCA,S /non opiod analgesics
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot
                                                 fomentation</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Cold
                                                 sponging</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physical
                                                 therapy</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SWD
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">However
                                                 before one resorts to any option one should have advise of spine surgeon
@@ -401,7 +401,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                             stabilise the instability (painful movement of bones causing nerve
                                             compression) in spine.</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Two
                                                 surgical techniques for Spondylolisthesis
@@ -440,7 +440,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                         <p>Surgery for spinal stenosis is safe and simple. To remove the tissue that's
                                             pressing on a nerve, the spine surgeon may perform one of the following:</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Foraminotomy:
                                                 If part of the disc or a bone spur (osteophyte) is pressing on a nerve
@@ -448,21 +448,21 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 of the path for nerve root- may be done. Otomy means "to make an
                                                 opening." So a foraminotomy is making the opening of the foramen larger,
                                                 so the nerve can exit without being compressed.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Laminotomy:
                                                 laminotomy makes a larger opening, this time in bony plate protecting
                                                 the spinal canal and spinal cord. The lamina bony sheath over the nerves
                                                 along with the nerve roots may be pressing on your nerve, which is
                                                 removed to make more room for the nerves using a laminotomy.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Laminectomy:
                                                 Sometimes, in severe cases and multilevel cases small opening in the
                                                 bone may not be And what is needed is to remove all or part of the
                                                 lamina, and this procedure is called a laminectomy. This can often be
                                                 done at many levels without any harmful effects.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Indirect
                                                 decompression: is a variation of decompression surgery where pressure is
@@ -501,7 +501,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                 Fusion surgery is a safe and simple surgery often performed by spinal
@@ -511,7 +511,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 (slip of one bone over another resulting in a pinch of nerves and
                                                 causing back pain, leg pain, buttock pain, numbness in legs while
                                                 walking).</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To
                                                 Stabilise the instability in Spine the surgeon needs to reduce the
@@ -520,7 +520,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 surgeon removes part of or complete disc and puts the bone graft in disc
                                                 space. this is then supplemented with spinal pedicle implants and cages
                                                 in the disc space. This procedure is called spinal fusion surgery.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Commonly
                                                 performed for spinal instability due to spondylolisthesis, spinal
@@ -555,7 +555,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                     <div class="cliclskil1">
 
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">This
                                                 is achieved by inserting implants in the spine after a detailed and
@@ -563,7 +563,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 removes part of or complete disc and puts the bone graft in disc space.
                                                 this is then supplemented with spinal pedicle implants and cages in the
                                                 disc space. This procedure is called spinal fusion surgery.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                 fusion surgery requires putting/inserting Spinal implant (Pedicle screw
@@ -572,10 +572,10 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 procedure.</li>
                                         </ul>
                                         <div class="col-lg-5">
-                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture4.png') }}">
+                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture4.webp') }}">
                                         </div>
                                         <div class="col-lg-7">
-                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture5.png') }}">
+                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture5.webp') }}">
                                         </div>
                                         <p>Dr. Vishal Kundnani – one of the Best Spine Surgeon in Mumbai, frequently
                                             performs a spinal fusion. Dr. Vishal Kundnani is the best spine specialist
@@ -631,23 +631,23 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                 fusion surgery done to bring the slipped bones together and making them
                                                 stable and painless is called spinal fusion for spondylolisthesis. It's
                                                 especially helpful in cases where one or more vertebrae have slipped
                                                 forward –</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SPONDYLOLISTHESIS
                                                 – slipping of one vertebrae forward in relation to other</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                 fusion surgery for spondylolisthesis can be done in open conventioanl
                                                 technqiue or with Minimal invasive spinal fusion suregry</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal
                                                 invasive spinal fusion surgery is extremely safe and simple and most
@@ -658,7 +658,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 which heal very quickly, less muscle pain, less pain after surgery, less
                                                 blood loss, less infection, smaller incisions, early return to work,
                                                 early discharge from hospital, no need of bed rest after surgery.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimaly
                                                 invasive Spinal fusion surgery for spondylolisthesis is frequently
@@ -670,10 +670,10 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                         </ul>
 
                                         <div class="col-lg-5">
-                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture7.png') }}">
+                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture7.webp') }}">
                                         </div>
                                         <div class="col-lg-7">
-                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture8.png') }}">
+                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture8.webp') }}">
                                         </div>
                                     </div>
                                 </div>
@@ -696,7 +696,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                         <p>Surgery for spinal stenosis is safe and simple. To remove the tissue that's
                                             pressing on a nerve, the spine surgeon may perform one of the following:</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes.
                                                 The spinal implants used for spinal fusion surgery are made of titanium,
@@ -704,7 +704,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 spinal implant, spine screw plate, screw plate in the spine is inserted
                                                 in control by a trained spinal surgeon they don't create any problem.
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To
                                                 enhance safety Intraoperatively some Spinal surgeons use IITV (X-RAY)
@@ -737,21 +737,21 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                         <p>Meet your doctor and know momre about your problem , possible solutions and
                                             pro's and con's of all the solutions including surgery offered to you.</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">After
                                                 surgery is planned, plan your hospital stay and discuss discharge plan
                                                 with the doctor.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Maintain
                                                 Good nutrition for healthy immune system.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Eat
                                                 a balanced diet and take a vitamin supplement, with the advice of your
                                                 doctor in the weeks before your surgery.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Weak
                                                 muscles and low cardiovascular endurance prolong recovery from surgery.
@@ -759,16 +759,16 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                                 for your condition before and after spine surgery. Get your lungs and
                                                 heart checked up by a physician, in consultation with your surgeon, to
                                                 get surgical fitness.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Back
                                                 pain can make losing weight or weight maintenance a challenge. If you
                                                 are overweight, it is a good idea to slim down before your surgery.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Quit
                                                 Smoking to prevent prolonged recovery and wound healing.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pain
                                                 is always a cause for concern. To recover and remain pain-free, follow
@@ -802,37 +802,37 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                             patient can go home within 48 hrs and can resume job within 2 weeks however
                                             Contact sports is generally avoided for 6-10 weeks.</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">One
                                                 should follow.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow
                                                 your doctor's treatment plan.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sit
                                                 and stand properly and maintain posture.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Learn
                                                 to lift correctly.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Exercise
                                                 regularly (low impact aerobic exercise is especially good, but check
                                                 with your doctor first).</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Attain
                                                 and maintain a healthy body weight.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Eat
                                                 healthy foods (a well-balanced, low-fat diet rich in fruits and
                                                 vegetables) and get enough calcium.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Stop
                                                 smoking.</li>

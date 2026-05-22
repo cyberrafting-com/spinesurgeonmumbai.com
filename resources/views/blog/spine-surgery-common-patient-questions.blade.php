@@ -81,7 +81,7 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
             <!-- Doctor Profile -->
             <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                 <div class="blog-profile">
-                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                     <h3>Dr. Vishal Kundnani</h3>
                     <span>MS (Ortho) FASSI, FNUS, FNAMS</span><br>
 
@@ -93,11 +93,11 @@ Confused or anxious about spine surgery? Get clear, honest answers to the 20 mos
                     </p>
 
                     <a href="tel:+919619100123">
-                        <img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal">
+                        <img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal">
                     </a>
 
                     <a href="{{ route('contact') }}">
-                        <img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive">
+                        <img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive">
                     </a>
                 </div>
             </div>

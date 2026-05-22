@@ -41,12 +41,12 @@ Back and neck symptoms are among the most common health concerns encountered acr
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Dedicated <a href="{{ route('laser-spine-surgery-is-it-safe-and-effective') }}">laser spine surgeon in Mumbai</a>.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -56,7 +56,7 @@ Back and neck symptoms are among the most common health concerns encountered acr
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1><b>Spine Specialist in South Mumbai | Advanced Evaluation and Management of Back Pain, Sciatica and Complex Spine Disorders at Bombay Hospital</b></h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/spine-specialist-in-south-mumbai.png') }}" alt="Spine Specialist in South Mumbai | Advanced Evaluation and Management of Back Pain, Sciatica and Complex Spine Disorders at Bombay Hospital">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/spine-specialist-in-south-mumbai.webp') }}" alt="Spine Specialist in South Mumbai | Advanced Evaluation and Management of Back Pain, Sciatica and Complex Spine Disorders at Bombay Hospital">
                                 <h2 class="pt-3"><b>Understanding Persistent Spine Symptoms: Beyond Routine Back Pain</b></h2>
                                 <p>Back and neck symptoms are among the most common health concerns encountered across age groups. While many episodes improve with rest and conservative care, persistent symptoms, progressive neurological complaints or recurring pain may indicate underlying spinal conditions that deserve closer evaluation.</p>
                                 <p>Patients from South Mumbai including Marine Lines, Churchgate, Peddar Road, Malabar Hill, Breach Candy, Cuffe Parade, Nariman Point and Colaba frequently seek consultation not only for recent pain episodes, but also for longstanding symptoms, recurrent problems and situations where prior treatment has provided incomplete relief.</p>

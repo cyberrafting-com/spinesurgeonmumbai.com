@@ -16,12 +16,12 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">Pioneer in endoscopic and minimally invasive spine surgery in India.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
                     </div>
                 </div>
 
@@ -29,7 +29,7 @@
                 <div class="col-lg-9 col-md-8 col-sm-12">
                     <div class="blog-profile-details">
                         <h1>Endoscopic Spine Surgery – The Future of Minimally Invasive Care</h1>
-                        <img src="{{ asset('resources/assets/img/blog/endoscopic-spine-surgery-india.jpg') }}" alt="Endoscopic Spine Surgery India" class="img-responsive mb-4">
+                        <img src="{{ asset('resources/assets/img/blog/endoscopic-spine-surgery-india.webp') }}" alt="Endoscopic Spine Surgery India" class="img-responsive mb-4">
 
                         <p><strong>Endoscopic spine surgery</strong> is a game-changer in the field of spinal treatment. It involves using a small camera and specialized instruments to operate through tiny incisions, significantly reducing recovery time and surgical risks.</p>
 

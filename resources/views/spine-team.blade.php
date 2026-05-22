@@ -113,7 +113,7 @@ spine conditions.@endsection
                     <div class="cliclskil mt-3">
                         <h3>Spine Surgeon Team</h3>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Vishal Kundnani
@@ -122,87 +122,87 @@ spine conditions.@endsection
                                 <br>Senior consultant Spine Surgeon – Bombay Hospital Mumbai.
                                 <br>Fellowship Trained Spine Specialist – Singapore, Japan, Australia, UK.
                             </li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Ankit Patel – M.S,
                                 F.A.S.S.I, Fellowship Trained Spine Surgeon Mumbai.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Sudheer Gupta –
                                 M.S, F.A.S.S.I, Fellowship Trained Spine Surgeon.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Sameer Ruparel
                                 – M.S, FASSI, Fellowship Trained Spine Surgeon Mumbai.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Mihir Upadhyay
                                 – M.S, FESS, Fellowship Trained Spine Surgeon Mumbai.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Zaheer Abbas Merchant
                                 – M.S, Fellowship Trained Spine Surgeon Mumbai.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Rahul Singh – M.S,
                                 Fellowship Trained Spine Surgeon.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Rahul Mehta – M.S,
                                 Fellowship Trained Spine Surgeon.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Gaurav Gujarathi
                                 – M.S, F.A.S.S.I, Fellowship Trained Spine Surgeon.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 SachinPatil, M.S,
                                 Fellowship Trained Spine Surgeon.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 TarunDushad, M.S,
                                 Fellowship Trained Spine Surgeon.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Shamayou Dutta
                                 M.S, FASSI, Fellowship Trained Spine Surgeon.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Mahendra Singh
                                 Tak, M.S, Fellowship Trained Spine Surgeon.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Gaurav Mehta M.S,
                                 Fellowship Trained Spine Surgeon.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Jwalant Patel –
                                 Clinical Associate, Spine Surgery.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Ashwinkhadge –
                                 Clinical Associate Spine Surgery.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 MohitSanyal – Clinical
                                 Spine Fellow.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Sai Raut – Clinical
@@ -213,32 +213,32 @@ spine conditions.@endsection
                     <div class="cliclskil mt-3">
                         <h3>Spine Anaesthesia Team</h3>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Neeta Khandelwal
                                 – Senior Spine Anesthetist.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Brijmohan Boob
                                 – Senior Spine Anaethstist.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Kalpesh Shah –
                                 Senior Spine Anaethstist.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Khushboo – Spine
                                 Anesthetist SPECIALIST.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Praveen Spine Anesthetist
                                 SPECIALIST.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Neha Spine Anesthetist
@@ -248,21 +248,21 @@ spine conditions.@endsection
                     <div class="cliclskil mt-3">
                         <h3>Spine Physiotherapy Team</h3>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Priyank – MPT –
                                 Senior Spine Physiotherapist.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Maansi – MPT –
                                 Senior Spine Physiotherapist.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Hemal – Spine Physiotherapist.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Krishna – Spine
@@ -272,17 +272,17 @@ spine conditions.@endsection
                     <div class="cliclskil mt-3">
                         <h3>Patient Coordinator Team</h3>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                 Amruta – Patient
                                 Co-ordinator.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Kalpana
                                 – Spine Clinic
                                 Manager.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}   "
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}   "
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sanit
                                 – Spine Clinic
@@ -294,13 +294,13 @@ spine conditions.@endsection
                 </div>
 
                 <div class="drtoafndrbs dr_img col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                    <img class="mt-3" src="{{ asset('resources/assets/img/gallery/abt1.jpg') }}" alt="pic"
+                    <img class="mt-3" src="{{ asset('resources/assets/img/gallery/abt1.webp') }}" alt="pic"
                         loading="lazy" />
-                    <img class="mt-3" src="{{ asset('resources/assets/img/gallery/abt2.jpg') }}" alt="pic"
+                    <img class="mt-3" src="{{ asset('resources/assets/img/gallery/abt2.webp') }}" alt="pic"
                         loading="lazy" />
-                    <img class="mt-3" src="{{ asset('resources/assets/img/gallery/abt3.jpg') }}" alt="pic"
+                    <img class="mt-3" src="{{ asset('resources/assets/img/gallery/abt3.webp') }}" alt="pic"
                         loading="lazy" />
-                    <img class="mt-3" src="{{ asset('resources/assets/img/gallery/abt4.jpg') }}" alt="pic"
+                    <img class="mt-3" src="{{ asset('resources/assets/img/gallery/abt4.webp') }}" alt="pic"
                         loading="lazy" />
                 </div>
 

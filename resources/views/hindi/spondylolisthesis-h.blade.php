@@ -132,14 +132,14 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस – एक कशेरुका का दूसरे के सापेक्ष आगे की ओर खिसकना, जो रीढ़ को अस्थिर और दर्दनाक बनाता है क्योंकि नसों के दबने से दर्द होता है – पीठ दर्द, नितंब दर्द, पैर दर्द, चलने व हरकत के दौरान पैरों में सुन्नता।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">यह एक ऐसी स्थिति है जिसमें रीढ़ के स्तंभ में नर्व रूट्स के लिए जगह एक हड्डी के आगे खिसकने से संकीर्ण हो जाती है। इस खिसकाव से वे चैनल संकुचित होते हैं जिनमें स्पाइनल कॉर्ड और नर्व रूट्स चलते हैं, जिससे वे दब जाते हैं – जिसे "नर्व रूट कंप्रेशन" कहा जाता है।</li>
                                         </ul>
-                                        <img class="serv_img mt-2" src="{{ asset('resources/assets/img/capture14.png') }}">
+                                        <img class="serv_img mt-2" src="{{ asset('resources/assets/img/capture14.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -160,29 +160,29 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
 
                                         <p>साहित्य में स्पॉन्डिलोलिस्थेसिस के 5 प्रकारों का वर्णन किया गया है:-</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस (लाइटिक)</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस (डीजेनेरेटिव)</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस (पैथोलॉजिकल)</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस (आयट्रोजेनिक)</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस (ट्रॉमैटिक)</li>
                                         </ul>
                                         <p><b>हालांकि व्यापक रूप से इन्हें दो प्रकारों में भी वर्णित किया जाता है –</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Developmental
                                                 / जन्मजात / वंशानुगत प्रकार</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Acquired
                                                 – अपक्षय / आघात / संक्रमण / फ्रैक्चर</li>
@@ -204,10 +204,10 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 aria-labelledby="headingThree">
                                 <div class="panel-body">
                                         <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पीठ दर्द, पैर दर्द, नितंब दर्द, पैरों में दर्द, पैरों में सुन्नता, पैरों में भारीपन, चलने में असंतुलन, चलने में कठिनाई, पैरों में कमजोरी, बछड़े में ऐंठन—ये सभी लंबर रीढ़ में स्पॉन्डिलोलिस्थेसिस के सामान्य लक्षण हैं। ये सभी लक्षण चलने के साथ बढ़ते हैं और क्लॉडिकेशन कहलाते हैं।</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमर (लंबर रीढ़) में स्पॉन्डिलोलिस्थेसिस खड़े रहने या थोड़ी दूरी चलने पर पैरों में दर्द या ऐंठन का कारण बन सकता है। गंभीर मामलों में मूत्राशय या आंत की नसें दब सकती हैं, जिससे आंशिक या पूर्ण असंयम हो सकता है। शुरुआती लक्षण पेशाब की बारंबारता या तत्काल आवश्यकता हो सकती है, जो आगे चलकर पूर्ण असंयम/मूत्र नियंत्रण में असमर्थता तक बढ़ सकती है। यह सर्जिकल आपातकाल है और शीघ्र सर्जरी की आवश्यकता हो सकती है।</li>
                                     </ul>
@@ -229,11 +229,11 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">रीढ़ विशेषज्ञ आपकी नैदानिक जांच कर सकते हैं और लक्षणों की उपस्थिति में एक्स-रे, एमआरआई स्कैन या सीटी स्कैन जैसी जांच कराने के लिए कह सकते हैं। एमआरआई स्कैन स्पॉन्डिलोलिस्थेसिस के विभिन्न ग्रेड दिखा सकता है और स्पाइनल कैनाल में जारी नर्व कंप्रेशन को देखते हुए यह भी बता सकता है कि सर्जरी की वास्तविक आवश्यकता है या नहीं।</li>
                                         </ul>
-                                        <img class="serv_img mt-2" src="{{ asset('resources/assets/img/capture14.png') }}">
+                                        <img class="serv_img mt-2" src="{{ asset('resources/assets/img/capture14.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -253,13 +253,13 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                     <div class="cliclskil1">
 
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">नहीं। स्पॉन्डिलोलिस्थेसिस में सर्जरी उपचार का एकमात्र विकल्प नहीं है। सर्जरी केवल गंभीर लक्षणों वाले चुनिंदा मरीज़ों में आवश्यक होती है जो दैनिक जीवन को प्रभावित कर रहे हों। अधिकांश मरीज़ों में गैर-सर्जिकल उपचार से महत्वपूर्ण लाभ मिलता है।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गैर-सर्जिकल उपचार विकल्पों में फिजियोथेरेपी, व्यायाम, दवाइयां और रीढ़ में इंजेक्शन शामिल हैं। आपके लिए सबसे बेहतर विकल्प क्या है, यह तय करने के लिए अपने स्पाइन स्पेशलिस्ट से मिलें। भारत में स्पॉन्डिलोलिस्थेसिस के उपचार के लिए श्रेष्ठ स्पाइन स्पेशलिस्टों में से एक डॉ. विशाल कुंदनानी (मुंबई) हैं, जो इन समस्याओं का वैज्ञानिक ढंग से प्रबंधन करते हैं।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क के गैर-सर्जिकल प्रबंधन के ये विकल्प स्पाइन क्लिनिक मुंबई में उपलब्ध हैं—स्लिप डिस्क के उपचार के लिए मुंबई की श्रेष्ठ स्पाइन क्लिनिक। डॉ. विशाल कुंदनानी मुंबई के श्रेष्ठ स्पाइन कंसल्टेंट्स में से एक हैं और अपॉइंटमेंट पर उपलब्ध हैं।</li>
                                         </ul>
@@ -283,25 +283,25 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                         <p>सर्जरी केवल उन चुनिंदा मरीज़ों में आवश्यक होती है जिनके गंभीर लक्षण दैनिक जीवन को प्रभावित कर रहे हों। अधिकांश मरीज़ों में गैर-सर्जिकल उपचार से पर्याप्त लाभ मिलता है।</p>
                                         <p>गैर-सर्जिकल उपचार विकल्प लक्षणों की अवधि और तीव्रता के आधार पर आपके स्पाइन सर्जन के साथ परामर्श में तय किए जाते हैं। उपलब्ध विकल्प हैं:</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दवाएं – एनएसएआईडीएस, मसल रिलैक्सेंट, प्रेगाबालिन, टीसीए, गैर-ओपियोइड दर्दनिवारक</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गर्म सेंक</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">ठंडी स्पंजिंग</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फिजिकल थेरेपी</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">टीईएनएस</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">एसडब्ल्यूडी</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">किसी भी विकल्प को अपनाने से पहले रीढ़ सर्जन की सलाह अवश्य लें।</li>
                                         </ul>
@@ -328,7 +328,7 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
 
                                         <p>स्पॉन्डिलोलिस्थेसिस के लिए सर्जरी में डीकंप्रेशन और फ्यूजन शामिल है—रीढ़ में डिस्क या फेसट जोड़ों से नसों को दबाव से मुक्त करना और रीढ़ में अस्थिरता (हड्डियों की दर्दनाक गति जो नर्व कंप्रेशन का कारण बनती है) को स्थिर करना।</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस के लिए दो शल्य-तकनीकें:
                                                 <br>डीकंप्रेशन: नस संरचना पर दबाव डाल रहे ऊतक को हटाया/ट्रिम किया जाता है, जिससे स्पाइनल कैनाल (स्पाइनल कॉर्ड के लिए) या फोरामेन (नर्व रूट्स के लिए) में अधिक जगह मिलती है।
@@ -355,16 +355,16 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                     <div class="cliclskil1">
                                         <p>स्पाइनल स्टेनोसिस के लिए सर्जरी सुरक्षित और सरल है। नस पर दबाव डाल रहे ऊतकों को हटाने के लिए स्पाइन सर्जन निम्न में से किसी एक विधि का उपयोग कर सकते हैं:</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फोरामिनोटॉमी: यदि डिस्क का हिस्सा या बोन स्पर (ऑस्टियोफाइट) अपने रास्ते में नर्व रूट पर दबाव डाल रहा है (निकास छिद्र—फोरामेन), तो नर्व रूट के लिए रास्ता चौड़ा करने हेतु फोरामिनोटॉमी की जाती है।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लैमिनोटॉमी: स्पाइनल कैनाल और स्पाइनल कॉर्ड की रक्षा करने वाली हड्डी (लैमिना) में बड़ा खुलाव बनाकर नसों के लिए अधिक जगह बनाई जाती है।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लैमिनेक्टॉमी: गंभीर/मल्टीलेवल मामलों में लैमिना के हिस्से/संपूर्ण को हटाया जाता है ताकि पर्याप्त जगह मिल सके।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">अप्रत्यक्ष डीकंप्रेशन: हड्डी हटाने के बजाय हड्डियों को अलग कर दबाव कम किया जाता है—जैसे इंटरस्पाइनस डिवाइस, इंटरबॉडी केज या डिस्ट्रैक्शन लैमिनोप्लास्टी इत्यादि।</li>
                                         </ul>
@@ -388,13 +388,13 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल फ्यूजन सर्जरी अस्थिर और दर्दयुक्त रीढ़ में दर्द घटाने के लिए रीढ़ सर्जनों द्वारा की जाने वाली सुरक्षित और सरल सर्जरी है। रीढ़ में अस्थिरता के कई कारण हो सकते हैं; सबसे सामान्य कारण स्पॉन्डिलोलिस्थेसिस है (एक हड्डी का दूसरी पर फिसलना, जिससे नसों पर दबाव होकर पीठ/पैर/नितंब दर्द और चलने पर पैरों में सुन्नता होती है)।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">अस्थिरता को स्थिर करने के लिए अस्थिर कशेरुकाओं के बीच की अनावश्यक गति को कम किया जाता है—समर्पित डिस्केक्टॉमी के बाद इम्प्लांट डालकर, डिस्क का भाग/सम्पूर्ण हटाकर डिस्क स्पेस में बोन ग्राफ्ट रखा जाता है और पेडिकल स्क्रू व केज से पूरक किया जाता है।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">यह सर्जरी प्रायः स्पॉन्डिलोलिस्थेसिस, स्पाइनल टीबी, स्पाइनल स्टेनोसिस, स्पाइनल ट्रॉमा तथा स्पाइनल ट्यूमर जैसी स्थितियों में, तथा लंबर/थोरैसिक रीढ़ के एडजेसेंट सेगमेंट डिजीज में की जाती है।</li>
                                         </ul>
@@ -418,18 +418,18 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                     <div class="cliclskil1">
 
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">यह प्रक्रिया विस्तृत/समर्पित डिस्केक्टॉमी के बाद इम्प्लांट डालकर की जाती है—डिस्क का भाग/सम्पूर्ण निकालकर डिस्क स्पेस में बोन ग्राफ्ट रखा जाता है और पेडिकल स्क्रू व केज से पूरक किया जाता है—इसे स्पाइनल फ्यूजन कहा जाता है।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">डीकंप्रेशन के बाद पेडिकल स्क्रू, प्लेट और केज जैसे स्पाइनल इम्प्लांट डाले जाते हैं—यह अत्यंत सुरक्षित प्रक्रिया है।</li>
                                         </ul>
                                         <div class="col-lg-5">
-                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture4.png') }}">
+                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture4.webp') }}">
                                         </div>
                                         <div class="col-lg-7">
-                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture5.png') }}">
+                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture5.webp') }}">
                                         </div>
                                         <p>डॉ. विशाल कुंदनानी—मुंबई के श्रेष्ठ स्पाइन सर्जनों में से एक—अक्सर स्पाइनल फ्यूजन करते हैं।</p>
                                     </div>
@@ -471,28 +471,28 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">खिसकी हुई हड्डियों को साथ लाकर उन्हें स्थिर और दर्दरहित बनाना—इसे स्पॉन्डिलोलिस्थेसिस के लिए स्पाइनल फ्यूजन कहा जाता है। यह विशेषकर तब सहायक है जब एक या अधिक कशेरुकाएं आगे की ओर खिसक गई हों।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस — एक कशेरुका का दूसरे के सापेक्ष आगे की ओर खिसकना</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस के लिए स्पाइनल फ्यूजन ओपन पारंपरिक तकनीक या न्यूनतम आक्रामक तकनीक से किया जा सकता है।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">न्यूनतम आक्रामक स्पाइनल फ्यूजन (एमआईएस-टीएलआईएफ) अत्यंत सुरक्षित, सरल और प्रभावी है—छोटे चीरे जो जल्दी भरते हैं, कम मांसपेशीय दर्द, सर्जरी के बाद कम दर्द, कम रक्तस्राव/संक्रमण, जल्दी अस्पताल से छुट्टी, जल्दी काम पर वापसी, और बेड रेस्ट की आवश्यकता नहीं।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस के लिए न्यूनतम आक्रामक स्पाइनल फ्यूजन सर्जरी प्रायः डॉ. विशाल कुंदनानी—मुंबई के श्रेष्ठ स्पाइन सर्जनों में से एक—द्वारा की जाती है।</li>
                                         </ul>
 
                                         <div class="col-lg-5">
-                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture7.png') }}">
+                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture7.webp') }}">
                                         </div>
                                         <div class="col-lg-7">
-                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture8.png') }}">
+                                            <img class="serv_img" src="{{ asset('resources/assets/img/capture8.webp') }}">
                                         </div>
                                     </div>
                                 </div>
@@ -513,10 +513,10 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                     <div class="cliclskil1">
                                         <p>स्पाइनल स्टेनोसिस के लिए सर्जरी सुरक्षित और सरल है। नस पर दबाव डाल रहे ऊतकों को हटाने के लिए स्पाइन सर्जन निम्न में से किसी एक विधि का उपयोग कर सकते हैं:</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हाँ। स्पाइनल फ्यूजन सर्जरी में उपयोग होने वाले स्पाइनल इम्प्लांट टाइटेनियम से बने होते हैं—यह निष्क्रिय धातु है और मानव शरीर के लिए अत्यंत सुरक्षित है। प्रशिक्षित स्पाइन सर्जन द्वारा नियंत्रित ढंग से लगाए जाने पर स्क्रू/प्लेट आदि कोई समस्या उत्पन्न नहीं करते।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सुरक्षा बढ़ाने के लिए कुछ स्पाइन सर्जन ऑपरेशन के दौरान आईआईटीवी (एक्स-रे), नेविगेशन और रोबोटिक्स का उपयोग करते हैं ताकि सर्जरी अधिक सुरक्षित रहे।</li>
                                         </ul>
@@ -540,25 +540,25 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                     <div class="cliclskil1">
                                         <p>अपने डॉक्टर से मिलें और अपनी समस्या, संभावित समाधान तथा सर्जरी सहित सभी विकल्पों के लाभ-हानि को विस्तार से समझें।</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सर्जरी तय होने पर अस्पताल में रहने और डिस्चार्ज योजना पर डॉक्टर से चर्चा करें।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">प्रतिरक्षा प्रणाली को स्वस्थ रखने के लिए उचित पोषण बनाए रखें।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सर्जरी से पहले संतुलित आहार लें और डॉक्टर की सलाह से विटामिन सप्लीमेंट लें।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमजोर मांसपेशियाँ और कम कार्डियोवैस्कुलर सहनशीलता रिकवरी को धीमा कर सकती हैं। सर्जरी से पहले/बाद उपयुक्त व्यायाम कार्यक्रम के बारे में डॉक्टर से बात करें और सर्जिकल फिटनेस हेतु फेफड़े व हृदय की जाँच कराएं।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">पीठ दर्द के साथ वजन नियंत्रित रखना चुनौतीपूर्ण हो सकता है। यदि अधिक वजन है तो सर्जरी से पहले वजन घटाना लाभकारी है।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लंबी रिकवरी और घाव भरने में विलंब से बचने के लिए धूम्रपान छोड़ें।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दर्द चिंता का विषय है। दर्द-मुक्त रहने के लिए डॉक्टर की उपचार योजना का पालन करें, नियमित फॉलो-अप रखें और सुधार न हो तो डॉक्टर को बताएं।</li>
                                         </ul>
@@ -582,28 +582,28 @@ Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai, Spine Disease Tr
                                         <p>न्यूनतम आक्रामक स्पाइन सर्जरी तेज रिकवरी में मदद करती है—सर्जरी के 24 घंटे के भीतर चलना संभव होता है। माइक्रोएंडोस्कोपिक/एमआईएस स्पाइनल फ्यूजन के बाद बिना बिस्तर पर आराम के जल्दी काम पर लौटना संभव है।</p>
                                         <p>सर्जरी के बाद 24 घंटे में मरीज को बिस्तर से चलाया जाता है और लगभग 5 दिन तक दर्द-निवारक दवाएं दी जाती हैं। सामान्य करने और न करने की सलाह दी जाती है। एमआईएस के साथ 48 घंटे में डिस्चार्ज और लगभग 2 सप्ताह में कार्य पर वापसी संभव है; कॉन्टैक्ट स्पोर्ट्स 6–10 सप्ताह तक टाले जाते हैं।</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">निम्न बातों का पालन करें:</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">डॉक्टर की उपचार योजना का पालन करें।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सही तरीके से बैठें-खड़े हों और सही मुद्रा बनाए रखें।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वजन सही तरीके से उठाना सीखें।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">नियमित व्यायाम करें (लो-इम्पैक्ट एरोबिक व्यायाम विशेष रूप से लाभकारी है; पहले डॉक्टर से परामर्श करें)।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्वस्थ शरीर-भार प्राप्त करें और बनाए रखें।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्वस्थ भोजन लें (फलों व सब्जियों से भरपूर संतुलित, कम वसा वाला आहार) और पर्याप्त कैल्शियम प्राप्त करें।</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">धूम्रपान बंद करें।</li>
                                         </ul>

@@ -54,7 +54,7 @@
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1><b>Top Spine doctor in South Mumbai | Best Spine doctor in Bombay Hospital / Back Pain, Sciatica, Cervical Spine & Advanced Spine Care at Bombay Hospital</b></h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/top-spine-doctor-in-south-mumbai.png') }}" alt="Top Spine doctor in South Mumbai | Best Spine doctor in Bombay Hospital">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/top-spine-doctor-in-south-mumbai.webp') }}" alt="Top Spine doctor in South Mumbai | Best Spine doctor in Bombay Hospital">
                                 
                                 <h2 class="pt-3"><b>Understanding Spine Problems: Recognizing Symptoms Beyond Simple Back Pain</b></h2>
                                 <p><a href="{{ route('back-pain-we-treat') }}">Back pain</a> is one of the most frequent medical concerns affecting individuals across age groups. While many episodes are temporary and improve with conservative care, some symptoms may indicate underlying spinal conditions involving discs, nerves, joints or structural abnormalities that benefit from specialist evaluation.</p>

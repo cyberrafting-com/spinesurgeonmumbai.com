@@ -123,12 +123,12 @@ Scoliosis treatment in India with Dr. Vishal Kundnani – non-surgical braces or
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -138,7 +138,7 @@ Scoliosis treatment in India with Dr. Vishal Kundnani – non-surgical braces or
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Scoliosis Treatment in India – Non-Surgical & Surgical Options</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/scoliosis-treatment-india-blog-img.png') }}" alt="Scoliosis Treatment in India">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/scoliosis-treatment-india-blog-img.webp') }}" alt="Scoliosis Treatment in India">
                                 <p>Scoliosis is an abnormal lateral curvature of the spine that can worsen over time if left untreated. While mild cases can often be managed with exercises, physiotherapy, and braces, severe or progressive curves may require surgical intervention to restore proper alignment and posture.</p>
                                 <p>Early evaluation is crucial for monitoring the curve and preventing complications. Dr. Vishal Kundnani, a leading scoliosis specialist in India, provides both non-surgical and advanced surgical treatments using minimally invasive techniques, robotic navigation, and custom implants for safer and more precise correction.</p>
                             </div>

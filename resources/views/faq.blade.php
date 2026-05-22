@@ -150,34 +150,34 @@ Vishal Kundnani, Mumbai's expert spine specialist. @endsection
 
                                         <p><b>To help deal with pain from a herniated disc, you can try:</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ice
                                                 during the first 24 to 48 hours after the initial injury, The ice will help
                                                 reduce the swelling, muscle spasms, and pain. Wrap the ice in a towel and
                                                 put it on the painful area for 15 minutes at a time.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Heat
                                                 after the first 48 hours because that will warm and relax sore tissues. You
                                                 can use a heating pad for 20 minutes at a time.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Restricting
                                                 your activities that increase the pain</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Light
                                                 exercise (walking, swimming, etc.) as recommended by your doctor</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Over-the-counter
                                                 medications</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Prescription
                                                 medications</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physical
                                                 therapy</li>
@@ -203,25 +203,25 @@ Vishal Kundnani, Mumbai's expert spine specialist. @endsection
                                             <h1>Non-surgical treatment options for SLIP DISC :</h1>
 
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physiotherapy
                                                     in consultation with your spine specialist or spine doctor is the
                                                     recommended therapy with exercises to strengthen the muscles around your
                                                     spine.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">NSAIDs
                                                     (non-steroidal anti-inflammatory drugs) in consultation with spine
                                                     specialist that will help reduce the inflammation and pain.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physical
                                                     therapy – Back extension exercises and abdominal exercises</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Epidural
@@ -251,13 +251,13 @@ Vishal Kundnani, Mumbai's expert spine specialist. @endsection
                                             <p>Spine surgery for spinal stenosis by your spinal surgeon is better than
                                                 non-surgical options if</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Severe
                                                     back pain, Buttock pain disabling, Leg pain, leg numbness, and tingling
                                                     legs which prevent normal lifestyle.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Loss
@@ -286,12 +286,12 @@ Vishal Kundnani, Mumbai's expert spine specialist. @endsection
                                             <p><b>Spinal surgery for slip disc or surgery for disc bulge by spine specialist
                                                     comprise of</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Decompression:
                                                     FREEING THE NERVE FROM EXTERNAL COMPRESSION IN SPINE</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Rarely
@@ -394,21 +394,21 @@ Vishal Kundnani, Mumbai's expert spine specialist. @endsection
 
 
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                                     Vishal Kundnani is one of the best spine surgeon for Slip disc and is
                                                     available in Mumbai, Raipur, Bhopal, Jaipur and western suburbs of
                                                     Mumbai on apointment</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                                     Vishal Kundnani is one of the best spine doctor for sciatica and spine
                                                     specialist with a considerate approach to patients with an honest
                                                     opinion and ethical spine practice.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.

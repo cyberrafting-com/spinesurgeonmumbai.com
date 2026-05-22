@@ -117,12 +117,12 @@
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="book btn"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book btn" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="book btn"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book btn" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -132,7 +132,7 @@
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                             <h1>Advanced Spine Surgery in Mumbai with Dr. Vishal Kundnani</h1>
-                            <img src="{{ asset('resources/assets/img/blog/advanced-spine-surgery-mumbai-dr-vishal-kundnani-img.png') }}" alt="Advanced Spine Surgery in Mumbai with Dr. Vishal Kundnani">
+                            <img src="{{ asset('resources/assets/img/blog/advanced-spine-surgery-mumbai-dr-vishal-kundnani-img.webp') }}" alt="Advanced Spine Surgery in Mumbai with Dr. Vishal Kundnani">
                                 <p>When it comes to spine problems, choosing the right specialist makes all the difference. Dr. Vishal Kundnani, one of the best spine surgeons in Mumbai and India, is known for his expertise in minimally invasive spine surgery, scoliosis correction, paediatric spinal surgery, and spine oncology (tumour surgery).</p>
                                 <p>With training and collaborations across the USA, UK, and Singapore, Dr. Kundnani and his team of highly skilled orthopaedic surgeons and neurosurgeons deliver outcomes comparable to the best Western institutions—at a fraction of the cost.</p>
                             </div>

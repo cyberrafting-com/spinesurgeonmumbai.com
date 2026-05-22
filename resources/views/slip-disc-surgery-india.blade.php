@@ -16,12 +16,12 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">India's most trusted spine surgeon, expert in minimally invasive slip disc surgery.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
                     </div>
                 </div>
 
@@ -29,7 +29,7 @@
                 <div class="col-lg-9 col-md-8 col-sm-12">
                     <div class="blog-profile-details">
                         <h1>Slip Disc Surgery in India – Safe, Simple and Successful</h1>
-                        <img src="{{ asset('resources/assets/img/blog/slip-disc-surgery-india.jpg') }}" alt="Slip Disc Surgery India" class="img-responsive mb-4">
+                        <img src="{{ asset('resources/assets/img/blog/slip-disc-surgery-india.webp') }}" alt="Slip Disc Surgery India" class="img-responsive mb-4">
 
                         <p>A slipped disc is not dangerous when diagnosed and treated early. Left untreated, it can cause persistent pain, numbness, and muscle weakness. <strong>Dr. Vishal Kundnani</strong>, the best spine surgeon in Mumbai, offers safe and minimally invasive slip disc surgery.</p>
 

@@ -63,7 +63,7 @@
         <div class="container sec-service-procedure-1">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12 text-center pt-5 service_sec">
-                    <img src="{{ asset('resources/assets/img/blog/6.jpg') }}">
+                    <img src="{{ asset('resources/assets/img/blog/6.webp') }}">
                 </div>
                 <div class="col-lg-12 col-md-12 col-12 pt-5">
                     <p>Neck pain is pain in the neck region resulting in loss of function causing disability is common. Pain
@@ -74,31 +74,31 @@
                         pain or only shoulder pain, while others experience pain in both areas.</p>
                     <h2 class="services-heading-h2">Causes of neck pain include:</h2>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Abnormalities in the bone or joints</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Slip disc /Disc bulge /Herniated disc</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Trauma</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Poor posture</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Degenerative diseases</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Tumors</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Muscle strain</p>
                     </div>
                     <p>To determine exact cause of your problem you should meet a nearest spine doctor or a spine

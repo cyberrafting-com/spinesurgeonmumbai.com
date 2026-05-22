@@ -150,11 +150,11 @@ care and solutions in Mumbai for spine health.@endsection
 
                             <h3>Anatomy of Spinal Stenosis</h3>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                     stenosis means Narrowing of space for nerves in the spine due to compression.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">When
                                     the disc or cushion bulges and degeneration (wear and tear) of facet joints (joints in
@@ -179,7 +179,7 @@ care and solutions in Mumbai for spine health.@endsection
                                 narrow – narrowing of the spine means spinal stenosis. Spinal stenosis leads to narrowing of
                                 channels where the spinal cord and nerve roots travel resulting in the spinal cord and nerve
                                 roots getting squeezed also known as "compression of nerve roots."</p>
-                            <img class="serv_img1 mt-2" src="{{ asset('resources/assets/img/capture11.png') }}"
+                            <img class="serv_img1 mt-2" src="{{ asset('resources/assets/img/capture11.webp') }}"
                                 alt="Spinal Stenosis Treatment in Mumbai by Dr. Vishal Kundnani">
                             <p>Spinal stenosis can lead to pain in the lower back, leg pain, sciatica, neck, arms, or hands
                                 depending on the exact location of the stenosis. Spinal stenosis most commonly happens in
@@ -189,7 +189,7 @@ care and solutions in Mumbai for spine health.@endsection
 
                             <h3>What Causes Spinal Stenosis? Lumbar Canal Stenosis? Lumbar Spinal Stenosis?</h3>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                     stenosis is of two types – Primary spinal stenosis or developmental spinal stenosis
@@ -197,14 +197,14 @@ care and solutions in Mumbai for spine health.@endsection
                                     since birth although the symptoms appear in the latter part of the life. This is a form
                                     of
                                     inherited stenosis.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The
                                     Second form of spinal stenosis category is common – Acquired spinal stenosis which
                                     results
                                     from wear and tear of the spine –disc and facet joints – called degeneration, where the
                                     cartilage that cushions joints starts to degenerate wear out due to age.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                     Stenosis also happens in the severe yet chronic bulge of disc /bulge disc. <a
@@ -214,7 +214,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     Risk factors for both degeneration and lumbar spinal stenosis in the spine include
                                     aging,
                                     poor posture, high impact sports, and being overweight.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dr.
                                     Vishal Kundnani is an expert in Spinal Stenosis and is the Best spine specialist in
@@ -234,7 +234,7 @@ care and solutions in Mumbai for spine health.@endsection
                                 class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
                             <ul>
 
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Back
                                     Pain, Leg pain, buttock pain, pain in legs, Numbness in legs, Heaviness in legs,
@@ -244,13 +244,13 @@ care and solutions in Mumbai for spine health.@endsection
                                     spinal stenosis in the lumbar spine. All these symptoms increase with walking and are
                                     called
                                     as CLAUDICATION .</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                     stenosis in the low back (lumbar spine) can cause pain or cramp in legs during standing
                                     or
                                     during a walk for a smaller distance.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">In
                                     severe cases of lumbar spinal stenosis, nerves to the bladder or bowel may be
@@ -269,7 +269,7 @@ care and solutions in Mumbai for spine health.@endsection
 
                             <h3>What Is Cervical Spinal Stenosis? Cervical myelopathy ?</h3>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                     stenosis in the neck -cervical spine compression the main nerve – spinal cord is called
@@ -280,7 +280,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     change
                                     in fine functions of the hand, difficulty in holding a glass, change of signature, etc.
                                     weakness of hands and grip.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Imbalance
                                     during walking, clumsiness of gait, difficulty in walking and difficulty in fine
@@ -307,7 +307,7 @@ care and solutions in Mumbai for spine health.@endsection
 
                             <h3>Do we need surgery for spinal stenosis / lumbar spinal stenosis ?</h3>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No.
@@ -316,7 +316,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     select group of patients with severe symptoms affecting daily living. Nonsurgical
                                     treatment
                                     helps in most patients significantly.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Non-surgical
@@ -324,7 +324,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     injection in spine. Meet your spine specialist to decide on which is the best treatment
                                     option for you. The best spine specialist in India is Dr. Vishal Kundnani, Mumbai who
                                     manages these problems with a scientific approach.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">These
@@ -338,7 +338,7 @@ care and solutions in Mumbai for spine health.@endsection
 
                             <h3>What are Non surgical measures in spinal stenosis ?</h3>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No.
@@ -346,7 +346,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     living
                                     .Non surgical treatment helps in most patinets significantly.
                                 </li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The
@@ -374,7 +374,7 @@ care and solutions in Mumbai for spine health.@endsection
 
                             <h3>What is Physiotherapy for Spinal Stenosis ?</h3>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physiotherapy
@@ -383,7 +383,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     body to prevent further injury and help in the recovery of the painful episode. There
                                     are a
                                     variety of physical therapy techniques. Passive and active treatments.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Passive
@@ -398,26 +398,26 @@ care and solutions in Mumbai for spine health.@endsection
 
                             <p><b>What are Passive Treatments / Exercise for slip disc / spinal stenosis ?</b></p>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Deep
                                     Tissue Massage: Deep tissue massage relieves deep muscle tension and spasms, which
                                     develop
                                     to prevent muscle motion at the affected area.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot
                                     and Cold Therapy: Both hot and cold therapies offer their own set of benefits, and your
                                     physical therapist may alternate between them to get the best results. This reduces
                                     inflammation, muscle spasms and pain.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hydrotherapy:
                                     gently relieves pain and relaxes muscles.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS
@@ -429,21 +429,21 @@ care and solutions in Mumbai for spine health.@endsection
                                     body's
                                     production of endorphins, your natural pain killers. The TENS equipment your physical
                                     therapist uses is larger than the "at home" use machine.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ultrasound:
                                     By increasing blood circulation, an ultrasound helps reduce muscle cramping, swelling,
                                     stiffness, and pain. It does this by sending sound waves deep into your muscle tissues,
                                     creating a gentle heat that enhances circulation and healing.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Traction:
                                     reduce the effects of gravity on the spine. the intent is to reduce the disc herniation
                                     and
                                     is usually performed in the cervical or lumbar spine.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The
@@ -469,7 +469,7 @@ care and solutions in Mumbai for spine health.@endsection
                             </p>
                             <p>Help to reduce recurrent pain but will also benefit your overall health.</p>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core
@@ -479,14 +479,14 @@ care and solutions in Mumbai for spine health.@endsection
                                     muscles are weak, it puts extra pressure on your back muscles. Your physical therapist
                                     may
                                     teach you to core stabilizing exercises to strengthen your back.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Flexibility:
                                     Learning proper stretching and flexibility techniques will prepare you for aerobic and
                                     strength exercises. Flexibility helps your body move easier by warding off stiffness.
                                 </li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle
@@ -519,7 +519,7 @@ care and solutions in Mumbai for spine health.@endsection
                             <p>Most patients with lumbar spinal stenosis respond well to non-surgical treatments (such as
                                 medication)</p>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;"><b>Indications
@@ -529,14 +529,14 @@ care and solutions in Mumbai for spine health.@endsection
                                     <br>Loss of power sensation in your arms or legs.
                                     <br>Lost bowel or bladder control.
                                 </li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Goal
                                     of stenosis surgery is to free up area for your spinal cord and/or the nerve roots.
                                     That's
                                     called spinal decompression.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;"><b>Two
@@ -566,7 +566,7 @@ care and solutions in Mumbai for spine health.@endsection
                             <p>Surgery for spinal stenosis is safe and simple. To remove the tissue that's pressing on a
                                 nerve, the spine surgeon may perform one of the following:</p>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;"><b>Foraminotomy:</b>
@@ -577,7 +577,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     Ostomy means "to make an opening." So a foraminotomy is making the opening of the
                                     foramen
                                     larger, so the nerve can exit without being compressed.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;"><b>Laminotomy:</b>
@@ -586,14 +586,14 @@ care and solutions in Mumbai for spine health.@endsection
                                     spinal cord. The lamina bony sheath over the nerves along with the nerve roots may be
                                     pressing on your nerve, which is removed to make more room for the nerves using a
                                     laminotomy.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;"><b>Laminectomy:</b>
                                     Sometimes, in severe cases and multilevel cases small opening in the bone may not be And
                                     what is needed is to remove all or part of the lamina, and this procedure is called a
                                     laminectomy. This can often be done at many levels without any harmful effects.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Indirect
@@ -618,7 +618,7 @@ care and solutions in Mumbai for spine health.@endsection
                             <h3>What is Minimally Invasive Surgery for spinal stenosis ? what is laser surgery in spine ?
                             </h3>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
@@ -634,7 +634,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     camera
                                     and very small surgical instruments.
                                 </li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">With
@@ -646,7 +646,7 @@ care and solutions in Mumbai for spine health.@endsection
                                 <img src="{{ asset('resources/assets/images/laser-surgery-of-spine.jpg') }}"
                                     alt="Laser surgery in Spine treated by Dr. Vishal Kundnani in Mumbai"
                                     class="img-fluid rounded shadow-sm mb-4" style="max-width: 100%; height: auto;">
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Conventionally
@@ -657,7 +657,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     surgery may require a longer hospitalization due to relatively higher post-operative
                                     pain,
                                     blood loss, infection chances and prolonged rehabilitation period.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Whereas
@@ -667,7 +667,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     spine surgery aims at smaller incisions, less blood loss, no postoperative pain, shorter
                                     hospitalization, no infection, early rehabilitation and returns to work . also it has a
                                     minimal scar which is cosmetically better.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The
@@ -693,45 +693,45 @@ care and solutions in Mumbai for spine health.@endsection
                                 about. With Minimal, Invasive spine surgery patient can go home within 48 hrs and can resume
                                 job within 2 weeks however Contact sports is generally avoided for 6-10 weeks.</p>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">One
                                     should follow</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow
                                     your doctor's treatment plan</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sit
                                     and stand properly and maintain posture</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Learn
                                     to lift correctly</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Exercise
                                     regularly (low impact aerobic exercise is especially good, but check with your doctor
                                     first)</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Attain
                                     and maintain a healthy body weight</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Eat
                                     healthy foods (a well-balanced, low-fat diet rich in fruits and vegetables) and get
                                     enough
                                     calcium</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Stop
@@ -744,7 +744,7 @@ care and solutions in Mumbai for spine health.@endsection
                                 ill effects of spinal stenosis and symptomatic state can be reduced and prevented. This
                                 includes-</p>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;"><b>Exercise-</b>
@@ -758,7 +758,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     activities (such as walking or swimming) with resistance training (such as yoga or
                                     weight
                                     lifting).</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;"><b>Posture-</b>
@@ -767,7 +767,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     mechanics should be practiced all the time—whether you're sitting, standing, lifting a
                                     heavy
                                     object, or even sleeping.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;"><b>Weight
@@ -776,7 +776,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     .What is more important than your weight is your Body Mass Index which should be managed
                                     to
                                     less than 25 at all times.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;"><b>Lifestyle
@@ -801,7 +801,7 @@ care and solutions in Mumbai for spine health.@endsection
                             <h3>What is SPINAL FUSION surgery for lumbar canal stenosis?/ Stabilization Surgery for spinal
                                 surgery ?</h3>
                             <ul>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Surgery
@@ -812,7 +812,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     especially helpful in cases where one or more vertebrae have slipped forward –
                                     SPONDYLOLISTHESIS – slipping of one vertebra forward in relation to other, which makes
                                     spine unstable and painful due to pinch of nerves causing pain.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
@@ -821,7 +821,7 @@ care and solutions in Mumbai for spine health.@endsection
                                     anticipation of instability. Spinal fusion surgery requires putting/inserting Spinal
                                     implant (Pedicle screw and plates and cages ) in the spine after decompression surgery.
                                     The spinal implants are an extremely safe procedure.</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal

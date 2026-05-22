@@ -51,12 +51,12 @@ Learn about minimally invasive spine surgery in India. Faster recovery & less pa
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -66,7 +66,7 @@ Learn about minimally invasive spine surgery in India. Faster recovery & less pa
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Minimally Invasive Spine Surgery in India – Advantages, Cost & Recovery</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/minimally-invasive-spine-surgery-india-blog-img.png') }}" alt="Minimally Invasive Spine Surgery in India">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/minimally-invasive-spine-surgery-india-blog-img.webp') }}" alt="Minimally Invasive Spine Surgery in India">
                                 <p>Minimally invasive spine surgery (MISS) is revolutionizing the way spine conditions are treated. It offers a quicker, safer, and less painful alternative to traditional open spine surgery. This blog will explore the advantages of MISS, its cost, recovery, and how Dr. Vishal Kundnani is leading the way in India with advanced, minimally invasive spine treatments.</p>
                             </div>
                         </div>

@@ -205,7 +205,7 @@
                             <ul style="list-style: none; padding-left: 0;">
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -214,7 +214,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -228,7 +228,7 @@
                             <ul style="list-style: none; padding-left: 0;">
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -238,7 +238,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -251,7 +251,7 @@
                             <ul style="list-style: none; padding-left: 0;">
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -261,7 +261,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -274,7 +274,7 @@
                             <ul style="list-style: none; padding-left: 0;">
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -284,7 +284,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -297,7 +297,7 @@
                             <ul style="list-style: none; padding-left: 0;">
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -307,7 +307,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -324,7 +324,7 @@
                             <ul style="list-style: none; padding-left: 0;">
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -334,7 +334,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -345,7 +345,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -356,7 +356,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -367,7 +367,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -377,7 +377,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -388,7 +388,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -398,7 +398,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -409,7 +409,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -430,7 +430,7 @@
                             <ul style="list-style: none; padding-left: 0;">
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -444,7 +444,7 @@
                             <ul style="list-style: none; padding-left: 0;">
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -458,7 +458,7 @@
                             <ul style="list-style: none; padding-left: 0;">
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -467,7 +467,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -481,7 +481,7 @@
                             <ul style="list-style: none; padding-left: 0;">
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -491,7 +491,7 @@
                                 </li>
                                 <li class="list-item-container">
                                     <div class="list-item-icon">
-                                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                             class="wow flipInX animated animated" data-wow-iteration="infinite"
                                             alt="pic"
                                             style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">

@@ -115,12 +115,12 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Director & Head of Spine Services at Lilavati & Bombay Hospitals.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -130,7 +130,7 @@ Spine surgery recovery explained by Dr. Vishal Kundnani – fast recovery with m
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Spine Surgery Recovery Time – What Patients Can Expect</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/spine-surgery-recovery-time2.png') }}" alt="Spine Surgery Recovery Time">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/spine-surgery-recovery-time2.webp') }}" alt="Spine Surgery Recovery Time">
                                 <p>Spine surgery recovery varies depending on the type of procedure, overall health, age, and the severity of the condition. With advancements in <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive spine surgery</a> (MISS) and robotic-assisted techniques, many patients now experience significantly faster and smoother recovery than ever before.</p>
                                 <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> ensures customized post-operative care plans that help patients regain mobility safely and return to daily activities with confidence.</p>
                                 <p>Understanding expected recovery timelines helps patients prepare for work, home responsibilities, physiotherapy, and follow-up visits.</p>

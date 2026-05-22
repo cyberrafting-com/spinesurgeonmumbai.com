@@ -17,12 +17,12 @@ Learn what happens before and after minimally invasive spine surgery in Mumbai, 
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Comprehensive pre- and post-operative spine care by a leading Mumbai specialist.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -32,7 +32,7 @@ Learn what happens before and after minimally invasive spine surgery in Mumbai, 
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>What to Expect Before and After Minimally Invasive Spine Surgery</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/after-before-minimally-invasive-spine-surgery-img.jpg') }}" alt="What to Expect Before and After Minimally Invasive Spine Surgery">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/after-before-minimally-invasive-spine-surgery-img.webp') }}" alt="What to Expect Before and After Minimally Invasive Spine Surgery">
                                 <p>Spinal issues like herniated discs, spinal stenosis, or persistent back pain can affect one’s daily life to a great extent. However, minimal invasive spine surgery provides a very good option for such patients, as it is precise, safe, and effective. In Mumbai, <b>invasive spine surgery Mumbai</b>  has reached a very high level by the use of state-of-the-art technology alongside expert care.</p>
                             </div>
                         </div>

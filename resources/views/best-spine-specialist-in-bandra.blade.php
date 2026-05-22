@@ -86,7 +86,7 @@
                             
                             <h1 class="main-page-title">Spine Specialist in Bandra | Back Pain, Slipped Disc, Sciatica & Advanced Spine Care near Lilavati Hospital</h1>
                              <div class="bandra-img">
-                                    <img src="{{ asset('resources/assets/img/blog/best-spine-specialist-in-bandra.png') }}" alt="">
+                                    <img src="{{ asset('resources/assets/img/blog/best-spine-specialist-in-bandra.webp') }}" alt="">
                                 </div>
                             <!-- Section 1: Introduction -->
                             <div class="section-card">
@@ -102,17 +102,17 @@
                                 <h2 class="section-heading"><i class="fa-solid fa-triangle-exclamation"></i> Common Spine Symptoms That Should Not Be Ignored</h2>
                                 <p class="mt-2">Certain symptoms deserve closer evaluation because they may indicate nerve compression, disc problems or structural spinal conditions. These include:</p>
                                 <ul class="symptom-grid">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Persistent lower back pain</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain radiating from the back into the buttock or leg</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain going down the leg</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Tingling or numbness in the legs</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Neck pain associated with arm symptoms</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Hand numbness</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Walking difficulty</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Progressive weakness</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Chronic recurring pain</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Sudden severe back pain</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Balance problems</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Persistent lower back pain</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain radiating from the back into the buttock or leg</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain going down the leg</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Tingling or numbness in the legs</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Neck pain associated with arm symptoms</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Hand numbness</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Walking difficulty</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Progressive weakness</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Chronic recurring pain</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Sudden severe back pain</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Balance problems</li>
                                 </ul>
                                 <p class="mt-2">Patients searching for a <strong>severe lower back pain doctor Bandra</strong>, <strong>tingling in legs specialist Bandra</strong>, <strong>leg pain due to spine specialist Bandra</strong>, or <strong>neck pain specialist Bandra</strong> are frequently experiencing symptoms related to nerve irritation or spinal compression.</p>
                                 <p>Similarly, individuals with <strong>neck pain with arm numbness</strong> often seek assessment because symptoms can interfere with sleep, work performance and routine daily activities.</p>
@@ -128,11 +128,11 @@
                                         <h3>Slipped Disc (Disc Prolapse)</h3>
                                         <p class="mt-1">A <a class="bandra-lead-text_" href="{{ route('slip-disc') }}">slipped or prolapsed disc</a> occurs when disc material places pressure on nearby nerves. Symptoms may include:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lower back pain</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Leg pain</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Sciatica</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Numbness</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Weakness</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lower back pain</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Leg pain</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Sciatica</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Numbness</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Weakness</li>
                                         </ul>
                                         <p class="mt-2 text-muted-sub">Many people search for <strong>slipped disc treatment Bandra</strong>, <strong>slipped disc doctor Bandra</strong>, or ask: <em>“Who is the best doctor for slipped disc in Bandra?”</em></p>
                                         <p class="text-muted-sub">The more important consideration is understanding the severity of symptoms and whether the problem requires conservative treatment, image-guided interventions, or surgery.</p>
@@ -143,11 +143,11 @@
                                         <h3>Sciatica</h3>
                                         <p class="mt-1"><a class="bandra-lead-text_" href="{{ route('sciatica') }}">Sciatica</a> refers to symptoms caused by irritation or compression of spinal nerves, often producing:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Sharp leg pain</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Burning sensations</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Tingling</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain extending below the knee</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Difficulty standing or walking</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Sharp leg pain</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Burning sensations</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Tingling</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain extending below the knee</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Difficulty standing or walking</li>
                                         </ul>
                                         <p class="mt-2 text-muted-sub">Questions frequently asked include:</p>
                                         <p class="text-muted-sub"><strong>Can sciatica improve without surgery?</strong></p>
@@ -160,12 +160,12 @@
                                         <h3>Cervical Disc Problems and Cervical Spondylosis</h3>
                                         <p class="mt-1">Neck-related spinal conditions can produce symptoms extending beyond the neck itself. Common complaints include:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Neck stiffness</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Arm pain</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Hand numbness</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Tingling</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Weakness</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Difficulty with prolonged computer work</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Neck stiffness</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Arm pain</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Hand numbness</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Tingling</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Weakness</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Difficulty with prolonged computer work</li>
                                         </ul>
                                         <p class="mt-2 text-muted-sub">Individuals frequently search for: <strong>Cervical disc treatment Bandra</strong>, <strong>Cervical spondylosis treatment Bandra</strong>, <strong>Hand numbness spine doctor Bandra</strong>, or <strong>Best treatment for cervical disc problem in Bandra</strong>.</p>
                                     </div>
@@ -175,10 +175,10 @@
                                         <h3>Lumbar Canal Stenosis</h3>
                                         <p class="mt-1">Lumbar <a class="bandra-lead-text_" href="{{ route('spinal-stenosis') }}">stenosis</a> commonly affects older adults and may produce:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Walking limitation</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Leg heaviness</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain after prolonged standing</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Relief while bending forward</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Walking limitation</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Leg heaviness</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Pain after prolonged standing</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Relief while bending forward</li>
                                         </ul>
                                         <p class="mt-2 text-muted-sub">Searches often include: <strong>Lumbar canal stenosis treatment Bandra</strong> or <strong>Spinal stenosis specialist Bandra</strong>.</p>
                                     </div>
@@ -188,12 +188,12 @@
                                         <h3>Other Specialized Spine Conditions</h3>
                                         <p class="mt-1">Spine care also includes management of:</p>
                                         <ul class="condition-symptoms-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spine deformities</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet"><a class="bandra-lead-text_" href="{{ route('scoliosis') }}">Scoliosis</a></li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spine fractures</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spine infections including tuberculosis</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Revision spine conditions</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Complex cervical and lumbar disorders</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spine deformities</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet"><a class="bandra-lead-text_" href="{{ route('scoliosis') }}">Scoliosis</a></li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spine fractures</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Spine infections including tuberculosis</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Revision spine conditions</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Complex cervical and lumbar disorders</li>
                                         </ul>
                                         <p class="mt-2 text-muted-sub">Patients often look for: <strong>Scoliosis specialist Bandra</strong>, <strong>Spine tuberculosis specialist Bandra</strong>, or <strong>Spine fracture specialist Bandra</strong>.</p>
                                     </div>
@@ -209,12 +209,12 @@
                                     <div class="treatment-col conservative">
                                         <p>Many patients improve with:</p>
                                         <ul class="treatment-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Activity modification</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Medications</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Physiotherapy</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lifestyle changes</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Targeted rehabilitation</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Image-guided procedures</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Activity modification</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Medications</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Physiotherapy</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lifestyle changes</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Targeted rehabilitation</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Image-guided procedures</li>
                                         </ul>
                                     </div>
                                     
@@ -222,14 +222,14 @@
                                         <p class="mt-2">When symptoms persist despite conservative treatment, advanced surgical options may sometimes be considered.</p>
                                         <p>Current techniques may include:</p>
                                         <ul class="treatment-list">
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet"><a class="bandra-lead-text_" href="{{ route('minimal-invasive-spine-surgery') }}">Minimally invasive spine surgery</a> Bandra</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Endoscopic spine surgery Bandra</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Microscopic spine surgery Bandra</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Slip disc surgery Bandra</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Cervical spine surgery Bandra</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lumbar spine surgery Bandra</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Scoliosis surgery Bandra</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Revision spine surgery Bandra</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet"><a class="bandra-lead-text_" href="{{ route('minimal-invasive-spine-surgery') }}">Minimally invasive spine surgery</a> Bandra</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Endoscopic spine surgery Bandra</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Microscopic spine surgery Bandra</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Slip disc surgery Bandra</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Cervical spine surgery Bandra</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Lumbar spine surgery Bandra</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Scoliosis surgery Bandra</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Revision spine surgery Bandra</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -242,12 +242,12 @@
                                 <p class="mt-2">A question commonly asked is: <em>“When is surgery needed for slipped disc?”</em></p>
                                 <p>Surgery may be considered when there is:</p>
                                 <ul class="treatment-list">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Persistent severe pain despite treatment</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Progressive weakness</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Significant nerve compression</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Walking limitation</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Loss of function</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Specific neurological findings</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Persistent severe pain despite treatment</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Progressive weakness</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Significant nerve compression</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Walking limitation</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Loss of function</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Specific neurological findings</li>
                                 </ul>
                                 <p class="mt-2">The decision is individualized and depends on symptoms, examination findings and imaging correlation.</p>
                             </div>
@@ -257,13 +257,13 @@
                                 <h2 class="section-heading"><i class="fa-solid fa-map-location-dot"></i> Spine Care for Patients Across Bandra and Nearby Areas</h2>
                                 <p class="mt-2">Patients seeking consultation often come from:</p>
                                 <ul class="location-badges">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Bandra West</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Bandra East</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Khar West</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Mahim</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Santacruz West</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Juhu</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">BKC</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Bandra West</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Bandra East</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Khar West</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Mahim</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Santacruz West</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">Juhu</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated" data-wow-iteration="infinite" alt="bullet">BKC</li>
                                 </ul>
                                 <p class="mt-3">Searches commonly include: <strong>Spine doctor Bandra West</strong>, <strong>Back pain doctor near Lilavati Hospital</strong>, <strong>Spine clinic Bandra</strong>, <strong>Back pain specialist near Lilavati Hospital</strong>, <strong>Best spine surgeon near Bandra West</strong>, or <strong>Spine surgeon near me Bandra</strong>.</p>
                             </div>
@@ -348,7 +348,7 @@
                                 <div class="meet-doctor-grid">
                                     <div class="meet-doctor-sidebar">
                                         <div class="meet-doctor-img-wrapper">
-                                            <img src="{{ asset('resources/assets/img/dr-vishal-kundnani-spine-surgeon-mumbai.png') }}" alt="Dr. Vishal Kundnani" class="meet-doctor-img">
+                                            <img src="{{ asset('resources/assets/img/dr-vishal-kundnani-spine-surgeon-mumbai.webp') }}" alt="Dr. Vishal Kundnani" class="meet-doctor-img">
                                             <div class="meet-doctor-badge">Spine Specialist</div>
                                         </div>
                                     </div>

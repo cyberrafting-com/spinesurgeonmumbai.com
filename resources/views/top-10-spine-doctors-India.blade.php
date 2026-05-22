@@ -92,7 +92,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>
@@ -112,14 +112,14 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         </div>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Education and Training:</strong>Dr. Vishal Kundnani pursued his medical degree and
                             specialized training in spine surgery both in India and internationally. He has received
                             advanced certifications from globally recognized institutes, enabling him to integrate
                             cutting-edge technologies into his practice.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Expertise:</strong>His expertise spans a wide range of spine conditions, including
                             degenerative disc disease, <a href="slipdiscindia.com" target="_blank">slipped disc,</a>
                             scoliosis, spinal stenosis, and complex spinal reconstructions. Dr. Vishal Kundnani is
@@ -127,7 +127,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                             and enhanced outcomes.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Accomplishments:</strong>Dr. Vishal Kundnani's contributions to spinal health extend
                             beyond his clinical practice. He is actively involved in research and has published multiple
                             studies on spine disorders and surgical advancements in esteemed medical journals. His
@@ -138,7 +138,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-sajan-k-hegde-blog-profile.jpg') }}"
+                                    <img src="{{ asset('resources/assets/img/dr-sajan-k-hegde-blog-profile.webp') }}"
                                         alt="" class="img-responsive">
                                 </div>
                             </div>
@@ -157,7 +157,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-arvind-blog-profile.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-arvind-blog-profile.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>
@@ -176,7 +176,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-prof-bipin-s-walia-blog-profile.jpg') }}"
+                                    <img src="{{ asset('resources/assets/img/dr-prof-bipin-s-walia-blog-profile.webp') }}"
                                         alt="" class="img-responsive">
                                 </div>
                             </div>
@@ -195,7 +195,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-rajagopalan-krishnan-blog-profile.jpg') }}"
+                                    <img src="{{ asset('resources/assets/img/dr-rajagopalan-krishnan-blog-profile.webp') }}"
                                         alt="" class="img-responsive">
                                 </div>
                             </div>
@@ -214,7 +214,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-sudhir-dubey-blog-profile.jpg') }}"
+                                    <img src="{{ asset('resources/assets/img/dr-sudhir-dubey-blog-profile.webp') }}"
                                         alt="" class="img-responsive">
                                 </div>
                             </div>
@@ -233,7 +233,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/prof-s-s-kale-blog-profile.jpg') }}"
+                                    <img src="{{ asset('resources/assets/img/prof-s-s-kale-blog-profile.webp') }}"
                                         alt="" class="img-responsive">
                                 </div>
                             </div>
@@ -251,7 +251,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-s-k-rajan-blog-profile.jpg') }}"
+                                    <img src="{{ asset('resources/assets/img/dr-s-k-rajan-blog-profile.webp') }}"
                                         alt="" class="img-responsive">
                                 </div>
                             </div>
@@ -270,7 +270,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-paresh_doshi-blog-profile.jpg') }}"
+                                    <img src="{{ asset('resources/assets/img/dr-paresh_doshi-blog-profile.webp') }}"
                                         alt="" class="img-responsive">
                                 </div>
                             </div>
@@ -289,7 +289,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr_abhay_nene-blog-profile.jpg') }}"
+                                    <img src="{{ asset('resources/assets/img/dr_abhay_nene-blog-profile.webp') }}"
                                         alt="" class="img-responsive">
                                 </div>
                             </div>
@@ -319,7 +319,7 @@ invasive surgery to complex spinal reconstructions. Find India\'s best spine spe
                     </div>
                 </div>
                 <div class="col-lg-3 pt-5"><a href="{{ route('contact') }}"><img
-                            src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book btn"
+                            src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book btn"
                             class="img-responsive"></a></div>
             </div>
         </div>

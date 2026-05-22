@@ -131,8 +131,8 @@
                                     <p>या सर्जरीमध्ये डी-कंप्रेशन आणि इन्स्ट्रुमेंटेशन शस्त्रक्रिया लहान कटांमधून केली जाते, ज्यामुळे उघड सर्जरीच्या तुलनेत वेदना आणि रक्तस्त्राव कमी होतो. विशेषतः स्लिप डिस्क, हर्निएटेड डिस्क, स्पाइनल/लंबर स्पाइन स्टेनोसिस, स्पॉन्डिलोलिस्थेसिस, स्पाइनल ट्रॉमा/टीबी, फ्रॅक्चर स्पाइन तसेच स्कोलियोसिस-किफोसिसमध्ये फायदेशीर.</p>
                                 </div>
                                 <div class="col-lg-4">
-                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture15.png') }}">
-                                    <img class="serv_img1 mt-2" src="{{ asset('resources/assets/img/capture16.png') }}">
+                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture15.webp') }}">
+                                    <img class="serv_img1 mt-2" src="{{ asset('resources/assets/img/capture16.webp') }}">
                                 </div>
                             </div>
 
@@ -142,26 +142,26 @@
                                     <p>स्लिप डिस्क, हर्निएटेड डिस्क, स्पाइनल/लंबर स्पाइन स्टेनोसिस, स्पॉन्डिलोलिस्थेसिस, स्पाइनल ट्रॉमा/टीबी, फ्रॅक्चर स्पाइन तसेच स्कोलियोसिस-किफोसिसमध्ये मायक्रो एंडोस्कोपिक स्पाइन सर्जरी यशस्वीपणे केली जाते.</p>
                                 </div>
                                 <div class="col-lg-4">
-                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture17.png') }}">
+                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture17.webp') }}">
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-6">
                                     <h1>फायदे</h1>
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लहान कट < 2 से.मी.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमी रक्तस्त्राव</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">शस्त्रक्रियेनंतर कमी वेदना</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उत्तम कॉस्मेसिस</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमी रुग्णालयात राहणे</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लवकर बरे होणे व कामावर परत</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बेड रेस्टची गरज नाही</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमी संसर्ग दर</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दीर्घकालीन त्रास नसणे</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लहान कट < 2 से.मी.</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमी रक्तस्त्राव</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">शस्त्रक्रियेनंतर कमी वेदना</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उत्तम कॉस्मेसिस</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमी रुग्णालयात राहणे</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लवकर बरे होणे व कामावर परत</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बेड रेस्टची गरज नाही</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमी संसर्ग दर</li>
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दीर्घकालीन त्रास नसणे</li>
                                     </ul>
                                 </div>
                                 <div class="col-lg-6">
-                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture18.png') }}">
+                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture18.webp') }}">
                                 </div>
                             </div>
                             <div class="cliclskil1 mt-2">
@@ -170,35 +170,35 @@
                                     <div class="col-lg-6">
                                         <p><b>मर्यादा</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उच्च दर्जाचे स्पॉन्डिलोलिस्थेसिस, तीव्र स्टेनोसिस, मल्टीलेव्हल पॅथॉलॉजी इ. मध्ये मर्यादित लागू</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उच्च संसाधनांची गरज आणि खर्चिक</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उच्च दर्जाचे स्पॉन्डिलोलिस्थेसिस, तीव्र स्टेनोसिस, मल्टीलेव्हल पॅथॉलॉजी इ. मध्ये मर्यादित लागू</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उच्च संसाधनांची गरज आणि खर्चिक</li>
                                         </ul>
                                     </div>
                                     <div class="col-lg-6">
                                         <p><b>शस्त्रक्रियेनंतरचे प्रोटोकॉल</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दिवस 0 – सर्जरी</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दिवस 1 – बेडवरून उठून चालणे</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दिवस 2 – डिस्चार्ज, पुनर्वसन व फिजिओथेरपी + Do's आणि Don'ts</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दिवस 0 – सर्जरी</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दिवस 1 – बेडवरून उठून चालणे</li>
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दिवस 2 – डिस्चार्ज, पुनर्वसन व फिजिओथेरपी + Do's आणि Don'ts</li>
                                         </ul>
                                     </div>
                                 </div>
                                 <h1>मिनिमल इनवेसिव्ह स्पाइन सर्जरी सुरक्षित आहे का? MIS मधील स्क्रू-प्लेट फ्युजन सुरक्षित आहे का?</h1>
                                 <ul class="mt-1">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">होय. स्पाइनल फ्युजनसाठी वापरले जाणारे इम्प्लांट टायटॅनियमचे बनलेले असतात, जे निष्क्रिय व मानवी शरीरासाठी सुरक्षित असतात. प्रशिक्षित स्पाइन सर्जनद्वारे योग्य नियंत्रणात स्क्रू-प्लेट बसविल्यास समस्या उद्भवत नाहीत.</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सुरक्षिततेसाठी अनेक सर्जन्स ऑपरेशनदरम्यान IITV (X-RAY), नेव्हिगेशन व रोबोटिक्सचा वापर करतात.</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">होय. स्पाइनल फ्युजनसाठी वापरले जाणारे इम्प्लांट टायटॅनियमचे बनलेले असतात, जे निष्क्रिय व मानवी शरीरासाठी सुरक्षित असतात. प्रशिक्षित स्पाइन सर्जनद्वारे योग्य नियंत्रणात स्क्रू-प्लेट बसविल्यास समस्या उद्भवत नाहीत.</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सुरक्षिततेसाठी अनेक सर्जन्स ऑपरेशनदरम्यान IITV (X-RAY), नेव्हिगेशन व रोबोटिक्सचा वापर करतात.</li>
                                 </ul>
                                 <p class="mt-2">डॉ. विशाल कुंदनानी हे मुंबईतील स्पाइन नेव्हिगेशन सर्जरीचे अग्रणी तज्ञ आहेत. ते भारतातील सर्वोत्तम स्पाइन नेव्हिगेशन सर्जन मानले जातात आणि रोबोटिक स्पाइन सर्जरीत प्रशिक्षित आहेत.</p>
                                 <p class="mt-2"><b>मायक्रो एंडोस्कोपिक मिनिमल इनवेसिव्ह स्पाइन सर्जरी – गॅलरी</b></p>
                                 <ul class="mt-1">
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल स्टेनोसिस</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लंबर स्पाइनल स्टेनोसिस</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मायक्रोएंडोस्कोपिक डिस्केक्टॉमी सर्जरी</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मायक्रोएंडोस्कोपिक डिकंप्रेशन सर्जरी</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मायक्रोएंडोस्कोपिक स्पाइनल फ्यूजन</li>
-                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MIS TLIF – मिनिमल इनवेसिव्ह ट्रांसफोरामिनल इंटरबॉडी फ्यूजन</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप डिस्क</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पाइनल स्टेनोसिस</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लंबर स्पाइनल स्टेनोसिस</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्पॉन्डिलोलिस्थेसिस</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मायक्रोएंडोस्कोपिक डिस्केक्टॉमी सर्जरी</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मायक्रोएंडोस्कोपिक डिकंप्रेशन सर्जरी</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मायक्रोएंडोस्कोपिक स्पाइनल फ्यूजन</li>
+                                    <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic" style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MIS TLIF – मिनिमल इनवेसिव्ह ट्रांसफोरामिनल इंटरबॉडी फ्यूजन</li>
                                 </ul>
 
                             </div>

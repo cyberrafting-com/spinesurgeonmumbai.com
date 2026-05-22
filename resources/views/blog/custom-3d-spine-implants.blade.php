@@ -107,12 +107,12 @@ Personalized 3D tailor-made spine implants by Dr. Vishal Kundnani – precise, m
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Pioneering spine surgeon offering personalized 3D tailor-made implants with robotic-assisted precision.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -122,7 +122,7 @@ Personalized 3D tailor-made spine implants by Dr. Vishal Kundnani – precise, m
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Custom 3D Tailor-Made Implants: Personalized Solutions for Complex Spine Cases</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/3d-customize-solution.png') }}" alt="Custom 3D Tailor-Made Spine Implants">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/3d-customize-solution.webp') }}" alt="Custom 3D Tailor-Made Spine Implants">
                                 <p>Custom 3D tailor-made spine implants represent a breakthrough in modern spine surgery, offering a level of precision and personalization that traditional implants cannot match. These implants are uniquely designed for each patient based on detailed CT/MRI scans, ensuring an exact anatomical fit—even in the most complex spinal deformities, trauma cases, or congenital abnormalities.</p>
                                 <p>By matching the natural curvature, alignment, and bone structure, personalized implants dramatically improve stability, reduce complications, and enhance long-term outcomes. When combined with <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive surgery</a>, comprehensive <a href="{{ route('spine-surgery-in-india-for-international-patients') }}">spine surgeries</a>, and <a href="{{ route('robotic-spine-surgery-with-dr-vishal-kundnani') }}">robotic navigation</a>, they deliver unmatched precision and safety.</p>
                                 <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> is one of India’s pioneering surgeons in adopting tailor-made 3D implants for scoliosis, trauma, and revision spine surgeries, providing world-class care across top hospitals in Mumbai.</p>

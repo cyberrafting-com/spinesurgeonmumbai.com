@@ -102,7 +102,7 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>
@@ -148,7 +148,7 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-sameer-dalvie.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-sameer-dalvie.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>
@@ -167,7 +167,7 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-arvind-kulkarni.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-arvind-kulkarni.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>
@@ -185,7 +185,7 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr_abhay_nene-blog-profile.jpg') }}"
+                                    <img src="{{ asset('resources/assets/img/dr_abhay_nene-blog-profile.webp') }}"
                                         alt="" class="img-responsive">
                                 </div>
                             </div>
@@ -203,7 +203,7 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-sumit-sinha.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-sumit-sinha.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>
@@ -221,7 +221,7 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-balamurali.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-balamurali.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>
@@ -239,7 +239,7 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-sajan-Hegde.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-sajan-Hegde.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>
@@ -257,7 +257,7 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-harsh-hegde.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-harsh-hegde.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>
@@ -275,7 +275,7 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-h-s-chhabra.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-h-s-chhabra.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>
@@ -292,7 +292,7 @@ recognized for his unparalleled precision, innovative approach, and patient-firs
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-3 col-md-3 col-12">
                                 <div class="doctor-pic">
-                                    <img src="{{ asset('resources/assets/img/dr-thomas-kishen.jpg') }}" alt=""
+                                    <img src="{{ asset('resources/assets/img/dr-thomas-kishen.webp') }}" alt=""
                                         class="img-responsive">
                                 </div>
                             </div>

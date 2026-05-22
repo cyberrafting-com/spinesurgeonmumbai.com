@@ -155,10 +155,10 @@
                         <p>डॉ. विशाल कुंदनानी <a href="{{route('home')}}">मुंबईतील अनुभवी स्पाइन सर्जन</a> असून त्यांनी
                             5000 पेक्षा जास्त यशस्वी मिनिमली इनवेसिव्ह सर्जरी केल्या आहेत.</p>
                         <div class="col-lg-6 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/capture15.png') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/capture15.webp') }}">
                         </div>
                         <div class="col-lg-6 mt-2">
-                            <img class="serv_img1" src="{{ asset('resources/assets/img/capture16.png') }}">
+                            <img class="serv_img1" src="{{ asset('resources/assets/img/capture16.webp') }}">
                         </div>
                         <div class="clearfix"></div>
                         <div class="cliclskil1 mt-2">
@@ -181,54 +181,54 @@
                                         किफोसिससाठी यशस्वीपणे केली जाते.</p>
                                 </div>
                                 <div class="col-lg-4">
-                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture17.png') }}">
+                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture17.webp') }}">
                                 </div>
                             </div>
                             <p><b>फायदे</b></p>
                             <div class="row">
                                 <div class="col-lg-6">
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लहान
                                             कट < 2 से.मी.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमी
                                             रक्तस्त्राव</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">शस्त्रक्रियेनंतर
                                             कमी वेदना</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उत्तम
                                             कॉस्मेसिस</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमी
                                             रुग्णालयात राहणे</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लवकर
                                             बरे होणे आणि कामावर परत जाणे</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बेड
                                             रेस्टची गरज नाही</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कमी
                                             संसर्ग दर</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दीर्घकालीन
@@ -236,7 +236,7 @@
                                     </ul>
                                 </div>
                                 <div class="col-lg-6">
-                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture18.png') }}">
+                                    <img class="serv_img1" src="{{ asset('resources/assets/img/capture18.webp') }}">
                                 </div>
                             </div>
 
@@ -244,11 +244,11 @@
                                 <div class="col-lg-6">
                                     <p><b>मर्यादा</b></p>
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उच्च दर्जाचे स्पॉन्डिलोलिस्थेसिस, तीव्र स्टेनोसिस, मल्टीलेव्हल पॅथॉलॉजी इत्यादींमध्ये मर्यादित लागू होते.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">उच्च
@@ -258,15 +258,15 @@
                                 <div class="col-lg-6">
                                     <p><b>शस्त्रक्रियेनंतरचे प्रोटोकॉल</b></p>
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दिवस 0 – सर्जरी</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दिवस 1 – बेडवरून उठून चालणे</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                 class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                 alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दिवस 2 – डिस्चार्ज, पुनर्वसन आणि फिजिओथेरपी प्रोग्राम + Do's आणि Don'ts</li>
@@ -305,42 +305,42 @@
                             </div>
                             <h3>मिनिमल इनवेसिव्ह स्पाइन सर्जरी गॅलरी –</h3>
                             <ul class="mt-1">
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SLIP
                                     DISC</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SPINAL
                                     STENOSIS</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">LUMBAR
                                     SPINAL STENOSIS</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SPONDYLOLISTHESIS
                                 </li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
                                     DISCECTOMY SURGERY</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
                                     DECOMPRESSION SURGERY</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MICROENDOSCOPIC
                                     SPINAL FUSION</li>
-                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                         alt="pic"
                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MIS

@@ -109,27 +109,27 @@ intervention.@endsection
                         <div class="col-lg-8 col-md-8 col-12 pt-5">
                             <h2 class="services-heading-h2">Types of Scoliosis</h2>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Idiopathic Scoliosis:</strong>The most common type, often developing during
                                     adolescence.</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Congenital Scoliosis:</strong>A birth defect leading to spinal curvature.</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Degenerative Scoliosis:</strong>Occurs due to aging and spinal wear and tear.</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Neuromuscular Scoliosis:</strong>Associated with neurological conditions like
                                     cerebral palsy.</p>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
                             <img
-                                src="{{ asset('resources/assets/img/blog/best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.jpg') }}">
+                                src="{{ asset('resources/assets/img/blog/best-spine-surgeon-in-mumbai-and-india-for-scoliosis-treatment.webp') }}">
                         </div>
                     </div>
                     <h2 class="services-heading-h2">Why Expert Care is Essential for Scoliosis Treatment?</h2>
@@ -145,15 +145,15 @@ intervention.@endsection
                     <p>Dr. Vishal Kundnani specializes in treating all types of scoliosis using state-of-the-art surgical
                         techniques. His expertise includes:</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Minimally Invasive Spine Surgery (MISS)</strong>for reduced recovery time.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Robotic-Assisted Scoliosis Surgery</strong>for precision and safety.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Advanced Spinal Fusion Techniques</strong>to ensure long-term spinal stability.</p>
                     </div>
                     <div class="sec-blog-design pt-5">
@@ -162,15 +162,15 @@ intervention.@endsection
                     <p>Each scoliosis case is unique, requiring a customized treatment plan. Dr. Kundnani carefully
                         evaluates each patient based on:</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Age and Growth Factors:</strong>Especially in pediatric cases.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Severity of Curvature</strong>Mild, moderate, or severe.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Lifestyle and Mobility Goals</strong>To ensure better post-surgical quality of life.</p>
                     </div>
                     <div class="sec-blog-design pt-5">
@@ -178,15 +178,15 @@ intervention.@endsection
                     </div>
                     <p>Dr. Kundnani integrates the latest advancements in scoliosis treatment, such as:</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>3D Imaging Technology</strong>for accurate diagnosis.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Robotic Navigation Systems</strong>for precision surgery.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Minimally Invasive Techniques</strong>for faster recovery and reduced surgical trauma.
                         </p>
                     </div>
@@ -194,19 +194,19 @@ intervention.@endsection
                         <h3>Benefits of Choosing Dr. Vishal Kundnani for Scoliosis Treatment</h3>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Highly accurate spinal alignment with minimal complications.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Reduced pain and shorter hospital stays.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Comprehensive post-operative rehabilitation.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Enhanced patient mobility and long-term stability.</p>
                     </div>
                     <div class="sec-blog-design pt-5">
@@ -220,34 +220,34 @@ intervention.@endsection
                     </div>
                     <p>Recovery doesn't stop at surgery. Dr. Kundnani focuses on:</p>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Post-operative Rehabilitation</strong>Physiotherapy and guided exercises.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Long-Term Monitoring</strong>Ensuring sustained spinal health.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Pain Management Strategies</strong>For a smooth recovery.</p>
                     </div>
                     <div class="sec-blog-design pt-5">
                         <h3>Why Dr. Vishal Kundnani Stands Out as the Best Spine Surgeon in Mumbai and India?</h3>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Proven Experience:</strong>Years of expertise in treating spinal disorders</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Cutting-Edge Technology:</strong>Integration of robotics and AI in surgery.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Minimally Invasive Techniques:</strong>Ensuring faster healing and better outcomes.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Personalized Treatment Plans:</strong>Each patient receives a unique, tailored approach.
                         </p>
                     </div>

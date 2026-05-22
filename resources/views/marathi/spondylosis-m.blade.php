@@ -141,35 +141,35 @@
                         <h1>स्पॉन्डिलोसिसमध्ये सामान्य लक्षणे काय आहेत?</h1>
                         <h1>मान (ग्रीवा मणका)</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वेदना
                                 जी येते आणि जाते</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वेदना
                                 जी तुमच्या खांद्यांमध्ये, हातांमध्ये, हातांमध्ये किंवा बोटांमध्ये पसरते</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बिछान्यातून
                                 उठल्यानंतर सकाळी मान किंवा खांदा कडकपणा किंवा हालचालीची मर्यादित श्रेणी</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मान
                                 किंवा खांद्याची कोमलता किंवा सुन्नपणा</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तुमच्या
                                 मानेमध्ये, खांद्यांमध्ये, हातांमध्ये, हातांमध्ये किंवा बोटांमध्ये अशक्तपणा किंवा मुंग्या येणे</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तुमच्या
                                 डोक्याच्या मागच्या बाजूस डोकेदुखी</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">संतुलन
                                 गमावणे</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गिळण्यात
                                 अडचण (हे दुर्मिळ आहे, परंतु जर स्पाइनल कॉर्ड संकुचित झाला असेल तर हे होऊ शकते.)</li>
@@ -177,31 +177,31 @@
 
                         <h1>खालची पाठ (कटीचा मणका)</h1>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वेदना
                                 जी येते आणि जाते</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">बिछान्यातून
                                 उठल्यानंतर सकाळी खालच्या पाठीचा कडकपणा</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वेदना
                                 जी विश्रांती किंवा व्यायामानंतर कमी होते</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">खालच्या
                                 पाठीची कोमलता किंवा सुन्नपणा</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">सायटिका
                                 (हलकी ते तीव्र पाय वेदना)</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">खालच्या
                                 पाठीमध्ये, पायांमध्ये किंवा पायांमध्ये अशक्तपणा, सुन्नपणा किंवा मुंग्या येणे</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">चालण्यात
                                 अडचण</li>
@@ -212,19 +212,19 @@
                         <h1>स्पॉन्डिलोसिसचे कारण काय आहे?</h1>
                         <p>मान वेदनाचे कारण/एटिओलॉजी बहुविध आहे, एकाच्या किंवा दुसऱ्याच्या परिमाणात्मक प्रभावाला सिद्ध/नाकारण्यासाठी कोणतेही पुरावे नाहीत. मान वेदनाचे जोखीम घटक असू शकतात:</p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">वय
                                 वाढणे: सामान्य वय-संबंधित अध:ःपतन प्रक्रियेचा एक भाग म्हणून.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">जीवनशैली:
                                 तणाव आणि भावनिक तणाव, खराब मुद्रा - दीर्घकाळ उभे राहणे किंवा चुकीच्या पद्धतीने बसणे—मान वेदना होऊ शकते, जड शारीरिक काम, उचलणे किंवा बळजबरीने हालचाल, वाकणे किंवा विचित्र स्थिती तुमच्या मानेला खरोखर दुखवू शकते.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">दुखापती
                                 आणि अपघात: स्नायू, अस्थिबंधन किंवा मऊ ऊतकांना दुखापत झाल्यामुळे मान वेदना होऊ शकते. पडणे किंवा कार अपघातात मणक्याच्या हाडांना फ्रॅक्चर होणे हे देखील एक सामान्य कारण आहे.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लठ्ठपणा:
                                 कमकुवत पोट स्नायूंसह अनेकदा मणक्याचे संतुलन बिघडते, ज्यामुळे तुमची मान भरपाई करण्यासाठी असहजतेने वाकते.</li>
@@ -238,23 +238,23 @@
                         </p>
                         <p><b>तथापि, काही परिस्थितींमध्ये शस्त्रक्रिया आवश्यक आहे:</b></p>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तुम्हाला
                                 आंत्र किंवा मूत्राशय बिघडलेले कार्य आहे. हे दुर्मिळ आहे, परंतु स्पाइनल कॉर्ड संकुचित झाल्यामुळे हे होऊ शकते.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तुम्हाला
                                 स्पाइनल स्टेनोसिस आहे, आणि तुमच्या डॉक्टरांना वाटते की शस्त्रक्रिया हा उपचार करण्याचा सर्वोत्तम मार्ग आहे.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तुम्ही
                                 इतर न्यूरोलॉजिक बिघडलेले कार्य अनुभवत आहात, जसे की गंभीर हात किंवा पाय अशक्तपणा, सुन्नपणा किंवा मुंग्या येणे.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तुमचा
                                 मणका अस्थिर आहे. स्पॉन्डिलोसिस तुमच्या मणक्याच्या भागांना प्रभावित करते, विशेषतः तुमच्या फेसेट जॉइंट्स (जे जोड मणक्याच्या हालचाली नियंत्रित करण्यास मदत करतात)</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">तुमचा
                                 मणका स्पाइनल अस्थिरता विकसित करू शकतो. अस्थिर मणका तुम्हाला न्यूरोलॉजिकल समस्या विकसित करण्याच्या जोखमीत अधिक ठेवते.</li>

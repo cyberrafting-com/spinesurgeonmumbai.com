@@ -100,47 +100,47 @@
                     <div class="page-head">
                         <div class="demo-gallery">
                             <ul id="lightgallery">
-                                <li data-responsive="{{ asset('resources/assets/img/gallery/e/1.jpg') }}"
-                                    data-src="{{ asset('resources/assets/img/gallery/e/1.jpg') }}"
+                                <li data-responsive="{{ asset('resources/assets/img/gallery/e/1.webp') }}"
+                                    data-src="{{ asset('resources/assets/img/gallery/e/1.webp') }}"
                                     data-sub-html="<h4>4th Floor</h4>">
                                     <a href="#">
                                         <img class="img-responsive"
-                                            src="{{ asset('resources/assets/img/gallery/e/1.jpg') }}">
+                                            src="{{ asset('resources/assets/img/gallery/e/1.webp') }}">
                                         <div class="demo-gallery-poster">
-                                            <img src="{{ asset('resources/assets/img/zoom-icon.png') }}">
+                                            <img src="{{ asset('resources/assets/img/zoom-icon.webp') }}">
                                         </div>
                                     </a>
                                 </li>
-                                <li data-responsive="{{ asset('resources/assets/img/gallery/e/2.jpeg') }}"
-                                    data-src="{{ asset('resources/assets/img/gallery/e/2.jpg') }}"
+                                <li data-responsive="{{ asset('resources/assets/img/gallery/e/2.webp') }}"
+                                    data-src="{{ asset('resources/assets/img/gallery/e/2.webp') }}"
                                     data-sub-html="<h4>AKD</h4>">
                                     <a href="#">
                                         <img class="img-responsive"
-                                            src="{{ asset('resources/assets/img/gallery/e/2-2.jpg') }}">
+                                            src="{{ asset('resources/assets/img/gallery/e/2-2.webp') }}">
                                         <div class="demo-gallery-poster">
-                                            <img src="{{ asset('resources/assets/img/zoom-icon.png') }}">
+                                            <img src="{{ asset('resources/assets/img/zoom-icon.webp') }}">
                                         </div>
                                     </a>
                                 </li>
-                                <li data-responsive="{{ asset('resources/assets/img/gallery/e/3.jpg') }}"
-                                    data-src="{{ asset('resources/assets/img/gallery/e/3.jpg') }}"
+                                <li data-responsive="{{ asset('resources/assets/img/gallery/e/3.webp') }}"
+                                    data-src="{{ asset('resources/assets/img/gallery/e/3.webp') }}"
                                     data-sub-html="<h4>AKD</h4>">
                                     <a href="#">
                                         <img class="img-responsive"
-                                            src="{{ asset('resources/assets/img/gallery/e/3.jpg') }}">
+                                            src="{{ asset('resources/assets/img/gallery/e/3.webp') }}">
                                         <div class="demo-gallery-poster">
-                                            <img src="{{ asset('resources/assets/img/zoom-icon.png') }}">
+                                            <img src="{{ asset('resources/assets/img/zoom-icon.webp') }}">
                                         </div>
                                     </a>
                                 </li>
-                                <li data-responsive="{{ asset('resources/assets/img/gallery/e/4.jpeg') }}"
-                                    data-src="{{ asset('resources/assets/img/gallery/e/4.jpg') }}"
+                                <li data-responsive="{{ asset('resources/assets/img/gallery/e/4.webp') }}"
+                                    data-src="{{ asset('resources/assets/img/gallery/e/4.webp') }}"
                                     data-sub-html="<h4>AKD</h4>">
                                     <a href="#">
                                         <img class="img-responsive"
-                                            src="{{ asset('resources/assets/img/gallery/e/4-2.jpg') }}">
+                                            src="{{ asset('resources/assets/img/gallery/e/4-2.webp') }}">
                                         <div class="demo-gallery-poster">
-                                            <img src="{{ asset('resources/assets/img/zoom-icon.png') }}">
+                                            <img src="{{ asset('resources/assets/img/zoom-icon.webp') }}">
                                         </div>
                                     </a>
                                 </li>

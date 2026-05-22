@@ -53,7 +53,7 @@ Explore leading spine surgeons in Mumbai (2026 editorial guide) covering minimal
         "@context": "https://schema.org",
         "@type": "MedicalBusiness",
         "name": "Spine Clinic Mumbai",
-        "image": "{{ asset('resources/assets/img/logo.png') }}",
+        "image": "{{ asset('resources/assets/img/logo.webp') }}",
         "url": "https://www.spineclinicmumbai.com",
         "telephone": "+91 9619100123",
         "email": "spineclinicmumbai@gmail.com",
@@ -213,12 +213,12 @@ Explore leading spine surgeons in Mumbai (2026 editorial guide) covering minimal
             <!-- Doctor Profile -->
             <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                 <div class="blog-profile">
-                    <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                    <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                     <h3>Dr. Vishal Kundnani</h3>
                     <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                     <p class="bold-text">Leading spine surgeon using advanced 3D printed implants and minimally invasive techniques for precision spine surgery.</p>
-                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                    <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                    <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                 </div>
             </div>
 

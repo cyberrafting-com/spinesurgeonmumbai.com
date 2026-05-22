@@ -133,7 +133,7 @@ specialist. Effective care for relief.@endsection
                                     <div class="cliclskil1">
                                         <p></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">The
                                                 Spine is an organ of locomotion and posture maintenance. The spine
@@ -142,7 +142,7 @@ specialist. Effective care for relief.@endsection
                                                 and helps in flexibility and movement in the spine. Each disc is made up
                                                 of a tire-like outer band called the annulus fibrosus and a gel-like
                                                 fluid inner substance called the nucleus pulposus.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Together,
                                                 the vertebrae and the discs provide a protective tunnel (the spinal
@@ -155,7 +155,7 @@ specialist. Effective care for relief.@endsection
                                                 pain in leg with numbness and difficulty in walking. this pain is also
                                                 called Sciatica</li>
                                         </ul>
-                                        <img class="serv_img" src="{{ asset('resources/assets/img/Capture.png') }}">
+                                        <img class="serv_img" src="{{ asset('resources/assets/img/Capture.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -196,14 +196,14 @@ specialist. Effective care for relief.@endsection
                                 aria-labelledby="headingThree">
                                 <div class="panel-body">
                                     <ul>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Compression
                                             of nerve in Spinal canal due to spinal stenosis or slip disc results in low
                                             back pain and buttock pain traveling down the leg causing leg pain and
                                             numbness and difficulty in walking This pain in the leg is also called
                                             Sciatica.</li>
-                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                 data-wow-iteration="infinite" alt="pic"
                                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sciatica
                                             is treated at Spine clinic Mumbai and spine clinic Goregaon by the team of
@@ -228,7 +228,7 @@ specialist. Effective care for relief.@endsection
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Slip
                                                 Disc / Disc herniation / Disc Bulge /Bulged Disc/ Herniated disc is the
@@ -236,7 +236,7 @@ specialist. Effective care for relief.@endsection
                                                 within the disc between bones , into the spinal canal causing
                                                 compression of nerves resulting into leg pain, buttock pain, back pain
                                                 or pain traveling down the leg called Sciatica.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Slip
                                                 disc is the result of daily wear and tear ongoing process of the disc in
@@ -248,33 +248,33 @@ specialist. Effective care for relief.@endsection
                                                 occur suddenly from incorrect lifting or twisting that aggravates a weak
                                                 disc.</li>
                                         </ul>
-                                        <img class="serv_img mt-3" src="{{ asset('resources/assets/img/capture1.png') }}">
+                                        <img class="serv_img mt-3" src="{{ asset('resources/assets/img/capture1.webp') }}">
                                         <p class="mt-3"><b>There are four stages to the formation of a herniated disc
                                                 which can decide the symptoms in a patient afterslip disc.</b></p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Disc
                                                 Degeneration: Gel like material nucleus pulposus weakens with chemical
                                                 changes in the disc.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Disc
                                                 Prolapse or Bulge disc or Disc bulge: Slight bulge or protrusion begins
                                                 to form, which might begin to crowd the Nerves.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Extrusion:
                                                 gel-like nucleus pulposus breaks through the tire-like wall of the
                                                 annulus but remains within the disc.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sequestration:
                                                 the nucleus pulposus or soft gel like substance breaks through the
                                                 anulus and moves outside in the spinal canal causing compression of
                                                 nerve roots.</li>
                                         </ul>
-                                        <img class="serv_img mt-3" src="{{ asset('resources/assets/img/capture2.png') }}">
+                                        <img class="serv_img mt-3" src="{{ asset('resources/assets/img/capture2.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -294,7 +294,7 @@ specialist. Effective care for relief.@endsection
                                     <div class="cliclskil1">
 
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">A
                                                 herniated disc may cause various symptoms and does not have similar
@@ -305,13 +305,13 @@ specialist. Effective care for relief.@endsection
                                                 tingling, or referred pain to leg commonly referred as sciatica .
                                                 Bulging disc or a Herniated disc can cause similar symptoms as extruded
                                                 or ruptured disc. Usually, just one leg is affected.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">If
                                                 you have a herniated disc in your neck (cervical spine), you may have
                                                 referred pain down your arm and into your hand. Leg and arm pain caused
                                                 by a herniated disc is also called radiculopathy.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Although
                                                 rare but Herniated disc or slip disc loss of bowel or bladder control
@@ -341,7 +341,7 @@ specialist. Effective care for relief.@endsection
                                     <div class="cliclskil1">
 
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Your
                                                 spine specialist may examine you clinically and may ask for
@@ -358,7 +358,7 @@ specialist. Effective care for relief.@endsection
                                             specialist. Dr. Vishal Kundnani is the best spine Minimal invasive spine
                                             specialist in Mumbai and best Minimal Invasive spinal Surgeon in Goregaon,
                                             Malad, and Kandivali.</p>
-                                        <img class="serv_img mt-3" src="{{ asset('resources/assets/img/capture3.png') }}">
+                                        <img class="serv_img mt-3" src="{{ asset('resources/assets/img/capture3.webp') }}">
 
                                     </div>
                                 </div>
@@ -383,12 +383,12 @@ specialist. Effective care for relief.@endsection
                                             Kundnani is one of the best spine specialists in Mumbai and is available for
                                             consultation on appointment.</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Not
                                                 all patients with slip disc/disk herniation or sciatica need surgery.
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Surgery
                                                 may be required in patients if – Pain is getting worse/Disabling
@@ -427,28 +427,28 @@ specialist. Effective care for relief.@endsection
                                             and severity of symptoms in consultation with your spine surgeon / spinal
                                             surgeon the options available for slip disc treatment are:-</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Medicines
                                                 – NSAIDS/ Muscle relaxant / Pregabalin / TCA,S /non opiod analgesics.
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot
                                                 fomentation.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Cold
                                                 sponging.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Physical
                                                 therapy.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS.
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SWD.
                                             </li>
@@ -480,7 +480,7 @@ specialist. Effective care for relief.@endsection
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Yes.
                                                 Physiotherapy has a major role in herniated disc recovery. It teaches
@@ -521,14 +521,14 @@ specialist. Effective care for relief.@endsection
                                             stability, core strengthening</p>
                                         <p><b>Passive Treatments:</b>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Deep
                                                     Tissue Massage: Deep tissue massage relieves deep muscle tension and
                                                     spasms, which develop to prevent muscle motion at the affected area
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hot
@@ -536,12 +536,12 @@ specialist. Effective care for relief.@endsection
                                                     benefits, and your physical therapist may alternate between them to
                                                     get the best results. This reduces inflammation, muscle spasms, and
                                                     pain.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hydrotherapy:
                                                     gently relieves pain and relaxes muscles.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS
@@ -553,7 +553,7 @@ specialist. Effective care for relief.@endsection
                                                     current. TENS may increase your body's production of endorphins,
                                                     your natural pain killers. The TENS equipment your physical
                                                     therapist uses is larger than the "at home" use machine.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Ultrasound:
@@ -561,7 +561,7 @@ specialist. Effective care for relief.@endsection
                                                     cramping, swelling, stiffness, and pain. It does this by sending
                                                     sound waves deep into your muscle tissues, creating a gentle heat
                                                     that enhances circulation and healing.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Traction:
@@ -572,7 +572,7 @@ specialist. Effective care for relief.@endsection
                                             <p><b>ActiveTreatments:Help to reduce recurrent pain but will also benefit
                                                     your overall health</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Core
@@ -582,14 +582,14 @@ specialist. Effective care for relief.@endsection
                                                     extra pressure on your back muscles. Your physical therapist may
                                                     teach you to core stabilizing exercises to strengthen your back.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Flexibility:
                                                     Learning proper stretching and flexibility techniques will prepare
                                                     you for aerobic and strength exercises. Flexibility helps your body
                                                     move easier by warding off stiffness.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle
@@ -630,19 +630,19 @@ specialist. Effective care for relief.@endsection
                                             medication), Indications for spinal surgery in slip disc / herniated disc
                                             are –</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">No
                                                 response / partial response to non-surgical treatments.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Progressive
                                                 radiculopathy – pain, numbness, and tingling in the arms or legs.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Loss
                                                 of power sensation in your arms or legs.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lost
                                                 bowel or bladder control.</li>
@@ -667,14 +667,14 @@ specialist. Effective care for relief.@endsection
                                     <div class="cliclskil1">
 
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Surgery
                                                 for Slip Disc is safe and simple Surgery involves freeing of the nerve
                                                 from compression caused by the Slip Disc or herniated disc or bulge disc
                                                 and this surgery for a herniated disc is called discectomy. And involved
                                                 removal of part of the damaged intervertebral disc.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal
                                                 Invasive Spine Surgery is the gold standard for discectomy in patients
@@ -713,21 +713,21 @@ specialist. Effective care for relief.@endsection
                                         <p>Meet your doctor and know more about your problem, possible solutions and
                                             pro's and con's of all the solutions including surgery offered to you.</p>
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">After
                                                 the surgery is planned, plan your hospital stay and discuss discharge
                                                 plan with the doctor.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Maintain
                                                 Good nutrition for healthy immune system.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Eat
                                                 a balanced diet and take a vitamin supplement, with the advice of your
                                                 doctor in the weeks before your surgery.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Weak
                                                 muscles and low cardiovascular endurance prolong recovery from surgery.
@@ -735,12 +735,12 @@ specialist. Effective care for relief.@endsection
                                                 for your condition before and after spine surgery. Get your lungs and
                                                 heart checked up by a physician, in consultation with your surgeon, to
                                                 get surgical fitness.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Back
                                                 Pain can make losing weight or weight maintenance a challenge. If you
                                                 are overweight, it is a good idea to slim down before your surgery.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Quit
                                                 Smoking to prevent prolonged recovery and wound healing.</li>
@@ -767,14 +767,14 @@ specialist. Effective care for relief.@endsection
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal
                                                 invasive spine surgery leads to a fast recovery and makes the patient
                                                 walking after surgery within 24 hours. in fact in slip disc and spinal
                                                 stenosis, minimally invasive surgery and microendoscopic surgery results
                                                 in early return to work without any need of bed rest after surgery.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">After
                                                 surgery patient is mobilized out of bed within 24 hours, and pain
@@ -782,37 +782,37 @@ specialist. Effective care for relief.@endsection
                                                 and don'ts instructions are given about. With Minimal, Invasive spine
                                                 surgery patient can go home within 48 hrs and can resume job within 2
                                                 weeks however Contact sports is generally avoided for 6-10 weeks.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">One
                                                 should follow :-</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Follow
                                                 your doctor's treatment plan.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sit
                                                 and stand properly and maintain posture.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Learn
                                                 to lift correctly</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Exercise
                                                 regularly (low impact aerobic exercise is especially good, but check
                                                 with your doctor first)</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Attain
                                                 and maintain a healthy body weight</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Eat
                                                 healthy foods (a well-balanced, low-fat diet rich in fruits and
                                                 vegetables) and get enough calcium</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Stop
                                                 smoking.</li>
@@ -839,29 +839,29 @@ specialist. Effective care for relief.@endsection
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Have
                                                 regular spinal check-ups, and tell your spine specialist right away if
                                                 you are not getting better.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lifestyle
                                                 changes are the best road to wellness</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Stop
                                                 Smoking, Eat healthily, lose weight, start some physical activity in the
                                                 supervision of a physiotherapist with guidance from spine surgeon /
                                                 spinal surgeon.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">A
                                                 diagnosis of a herniated disc or degenerative disc disease is not the
                                                 end of your active life. You can have a healthy and active lifestyle if
                                                 you follow all the instructions of the spine surgeon / spinal surgeon.
                                             </li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" class="wow flipInX animated animated"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">To
                                                 know more about prevention modalities meet your spine specialist in

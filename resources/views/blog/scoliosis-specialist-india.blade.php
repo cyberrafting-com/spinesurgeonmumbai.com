@@ -115,12 +115,12 @@ Top scoliosis specialist in India – Dr. Vishal Kundnani provides minimally inv
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Director & Head of Spine Services at Lilavati & Bombay Hospitals.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -130,7 +130,7 @@ Top scoliosis specialist in India – Dr. Vishal Kundnani provides minimally inv
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Scoliosis Specialist in India – Why Choose Dr. Vishal Kundnani</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/scoliosis-signs-img.jpg') }}" alt="Scoliosis Specialist in India">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/scoliosis-signs-img.webp') }}" alt="Scoliosis Specialist in India">
                                 <p><a href="{{ route('scoliosis') }}">Scoliosis</a> is an abnormal curvature of the spine that can affect posture, mobility, and overall quality of life. Proper management requires early detection, continuous monitoring, and the right treatment approach based on curve severity. Mild cases often respond well to bracing and physiotherapy, whereas progressive or severe curves may require surgical correction.</p>
                                 <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a> is widely recognized as one of India's top scoliosis specialists. With expertise in <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive</a> scoliosis correction, deformity surgery, robotic-assisted techniques, and personalized treatment planning, he provides world-class care across Mumbai and India.</p>
                                 <p>Patients from Mumbai, Delhi, Pune, Nashik, Indore, Raipur, Bhopal, Jaipur, and other cities consult him for expert evaluation, accurate diagnosis, and corrective spine surgery.</p>

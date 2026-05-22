@@ -145,31 +145,31 @@ Mumbai')
                     <h2>What Are the Symptoms of Sciatica?</h2>
                     <p>Common symptoms of sciatica include:</p>
                     <ul>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lower
                             back pain that radiates downward</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pain
                             in the rear or leg that worsens when sitting</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hip
                             pain affecting mobility</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Burning
                             or tingling sensation down the leg</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Weakness,
                             numbness, or trouble moving the leg or foot</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Constant
                             pain on one side of the buttock</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sharp
                             shooting pain that makes it hard to stand</li>
@@ -182,23 +182,23 @@ Mumbai')
                     <h2>What Causes Sciatica?</h2>
                     <p>Sciatica can be triggered by various spinal or muscular conditions, including:</p>
                     <ul>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lumbar
                             spinal stenosis – narrowing of the lower spinal canal</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Degenerative
                             disc disease – breakdown of cushioning discs</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spondylolisthesis
                             – vertebra slippage over another</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pregnancy
                             – pressure on the sciatic nerve</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Muscle
                             spasms in the back or buttocks</li>
@@ -248,23 +248,23 @@ Mumbai')
 
                     <h2>Why Choose Dr. Vishal Kundnani for Sciatica Treatment in Mumbai?</h2>
                     <ul>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Internationally
                             acclaimed spine surgeon</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Expert
                             in minimally invasive & endoscopic spine surgery</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Offers
                             tailored, non-surgical to surgical treatment plans</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Uses
                             advanced diagnostic techniques</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Patient-first
                             approach for faster recovery</li>
@@ -272,31 +272,31 @@ Mumbai')
 
                     <h2>Quick Facts About Sciatica Treatment</h2>
                     <ul>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Lower
                             back pain → May indicate sciatic nerve compression</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pain
                             worse while sitting → Common sign of sciatica</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hip
                             pain → Can be an extension of nerve irritation</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Tingling
                             or burning in the leg → A red flag for nerve involvement</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Leg
                             weakness or numbness → Indicates advanced nerve pressure</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pain
                             on one side of the buttock → Typical of sciatica, not general backache</li>
-                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                        <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                 class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                 style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Shooting
                             pain on standing → Classic symptom of sciatic nerve distress</li>

@@ -118,30 +118,30 @@ spine conditions.@endsection
                 </div>
 
                 <div class="drtoafndrbs dr_img col-lg-4 col-md-4 col-sm-5 col-xs-12">
-                    <img class="d_non" src="{{ asset('resources/assets/img/dr-vishal.jpg') }}" alt="pic"
+                    <img class="d_non" src="{{ asset('resources/assets/img/dr-vishal.webp') }}" alt="pic"
                         loading="lazy" />
-                    <img class="d_non1" src="{{ asset('resources/assets/img/dr-vishal3.jpg') }}" alt="pic"
+                    <img class="d_non1" src="{{ asset('resources/assets/img/dr-vishal3.webp') }}" alt="pic"
                         loading="lazy" />
                     <div class="cliclskil mt-3">
                         <h3>Profile of Dr. Vishal Kundnani</h3>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">M.S
                                 (Ortho.), F.A.S.S.I, F.N.U.S, F.N.A.M.S.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spine
                                 Surgeon, Bombay Hospital, Mumbai.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hon.
                                 Asso Prof -Dept Of Orthopedics & Spine Surgery.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Grant
                                 Medical College & Sir JJ Hosp, University of Mumbai.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Specialist
                                 in Minimal Invasive & Microscopic Spine Surgery.</li>
@@ -168,44 +168,44 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Currently
                                                     functioning (Since 2009 till date) at Bombay Hospital Mumbai as Spine
                                                     Surgeon.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Head
                                                     SPINE CLINIC- Bombay Hospital Mumbai.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Director-Mumbai
                                                     Institute of Spine Surgery – Mumbai, Raipur, Bhopal, Jaipur.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Trained
                                                     and proficient in Minimal Invasive Spine Surgery, Pediatric Spine
                                                     Surgery, Craniovertebral & Cervical Spine Surgery, Navigation guided
                                                     Spine Surgery.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pioneer
                                                     in Navigation guided Spine Surgery and Robotic spine surgeries.
                                                     Successfully performed 3000+ Minimal Invasive Spine Surgery Technique
                                                     and 500+ with navigation guided spine Surgery.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Supervisor
                                                     to National ASSI spine fellowship program & on advisory board for ASSI
                                                     spine fellowship. Supervisor and guide – National MISS Spine Fellowship
                                                     program – 2 Seats.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
@@ -216,21 +216,21 @@ spine conditions.@endsection
                                                     <br>ASSI – Association of Spine Society of India.
                                                     <br>BOS – Bombay Orthopedic Society.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Advisory
                                                     board Member – Education committee of ASSI (Asso. Of Spine Surgeons of
                                                     India).</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Faculty
                                                     on panel AO Spine International foundation and Asia Pacific Spine
                                                     Society and National & most International Spine Conference's.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
@@ -257,32 +257,32 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">M.B.B.S.
                                                     – Barkatullah University, Bhopal. (Gold Medalist).</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">M.S.(Orthopedics)
                                                     – Rajasthan University of Health Science, Jaipur. (Gold Medalist).</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">F.A.S.S.I
                                                     – Fellow Assc.Of Spine Surgeons Of India, India.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">F.N.U.S
                                                     – Fellow of National University of Singapore, Singapore.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">F.M.S.S
                                                     – Fellow Minimal Invasive Spine Surgery, Seoul, Korea.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">F.N.A.M.S.
@@ -308,65 +308,65 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Research
                                                     Fellowship-Spine Surgery, INDIA Mentor – Prof S.Y.Bhojraj, Lilavati
                                                     Hospital Mumbai.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">National
                                                     A.S.S.I (Ass. of Spine Surgeons of India) Spine Surgery Fellowship,
                                                     INDIA Mentor – Dr. Abhay M. Nene, Dr. Mihir R. Bapat, P.D. Hinduja
                                                     Hospital & M.R.C, Mumbai.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hinduja
                                                     Hospital Clinical Fellowship in Advanced Spine surgery, INDIA Mentor –
                                                     Dr. Mihir R. Bapat, Dr. Sanjay Agarwala, P.D. Hinduja Hospital & M.R.C,
                                                     Mumbai.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SYNTHES
                                                     Asia Pacific Clinical Spine Surgery Fellowship, INDIA Mentor – Dr. Abhay
                                                     M. Nene, Dr. Mihir R. Bapat, P.D. Hinduja Hospital & M.R.C, Mumbai.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">MIS-
                                                     Spine Surgery Fellowship, KOREA Mentor– Prof. Choon Lee, Dr. H. Kim,
                                                     National University Hospital, Seoul, KOREA</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Advanced
                                                     Cervical Spine Surgery Traveling Fellowship, JAPAN Mentor – Prof
                                                     Kuniyoshi Abumi, Prof M. Ito, Hokkaido University Hospital, Sapporo,
                                                     Japan.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Clinical
                                                     Fellowship in Spine Surgery, SINGAPORE Mentor – Prof H.K. Wong, Prof H.H
                                                     Tak, Dr. Gabriel Liu, National University Hospital, Singapore.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">AO
                                                     Travelling Fellowship in Paediatric Spine Surgery, AUSTRALIA Mentor –
                                                     Prof P Cundy, Prof Cairn, Women's & Children University Hospital,
                                                     Adelaide, AUSTRALIA.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">GLOBAL
                                                     Travelling Fellowship-Spine Reconstruction, the UK-Mentor –Prof Michael
                                                     Chung, Queens Medical Center, Nottingham, UK</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Travelling
@@ -497,35 +497,35 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Patel
                                                     J, Upadhyaya M, Patel A, Kundnani V; DiagnosticEfficacy, sensitivity,
                                                     and specificity of Gene Xpert for spinal tuberculosis and rifampicin
                                                     resistance. Spine Journal, 2019.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Patel
                                                     J, Upadhyaya M, Patel A, Kundnani V; Superior Facet Joint Violation in
                                                     single-level Minimal Invasive Transformational Interbody Fusion;
                                                     Comparative study, Asian Spine Journal 2019.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Neil
                                                     K, Sanyam Jain, Kundnani V; Surgical Outcomes of posterior cervical
                                                     laminectomy for multilevel degenerative Spondylotic cervical myelopathy
                                                     in the long term. Asian Journal of Neuro Surgery 2019.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sanyam
                                                     Jain, Neil K, Ankit P, Ruparel S, Kundnani V; Learning Curve of Micro
                                                     endoscopic Discectomy in single-level PIVD; Global Spine Journal 2019.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sanyam
@@ -533,7 +533,7 @@ spine conditions.@endsection
                                                     Instrumentation, Decompression and Transpedicular Bone Grafting in
                                                     osteoporotic Burst Fracture with Neurological Deficit; Asian Journal of
                                                     Neuro Surgery 2019.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">S
@@ -549,7 +549,7 @@ spine conditions.@endsection
                                                     in Paediatric Population; J of Neuro Surgery -Pediatrics, April
                                                     2018.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dusad
@@ -557,62 +557,62 @@ spine conditions.@endsection
                                                     exposure and radiation time in Minimal Invasive Spine Surgery TLIF –
                                                     Navigation Guided Vs Non-navigation Guided comparative Trial. Asian
                                                     Spine Journal Dec 2017.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dusad
                                                     T, Kundnani V ; Rare Case of Intradural Intramedullary Bronchogenic
                                                     Tumor Cyst in Thoracic Cord presenting with Sudden Paraplegia;- Journal
                                                     Of Spine Surgery, July 2017.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Dutta
                                                     Shamayou, Kundnani V; Feasibility and efficacy of Transarticular
                                                     screw-in Paediatric (<8 Yrs ) Atlantoaxial instability; European Spine
                                                         Journal Dec 2016.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Saurabh,
                                                     Kundnani V, Nene A: Post Vertebroplasty Instability- Report of 5
                                                     cases.J
                                                     Neuro Surgery Spine, Dec 2012.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Saini
                                                     N, Kundnani V, Patni P, Gupta S.; Outcome of early active mobilization
                                                     after flexor tendons repair in zones II-V in hand.; Indian J Orthop.
                                                     2010.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pawar
                                                     UM, Kundnani V, Nene A. Major vessel injury with cage migration:
                                                     surgical complication in a case of spondylodiscitis; Spine (Phila Pa
                                                     1976). 2010 Jun.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Kundnani
                                                     VK, Zhu L, Tak H, Wong H; Multimodal intraoperative neuromonitoring in
                                                     corrective Surgery for adolescent idiopathic scoliosis: Evaluation of
                                                     354 consecutive cases; Indian J Orthop. 2010 Jan.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hee
                                                     HT, Kundnani V; Rationale for use of polyetheretherketone polymer
                                                     interbody cage device in cervical Spine Surgery. Spine J. 2010 Jan.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Kundnani
                                                     V, Tak H.H: Efficacy of PEEK cages in cervical spine Surgery – a
                                                     retrospective survey of 239 cases and review of literature – The Spine
                                                     Journal; Feb 2010.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Kundnani
@@ -620,25 +620,25 @@ spine conditions.@endsection
                                                     Spine–is it the beginning of the end? A study of twenty-five culture is
                                                     proven multidrug-resistant tuberculosis Spine patients. Spine (Phila Pa
                                                     1976). 2009 Oct.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Sarkar
                                                     NK, Thapar U, Kundnani, Functional relevance of J-protein family.Cell
                                                     Stress Chaperones. 2011 May.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Getzler
                                                     YD, Kundnani V, Lobkovsky EB Catalytic carbonylation of beta-lactones to
                                                     succinic anhydrides. J Am Chem Soc. 2004 Jun.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pawar
                                                     U, Kundnani V, Nene A.M; MDR T.B. Spine –the demographic study of 25
                                                     patients of MDR T.B. Spine – Spine, October 2009.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Saini,
@@ -646,14 +646,14 @@ spine conditions.@endsection
                                                     treatment of Kienbock's disease: A 2- to 8-year follow-up, Indian
                                                     Journal of Orthopaedics (IJO) – April – June 2009 / Volume 43 / Issue 2.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Saini,
                                                     Vishal Kundnani, P.Patni, Early Active mobilization of extensor tendon
                                                     repair – Indian Journal of Orthopaedics, September 2008 / Volume 42 /
                                                     Issue 3.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">C.Meena,
@@ -683,20 +683,20 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}       "
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}       "
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hangmans
                                                     Fracture – Anterior Cervical Discectomy and fusion – report of 6 cases –
                                                     Journal of Orthopaedics, India.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Kundnani
                                                     Vishal, Uday Pawar, Abhay Nene; CT-GUIDED VERTEBROPLASTY – enhanced
                                                     precision at low costs – Annual hinduja hospital research yearly
                                                     review,volume 41, Mumbai, 2008.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Kundnani
@@ -704,43 +704,43 @@ spine conditions.@endsection
                                                     lesions – analysis of results in 268 cases – Annual hinduja hospital
                                                     research yearly review, volume 41, Mumbai, 2008.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Kundnani
                                                     Vishal, Mihir Bapat; Cervical Spondylotic myelopathy – Surgical Protocol
                                                     – Annual hinduja hospital research yearly review 2007.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}                   "
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}                   "
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Kundnani
                                                     Vishal; SY bhojraj; Evaluation of C1-C2 OA in head loaders – Association
                                                     of spine surgeons of India journal – 2007 Under Review-International
                                                     index journals.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Role
                                                     of stand alone transarticular screw with allograft in patients with
                                                     mobile AAD – Journal of Neurosurgery -Spine.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Navigation
                                                     Guided MIS TLIF – Spine J.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Learning
                                                     curve in MIS TLIF – single surgeon experience on 150 cases over 6 years
                                                     – Spine J.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Learning
                                                     curve in High thoracic Pedicle screw insertion – JSDT.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Tandem
@@ -765,29 +765,29 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Scientific
                                                     Review Committee – Indian Journal of Orthopaedics.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     Education & Fellowship committee- Association Spine surgeons of India.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Education
                                                     and scientific training committee – Sir JJ Hospital & GMC, University of
                                                     Mumbai.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Audit
                                                     committee – Bombay Hospital , Spine Unit.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Executive
@@ -812,23 +812,23 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Bombay
                                                     Operative Spine Course 2014 – 2019 -National Spine course – Largest
                                                     Spine course in country.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Minimal
                                                     Invasive Spine Surgery course 206 – 2017 – 2018.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Navigation
                                                     guided Spine Surgery course – 2017-2018.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Association
@@ -853,18 +853,18 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">On
                                                     Board Faculty for most national & International Spine Conferences.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">More
                                                     than 200 deliberations in International and National conferences as
                                                     faculty.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Presented
@@ -890,7 +890,7 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Have
@@ -917,35 +917,35 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Gold
                                                     Medalist in M.B.B.S, Barkatullah University & M.S. (Ortho) Rajasthan
                                                     Health University.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Accolades
                                                     for academic performance in Spine Surgery on national & International
                                                     Forum on multiple occasions during fellowship and training years.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Won
                                                     the best paper award in research on national fronts in Spine
                                                     Surgery-2008, 2010, 2013.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Young
                                                     surgeons achiever award -2017.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Best
                                                     doctor Mumbai 2018 award – ESA – consultants association.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">CNN
@@ -970,12 +970,12 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Active
                                                     member of IMA- Mumbai Cricket Team currently.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Won
@@ -1002,52 +1002,52 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">International
                                                     AO Spine – Life Member.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Pacific
                                                     Asia Minimally Invasive Spine Surgeons–P.A.A. M.I.S.S.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Asia
                                                     Pacific Orthopedic Association – Spine Chapter (APOA).</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spinal
                                                     Cord Society of India – S.C.S Life Member.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spine
                                                     Surgeons of India – A.S.S.I – Life Member.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Indian
                                                     Orthopedic Association – I.O.A – Life Member.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Indian
                                                     Arthroscopy Society – I.A.S Life Member.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Singapore
                                                     Medical Council – Singapore.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">National
                                                     Academy of Medical Sciences – USA – Life Member.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Bombay
@@ -1072,7 +1072,7 @@ spine conditions.@endsection
                                     <div class="panel-body">
                                         <div class="cliclskil1">
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Founder
@@ -1081,14 +1081,14 @@ spine conditions.@endsection
                                                     healthcare management for patients with spinal deformity. Involved
                                                     actively in education and upliftment of girl child in poor and needy of
                                                     society in the country for the last 7 years.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Founder
                                                     – Director of Mumbai Spine Society Social Wing – involved in the
                                                     training of undergraduate and postgraduate training programs for medical
                                                     students to raise awareness and understanding of spinal ailments.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}           "
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}           "
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Founder

@@ -64,12 +64,12 @@
                 <!-- Sidebar/Profile -->
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <div class="blog-profile">
-                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
+                        <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani" class="img-responsive mb-3">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho), FASSI, FNUS, FNAMS</span>
                         <p class="bold-text">India's most trusted spine surgeon, expert in adult scoliosis surgery.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Now"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Now"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive mt-2"></a>
                     </div>
                 </div>
 
@@ -78,7 +78,7 @@
                     <div class="blog-profile-details">
                         <div class="sec-blog-design pt-5">
                             <h1>Adult Scoliosis: Managing Pain and Improving Quality of Life</h1>
-                            <img class="blog-hero-img img-responsive mb-4" src="{{ asset('resources/assets/img/blog/scoliosis-in-adults-img.png') }}" alt="Adult Scoliosis">
+                            <img class="blog-hero-img img-responsive mb-4" src="{{ asset('resources/assets/img/blog/scoliosis-in-adults-img.webp') }}" alt="Adult Scoliosis">
                         </div>
 
                         <div class="sec-blog-design pt-5">
@@ -92,27 +92,27 @@
                             <p>Adults with scoliosis may experience a variety of symptoms, including:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Chronic <a href="{{ route('back-pain') }}">Back Pain</a>:</strong> One of the most common symptoms, often occurring due to nerve compression or muscle strain.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Nerve Compression:</strong> This can lead to pain, tingling, or numbness in the legs or lower back.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Reduced Mobility:</strong> Difficulty in bending or twisting, and stiffness in the spine.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Postural Changes:</strong> Uneven shoulders, waistline, or hips, leading to noticeable changes in posture.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Fatigue:</strong> The muscles supporting the spine may become fatigued over time, leading to discomfort.</p>
                             </div>
                             
@@ -131,22 +131,22 @@
                             <p>For many adults, non-surgical treatments can provide relief from symptoms and help improve quality of life. These treatments may include:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong><a href="{{ route('physiotherapy-in-spine') }}">Physiotherapy</a>:</strong> Physical therapy helps strengthen the muscles supporting the spine, improving posture, flexibility, and overall spine health.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Pain Management:</strong> Over-the-counter pain medications, prescription medications, and anti-inflammatory drugs can help manage back pain and discomfort.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Lifestyle Adjustments:</strong> Weight management, improved posture, ergonomic modifications at work, and low-impact exercises can all help manage symptoms of scoliosis.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Bracing:</strong> In some cases, especially if the curvature is worsening, a back brace may be recommended to support the spine and reduce pain.</p>
                             </div>
                             
@@ -159,17 +159,17 @@
                             Surgical options include:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong><a href="{{ route('spinal-fusion') }}">Spinal Fusion</a>:</strong> This procedure involves fusing the curved segments of the spine together to prevent further movement and correct the curve.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Corrective Surgery:</strong> The goal is to realign the spine and restore its natural curvature using advanced surgical techniques.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Robotic-Assisted Surgery:</strong> Robotic navigation technology enhances the precision of scoliosis surgery, allowing surgeons to achieve more accurate spinal alignment. The 3D imaging and custom 3D-printed implants allow for highly personalized treatment, improving outcomes and reducing the risk of complications.</p>
                             </div>
                         </div>
@@ -179,22 +179,22 @@
                             <p>Minimally invasive spinal surgery offers several advantages for adults with scoliosis:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Smaller Incisions:</strong> These smaller incisions result in less trauma to the body and fewer visible scars.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Faster Recovery:</strong> The recovery process is much quicker than with traditional open surgery, allowing patients to return to their daily activities sooner.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Reduced Pain:</strong> The technique causes less pain, making the post-surgical experience more comfortable for patients.</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Improved Precision:</strong> Robotic-assisted surgery ensures that the spine is corrected with greater accuracy, improving the long-term outcome of the surgery.</p>
                             </div>
                         </div>
@@ -204,22 +204,22 @@
                             <p>Adults from cities like Mumbai, Delhi, Pune, Nashik, Thane, Navi Mumbai, Raipur, Indore, Bhopal, Jaipur, and others can access world-class scoliosis treatment at renowned hospitals such as:</p>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Lilavati Hospital</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Bombay Hospital</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Breach Candy Hospital</p>
                             </div>
                             
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Saifee Hospital</p>
                             </div>
                             

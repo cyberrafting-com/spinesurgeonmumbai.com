@@ -90,12 +90,12 @@ surgery for adolescent, congenital & adult spinal deformities.@endsection
 
             <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                 <div class="blog-profile">
-                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                     <h3>Dr. Vishal Kundnani</h3>
                     <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                     <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="book btn"></a>
-                    <a href="{{ route('contact')}}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book btn" class="img-responsive"></a>
+                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="book btn"></a>
+                    <a href="{{ route('contact')}}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book btn" class="img-responsive"></a>
                 </div>
             </div>
 
@@ -113,7 +113,7 @@ surgery for adolescent, congenital & adult spinal deformities.@endsection
                             </p>
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
-                            <img src="{{ asset('resources/assets/img/blog/scoliosis-surgery-with-dr-vishal-kundnani.jpg') }}">
+                            <img src="{{ asset('resources/assets/img/blog/scoliosis-surgery-with-dr-vishal-kundnani.webp') }}">
                         </div>
                     </div>
                     <div class="sec-blog-design pt-5">
@@ -125,21 +125,21 @@ surgery for adolescent, congenital & adult spinal deformities.@endsection
                     </div>
 
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Director & Head of Spine Surgery</strong> at Lilavati and Bombay
                             Hospital, Mumbai</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Internationally trained scoliosis specialist</strong> with global
                             recognition</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Pioneer in robotic and navigation-based scoliosis surgery</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Expertise in treating AIS, congenital scoliosis, and adult spinal
                                 deformity</strong></p>
                     </div>
@@ -151,17 +151,17 @@ surgery for adolescent, congenital & adult spinal deformities.@endsection
                     </div>
 
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Navigation-Guided Scoliosis Surgery:</strong> Computer-assisted accuracy
                             during instrumentation for better alignment and fewer complications.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Robotic Spine Surgery:</strong> Precision-guided correction with minimal
                             invasiveness, especially effective for complex curvatures.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Minimally Invasive Techniques:</strong> Smaller incisions lead to faster
                             recovery and reduced blood loss for eligible cases.</p>
                     </div>
@@ -170,26 +170,26 @@ surgery for adolescent, congenital & adult spinal deformities.@endsection
                         <h3>Why Patients Prefer Dr. Vishal Kundnani</h3>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Recognized as the <strong>top scoliosis surgeon in Mumbai & India</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Consistently <strong>high success rates</strong> with excellent long-term
                             outcomes</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Personalized, evidence-based</strong> treatment plans for each patient
                         </p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p>Access to <strong>Lilavati and Bombay Hospital</strong>'s advanced infrastructure
                         </p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Compassionate care</strong> from initial consultation to post-operative
                             recovery</p>
                     </div>
@@ -198,23 +198,23 @@ surgery for adolescent, congenital & adult spinal deformities.@endsection
                         <h3>Scoliosis Conditions Treated</h3>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Adolescent Idiopathic Scoliosis (AIS)</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Congenital Scoliosis</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Adult Degenerative Scoliosis</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Neuromuscular Scoliosis</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Revision Scoliosis Surgeries</strong></p>
                     </div>
 

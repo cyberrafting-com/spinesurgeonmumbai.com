@@ -138,30 +138,30 @@ care centre, Led by Dr Vishal Kundnani.@endsection
                 </div>
 
                 <div class="drtoafndrbs dr_img col-lg-4 col-md-4 col-sm-5 col-xs-12">
-                    <img class="d_non" src="{{ asset('resources/assets/img/dr-vishal.jpg') }}" alt="pic"
+                    <img class="d_non" src="{{ asset('resources/assets/img/dr-vishal.webp') }}" alt="pic"
                         loading="lazy" />
-                    <img class="d_non1" src="{{ asset('resources/assets/img/dr-vishal3.jpg') }}" alt="pic"
+                    <img class="d_non1" src="{{ asset('resources/assets/img/dr-vishal3.webp') }}" alt="pic"
                         loading="lazy" />
                     <div class="cliclskil mt-3">
                         <h3>Profile of Dr. Vishal Kundnani</h3>
                         <ul>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">M.S
                                 (Ortho.), F.A.S.S.I, F.N.U.S, F.N.A.M.S.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Spine
                                 Surgeon, Bombay Hospital, Mumbai.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Hon.
                                 Asso Prof -Dept Of Orthopedics & Spine Surgery.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Grant
                                 Medical College & Sir JJ Hosp, University of Mumbai.</li>
-                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                     class="wow flipInX animated animated" data-wow-iteration="infinite" alt="pic"
                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">Specialist
                                 in Minimal Invasive & Microscopic Spine Surgery.</li>

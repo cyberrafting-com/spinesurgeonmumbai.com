@@ -115,12 +115,12 @@ Osteoporosis-related spine fracture treatment in India by Dr. Vishal Kundnani â€
 
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <div class="blog-profile">
-                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="Dr. Vishal Kundnani">
+                        <img id="blog-profile-img" src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="Dr. Vishal Kundnani">
                         <h3>Dr. Vishal Kundnani</h3>
                         <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                         <p class="bold-text">Director & Head of Spine Services at Lilavati & Bombay Hospitals.</p>
-                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="Call Dr. Vishal"></a>
-                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="Book Appointment" class="img-responsive"></a>
+                        <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="Call Dr. Vishal"></a>
+                        <a href="{{ route('contact') }}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="Book Appointment" class="img-responsive"></a>
                     </div>
                 </div>
 
@@ -130,7 +130,7 @@ Osteoporosis-related spine fracture treatment in India by Dr. Vishal Kundnani â€
                         <div class="row">
                             <div class="sec-blog-design pt-5">
                                 <h1>Osteoporosis & Spine Fractures â€“ Advanced Treatment Options in India</h1>
-                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/osteoporosis-spine-fractures2.png') }}" alt="Osteoporosis & Spine Fractures Treatment">
+                                <img class="blog-hero-img" src="{{ asset('resources/assets/img/blog/osteoporosis-spine-fractures2.webp') }}" alt="Osteoporosis & Spine Fractures Treatment">
                                 <p><a href="{{ route('osteoporosis') }}">Osteoporosis</a> is a condition that weakens bones, making them fragile and prone to fractures. The spine is one of the most commonly affected areas, and even minor falls or routine activities can cause compression fractures. Early diagnosis and proper management can prevent severe disability, deformity, and long-term mobility issues.</p>
                                 <p><a href="{{ route('about-doctor') }}">Dr. Vishal Kundnani</a>, a leading spine surgeon in India, specializes in treating osteoporotic spine fractures using non-surgical care, <a href="{{ route('minimally-invasive-spine-surgery-mumbai') }}">minimally invasive procedures</a>, vertebroplasty, kyphoplasty, and robotic-assisted stabilization techniques. Patients across India trust his expertise for safe, effective, and long-lasting treatment outcomes.</p>
                             </div>

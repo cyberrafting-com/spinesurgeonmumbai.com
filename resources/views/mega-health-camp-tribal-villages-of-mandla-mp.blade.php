@@ -84,7 +84,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-12 pt-5">
                     <div class="sec-blog-design pt-5">
-                        <img src="{{ asset('resources/assets/img/blog/15.jpg') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/blog/15.webp') }}" alt="">
                         <h3>Conducted a Mega Help Camp for the poor and needy of tribal villages of Madhya Pradesh by Smt.
                             Kaushilya Kundnani Swasthya Foundation (Social Wing of Spine Clinic) This was the 20th camp in
                             the last 10 years.</h3>
@@ -94,64 +94,64 @@
                     <div class="row">
                         <div class="col-lg-8 col-md-8 col-12 pt-5">
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Madhya Pradesh</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Rajasthan</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Chattisgarh</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Maharashtra</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p><strong>Hon'ble Rajya Sabha MP Mr. Tankha Ji</strong>applauded the efforts of the Mumbai
                                     team led by Dr. Vishal Kundnani and personally felicitated the members of Mumbai team
                                     declaring Dr. Vishal Kundnani and the team as <strong>"MP State Govt Official Guests
                                         privilege."</strong></p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>Dr. Vishal Kundnani and Spine team will perform advanced spine surgery of poor and
                                     tribals in Mumbai in the coming months to support the vision and mission of Raahat camp.
                                 </p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>20 Surgeons from Mumbai with a big delegation of Spine Team offered services in the
                                     largest health camp in tribal villages of Mandla, MP where 60,000 + pre-screened
                                     patients were served by 600 + doctors from country.</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>More than 1000 surgeries were done over 8 days by a team of doctors in 100 OT's ( quality
                                     control supervised by National Board) in the district center and around.</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>4000 plus patients were evaluated and consulted by Mumbai team including 1400 spine
                                     patients (Dr. Gautam Zaveri, Dr. Vishal Kundnani & Team of 6 spine specialists) and 32
                                     surgeries performed (14 paediatric surgery, 10 paediatric. orthos, 8 spines)</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>25 Patients for advanced spine surgeries (Scoliosis and Kyphosis, Listhesis), 10 Oncology
                                     and Cardiac cases listed for free surgery in Mumbai.</p>
                             </div>
                             <div class="cat-service-inner pt-5">
-                                <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                                <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                                 <p>25 Patients for advanced spine surgeries (Scoliosis and Kyphosis, Listhesis), 10 Oncology
                                     and Cardiac cases listed for free surgery in Mumbai.</p>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
-                            <img src="{{ asset('resources/assets/img/blog/mega-health-camp-tribal-villages-of-mandla-mp.jpeg') }}"
+                            <img src="{{ asset('resources/assets/img/blog/mega-health-camp-tribal-villages-of-mandla-mp.webp') }}"
                                 alt="">
                         </div>
                     </div>

@@ -91,12 +91,12 @@
         <div class="row">
             <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                 <div class="blog-profile">
-                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                     <h3>Dr. Vishal Kundnani</h3>
                     <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                     <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}" alt="book btn"></a>
-                    <a href="contact.php"><img src="{{ asset('resources/assets/img/book-btn.png') }}" alt="book btn" class="img-responsive"></a>
+                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}" alt="book btn"></a>
+                    <a href="contact.php"><img src="{{ asset('resources/assets/img/book-btn.webp') }}" alt="book btn" class="img-responsive"></a>
                 </div>
             </div>
             <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
@@ -108,7 +108,7 @@
                             <p>Laser Spine Surgery, also known as Minimally Invasive Spine Surgery, is a proven option for treating common spine problems like slip disc. It offers multiple advantages that contribute to better outcomes and quicker recovery.</p>
                         </div>
                         <div class="col-lg-4 col-md-4 col-12 pt-5 service_sec">
-                            <img src="{{ asset('resources/assets/img/blog/laser-spine-surgery-with-dr-vishal-kundnani.jpg') }}">
+                            <img src="{{ asset('resources/assets/img/blog/laser-spine-surgery-with-dr-vishal-kundnani.webp') }}">
                         </div>
                     </div>
 
@@ -116,19 +116,19 @@
                         <h3>Benefits of Laser Spine Surgery Include:</h3>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Small incisions</strong> and minimal tissue damage</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Less postoperative pain</strong> for faster healing</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Shorter hospital stay</strong> and quicker return to work</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Improved outcomes</strong> with reduced risk of complications</p>
                     </div>
 
@@ -142,19 +142,19 @@
                     </div>
 
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Top Laser Spine Surgeon</strong> with advanced training and expertise</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Director & Head of Spine Surgery</strong> at Lilavati and Bombay Hospital</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Internationally trained</strong> in minimally invasive & laser spine techniques</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Renowned for precision care</strong> in complex spinal disorders</p>
                     </div>
 
@@ -167,15 +167,15 @@
                         <h3>Ideal for:</h3>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Slip disc patients</strong> wanting to avoid open surgery</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Elderly patients</strong> suffering from spinal stenosis</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Individuals</strong> seeking faster recovery with minimal risk</p>
                     </div>
 
@@ -190,19 +190,19 @@
                     </div>
 
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Expert in robotic, laser, and endoscopic spine surgeries</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>State-of-the-art infrastructure and modern technology</strong></p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Personalized care</strong> with transparent, honest consultation</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>High patient satisfaction</strong> and excellent surgical outcomes</p>
                     </div>
 

@@ -64,13 +64,13 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
         <div class="row">
             <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                 <div class="blog-profile">
-                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.jpg') }}" alt="">
+                    <img src="{{ asset('resources/assets/img/dr-vishal-blog-profile.webp') }}" alt="">
                     <h3>Dr. Vishal Kundnani</h3>
                     <span>MS (Ortho) FASSI, FNUS, FNAMS.</span><br>
                     <p class="bold-text">A highly regarded spine surgeon serving Mumbai and nearby areas.</p>
-                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.png') }}"
+                    <a href="tel:+919619100123"><img src="{{ asset('resources/assets/img/call-us-blog-button.webp') }}"
                             alt="book btn"></a>
-                    <a href="{{ route('contact')}}"><img src="{{ asset('resources/assets/img/book-btn.png') }}"
+                    <a href="{{ route('contact')}}"><img src="{{ asset('resources/assets/img/book-btn.webp') }}"
                             alt="book btn" class="img-responsive"></a>
                 </div>
             </div>
@@ -83,7 +83,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                             top spine surgeons available in multiple cities, India offers reliable and economical care
                             for spine surgery.</p>
                         <img
-                            src="{{ asset('resources/assets/img/blog/affordable-spine-surgery-mumbai-international-patient.png') }}">
+                            src="{{ asset('resources/assets/img/blog/affordable-spine-surgery-mumbai-international-patient.webp') }}">
                     </div>
 
                     <div class="sec-blog-design pt-5">
@@ -126,22 +126,22 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                         <h3>Why International Patients Choose C.E.S.S:</h3>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Cost Savings:</strong> Spine surgeries in India are 50–70% more affordable than in
                             the US or Europe.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Expertise:</strong> Surgeries are performed by internationally trained surgeons like
                             Dr. Kundnani, a pioneer in Indian spine surgery.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Advanced Technology:</strong> Robotic spine surgery, real-time navigation,
                             neuromonitoring, and full-endoscopic tools ensure precision and safety.</p>
                     </div>
                     <div class="cat-service-inner pt-5">
-                        <img src="{{ asset('resources/assets/img/founder_li_icon.png') }}" alt="">
+                        <img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}" alt="">
                         <p><strong>Comprehensive Support:</strong> End-to-end assistance including medical visas, rehab,
                             and recovery planning is part of the standard offering.</p>
                     </div>

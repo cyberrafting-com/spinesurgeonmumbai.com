@@ -131,7 +131,7 @@
                                     <div class="cliclskil1">
                                         <p></p>
                                         <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">मणक्याची
@@ -142,7 +142,7 @@
                                                     टायरसारख्या बाह्य बँडपासून बनलेली असते ज्याला अनुलस फायब्रोसस म्हणतात
                                                     आणि जेलसारख्या द्रव आतील पदार्थापासून ज्याला न्यूक्लियस पल्पोसस म्हणतात.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                         alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -158,7 +158,7 @@
                                                     वेदना आणि चालण्यात अडचण येण्याची तक्रार करतात. या वेदनेला सायटिका देखील
                                                     म्हणतात</li>
                                         </ul>
-                                        <img class="serv_img" src="{{ asset('resources/assets/img/Capture.png') }}">
+                                        <img class="serv_img" src="{{ asset('resources/assets/img/Capture.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -199,7 +199,7 @@
                                 aria-labelledby="headingThree">
                                 <div class="panel-body">
                                     <ul>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -207,7 +207,7 @@
                                                 संकुचन कमी पाठदुखी आणि नितंब वेदना पायांमध्ये जाणारी पाय वेदना आणि
                                                 सुन्नता आणि चालण्यात अडचण येण्याचे कारण बनते. पायांमध्ये या वेदनेला सायटिका
                                                 देखील म्हणतात.</li>
-                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                            <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                     class="wow flipInX animated animated" data-wow-iteration="infinite"
                                                     alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -235,7 +235,7 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -247,7 +247,7 @@
                                                     स्पाइनल कॅनलमध्ये ज्यामुळे मज्जातंतूंचे संकुचन होते आणि पाय वेदना, नितंब
                                                     वेदना, पाठ वेदना
                                                     किंवा पायांमध्ये जाणारी वेदना ज्याला सायटिका म्हणतात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्लिप
@@ -265,18 +265,18 @@
                                                     डिस्कला वाढवते.</li>
                                         </ul>
                                             <img class="serv_img mt-3"
-                                                src="{{ asset('resources/assets/img/capture1.png') }}">
+                                                src="{{ asset('resources/assets/img/capture1.webp') }}">
                                             <p class="mt-3"><b>हर्निएटेड डिस्क तयार होण्याचे चार टप्पे आहेत
                                                     जे स्लिप डिस्कनंतर रुग्णातील लक्षणे ठरवू शकतात.</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     डिस्क
                                                     ऱ्हास: जेलसारख्या सामग्री न्यूक्लियस पल्पोसस डिस्कमधील रासायनिक बदलांसह
                                                     कमकुवत होते.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -284,14 +284,14 @@
                                                     प्रोलॅप्स किंवा बल्ज डिस्क किंवा डिस्क बल्ज: हलका बल्ज किंवा बाहेर पडणे
                                                     सुरू होते
                                                     जो मज्जातंतूंना गर्दी करू शकतो.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     एक्सट्रुजन:
                                                     जेलसारख्या न्यूक्लियस पल्पोसस अनुलसच्या टायरसारख्या भिंतीतून बाहेर पडते
                                                     पण डिस्कमध्येच राहते.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -301,7 +301,7 @@
                                                 </li>
                                         </ul>
                                             <img class="serv_img mt-3"
-                                                src="{{ asset('resources/assets/img/capture2.png') }}">
+                                                src="{{ asset('resources/assets/img/capture2.webp') }}">
                                     </div>
                                 </div>
                             </div>
@@ -322,7 +322,7 @@
                                     <div class="cliclskil1">
 
                                         <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हर्निएटेड
@@ -336,7 +336,7 @@
                                                     बल्जिंग डिस्क किंवा हर्निएटेड डिस्क एक्सट्रुडेड
                                                     किंवा फाटलेल्या डिस्कसारखीच लक्षणे निर्माण करू शकतो. सामान्यत: फक्त एक
                                                     पाय प्रभावित होतो.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">जर
@@ -344,7 +344,7 @@
                                                     आपल्या हातातून खाली आणि आपल्या हातात संदर्भित वेदना होऊ शकते. हर्निएटेड
                                                     डिस्कमुळे होणाऱ्या
                                                     पाय आणि हात वेदनेला रॅडिक्युलोपॅथी देखील म्हणतात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">जरी
@@ -380,7 +380,7 @@
                                     <div class="cliclskil1">
 
                                         <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आपला
@@ -403,7 +403,7 @@
                                                 तज्ज्ञ आहेत आणि गोरेगावमध्ये सर्वोत्तम किमान आक्रमक मणक्याचे सर्जन आहेत,
                                                 मालाड, आणि कांदिवली.</p>
                                             <img class="serv_img mt-3"
-                                                src="{{ asset('resources/assets/img/capture3.png') }}">
+                                                src="{{ asset('resources/assets/img/capture3.webp') }}">
 
                                     </div>
                                 </div>
@@ -429,7 +429,7 @@
                                                 कुंडनानी मुंबईतील सर्वोत्तम स्पाइन तज्ञांपैकी एक आहेत आणि अपॉइंटमेंटवर
                                                 सल्लासाठी उपलब्ध आहेत.</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -437,7 +437,7 @@
                                                     रुग्णांना स्लिप डिस्क/डिस्क हर्निएशन किंवा सायटिकासाठी शस्त्रक्रियेची
                                                     गरज नसते.
                                             </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -482,34 +482,34 @@
                                                 सर्जनाशी सल्लामसलत करून ठरविला जातो, स्लिप डिस्क उपचारासाठी उपलब्ध पर्याय
                                                 आहेत:-</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">औषधे
                                                     – NSAIDS/ स्नायू आराम देणारे / प्रेगाबालिन / TCA,S /नॉन ओपिओइड
                                                     वेदनाशामक.
                                             </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गरम
                                                     सेक.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">थंड
                                                     स्पंजिंग.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">फिजिकल
                                                     थेरपी.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS.
                                             </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                     style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">SWD.
@@ -544,7 +544,7 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -589,7 +589,7 @@
                                                 स्थिरता, कोअर सशक्तीकरण समाविष्ट आहे</p>
                                             <p><b>निष्क्रिय उपचार:</b>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">खोल
@@ -597,7 +597,7 @@
                                                     स्पॅसम्समुळे होणाऱ्या वेदना कमी करते, जे प्रभावित क्षेत्रात स्नायूंच्या
                                                     हालचालीला प्रतिबंध करण्यासाठी विकसित होतात
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">गरम
@@ -605,12 +605,12 @@
                                                     आणि आपला फिजिकल थेरपिस्ट सर्वोत्तम परिणाम मिळविण्यासाठी त्यांच्यामध्ये
                                                     बदल करू शकतो. यामुळे सूज, स्नायूंचे स्पॅसम्स आणि
                                                     वेदना कमी होतात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">हायड्रोथेरपी:
                                                     हळूवारपणे वेदना कमी करते आणि स्नायूंना आराम देते.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">TENS
@@ -625,7 +625,7 @@
                                                     आपल्या नैसर्गिक वेदनाशामक. आपला फिजिकल
                                                     थेरपिस्ट वापरत असलेले TENS उपकरण "घरी" वापराच्या मशीनपेक्षा मोठे असते.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">अल्ट्रासाऊंड:
@@ -634,7 +634,7 @@
                                                     स्नायूंच्या ऊतकांमध्ये खोलवर
                                                     ध्वनी लहरी पाठवून करते, ज्यामुळे हळूवार उष्णता निर्माण होते
                                                     जी रक्तसंचार आणि आरोग्य सुधारते.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">ट्रॅक्शन:
@@ -645,7 +645,7 @@
                                             <p><b>सक्रिय उपचार: पुनरावृत्ती होणाऱ्या वेदना कमी करण्यात मदत करतात परंतु
                                                     आपल्या एकूण आरोग्यालाही फायदा होतो</b></p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">कोअर
@@ -656,14 +656,14 @@
                                                     आपल्या पाठीच्या स्नायूंवर अतिरिक्त दबाव टाकतात. आपला फिजिकल थेरपिस्ट
                                                     आपल्या पाठीला मजबूत करण्यासाठी कोअर स्थिरीकरण व्यायाम शिकवू शकतो.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">लवचिकता:
                                                     योग्य स्ट्रेचिंग आणि लवचिकता तंत्रे शिकणे आपल्याला तयार करेल
                                                     एरोबिक आणि सशक्तीकरण व्यायामांसाठी. लवचिकता आपल्या शरीराला मदत करते
                                                     कडकपणा दूर करून सहज हलविण्यात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                         data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">स्नायू
@@ -711,22 +711,22 @@
                                                 मणक्याच्या शस्त्रक्रियेची
                                                 संकेतस्थाने आहेत –</p>
                                             <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">शस्त्रक्रियेतर
                                                     उपचारांना कोणताही प्रतिसाद / आंशिक प्रतिसाद नाही.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">प्रगतिशील
                                                     रॅडिक्युलोपॅथी – हात किंवा पायांमध्ये वेदना, सुन्नता आणि झिरझिरी.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आपल्या
                                                     हात किंवा पायांमध्ये शक्तीच्या संवेदनेचे नुकसान.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आतडे
@@ -753,7 +753,7 @@
                                     <div class="cliclskil1">
 
                                         <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -764,7 +764,7 @@
                                                     आणि हर्निएटेड डिस्कसाठी या शस्त्रक्रियेला डिस्केक्टॉमी म्हणतात. आणि यात
                                                     समाविष्ट आहे
                                                     नुकसान झालेल्या इंटरव्हर्टेब्रल डिस्कचा भाग काढणे.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -812,7 +812,7 @@
                                                 आपल्याला दिलेल्या शस्त्रक्रियासह सर्व उपायांचे फायदे आणि तोटे जाणून घ्या.
                                             </p>
                                         <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -820,20 +820,20 @@
                                                     नियोजित केल्यानंतर, आपल्या रुग्णालयातील राहण्याची योजना करा आणि
                                                     डिस्चार्ज
                                                     योजना डॉक्टरांशी चर्चा करा.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     निरोगी
                                                     रोगप्रतिकारक शक्तीसाठी चांगले पोषण राखा.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     संतुलित
                                                     आहार खा आणि आपल्या डॉक्टरांच्या सल्ल्यानुसार व्हिटॅमिन पूरक घ्या,
                                                     आपल्या शस्त्रक्रियेपूर्वीच्या आठवड्यांमध्ये.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -844,7 +844,7 @@
                                                     आणि
                                                     हृदयाची तपासणी डॉक्टरांकडून करवा, आपल्या सर्जनच्या सल्ल्यानुसार,
                                                     शस्त्रक्रिया फिटनेस मिळवण्यासाठी.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -852,7 +852,7 @@
                                                     वजन कमी करणे किंवा वजन राखणे हे आव्हानात्मक बनवू शकते. जर आपण
                                                     जास्त वजनाचे असाल, तर आपल्या शस्त्रक्रियेपूर्वी वजन कमी करणे चांगले आहे.
                                                 </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -883,7 +883,7 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -894,7 +894,7 @@
                                                     स्टेनोसिसमध्ये, किमान आक्रमक शस्त्रक्रिया आणि मायक्रोएंडोस्कोपिक
                                                     शस्त्रक्रियेचे परिणाम
                                                     शस्त्रक्रियेनंतर बेड रेस्टची गरज नसताना लवकर कामावर परतण्यात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">शस्त्रक्रियेनंतर
@@ -904,46 +904,46 @@
                                                     शस्त्रक्रियेसह रुग्ण 48 तासांत घरी जाऊ शकतो आणि 2
                                                     आठवड्यांत नोकरी सुरू करू शकतो तथापि संपर्क खेळ सामान्यत: 6-10 आठवडे
                                                     टाळले जातात.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">एखाद्याने
                                                     पाळावे :-</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">आपल्या
                                                     डॉक्टरच्या उपचार योजनेचे पालन करा.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">योग्य
                                                     प्रकारे बसा आणि उभे रहा आणि मुद्रा राखा.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">योग्य
                                                     प्रकारे उचलणे शिका</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">नियमित
                                                     व्यायाम करा (कमी प्रभावाचा एरोबिक व्यायाम विशेषत: चांगला आहे, परंतु
                                                     पहिले
                                                     आपल्या डॉक्टरांशी तपासा)</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">निरोगी
                                                     शरीराचे वजन मिळवा आणि राखा</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">निरोगी
                                                     अन्न खा (फळे आणि भाज्यांनी समृद्ध, चांगल्या प्रकारे संतुलित, कमी चरबीचे
                                                     आहार)
                                                     आणि पुरेसे कॅल्शियम मिळवा</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">धूम्रपान
@@ -973,20 +973,20 @@
                                 <div class="panel-body">
                                     <div class="cliclskil1">
                                         <ul>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     नियमित
                                                     स्पाइनल तपासणी करा, आणि जर आपण बरे होत नसाल तर ताबडतोब आपल्या स्पाइन
                                                     तज्ञांना सांगा.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
                                                     जीवनशैली
                                                     बदल हे आरोग्याचा सर्वोत्तम मार्ग आहे</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -994,7 +994,7 @@
                                                     बंद करा, निरोगी खा, वजन कमी करा, स्पाइन सर्जन /
                                                     स्पाइनल सर्जनच्या मार्गदर्शनासह फिजिओथेरपिस्टच्या देखरेखीत काही शारीरिक
                                                     क्रियाकलाप सुरू करा.</li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
@@ -1003,7 +1003,7 @@
                                                     जर
                                                     आपण स्पाइन सर्जन / स्पाइनल सर्जनच्या सर्व सूचनांचे पालन करत असाल.
                                             </li>
-                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.png') }}"
+                                                <li><img src="{{ asset('resources/assets/img/founder_li_icon.webp') }}"
                                                         class="wow flipInX animated animated"
                                                     data-wow-iteration="infinite" alt="pic"
                                                         style="visibility: visible; animation-iteration-count: infinite; animation-name: flipInX;">
