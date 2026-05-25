@@ -35,6 +35,17 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('simple-exercises-back-pain-relief') }}">
+                        <img src="{{ asset('resources/assets/img/blog/4-Simple-Exercises-for-Back-Pain-Relief-Spine-Clinic-Mumbai.png') }}" alt="4 Simple Exercises for Back Pain Relief | Spine Clinic Mumbai">
+                        <h1>
+                            4 Simple Exercises for Back Pain Relief | Spine Clinic Mumbai
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('blog.spine-doctor-south-mumbai-bombay-hospital') }}">
                         <img src="{{ asset('resources/assets/img/blog/top-spine-doctor-in-south-mumbai.webp') }}" alt="Top Spine doctor in South Mumbai | Best Spine doctor in Bombay Hospital / Back Pain, Sciatica, Cervical Spine & Advanced Spine Care at Bombay Hospital - Back pain is one of the most frequent medical concerns affecting individuals across age groups. While many episodes are temporary and improve with conservative care, some symptoms may indicate underlying spinal conditions involving discs, nerves, joints or structural abnormalities that benefit from specialist evaluation.">
                         <h1>

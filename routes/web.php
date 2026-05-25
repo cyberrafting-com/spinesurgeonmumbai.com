@@ -1067,5 +1067,9 @@ Route::get('/blog/spine-doctor-south-mumbai-bombay-hospital', function () {
     return view('blog.spine-doctor-south-mumbai-bombay-hospital');
 })->name('blog.spine-doctor-south-mumbai-bombay-hospital');
 
+Route::get('/blog/simple-exercises-back-pain-relief', function () {
+    return view('blog.4-Simple-Exercises-for-Back-Pain-Relief-Spine-Clinic-Mumbai');
+})->name('simple-exercises-back-pain-relief');
+
 
 
