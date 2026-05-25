@@ -3,7 +3,7 @@
 @section('meta_desc')Spine specialist at Bombay Hospital, South Mumbai for back pain, slipped disc, sciatica, cervical spine disorders, minimally invasive spine surgery and advanced spine care for patients across Marine Lines, Churchgate, Malabar Hill and surrounding areas@endsection
 
 @section('meta_keywords', 'Spine Specialist South Mumbai, Back Pain Specialist South Mumbai, Spine Surgeon South Mumbai, Spine Specialist Bombay Hospital, Slipped Disc Treatment South Mumbai, Sciatica Treatment South Mumbai, Spine Doctor South Mumbai, Bombay Hospital Spine Surgeon, Dr. Vishal Kundnani')
-@endsectionblog 
+@endsection
 @section('schema')
 <script type="application/ld+json">
 {
