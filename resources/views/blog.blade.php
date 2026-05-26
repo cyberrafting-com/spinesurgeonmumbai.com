@@ -35,6 +35,17 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ route('spine-faqs-by-dr-vishal-kundnani') }}">
+                        <img src="{{ asset('/resources/assets/img/blog/spine-faqs-by-dr-vishal-kundnani.png') }}" alt="Spine FAQs By Dr Vishal Kundnani">
+                        <h1>
+                            Spine FAQs By Dr Vishal Kundnani
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ route('simple-exercises-back-pain-relief') }}">
                         <img src="{{ asset('resources/assets/img/blog/4-Simple-Exercises-for-Back-Pain-Relief-Spine-Clinic-Mumbai.png') }}" alt="4 Simple Exercises for Back Pain Relief | Spine Clinic Mumbai">
                         <h1>
@@ -49,7 +60,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                     <a href="{{ route('blog.spine-doctor-south-mumbai-bombay-hospital') }}">
                         <img src="{{ asset('resources/assets/img/blog/top-spine-doctor-in-south-mumbai.webp') }}" alt="Top Spine doctor in South Mumbai | Best Spine doctor in Bombay Hospital / Back Pain, Sciatica, Cervical Spine & Advanced Spine Care at Bombay Hospital - Back pain is one of the most frequent medical concerns affecting individuals across age groups. While many episodes are temporary and improve with conservative care, some symptoms may indicate underlying spinal conditions involving discs, nerves, joints or structural abnormalities that benefit from specialist evaluation.">
                         <h1>
-                           Top Spine Specialist in South Mumbai | Back Pain & Advanced Care at Bombay Hospital
+                            Top Spine Specialist in South Mumbai | Back Pain & Advanced Care at Bombay Hospital
                         </h1>
                     </a>
                 </div>
@@ -60,11 +71,11 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                     <a href="{{ route('blog.spine-specialist-south-mumbai') }}">
                         <img src="{{ asset('resources/assets/img/blog/spine-specialist-in-south-mumbai.webp') }}" alt="Spine Specialist in South Mumbai | Advanced Evaluation and Management of Back Pain, Sciatica and Complex Spine Disorders at Bombay Hospital - Back and neck symptoms are among the most common health concerns encountered across age groups. While many episodes improve with rest and conservative care, persistent symptoms, progressive neurological complaints or recurring pain may indicate underlying spinal conditions that deserve closer evaluation.">
                         <h1>
-                       
+
 
                             Spine Specialist in South Mumbai | Expert Back Pain & Complex Spine Care at Bombay Hospital
                         </h1>
-                     
+
                     </a>
                 </div>
             </div>

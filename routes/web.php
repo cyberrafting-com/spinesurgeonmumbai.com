@@ -540,6 +540,11 @@ Route::get('/back-pain-specialist-mumbai', function () {
 // blogs
 
 
+Route::get('/blog/spine-faqs-by-dr-vishal-kundnani', function () {
+    return view('blog.spine-faqs-by-dr-vishal-kundnani');
+})->name('spine-faqs-by-dr-vishal-kundnani');
+
+
 Route::get('early-signs-of-scoliosis', function () {
     return view('blog.early-signs-of-scoliosis');
 })->name('early-signs-of-scoliosis');
@@ -1070,6 +1075,3 @@ Route::get('/blog/spine-doctor-south-mumbai-bombay-hospital', function () {
 Route::get('/blog/simple-exercises-back-pain-relief', function () {
     return view('blog.4-Simple-Exercises-for-Back-Pain-Relief-Spine-Clinic-Mumbai');
 })->name('simple-exercises-back-pain-relief');
-
-
-
