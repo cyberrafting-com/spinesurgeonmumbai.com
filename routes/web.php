@@ -544,6 +544,10 @@ Route::get('/blog/spine-faqs-by-dr-vishal-kundnani', function () {
     return view('blog.spine-faqs-by-dr-vishal-kundnani');
 })->name('spine-faqs-by-dr-vishal-kundnani');
 
+Route::get('/blog/can-neck-pain-cause-hand-numbness', function () {
+    return view('blog.can-neck-pain-cause-hand-numbness');
+});
+
 
 Route::get('early-signs-of-scoliosis', function () {
     return view('blog.early-signs-of-scoliosis');

@@ -32,6 +32,16 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
 <section class="gallery_inner blog">
     <div class="container">
         <div class="row justify-content-center">
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ url('/blog/can-neck-pain-cause-hand-numbness') }}">
+                        <img src="{{ asset('resources/assets/img/blog/can-neck-pain-cause-hand-numbness-blog-img.png') }}" alt="Can Neck Pain Cause Hand Numbness?">
+                        <h1>
+                            Can Neck Pain Cause Hand Numbness?
+                        </h1>
+                    </a>
+                </div>
+            </div>
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
@@ -43,6 +53,7 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                     </a>
                 </div>
             </div>
+
 
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
