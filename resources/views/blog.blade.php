@@ -34,6 +34,27 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
         <div class="row justify-content-center">
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
+                    <a href="{{ url('/blog/why-do-legs-feel-heavy-while-walking') }}">
+                        <img src="{{ asset('resources/assets/img/blog/why-do-legs-feel-heavy-while-walking.png') }}" alt="Why Do Legs Feel Heavy While Walking? Many people experience a strange sensation of heaviness, weakness, or fatigue in their legs while walking.">
+                        <h1>
+                            Why Do Legs Feel Heavy While Walking?
+                        </h1>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
+                    <a href="{{ url('/blog/best-spine-surgeon-bandra-mumbai-dr-vishal-kundnani') }}">
+                        <img src="{{ asset('/resources/assets/img/blog/spine-faqs-by-dr-vishal-kundnani.png') }}" alt="Best Spine Surgeon in Bandra Mumbai">
+                        <h1>
+                            Best Spine Surgeon in Bandra Mumbai | Advanced Spine Care by Dr. Vishal Kundnani at Lilavati Hospital
+                        </h1>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="gallery">
                     <a href="{{ url('/blog/can-neck-pain-cause-hand-numbness') }}">
                         <img src="{{ asset('resources/assets/img/blog/can-neck-pain-cause-hand-numbness-blog-img.png') }}" alt="Can Neck Pain Cause Hand Numbness?">
                         <h1>
@@ -43,10 +64,12 @@ Mumbai, Top Spine Doctor Bandra, Spine Specialist Bandra, Spine Treatment Mumbai
                 </div>
             </div>
 
+
+
             <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="gallery">
                     <a href="{{ route('spine-faqs-by-dr-vishal-kundnani') }}">
-                        <img src="{{ asset('/resources/assets/img/blog/spine-faqs-by-dr-vishal-kundnani.png') }}" alt="Spine FAQs By Dr Vishal Kundnani">
+                        <img src="{{ asset('/resources/assets/img/blog/spine-faqs-by-dr-vishal-kundnani-blog-img.png') }}" alt="Spine FAQs By Dr Vishal Kundnani">
                         <h1>
                             Spine FAQs By Dr Vishal Kundnani
                         </h1>

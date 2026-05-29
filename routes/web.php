@@ -544,8 +544,16 @@ Route::get('/blog/spine-faqs-by-dr-vishal-kundnani', function () {
     return view('blog.spine-faqs-by-dr-vishal-kundnani');
 })->name('spine-faqs-by-dr-vishal-kundnani');
 
+Route::get('/blog/best-spine-surgeon-bandra-mumbai-dr-vishal-kundnani', function () {
+    return view('blog.best-spine-surgeon-bandra-mumbai-dr-vishal-kundnani');
+});
+
 Route::get('/blog/can-neck-pain-cause-hand-numbness', function () {
     return view('blog.can-neck-pain-cause-hand-numbness');
+});
+
+Route::get('/blog/why-do-legs-feel-heavy-while-walking', function () {
+    return view('blog.why-do-legs-feel-heavy-while-walking');
 });
 
 
